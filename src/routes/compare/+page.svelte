@@ -31,11 +31,6 @@
        if (currentId !== appState.selectedId) {
           const newUrl = new URL($page.url);
           newUrl.searchParams.set('id', appState.selectedId);
-          // Untrack?? In Svelte 5 $effect tracks all dependencies.
-          // $page is a store (legacy). We access it via $page.
-          // If $page changes (e.g. we just updated the URL), this effect might re-run.
-          // goto calls allow us to replace state.
-          // We use untrack to avoid infinite loops if needed, but here simple check matches.
           goto(newUrl.toString(), { replaceState: true, keepFocus: true, noScroll: true });
        }
     }
@@ -51,7 +46,7 @@
     }
   }
 
-  // Cleanup selection if needed? No, user might want persistence.
+
 </script>
 
 <svelte:window onkeydown={handleKeydown} />
