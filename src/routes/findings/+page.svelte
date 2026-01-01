@@ -22,7 +22,7 @@
     // Parse "Code1 ↔ Code2" to "Code1_Code2"
     const parts = correspondenceStr.split(' ↔ ');
     if (parts.length === 2) {
-      return `/compare?id=${parts[0]}_${parts[1]}`;
+      return `/compare/${parts[0]}_${parts[1]}`;
     }
     return '/compare';
   }

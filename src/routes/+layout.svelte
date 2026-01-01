@@ -21,7 +21,7 @@
       <span class="nav-title">SCALE Align</span>
     </div>
     <div class="nav-links">
-      <a href="/compare" class="nav-link" class:active={$page.url.pathname === '/' || $page.url.pathname.startsWith('/compare')}>Compare</a>
+      <a href="/" class="nav-link" class:active={$page.url.pathname === '/' || $page.url.pathname.startsWith('/compare')}>Compare</a>
       <a href="/findings" class="nav-link" class:active={$page.url.pathname === '/findings'}>Findings</a>
     </div>
     <button class="theme-btn" onclick={() => theme = theme === 'light' ? 'dark' : 'light'}>

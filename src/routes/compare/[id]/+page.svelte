@@ -5,15 +5,14 @@
   
   import { page } from '$app/stores';
   import { goto } from '$app/navigation';
-  import { onMount, onDestroy } from 'svelte';
+  import { onMount } from 'svelte';
   
-  let sidebarComponent: Sidebar;
   let isInitialLoad = true;
   
-  // Handle deep linking via ?id= param on load
+  // Handle deep linking via dynamic route param on load
   onMount(() => {
-    // We only read from URL if we are mounting (initial load of this view)
-    const idParam = $page.url.searchParams.get('id');
+    // Read from URL param
+    const idParam = $page.params.id;
     if (idParam) {
       appState.selectedId = idParam;
     } else if (appState.filteredCorrespondences.length > 0 && !appState.selectedId) {
@@ -27,11 +26,9 @@
   $effect(() => {
     // Only update if it changed and we are not in initial load phase
     if (appState.selectedId && !isInitialLoad) {
-       const currentId = $page.url.searchParams.get('id');
+       const currentId = $page.params.id;
        if (currentId !== appState.selectedId) {
-          const newUrl = new URL($page.url);
-          newUrl.searchParams.set('id', appState.selectedId);
-          goto(newUrl.toString(), { replaceState: true, keepFocus: true, noScroll: true });
+          goto(`/compare/${appState.selectedId}`, { replaceState: true, keepFocus: true, noScroll: true });
        }
     }
   });
@@ -45,7 +42,6 @@
       // Sidebar auto-scrolls via its own effect
     }
   }
-
 
 </script>
 
