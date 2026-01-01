@@ -1,0 +1,8 @@
+G46.47 Wholesale of household, office and shop furniture, carpets and lighting equipment
+This class includes:
+- wholesale of furniture
+- wholesale of carpets
+- wholesale of lighting equipment
+- wholesale of mattresses and box springs
+This class also includes:
+- wholesale of furniture for warehouses, churches, medical facilities and hospitals, etc.

@@ -1,0 +1,19 @@
+J5920 Sound recording and music publishing activities
+This class includes:
+- production of original (sound) master recordings
+sound recording service activities, including the production of recorded ( i.e. non-live) radio programming, audio podcasts, audio for film, television, books, etc.
+- conversion of sound recordings to audio streaming formats
+- music publishing, i.e. activities of:
+- * acquiring and registering copyrights for musical compositions
+- * promoting, authorizing and using these compositions in recordings, radio, television, motion pictures, live performances, print and other media
+- * jointly publishing and distributing sound recordings via streaming and downloads
+Units engaged in these activities may own the copyright or act as administrator of the music copyrights on behalf of the copyright owners.
+Units that release, promote and distribute sound recordings to wholesalers, retailers or directly to the public may produce master recordings or obtain the reproduction and distribution rights to master recordings.
+This class includes also:
+- publishing of music and sheet music books
+This class excludes:
+- reproduction from master copies of music or other sound recordings, see 1820
+- wholesale of audio recordings on CD, DVD, or other physical media, see 4649
+- retail sale of audio recordings on CD, DVD, or other physical media, see 4769
+- third party on-demand audio streaming distribution services and downloads see 6010
+- activities of independent musicians, see 9020

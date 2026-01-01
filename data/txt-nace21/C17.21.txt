@@ -1,0 +1,12 @@
+C17.21 Manufacture of corrugated paper, paperboard and containers of paper and paperboard
+This class includes:
+- manufacture of corrugated paper and paperboard
+- manufacture of cartons, boxes and cases of corrugated paper or paperboard
+- manufacture of folding cartons, boxes and cases of non-corrugated paper or paperboard
+- manufacture of containers of solid paperboard
+- manufacture of other containers of paper and paperboard
+- manufacture of sacks and bags of paper
+- manufacture of office box files and similar articles
+This class excludes:
+- manufacture of envelopes, see 17.23
+- manufacture of moulded or pressed articles of paper pulp (e.g. boxes for packing eggs, moulded pulp paper plates), see 17.25

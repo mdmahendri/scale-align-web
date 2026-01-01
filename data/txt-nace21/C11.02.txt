@@ -1,0 +1,12 @@
+C11.02 Manufacture of wine from grape
+This class includes:
+- manufacture of wine of fresh grapes
+- manufacture of sparkling wine
+- manufacture of fortified wines
+- manufacture of wine from concentrated grape must
+This class also includes:
+- blending, purification and bottling of wine
+- manufacture of low or non-alcoholic wine
+This class excludes:
+- manufacture of wine from raisins, see 11.03
+- merely bottling and labelling, see 46.34 (if performed as part of wholesale) and 82.92 (if performed on a fee or contract basis)

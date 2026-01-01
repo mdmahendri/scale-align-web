@@ -1,0 +1,5 @@
+G46.90 Non-specialised wholesale trade
+This class includes:
+- wholesale of a variety of goods without any particular specialisation
+This class excludes:
+- activities of wholesalers who do not assume ownership of the goods they trade, see 46.1

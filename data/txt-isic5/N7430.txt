@@ -1,0 +1,7 @@
+N7430 Translation and interpretation activities
+This class includes:
+- translation and interpretation of all languages, including sign language, whether spoken or written
+This class excludes:
+- development of translation tools and training translation engines, see 621
+- publishing translation software, see 5829
+- language teaching activities, see 8559

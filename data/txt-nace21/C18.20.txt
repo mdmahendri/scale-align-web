@@ -1,0 +1,11 @@
+C18.20 Reproduction of recorded media
+This class includes:
+- reproduction from master copies of gramophone records, compact discs and tapes with music, or other sound recordings
+- reproduction from master copies of records, compact discs and tapes with motion pictures, and other video recordings
+- reproduction from master copies of software and data on discs and tapes
+This class excludes:
+- reproduction of printed matter, see 18.11, 18.12
+- software publishing, see 58.2
+- production and distribution of motion pictures, videotapes and movies on discs or similar media, see 59.11, 59.12, 59.13
+- reproduction of motion picture film for theatrical distribution, see 59.12
+- production of master copies for records or audio material, see 59.20

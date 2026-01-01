@@ -1,0 +1,26 @@
+O8210 Office administrative and support activities
+This class includes the provision of a combination of day-to-day office administrative services, such as reception, financial planning, billing and record keeping, personnel and mail services etc. for others on a contract or fee basis
+This class includes:
+- document preparation, e.g. editing, proofreading, typing, word processing etc., and pre-archiving
+- other secretarial support services
+- transcription of documents
+- letter or resume writing
+- provision of a mailbox rental and other postal and mailing services, e.g. pre-sorting, addressing
+- duplicating
+- blueprinting
+- operation of photocopying machines for photocopying as a self-service
+- digitalisation of files (without any further processing of data)
+- formatting of eBooks
+This class excludes:
+- printing of documents (offset printing, quick printing, digital printing, photocopying, etc.), see 1811
+- pre-press services, see 1812
+- storage of paper files, see 5210
+- courier services, see 5320
+- data processing and digitalisation of files associated with further processing of data, see 6310
+- storage of data files, see 6310
+- rental of non-equipped offices, co-working places and fully equipped offices see 6810
+- activities of shared service centres (SSC) with strategic and managerial activities / centralised activities, see 7010
+- developing and organising mail advertising campaigns, see 7310
+- renting of containers to be used as offices, see 7730
+- public stenography services and specialised stenotype services such as court reporting, see 8299
+- archiving of all kinds of documents (in paper or electronic forms), see 9112

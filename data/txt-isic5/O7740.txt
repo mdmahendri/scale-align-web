@@ -1,0 +1,22 @@
+O7740 Leasing of intellectual property and similar products, except copyrighted works
+This class includes the activities of allowing others to use intellectual property products and similar products for which a royalty payment or licensing fee is paid to the owner of the product (i.e. the asset holder).
+The leasing of these products can take various forms, such as permission for reproduction, use in subsequent processes or products, operating businesses under a franchise etc. The current owners may or may not have created these products.
+This class includes:
+- leasing of intellectual property products (except copyrighted works, such as books or software)
+- receiving royalties or licensing fees for the use of:
+patented entities
+trademarks or service marks
+brand names
+mineral exploration and evaluation
+franchise agreements
+internet domains
+rights of designed or developed board games
+This class also includes:
+- receiving royalties or licensing fees for scientific research results
+This class excludes:
+- acquisition of rights and publishing, see divisions 58 and 59
+- producing, reproducing and distributing copyrighted works (books, software, film), see divisions 58 and 59
+- streaming of content, such as software and books, by content publishers, see division 58
+- audio book streaming activities not associated with its publishing, see 6010
+- leasing of real estate, see 6810
+- leasing of tangible products (assets), see groups 771, 772, 773

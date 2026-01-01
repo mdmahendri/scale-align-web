@@ -1,0 +1,23 @@
+C20.13 Manufacture of other inorganic basic chemicals
+This class includes the manufacture of chemicals using basic processes.
+The output of these processes is usually separate chemical elements or separate chemically defined compounds.
+This class includes:
+- manufacture of chemical elements (except industrial gases and basic metals)
+- manufacture of inorganic acids, except nitric acid
+- manufacture of alkalis, lyes and other inorganic bases, except ammonia
+- manufacture of other inorganic compounds
+- roasting of iron pyrites
+- manufacture of distilled water
+This class also includes:
+- enrichment of uranium and thorium ores
+- manufacture of lithium hydroxide
+- manufacture of decolourising agents
+This class excludes:
+- manufacture of industrial gases, see 20.11
+- manufacture of nitrogenous fertilisers and nitrogen compounds, see 20.15
+- manufacture of ammonia, see 20.15
+- manufacture of ammonium chloride, see 20.15
+- manufacture of nitrites and nitrates of potassium, see 20.15
+- manufacture of ammonium carbonates, see 20.15
+- manufacture of aromatic distilled water, see 20.59
+- manufacture of basic metals, see division 24

@@ -1,0 +1,39 @@
+C2620 Manufacture of computers and peripheral equipment
+This class includes the manufacture and/or assembly of electronic computers, such as mainframes, desktop computers, laptops and computer servers; and computer peripheral equipment, such as storage devices and input/output devices (printers, monitors, keyboards).
+Computers can be analog, digital, or hybrid.
+Digital computers, the most common type, are devices that do all of the following: (1) store the processing program or programs and the data immediately necessary for the execution of the program, (2) can be freely programmed in accordance with the requirements of the user, (3) perform arithmetical computations specified by the user and (4) execute, without human intervention, a processing program that requires the computer to modify its execution by logical decision during the processing run.
+Analog computers are capable of simulating mathematical models and comprise at least analog control and programming elements.
+This class includes:
+- manufacture of desktop computers
+- manufacture of laptop computers
+- manufacture of main frame computers
+- manufacture of hand-held computers
+- manufacture of magnetic disk drives, flash drives and other storage devices
+- manufacture of optical disc drives for computers
+- manufacture of printers
+- manufacture of monitors
+- manufacture of keyboards
+- manufacture of all types of mice, joysticks, and trackball accessories
+- manufacture of dedicated computer terminals
+- manufacture of computer servers
+- manufacture of scanners, including bar code scanners
+- manufacture of smart card readers
+- manufacture of virtual reality helmets
+- manufacture of computer projectors (video beamers)
+This class also includes:
+- manufacture of computer terminals, like automatic teller machines (ATM's) and point-of-sale (POS) terminals, not mechanically operated
+- manufacture of multi-function office equipment performing two or more of following functions e.g.
+printing, scanning, copying, faxing
+This class excludes:
+- reproduction of recorded media (computer media, sound, video, etc.), see 1820
+- manufacture of electronic components and electronic assemblies used in computers and peripherals,
+see 2619
+- manufacture of interface cards, modules and assemblies, see 2619
+- manufacture of printed circuit boards loaded with passive elements, see 2619
+- manufacture of modems, carrier equipment, see 264
+- manufacture of digital communication switches, data communications equipment (e.g. bridges,
+routers, gateways), see 2630
+- manufacture of consumer electronic devices, such as CD players and DVD players, see 2640
+- manufacture of television monitors and displays, see 2640
+- manufacture of video game consoles, see 2640
+- manufacture of blank optical and magnetic media for use with computers or other devices, see 268

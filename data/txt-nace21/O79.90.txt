@@ -1,0 +1,13 @@
+O79.90 Other reservation service and related activities
+This class includes:
+- visitor assistance services:
+provision of travel information to visitors
+activities of independent tourist guides
+- activities of tourism promotion
+This class excludes:
+- fee-based reservation activities for passenger transport, see 52.32
+- timeshare exchange services, see 55.40
+- activities of travel agencies, see 79.11
+- activities of tour operators, see 79.12
+- organisation and management of events (e.g. meetings, conventions and conferences, including transport, accommodation, ticketing if managed by the organiser itself), see 82.30
+- intermediation service activities for theatrical, sports, amusement and entertainment tickets, see 82.40

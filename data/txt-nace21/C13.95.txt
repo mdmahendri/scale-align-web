@@ -1,0 +1,16 @@
+C13.95 Manufacture of non-wovens and non-woven articles
+This class includes the manufacture of non-wovens, whether or not impregnated, coated, covered or laminated with plastics or rubber.
+It also includes the manufacture of non-wovens in which plastics or rubber forms the bonding substance.
+This class also includes:
+- manufacture of non-woven sheets used for production of wound care dressings
+- manufacture of non-woven fabric used for production of baby wipes
+This class excludes:
+- manufacture of made-up articles from non-wovens, e.g.:
+bed linen, table linen, toilet linen and kitchen linen, of non-wovens, see 13.92
+curtains of non-wovens, see 13.92
+floorcloths, dishcloths, dusters and similar cleaning cloths, of non-wovens, see 13.92
+garments made up of non-wovens, see 14.29
+manufacture of napkins and napkin liners for babies, period panties, see 17.22
+manufacture of textile wallpaper, see 17.24
+single-use drapes used during surgical procedures made up of non-wovens, see 32.50
+manufacture of individual protective masks (e.g. FFP2, FFP3, surgical masks), see 32.50

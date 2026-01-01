@@ -1,0 +1,4 @@
+U9820 Undifferentiated service-producing activities of private households for own use
+This class includes the undifferentiated subsistence services-producing activities of households.
+These activities include cooking, teaching, caring for household members and other services produced by the household for its own subsistence.
+If households are also engaged in the production of multiple goods for subsistence purposes, they are classified to the undifferentiated goods-producing subsistence activities of households.

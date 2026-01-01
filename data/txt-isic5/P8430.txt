@@ -1,0 +1,12 @@
+P8430 Compulsory social security activities
+This class includes:
+- funding and administration of government-provided social security programmes, e.g.:
+sickness, work-accident and unemployment insurance
+retirement pensions
+covering losses of income due to maternity, temporary disablement, widowhood, loss of partner etc.
+This class excludes:
+- complementary or supplementary health insurance, see 6512
+- provision of retirement income benefits exclusively for the sponsor's employees or members, see 6530
+- administration of health-care and social services, see 8412
+- provision of care assistance services, see division 87
+- provision of welfare services and social work (without accommodation), see 8810, 8890

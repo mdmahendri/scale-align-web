@@ -1,0 +1,9 @@
+O7820 Temporary employment agency activities and other human resource provisions
+This class includes the activities of supplying workers to clients' businesses for specific periods of time to temporarily replace or supplement the working force of the client.
+In that employment arrangement, the temporary employment agency or human resource providers are the employers of the individual workers provided.
+However, the clients are responsible for the supervision of temporary personnel.
+The activities are providing human resources for client businesses.
+The units classified here represent the employer of record for the employees on matters relating to payroll, taxes, and other fiscal and human resource issues, but they are not responsible for direction and supervision of employees.
+The units classified here perform a wide range of human resource and personnel management duties associated with this provision.
+This class excludes:
+- activities of invoicing service, see 6920

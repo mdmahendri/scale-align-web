@@ -1,0 +1,18 @@
+F43.22 Plumbing, heat and air-conditioning installation
+This class includes the installation, repair and maintenance of plumbing, heating and air-conditioning systems, including additions and alterations.
+This class includes:
+- installation, maintenance and repair of:
+heating systems (e.g. heat pumps, solar thermal collectors)
+furnaces, cooling towers
+plumbing and sanitary equipment
+ventilation and air-conditioning equipment and ducts
+gas fittings
+steam piping
+sprinkler systems (e.g. fire and lawn sprinkler systems)
+- construction or installation of masonry heater stoves
+- ductwork installation
+This class also includes:
+- installation of medical gas distribution systems in hospitals
+This class excludes:
+- installation of electric baseboard heating, see 43.21
+- camera inspections in air ducts, water and gas pipes, and other liquids without repair or installation, see 71.20

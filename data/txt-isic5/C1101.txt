@@ -1,0 +1,11 @@
+C1101 Distilling, rectifying and blending of spirits
+This class includes:
+- manufacture of distilled, potable, alcoholic beverages: whisky, brandy, gin, liqueurs etc.
+- manufacture of drinks mixed with distilled alcoholic beverages
+- blending of distilled spirits
+- production of neutral spirits.
+This class excludes:
+- manufacture of non-distilled alcoholic beverages, see 1102-1103
+- manufacture of synthetic ethyl alcohol, see 2011
+- manufacture of ethyl alcohol from fermented materials, see 2011
+- merely bottling and labelling, see 4630 (if performed as part of wholesale) and 8292 (if performed on a fee or contract basis)

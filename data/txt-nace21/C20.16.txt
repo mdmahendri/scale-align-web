@@ -1,0 +1,18 @@
+C20.16 Manufacture of plastics in primary forms
+This class includes the manufacture of resins, plastic materials and non-vulcanisable thermoplastic elastomers, the mixing and blending of resins on a custom basis, as well as the manufacture of non-customised synthetic resins.
+This class includes:
+- manufacture of plastics in primary forms:
+polymers, including those of ethylene, propylene, styrene, vinyl chloride, vinyl acetate and acrylics
+polyamides
+phenolic and epoxide resins and polyurethanes
+alkyd and polyester resins and polyethers
+ion exchangers based on polymers
+- manufacture of silicones in primary forms
+- plastic compounding activities
+This class also includes:
+- manufacture of cellulose and its chemical derivatives
+- manufacture of plastic powders, granules or flakes by compounding or transforming plastic resins from recovered plastic waste
+- manufacture of recycled plastic in flakes or plastic granulates based on pretreated plastic waste following material recovery operations
+This class excludes:
+- manufacture of artificial and synthetic fibres, filaments and yarn, see 20.60
+- processing, shredding, cleaning, grinding of plastic waste, see 38.21

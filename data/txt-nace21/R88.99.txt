@@ -1,0 +1,18 @@
+R88.99 Other social work activities without accommodation n.e.c.
+This class includes:
+- social, counselling, welfare, refugee, referral and similar services which are delivered to individuals and families in their homes or elsewhere and carried out by government offices or by private organisations, disaster relief organisations, national or local self-help organisations and by specialists providing counselling services:
+child and youth support activities
+adoption service activities, activities for the prevention of cruelty to children and others
+household budget counselling, marriage and family guidance, credit and debt counselling services
+community and neighbourhood activities
+activities for disaster victims, refugees, immigrants, etc.
+vocational rehabilitation and habilitation activities for unemployed persons provided that the education component is limited
+eligibility determination in connection with welfare benefits, rent supplements or food stamps
+day facilities for homeless persons and other socially vulnerable groups
+fundraising or other support activities aimed at social work
+cultural and intercultural mediation activities aimed at: preventing the distress of adults experiencing difficulties in social and labour market integration; removing the social marginalisation of children and adolescents; rehabilitating adults and minors in prison, on probation and out of prison; and reintegrating adults into active life
+refugee resettlement activities
+This class excludes:
+- legal mediation activities, see 69.10
+- funding and administration of compulsory social security programmes, see 84.30
+- activities similar to those described in this class, but including accommodation, see 87.99

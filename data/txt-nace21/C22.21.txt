@@ -1,0 +1,14 @@
+C22.21 Manufacture of plastic plates, sheets, tubes and profiles
+This class includes:
+- manufacture of semi-manufactures of plastic products:
+plates, sheets, blocks, film, foil, strip, etc.
+- manufacture of finished plastic products:
+tubes, pipes and hoses; hose and pipe fittings
+cellophane film or sheet
+- manufacture of flexible or rigid plates and sheets of cellular polyurethane
+- manufacture of plastic plates, sheets, film, foil and strip, reinforced, laminated, supported or similarly combined with other materials
+- manufacture of self-adhesive plates, sheets, film, foil, tapes and strip of plastic
+This class excludes:
+- manufacture of plastics in primary forms, see 20.16
+- manufacture of articles of synthetic or natural rubber, see 22.1
+- embedding of metal pipes with polyurethane foam and encasing with a plastic pipe (e.g. for steam and hot water supply services), see 22.25

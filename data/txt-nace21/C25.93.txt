@@ -1,0 +1,16 @@
+C25.93 Manufacture of wire products, chain and springs
+This class includes:
+- manufacture of metal cable, plaited bands and similar articles
+- manufacture of uninsulated metal cable or insulated cable not capable of being used as a conductor of electricity
+- manufacture of coated or cored wire
+- manufacture of articles made of wire (e.g. barbed wire, wire fencing, grill, netting, cloth)
+- coated electrodes for electric arc welding
+- manufacture of nails and pins
+- manufacture of springs (except watch springs), e.g.:
+leaf springs, helical springs, torsion bar springs
+leaves for springs
+- manufacture of chain, except power transmission chain
+This class excludes:
+- manufacture of clock or watch springs, see 26.52
+- manufacture of wire and cable for electricity transmission, see 27.32
+- manufacture of power transmission chain, see 28.15

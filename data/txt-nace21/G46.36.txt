@@ -1,0 +1,6 @@
+G46.36 Wholesale of sugar, chocolate and sugar confectionery
+This class includes:
+- wholesale of sugar, including sugar cubes, molasses, sugar confectionery and chocolate
+- wholesale of bakery products
+This class excludes:
+- wholesale of ice cream, see 46.33

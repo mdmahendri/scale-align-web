@@ -1,0 +1,28 @@
+S9312 Activities of sports clubs
+This class includes the activities of sports clubs, which, whether professional, semi-professional or amateur clubs, give their members the opportunity to engage in sporting activities.
+Sports clubs are typically non-profit entities, but inclusion in the sports sector is legitimised by the prevailing purpose of the activity carried out (promotion of sports practice).
+The activities of education, training, sale of advertising space, provision of clubhouse services, are, in this context, ancillary activities, which may have a prevailing weight at an economic level, but which are instrumental with respect to the prevailing purpose of the activity carried out and for its perpetuation.
+This class includes:
+- operation of sports clubs, e.g.:
+football clubs
+bowling clubs
+swimming clubs
+golf clubs
+boxing clubs
+winter sports clubs
+chess clubs
+track and field clubs
+shooting clubs, etc.
+e-sports clubs
+card games clubs, e.g. bridge clubs
+This class also includes:
+- provision of clubhouse services by sports clubs
+- sports training by sports clubs
+-
+- organisation and operation of outdoor or indoor sports events for professionals or amateurs by sports clubs
+This class excludes:
+- sports instruction by individual teachers, trainers, see 8551
+- operation of sports facilities, see 9311
+- activities of individual own-account sportsmen and athletes, referees, judges, timekeepers etc., see 9319
+- activities of individual own-account participants of e-sports, see 9319
+- activities of sports federations, see 9499

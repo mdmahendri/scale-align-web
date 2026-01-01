@@ -1,0 +1,16 @@
+G4781 Retail sale of motor vehicles
+This class includes:
+- retail sale of new and used motor vehicles including electrical vehicles:
+passenger motor vehicles
+camping vehicles such as caravans and motor homes
+This class also includes:
+- retail sale of off-road motor vehicles
+- retail sale of trailers for motor vehicles
+This class excludes:
+- retail sale of bicycles and e-bikes etc., see 4762
+- retail sale of parts and accessories for motor vehicles, see 4782
+- retail sale of motorcycles, motorcycle parts and accessories, see 4783
+- activities of agents in retail sale of motor vehicles, see 479
+- on-demand passenger transport service activities by vehicle with driver, see 4922
+- rental and leasing of motor vehicles without driver, see 771
+- maintenance and repair of motor vehicles and motorcycles, see group 953

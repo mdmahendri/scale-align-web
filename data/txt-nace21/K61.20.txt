@@ -1,0 +1,11 @@
+K61.20 Telecommunication reselling activities and intermediation service activities for telecommunication
+This class includes:
+- reselling of wired, wireless and satellite telecommunication (i.e. purchasing and reselling network capacity), including activities of telecommunication brokers and resellers of prepaid calling cards and services
+- intermediation services for wired, wireless and satellite telecommunication activities, including:
+agent activities for telecommunication carriers
+selling mobile telephone service plans on an agent basis
+wireless telephone service plan sales agent activities, selling on behalf of wireless telecommunication carriers
+agent activities for mobile virtual network operators (MVNOs)
+provision of telephone and internet access in facilities open to the public
+This class excludes:
+- provision of telecommunication services by operators of telecommunication infrastructure, see 61.10

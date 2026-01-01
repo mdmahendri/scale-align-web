@@ -1,0 +1,19 @@
+C2012 Manufacture of fertilizers and nitrogen compounds
+This class includes:
+- manufacture of fertilisers:
+straight or complex nitrogenous, phosphatic or potassic fertilisers
+urea, crude natural phosphates and crude natural potassium salts
+- manufacture of associated nitrogen products:
+nitric and sulphonitric acids, ammonia, ammonium chloride, ammonium carbonate, nitrites and
+nitrates of potassium
+This class also includes:
+- manufacture of potting soil with peat as main constituent
+- manufacture of potting soil mixtures of natural soil, sand, clays and minerals
+- manufacture of plant bio-stimulants
+- manufacture of growth promoters
+- manufacture of soil improvers
+- manufacture of other fertilisers by the mixing or chemical treatment of animal or vegetable products
+This class excludes:
+- mining of guano, see 0891
+- manufacture of agrochemical products, such as pesticides, see 2021
+- manufacture of liming agents, see 2029

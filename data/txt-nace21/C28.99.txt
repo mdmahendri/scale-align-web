@@ -1,0 +1,27 @@
+C28.99 Manufacture of other special-purpose machinery n.e.c.
+This class includes:
+- manufacture of dryers for wood, paper pulp, paper or paperboard and other materials (except for agricultural products and textiles)
+- manufacture of printing and bookbinding machines, and machines for activities supporting printing on a variety of materials
+- manufacture of machinery for producing tiles, bricks, shaped ceramic pastes, pipes, graphite electrodes, blackboard chalk, etc.
+- manufacture of semiconductor manufacturing machinery
+- manufacture of machines for forming foundry moulds
+- manufacture of industrial robots performing multiple tasks for special purposes
+- manufacture of diverse special-purpose machinery and equipment, e.g.:
+machines to assemble electric or electronic lamps, tubes (valves) or bulbs
+machines for the production or hot working of glass or glassware, glass fibres or yarn
+machinery or apparatus for isotopic separation
+- manufacture of tyre alignment and balancing equipment; balancing equipment (except wheel balancing)
+- manufacture of central greasing systems
+- manufacture of aircraft launching gear, aircraft carrier catapults and related equipment
+- manufacture of automatic bowling alley equipment (e.g. pin-setter)
+- manufacture of roundabouts, swings, shooting galleries and other fairground amusements
+- manufacture of waste compressing machines
+- manufacture of plastering machines
+- manufacture of turnstiles
+- manufacture of furling systems, used for winding or releasing the running rigging
+This class excludes:
+- manufacture of household appliances, see 27.5
+- manufacture of photocopy machines, etc., see 28.23
+- manufacture of machinery or equipment to work hard rubber, hard plastics or cold glass, see 28.42
+- manufacture of ingot moulds, see 28.91
+- manufacture of machines for additive manufacturing, see 28.97

@@ -1,0 +1,24 @@
+F43.21 Electrical installation
+This class includes the installation, repair and maintenance of electrical systems in all types of buildings and civil engineering structures.
+This class includes:
+- installation of:
+electrical wiring and fittings
+telecommunication wiring
+computer network and cable television wiring, including fibre-optic
+satellite dishes
+lighting systems
+fire alarms
+burglar-alarm systems
+street lighting and electrical signals
+airport runway lighting
+photovoltaic systems on buildings
+power storage systems
+- installation of chargers for electric vehicles
+This class also includes:
+- connecting of electric appliances and household equipment, including baseboard heating
+This class excludes:
+- construction of distribution lines for electricity and telecommunication, see 42.22
+- construction of solar and wind energy farms, see 42.22
+- construction of stations for distribution of electricity (e.g. for electric vehicles), see 42.22
+- installation of lightning conductors, see 43.24
+- monitoring and remote monitoring of electronic security systems (e.g. burglar alarms and fire alarms, including their installation and maintenance), see 80.09

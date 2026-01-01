@@ -1,0 +1,13 @@
+C33.15 Repair and maintenance of civilian ships and boats
+This class includes the repair and maintenance of civilian ships and boats.
+This class includes:
+- repair and routine maintenance of civilian ships
+- repair and maintenance of pleasure boats
+- repair and maintenance of civilian ship and boat engines, including electric outboard motors
+- repair and maintenance of floating structures
+This class excludes:
+- factory overhaul of engines for civilian and sport/recreational ships and boats, see 28.11
+- factory overhaul and rebuilding of civilian ships and boats, see 30.11
+- factory overhaul and rebuilding of sport/recreational ships and boats, see 30.12
+- repair and maintenance of military ships and boats, see 33.18
+- repair and maintenance of military ship and boat engines, see 33.18

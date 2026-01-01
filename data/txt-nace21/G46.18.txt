@@ -1,0 +1,13 @@
+G46.18 Activities of agents involved in the wholesale of other particular products
+This class includes:
+- activities of agents involved in the wholesale of pharmaceutical and medical goods, perfumery and toilet articles, and cleaning materials
+- activities of agents involved in the wholesale of games and toys, sports goods, bicycles, books, newspapers, magazines and stationery, musical instruments, watches, clocks and jewellery, and photographic and optical equipment
+- activities of agents involved in the wholesale of cars and light motor vehicles, lorries, trailers and semi-trailers, camping vehicles (e.g. caravans and motorhomes), motorcycles (including mopeds), motorised personal transport devices, and rolling stock; these motor vehicles include electric vehicles
+- activities of agents involved in the wholesale of motor vehicle parts and accessories, and parts and accessories for motorcycles, motorised personal transport devices, and rolling stock
+- activities of agents involved in the wholesale of waste
+- activities of wholesale auctioneering houses of third-party goods of motor vehicles, including internet wholesale auctions of motor vehicles
+This class excludes:
+- wholesale on own account, see 46.2 to 46.9
+- activities of commission agents who assume ownership of the goods, even if they are acting in the name of a third party, see 46.2 to 46.9
+- activities of insurance agents, see 66.22
+- activities of real estate agents, see 68.31

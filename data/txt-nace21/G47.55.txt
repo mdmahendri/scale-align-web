@@ -1,0 +1,22 @@
+G47.55 Retail sale of furniture, lighting equipment, tableware and other household goods
+This class includes:
+- retail sale of furniture, including mattresses and box springs
+- retail sale of articles for lighting
+- retail sale of household utensils, cutlery, crockery, glassware, tableware, china and pottery
+- retail sale of wooden, cork and wickerwork goods
+- retail sale of non-electrical household appliances
+- retail sale of solar-powered household appliances
+- retail sale of parasols
+- retail sale of household articles and equipment n.e.c.
+This class also includes:
+- retail sale of baby equipment (e.g. baby carriages, pushchairs, baby walkers, baby carriers, baby car seats)
+- retail sale of sails, except of boat sails
+This class excludes:
+- installation of electrical systems (e.g. security alarm systems and fire alarms), see 43.21
+- retail sale of electrical or electronic fire alarms, security systems, safes, see 47.52
+- retail sale of photovoltaic panels without installation, see 47.52
+- retail sale of cork floor tiles, see 47.53
+- retail sale of curtains and net curtains, see 47.53
+- retail sale of musical instruments and scores, see 47.69
+- retail sale of antiques, see 47.79
+- retail sale of second-hand furniture, see 47.79

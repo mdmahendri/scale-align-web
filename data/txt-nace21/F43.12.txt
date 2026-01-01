@@ -1,0 +1,17 @@
+F43.12 Site preparation
+This class includes:
+- clearing of building sites
+- earth moving (e.g. excavation, landfill, levelling, trench digging, blasting)
+This class also includes:
+- site preparation for mining, e.g.:
+overburden removal and other development and preparation of mineral properties and sites, except oil and gas sites
+- building site drainage
+- drainage of agricultural or forestry land
+- site preparation for archaeological excavation
+This class excludes:
+- drilling of production oil or gas wells, see 06.10, 06.20
+- test drilling, associated with extraction of petroleum or gas, see 09.10
+- test drilling and boring support services (e.g. associated with mining activities), see 09.90
+- decontamination of soil, see 39.00
+- water well drilling, see 42.21
+- shaft sinking, see 43.50

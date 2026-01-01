@@ -1,0 +1,12 @@
+C3102 Manufacture of other furniture
+This class includes the manufacture of furniture of any kind, of any material (except, wood, bamboo, stone, concrete or ceramic) for any place and for various purposes.
+It includes manufacture of mattresses and of mattress supports.
+This class excludes:
+manufacture of pillows, pouffes, cushions, quilts and eiderdowns, see 1392
+manufacture of inflatable rubber mattresses, see 2219
+- manufacture of wooden furniture, see 3101
+manufacture of furniture of ceramics, concrete and stone, see 2393, 2395, 2396
+manufacture of lighting fittings or lamps, see 2740
+manufacture of blackboards, see 2817
+manufacture of car seats, railway seats, aircraft seats, see 2930, 3020, 3030
+modular furniture attachment and installation, partition installation, laboratory equipment furniture installation, see 4330

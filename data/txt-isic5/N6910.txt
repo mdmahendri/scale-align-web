@@ -1,0 +1,18 @@
+N6910 Legal activities
+This class includes:
+- legal representation of one party's interest against another party, whether or not before courts or other judicial bodies by, or under supervision of, persons who are members of the bar:
+advice and representation in civil cases
+advice and representation in criminal cases
+advice and representation in connection with labour disputes
+- general counselling and advising, preparation of legal documents:
+articles of incorporation, partnership agreements or similar documents in connection with company
+formation
+patents and copyrights
+preparation of deeds, wills, trusts etc.
+- other activities of notaries public, civil law notaries, bailiffs, arbitrators, examiners and referees
+This class includes also:
+-legal mediation activities
+- activities of appointed legal guardians, without provision of residential care
+This class excludes:
+- law court activities, see 8423
+- social mediation, see 8890

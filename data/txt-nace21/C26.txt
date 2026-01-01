@@ -1,0 +1,5 @@
+C26 Manufacture of computer, electronic and optical products
+This division includes the manufacture of computers, computer peripherals, communication equipment, and similar electronic products, as well as the manufacture of components for such products.
+Production processes of this division are characterised by the design and use of integrated circuits and the application of highly specialised miniaturisation technologies.
+The division also contains the manufacture of consumer electronics, measuring, testing and navigating equipment, irradiation, electromedical and electrotherapeutic equipment, optical instruments and equipment, and the manufacture of magnetic and optical media.
+This division excludes the manufacture of conductors for electronic use and of optical fibre cables, see division 27.

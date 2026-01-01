@@ -1,0 +1,27 @@
+C1030 Processing and preserving of fruit and vegetables
+This class includes:
+- manufacture of food consisting chiefly of fruit or vegetables, except ready-made dishes in frozen or canned form
+- preserving of fruit, nuts or vegetables: freezing, drying, immersing in oil or in vinegar, canning, etc.
+- manufacture of fruit or vegetable food products
+- manufacture of fruit or vegetable juices
+- manufacture of jams, marmalades and table jellies
+- processing and preserving of potatoes:
+* manufacture of prepared frozen potatoes
+* manufacture of dehydrated mashed potatoes
+* manufacture of potato snacks
+* manufacture of potato crisps
+* manufacture of potato flour and meal
+- roasting of nuts
+- manufacture of nut foods and pastes
+This class also includes:
+- production of concentrates from fresh fruits and vegetables
+- manufacture of perishable prepared foods of fruit and vegetables, such as:
+* salads
+* peeled or cut vegetables, including potatoes
+* tofu (bean curd)
+This class excludes:
+- manufacture of flour or meal of dried leguminous vegetables, see 1061
+- preservation of fruit and nuts in sugar, see 1073
+- manufacture of prepared vegetable dishes, see 1075
+- manufacture of artificial concentrates, see 1079
+- manufacture of fruit drinks, see 1105

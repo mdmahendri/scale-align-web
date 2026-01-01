@@ -1,0 +1,13 @@
+A0330 Support activities for fishing and aquaculture
+This class includes:
+- service activities incidental to marine or freshwater fishery or aquaculture.
+This class includes also:
+- activities of preserving of fish from fishing or aquaculture, before sale
+- protection from predators
+- fisheries control (fish guard).
+This class excludes:
+- processing of fish and aquaculture products on factory ships or in factories ashore, see 1020
+- processing of fish, crustaceans and molluscs, see 1020
+- distribution of fisheries and aquaculture products, see 46, 47 or 52
+- fishing practiced for sport or recreation and related services, see 9319
+- operation of sport fishing preserves, see 9319

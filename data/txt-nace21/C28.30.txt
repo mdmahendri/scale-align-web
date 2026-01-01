@@ -1,0 +1,26 @@
+C28.30 Manufacture of agricultural and forestry machinery
+This class includes:
+- manufacture of agricultural and forestry tractors
+- manufacture of track-laying tractors
+- manufacture of single-axle (pedestrian-controlled) tractors
+- manufacture of mowers, including lawnmowers
+- manufacture of self-loading or self-unloading trailers or semi-trailers for agricultural purposes
+- manufacture of agricultural machinery for soil preparation or cultivation, e.g.:
+ploughs, harrows, manure spreaders, seeders, fertiliser distributors, etc.
+- manufacture of harvesting or threshing machinery, e.g.:
+harvesters, threshers, sorters, etc.
+- manufacture of milking machines
+- manufacture of agricultural or horticultural spraying appliances
+- manufacture of diverse agricultural machinery, e.g.:
+poultry-keeping machinery, bee-keeping equipment, equipment for preparing fodder, etc.
+machines for cleaning, sorting or grading eggs, fruits, etc.
+- manufacture of machinery for vertical farming
+This class excludes:
+- manufacture of non-power-driven hand tools, of a kind used in agriculture, horticulture or forestry, see 25.63
+- manufacture of conveyors for farm use, see 28.22
+- manufacture of power-driven hand tools, see 28.24
+- manufacture of earth-moving machinery, see 28.92
+- manufacture of cream separators, see 28.93
+- manufacture of machinery to clean, sort or grade seed, grain or dried leguminous vegetables, see 28.93
+- manufacture of road tractors for semi-trailers, see 29.10
+- manufacture of trailers or semi-trailers for other than agricultural purposes, see 29.20

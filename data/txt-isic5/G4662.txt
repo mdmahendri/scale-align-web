@@ -1,0 +1,7 @@
+G4662 Wholesale of motor vehicle parts and accessories
+This class includes:
+- wholesale of new and used motor vehicle parts, equipment and related accessories like tyres etc.
+- wholesale of batteries and accumulators for motor vehicles
+This class excludes:
+- activities of agents involved in the wholesale of cars and light motor vehicles parts and accessories, see 4610
+- wholesale of boats, planes, trains including parts and accessories, see 4659

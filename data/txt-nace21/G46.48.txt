@@ -1,0 +1,7 @@
+G46.48 Wholesale of watches and jewellery
+This class also includes:
+- wholesale of processed precious, natural, synthetic or reconstructed stones
+This class excludes:
+- wholesale of imitation jewellery, see 46.49
+- wholesale of raw precious stones, see 46.86
+- wholesale of unworked synthetic or reconstructed precious or semi-precious stones, see 46.86

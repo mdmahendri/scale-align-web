@@ -1,0 +1,20 @@
+C2930 Manufacture of parts and accessories for motor vehicles
+This class includes:
+- manufacture of diverse parts and accessories for motor vehicles:
+* brakes, gearboxes, axles, road wheels, suspension shock absorbers, radiators, silencers, exhaust pipes, catalytic converters, clutches, steering wheels, steering columns and steering boxes
+- manufacture of parts and accessories of bodies for motor vehicles:
+* safety belts, airbags, doors, bumpers
+- manufacture of car seats
+- manufacture of motor vehicle electrical equipment, such as generators, alternators, spark plugs, ignition wiring harnesses, power window and door systems, assembly of purchased gauges into instrument panels, voltage regulators, lamps, etc.
+This class also includes:
+- manufacture of chassis (without engine) for motor vehicles
+- manufacture of inverter modules and fuel cells for motor vehicles
+This class excludes:
+- manufacture of tyres, see 2211
+- manufacture of rubber hoses and belts and other rubber products, see 2219
+- manufacture of plastic hoses and belts and other plastic products, see 2220
+- manufacture of batteries for vehicles, see 2720
+- manufacture of lighting equipment for motor vehicles, see 2740
+- manufacture of pistons, piston rings and carburetors, see 2811
+- manufacture of pumps for motor vehicles and engines, see 2813
+- maintenance, repair and alteration of motor vehicles, see 9531

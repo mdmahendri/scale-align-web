@@ -1,0 +1,10 @@
+H51 Air transport
+This division includes the transport of passengers or freight by air or via space.
+This division excludes:
+- crop spraying, see 01.61
+- repair and maintenance of civilian aircraft or aircraft engines, see 33.16
+- operation of airports, see 52.23
+- aerial advertising (skywriting), see 73.11
+- aerial photography, see 74.20
+- civil aerial surveillance, see 80.09
+- military aerial surveillance, see 84.22

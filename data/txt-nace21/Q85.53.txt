@@ -1,0 +1,5 @@
+Q85.53 Driving school activities
+This class also includes:
+- education activities of flying, sailing and shipping schools not issuing commercial certificates and permits
+This class excludes:
+- education activities of driving or flying schools for occupational drivers and for professional pilots, see 85.32

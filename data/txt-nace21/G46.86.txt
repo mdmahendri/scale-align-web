@@ -1,0 +1,14 @@
+G46.86 Wholesale of other intermediate products
+This class includes:
+- wholesale of plastic materials in primary forms
+- wholesale of rubber
+- wholesale of textile fibres
+- wholesale of packaging articles
+- wholesale of raw precious stones
+- wholesale of unworked synthetic or reconstructed precious or semi-precious stones
+- wholesale of non-metallic ores
+- wholesale of paper in bulk and of paper pulp
+This class excludes:
+- wholesale of agricultural raw products, see 46.21
+- wholesale of processed precious stones, see 46.48
+- wholesale of stationery, see 46.49

@@ -1,0 +1,10 @@
+S93.13 Activities of fitness centres
+This class includes:
+- activities of fitness clubs
+- activities of yoga studios
+- activities of Pilates studios
+- activities of tai chi studios
+This class also includes:
+- instruction provided by fitness clubs, yoga studios and similar facilities
+This class excludes:
+- sports instruction by individual teachers/trainers, see 85.51

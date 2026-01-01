@@ -1,0 +1,14 @@
+M68.12 Development of building projects
+This class includes:
+- development of building projects for self-owned residential and non-residential buildings or civil engineering works by bringing together financial, technical and physical means to realise the building projects for later sale
+- subdividing and improving of self-owned land for later sale
+This class also includes:
+- redevelopment of building projects for self-owned residential and non-residential buildings or civil engineering works to realise the building projects for later sale
+This class excludes:
+- construction of residential and non-residential buildings, see division 41
+- complete remodelling or renovating of existing residential or non-residential buildings involving several specialised construction activities, see division 41
+- painting and glazing activities as part of maintenance, see 43.34
+- construction activities related to land improvement, see section F
+- development of building projects for own operation, i.e. for renting out the space in these buildings, see 68.20
+- architectural and engineering activities, see 71.1
+- provision of architectural or engineering project management services for construction projects, see 71.1

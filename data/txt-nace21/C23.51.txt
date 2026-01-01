@@ -1,0 +1,8 @@
+C23.51 Manufacture of cement
+This class includes:
+- manufacture of clinker and hydraulic cements, including Portland cement, aluminous cement, slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinker
+This class excludes:
+- manufacture of refractory mortars, concrete, etc., see 23.20
+- manufacture of ready-mixed and dry-mix concrete and mortars, see 23.63, 23.64
+- manufacture of articles of cement, see 23.65, 23.66
+- manufacture of cements used in dentistry, see 32.50

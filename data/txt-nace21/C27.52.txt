@@ -1,0 +1,6 @@
+C27.52 Manufacture of non-electric domestic appliances
+This class includes:
+- manufacture of domestic non-electric cooking and heating equipment:
+non-electric space heaters, cooking ranges, grates, stoves, water heaters, cooking appliances, plate warmers, barbecues
+This class excludes:
+- manufacture of central heating boilers and solar water heaters, see 28.21

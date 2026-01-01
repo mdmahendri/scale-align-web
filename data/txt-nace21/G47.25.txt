@@ -1,0 +1,7 @@
+G47.25 Retail sale of beverages
+This class includes:
+- retail sale of alcoholic and non-alcoholic beverages, not for consumption or manufactured on the premises
+This class also includes:
+- retail sale of fruit and vegetable juices
+This class excludes:
+- sale of beverages for consumption on the premises, see 56.30

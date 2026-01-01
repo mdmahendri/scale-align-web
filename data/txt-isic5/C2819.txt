@@ -1,0 +1,37 @@
+C2819 Manufacture of other general-purpose machinery
+This class includes:
+manufacture of industrial refrigerating or freezing equipment, including assemblies of major components
+manufacture of air-conditioning machines, including for motor vehicles
+manufacture of non-domestic fans
+manufacture of weighing machinery (other than sensitive laboratory balances):
+household and shop scales, platform scales, scales for continuous weighing, weighbridges, weights etc.
+manufacture of filtering or purifying machinery and apparatus for liquids
+manufacture of equipment for projecting, dispersing or spraying liquids or powders:
+spray guns, fire extinguishers, sandblasting machines, steam cleaning machines etc.
+manufacture of packing and wrapping machinery:
+filling, closing, sealing, capsuling or labeling machines etc.
+manufacture of machinery for cleaning or drying bottles and for aerating beverages
+manufacture of distilling or rectifying plant for petroleum refineries, chemical industries, beverage industries etc.
+manufacture of heat exchangers
+manufacture of machinery for liquefying air or gas
+manufacture of gas generators
+manufacture of calendering or other rolling machines and cylinders thereof (except for metal and glass)
+manufacture of centrifuges (except cream separators and clothes dryers)
+manufacture of gaskets and similar joints made of a combination of materials or layers of the same material
+manufacture of automatic goods vending machines
+manufacture of parts for general-purpose machinery
+manufacture of attic ventilation fans (gable fans, roof ventilators, etc.)
+manufacture of levels, tape measures and similar hand tools, machinists precision tools (except optical)
+manufacture of non-electrical welding and soldering equipment
+This class excludes:
+manufacture of sensitive (laboratory-type) balances, see 2651
+manufacture of domestic refrigerating or freezing equipment, see 2750
+manufacture of domestic fans, see 2750
+manufacture of electrical welding and soldering equipment, see 2790
+manufacture of agricultural spraying machinery, see 2821
+manufacture of metal or glass rolling machinery and cylinders thereof, see 2823, 2829
+manufacture of agricultural dryers, see 2825
+manufacture of machinery for filtering or purifying food, see 2825
+manufacture of cream separators, see 2825
+manufacture of commercial clothes dryers, see 2826
+manufacture of textile printing machinery, see 2826

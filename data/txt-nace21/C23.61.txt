@@ -1,0 +1,13 @@
+C23.61 Manufacture of concrete products for construction purposes
+This class includes:
+- manufacture of precast concrete, cement or artificial stone articles for use in construction:
+tiles, flagstones, building blocks, bricks, boards, sheets, panels, pipes, posts, etc.
+- manufacture of prefabricated structures and structural components for building or civil engineering, traffic control and obstruction, of cement, concrete or artificial stone
+- manufacture of prefabricated factory-made elements of brick for construction of prefabricated structures to be used in landscaping and retaining wall, wastewater and stormwater management, and underground utilities
+- manufacture of factory-made elements with concrete
+- manufacture of prefabricated concrete pipes for drinking water
+This class also includes:
+- manufacture of calcium silicate masonry units
+- manufacture of autoclaved aerated concrete masonry units
+This class excludes:
+- manufacture of other articles of concrete, cement and plaster not for use in construction, see 23.66

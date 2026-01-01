@@ -1,0 +1,15 @@
+C3319 Repair and maintenance of other equipment
+This class includes the repair and maintenance of equipment not covered in other groups of this division.
+This class includes:
+- repair of fishing nets, including mending
+- repair or ropes, riggings, canvas and tarpaulins
+- repair of fertiliser and chemical storage bags
+- repair or reconditioning of wooden pallets, shipping drums or barrels, and similar items
+- repair of gaming and gambling machines
+- restoring of organs and other historical musical instruments
+- repair of hospital beds
+Includes also: -
+This class excludes:
+- repair of household and office type furniture, furniture restoration, see 9524
+- repair of bicycles, see 9529
+- repair and alteration of clothing, see 9529

@@ -1,0 +1,27 @@
+C2670 Manufacture of optical instruments and photographic equipment
+This class includes the manufacture of optical instruments and lenses, such as binoculars, microscopes (except electron, proton), telescopes, prisms and lenses (except ophthalmic); the coating or polishing of lenses (except ophthalmic); the mounting of lenses (except ophthalmic) and the manufacture of photographic equipment such as cameras and light meters and the manufacture of.
+This class includes:
+- manufacture of optical mirrors
+- manufacture of optical gun sighting equipment
+- manufacture of optical positioning equipment
+- manufacture of optical magnifying instruments
+- manufacture of optical machinist's precision tools
+- manufacture of optical comparators
+- manufacture of film cameras and digital cameras
+- manufacture of motion picture and slide projectors
+- manufacture of overhead transparency projectors
+- manufacture of optical measuring and checking devices and instruments (e.g. fire control equipment, photographic light meters, range finders)
+- manufacture of lenses, optical microscopes, binoculars and telescopes
+- manufacture of objective lenses for cameras, projectors or photographic enlargers or reducers
+- manufacture of laser assemblies
+-manufacture of unrecorded magnetic audio and video tapes
+- manufacture of unrecorded optical disks
+This class excludes
+- reproduction of recorded media (computer media, sound, video, etc.), see 1820
+- manufacture of computer and TV projectors, see 263
+- manufacture of commercial TV and video cameras, see 264
+- manufacture of household-type video cameras, see 265
+- manufacture of fire alarms, see 2652
+- manufacture of complete equipment using laser components, see manufacturing class by type of machinery (e.g. medical laser equipment, see 267)
+- manufacture of photocopy machinery, see 2817
+- manufacture of ophthalmic goods, see 3250

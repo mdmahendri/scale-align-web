@@ -1,0 +1,10 @@
+C3212 Manufacture of imitation jewellery and related articles
+This class includes:
+- manufacture of costume or imitation jewellery, not incorporating natural or cultured pearls, precious or semi-precious stones or (except as plating or as minor constituents) precious metal or metal clad with precious metal, e.g.:
+rings, bracelets, necklaces, brooches, earrings and similar small objects articles of of personal adornment made from base metals plated with precious metals
+imitation jewellery containing imitation stones such as imitation gems stones, imitation diamonds, and similar
+- manufacture of metal watch bands (except precious metal)
+This class excludes:
+- manufacture of jewellery made from precious metals or clad with precious metals, see 3211
+- manufacture of jewellery containing genuine gem stones, see 3211
+- manufacture of precious metal watch bands, see 3211

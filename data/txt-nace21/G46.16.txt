@@ -1,0 +1,4 @@
+G46.16 Activities of agents involved in the wholesale of textiles, clothing, fur, footwear and leather goods
+This class excludes:
+- wholesale on own account, see 46.2 to 46.9
+- activities of commission agents who assume ownership of the goods, even if they are acting in the name of a third party, see 46.2 to 46.9

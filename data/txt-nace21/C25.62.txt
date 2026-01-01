@@ -1,0 +1,5 @@
+C25.62 Manufacture of locks and hinges
+This class includes:
+- manufacture of hardware, such as padlocks, locks, keys, hinges (e.g. base metal mountings, fittings and similar articles for buildings, furniture, vehicles)
+This class excludes:
+- lock repair and provision of key duplication services, see 95.29

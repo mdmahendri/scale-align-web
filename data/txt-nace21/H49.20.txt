@@ -1,0 +1,11 @@
+H49.20 Freight rail transport
+This class includes:
+- freight transport on mainline rail networks as well as short line freight railways
+This class also includes:
+- freight transport by funicular railway
+- traction services
+This class excludes:
+- warehousing and storage, see 52.10
+- freight terminal activities, see 52.21
+- operation of railway infrastructure and related activities (e.g. switching and shunting), see 52.21
+- cargo handling on behalf of others, see 52.24

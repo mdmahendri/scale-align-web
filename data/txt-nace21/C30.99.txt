@@ -1,0 +1,7 @@
+C30.99 Manufacture of other transport equipment n.e.c.
+This class includes:
+- manufacture of hand-propelled vehicles (e.g. luggage carts, handcarts, sledges, shopping carts)
+- manufacture of vehicles drawn by animals (e.g. sulkies, donkey-carts, hearses)
+This class excludes:
+- manufacture of works trucks, whether or not fitted with lifting or handling equipment, whether or not self-propelled, of the type used in factories (including hand carts and wheelbarrows), see 28.22
+- manufacture of decorative restaurant carts (e.g. dessert carts, food wagons), see 31.00

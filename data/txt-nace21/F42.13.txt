@@ -1,0 +1,9 @@
+F42.13 Construction of bridges and tunnels
+This class includes:
+- construction of bridges (e.g. for elevated motorways and railways)
+- construction of tunnels, including those for motorways and railways
+This class excludes:
+- construction of railways, see 42.12
+- installation of lighting and electrical signals, see 43.21
+- project management for construction, see 71.1
+- engineering activities, see 71.12

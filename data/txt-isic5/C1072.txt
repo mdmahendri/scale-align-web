@@ -1,0 +1,10 @@
+C1072 Manufacture of sugar
+This class includes:
+- manufacture or refining of sugar (sucrose) and sugar substitutes from the juice of cane, beet, maple and palm
+- manufacture of sugar syrups
+- manufacture of molasses
+- production of maple syrup and sugar.
+This class excludes:
+- manufacture of lactose and lactose syrup, see 1050
+- manufacture of glucose, glucose syrup, maltose, see 1062
+- gathering of maple syrup in the wild, see 0230

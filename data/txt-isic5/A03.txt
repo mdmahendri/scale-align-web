@@ -1,0 +1,8 @@
+A03 Fishing and aquaculture
+This division includes capture fishery and aquaculture.
+Gathering marine, brackish or freshwater fish, crustaceans, molluscs and other aquatic organisms and products (e.g. aquatic plants, pearls, sponges).
+This division also includes service activities incidental to marine or freshwater fishery or aquaculture.
+This division excludes:
+- building and repairing of ships and boats, see 3011, 3315
+- processing of fish, crustaceans or molluscs, whether at land-based plants or on factory ships, see 1020.
+- sport or recreational fishing activities, see 9319

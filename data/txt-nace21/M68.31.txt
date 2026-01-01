@@ -1,0 +1,12 @@
+M68.31 Intermediation service activities for real estate activities
+This class includes the intermediation of buying, selling and rental of real estate by bringing clients and sellers or service providers together for a fee or commission.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (including face-to-face, door-to-door, telephone, mail, and so on).
+The fee or commission can be received from either the client or the seller of the real estate or the provider of the real estate service.
+Revenue for the intermediation activities can include other sources of income (for example, revenues from selling advertising space to third parties).
+This class includes the provision of real estate activities by real estate agencies or independent real estate agents:
+- intermediation in buying, selling and rental of real estate on a fee or contract basis
+This class also includes:
+- real estate listing services
+This class excludes:
+- activities of real estate escrow agents, see 68.32
+- legal activities, see 69.10

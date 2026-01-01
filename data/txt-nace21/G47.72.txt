@@ -1,0 +1,9 @@
+G47.72 Retail sale of footwear and leather goods
+This class includes:
+- retail sale of footwear
+- retail sale of leather goods
+- retail sale of travel accessories of leather and leather substitutes
+This class excludes:
+- retail sale of special footwear for sports (e.g. football shoes, ice skates, ski boots), see 47.63
+- retail sale of leather clothing, see 47.71
+- retail sale of orthopaedic footwear, see 47.74

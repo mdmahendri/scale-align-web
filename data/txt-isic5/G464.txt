@@ -1,0 +1,5 @@
+G464 Wholesale of household goods
+This group includes the wholesale of household goods, including textiles and furniture
+This group excludes:
+- activities of wholesalers who do not assume ownership of the goods they trade, see 4610
+- wholesale of garden and landscaping equipment, e.g. lawn mowers 4653

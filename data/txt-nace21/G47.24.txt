@@ -1,0 +1,6 @@
+G47.24 Retail sale of bread, cake and confectionery
+This class also includes:
+- retail sale of bread and rolls baked on the premises from pre-baked products
+- retail sale by automatic machines of ready-to-eat bread prepared by the machine itself
+This class excludes:
+- manufacture of bread, fresh pastry goods and cakes, see 10.71

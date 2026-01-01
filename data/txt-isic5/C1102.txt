@@ -1,0 +1,13 @@
+C1102 Manufacture of wines
+This class includes:
+- manufacture of wine
+- manufacture of sparkling wine
+- manufacture of wine from concentrated grape must
+- manufacture of fermented but not distilled alcoholic beverages: sake, cider, perry, mead, other fruit wines and mixed beverages containing alcohol
+- manufacture of vermouth and the like
+This class also includes:
+blending of wine
+manufacture of low or non-alcoholic wine
+This class excludes:
+manufacture of vinegar, see 1079
+merely bottling and labeling, see 4630 (if performed as part of wholesale) and 8292 (if performed on a fee or contract basis)

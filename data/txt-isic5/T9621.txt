@@ -1,0 +1,7 @@
+T9621 Hairdressing and barber activities
+This class includes:
+- hair washing, trimming and cutting, setting, dyeing, tinting, waving, straightening and similar activities
+- hairstyling
+- shaving and beard trimming
+This class excludes:
+- manufacture of wigs, see 3290

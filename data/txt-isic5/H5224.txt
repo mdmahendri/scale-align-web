@@ -1,0 +1,11 @@
+H5224 Cargo handling
+This class includes:
+- loading and unloading of goods and luggage irrespective of the mode of transportation used
+- stevedoring
+- loading and unloading of freight railway cars
+This class includes also
+- provision of lifting and handling equipment with operator, such as derricks and cranes, for cargo handling
+- moving cargos on industrial sites, typically with transport equipment that is not suitable for use on roads open to public traffic
+This class excludes:
+- transportation or moving objects within an industrial plant, on a fee or contract basis, if public road is used, see 4923
+- operation of terminal facilities, see 5221, 5222 and 5223

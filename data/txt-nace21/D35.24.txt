@@ -1,0 +1,7 @@
+D35.24 Storage of gas as part of network supply services
+This class includes:
+- storage of gaseous fuels
+- storage of hydrogen gas
+This class excludes:
+- gas liquefaction for mine site transport, see 09.10
+- storage of gaseous fuels, not part of network energy supply services, see 52.10

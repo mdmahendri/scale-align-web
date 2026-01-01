@@ -1,0 +1,3 @@
+G47.4 Retail sale of information and communication equipment
+This group excludes:
+- streaming and downloading of contents on digital platforms, see section J

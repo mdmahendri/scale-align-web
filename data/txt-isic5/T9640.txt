@@ -1,0 +1,6 @@
+T9640 Intermediation service activities for personal services
+This class includes the intermediation of personal services that bring clients and service providers together for a fee or commission, without the intermediary providing the services intermediated.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (face-to-face including door-to-door, phone, mail, etc.).
+The fee or commission can be received from either the client or the provider of the personal service.
+Revenue for the intermediation activities can include other sources of income, such as revenues from advertising.
+It includes, for example, laundry and dry-cleaning agent activities.

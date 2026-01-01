@@ -1,0 +1,10 @@
+C11.03 Manufacture of cider and other fruit fermented beverages
+This class includes:
+- manufacture of fermented but not distilled alcoholic beverages: mead, sake, cider, perry and other fruit wines
+- manufacture of wine from raisins
+This class also includes:
+- manufacture of mixtures of fermented beverages and non-alcoholic beverages n.e.c.
+- manufacture of fruit kefir and water kefir
+This class excludes:
+- manufacture of wine from grapes, see 11.02
+- merely bottling and labelling, see 46.34 (if performed as part of wholesale) and 82.92 (if performed on a fee or contract basis)

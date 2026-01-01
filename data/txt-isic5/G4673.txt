@@ -1,0 +1,17 @@
+G4673 Wholesale of construction materials, hardware, plumbing and heating equipment and supplies
+This class includes:
+- wholesale of wood in the rough
+- wholesale of products of primary processing of wood
+- wholesale of paint and varnish
+- wholesale of construction materials:
+* sand, gravel
+- wholesale of wallpaper and floor coverings
+- wholesale of flat glass
+- wholesale of hardware and locks
+- wholesale of fittings and fixtures
+- wholesale of hot water heaters and boilers
+- wholesale of sanitary equipment:
+* baths, washbasins, toilets and other sanitary porcelain
+- wholesale of sanitary installation equipment:
+* tubes, pipes, fittings, taps, T-pieces, connections, rubber pipes etc.
+- wholesale of tools such as hammers, saws, screwdrivers and other hand tools, including power hand tools

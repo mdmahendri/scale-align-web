@@ -1,0 +1,16 @@
+F42.99 Construction of other civil engineering projects n.e.c.
+This class includes:
+- construction of industrial facilities, except buildings, e.g.:
+mining facilities (e.g. shafts, towers, tunnels)
+refineries
+chemical plants
+grain storage systems
+- construction of other facilities, except buildings, e.g.:
+outdoor sports facilities
+- construction of playgrounds
+- construction of non-prefabricated swimming pools
+This class excludes:
+- installation of industrial machinery and equipment, see 33.20
+- construction of buildings used for indoor sports, see 41.00
+- subdividing and improving of self-owned land for later sale, see 68.12
+- project management activities related to civil engineering works, see 71.12

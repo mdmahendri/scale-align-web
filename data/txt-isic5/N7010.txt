@@ -1,0 +1,10 @@
+N7010 Activities of head offices
+This class includes: the overseeing and managing of other units of the enterprise or enterprise group i.e. acting as head office; undertaking the strategic or organisational planning and decision making role of the company or enterprise; exercising operational control and managing the day-to-day operations of their related units.
+These activities are the same regardless of which activities the managed units perform (financing, manufacturing trade, etc.
+This class includes activities of:
+- centralised administrative offices
+- corporate offices
+- district and regional offices
+- subsidiary management offices
+This class excludes:
+- activities of holding companies, not engaged in head office activities, see 6421

@@ -1,0 +1,13 @@
+N71.11 Architectural activities
+This class includes:
+- architectural consulting activities:
+building design and drafting
+town and city planning and landscape architecture
+- architectural activities to support the conservation and restoration of cultural heritage properties
+- interior architecture, i.e. redesigning a buildings interior structure and layout
+This class excludes:
+- renovation, renewal, reconstruction and retrofitting of historical and archaeological sites and buildings, see 43.99
+- activities of computer consultants, see 62.20
+- planning or overseeing conservation of historical civil engineering construction, see 71.12
+- interior decorating, see 74.13
+- conservation, restoration and other cultural heritage support activities, see 91.30

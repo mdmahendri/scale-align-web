@@ -1,0 +1,20 @@
+C28.23 Manufacture of office machinery and equipment, except computers and peripheral equipment
+This class includes:
+- manufacture of calculating machines
+- manufacture of cash registers
+- manufacture of calculators
+- manufacture of postage meters, mail handling machines (envelope stuffing, sealing and addressing machinery; opening, sorting, scanning)
+- manufacture of typewriters and stenography machines
+- manufacture of office-type binding equipment (i.e. plastic or tape binding)
+- manufacture of coin sorting, coin counting and coin wrapping machines
+- manufacture of pencil sharpening machines
+- manufacture of stapling machines
+- manufacture of voting machines
+- manufacture of tape dispensers
+- manufacture of hole punches
+- manufacture of photocopy machines
+- manufacture of blackboards; whiteboards and marker boards with writing or drawing surfaces
+- manufacture of dictating machines
+This class excludes:
+- manufacture of pencil sharpeners, see 25.61
+- manufacture of computers and peripheral equipment, see 26.20

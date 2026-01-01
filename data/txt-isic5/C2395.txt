@@ -1,0 +1,16 @@
+C2395 Manufacture of articles of concrete, cement and plaster
+This class includes:
+- manufacture of precast concrete, cement or artificial stone articles for use in construction:
+* tiles, flagstones, bricks, boards, sheets, panels, pipes, posts etc.
+- manufacture of prefabricated structural components for buildings or civil engineering of cement, concrete or artificial stone
+- manufacture of plaster articles for use in construction:
+* boards, sheets, panels etc.
+- manufacture of building materials of vegetable substances (wood wool, straw, reeds, rushes) agglomerated with cement, plaster or other mineral binder
+- manufacture of articles of asbestos-cement or cellulose fibre-cement or the like:
+* corrugated sheets, other sheets, panels, tiles, tubes, pipes, reservoirs, troughs, basins, sinks, jars, furniture, window frames etc.
+- manufacture of other articles of concrete, plaster, cement or artificial stone:
+* statuary, furniture, bas- and haut-reliefs, vases, flowerpots etc.
+- manufacture of non-refractory mortars
+- manufacture of ready-mix and dry-mix concrete and mortars
+This class excludes:
+- manufacture of refractory mortars, see 2391

@@ -1,0 +1,19 @@
+I56.30 Beverage serving activities
+This class predominantly includes serving beverages for immediate consumption on the premises.
+The activities can include the provision of, for example live music and dance activities.
+This class includes activities of:
+- bars
+- cocktail lounges
+- pubs
+- coffee houses
+- tea rooms
+- fruit juice bars
+- mobile beverage serving
+This class also includes:
+- bar activities aboard a means of transport (e.g. a train or ship), when carried out by separate units
+This class excludes:
+- reselling packaged/prepared beverages, see division 47
+- retail sale of beverages through vending machines, see 47.2
+- provision of beverage preparation and supply based on contractual arrangements with the customer, for a fixed term, see 56.22
+- operation of concert halls and music venues, see 90.31
+- operation of dance floors where beverage serving is not the main activity, see 93.29

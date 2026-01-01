@@ -1,0 +1,30 @@
+O82.20 Activities of call centres
+This class includes the activities of:
+- inbound call centres, including answering calls from clients by using human operators, automatic call distribution, computer telephone integration, interactive voice response systems or similar methods to receive orders, provide product information, deal with customer requests for assistance or address customer complaints
+- outbound call centres using similar methods to market goods or services to potential customers; conducting telephone interviews for market and opinion research surveys on a contract or fee basis
+- web-based contact centres
+This class also includes the activities of:
+- centres dealing with customer requests for assistance or addressing customer complaints through other communication channels
+This class excludes:
+- activities of brokers and agents for electric power and natural gas, see 35.40
+- intermediation service activities for specialised construction services, see 43.60
+- intermediation service activities for retail sale, see 47.9
+- intermediation service activities for transport, see 52.3
+- intermediation service activities for postal and courier activities, see 53.30
+- intermediation service activities for accommodation, see 55.40
+- intermediation service activities for food and beverage service activities, see 56.40
+- intermediation service activities for video game software publishing, see 58.21
+- intermediation service activities for software publishing and software downloads, see 58.29
+- intermediation service activities for telecommunication activities, see 61.20
+- financial and insurance intermediation service activities, see section L (e.g. activities of insurance agents and brokers (class 66.22))
+- intermediation service activities for real estate activities, see 68.31
+- market research and public opinion polling and statistical analysis thereof, see 73.20
+- patent brokering (marketing) service activities, see 74.91
+- intermediation service activities for the rental and leasing of tangible goods and non-financial intangible assets, see 77.5
+- travel agency activities, see 79.11
+- intermediation service activities for business support activities (except financial intermediation) n.e.c., see 82.40
+- intermediation service activities for courses and tutors, see 85.61
+- intermediation service activities for medical, dental and other health services, see 86.97
+- intermediation service activities for residential care activities, see 87.91
+- intermediation service activities for the repair and maintenance of computers, personal and household goods, motor vehicles and motorcycles, see 95.40
+- intermediation service activities for personal services, see 96.40

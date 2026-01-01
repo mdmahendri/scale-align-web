@@ -1,0 +1,6 @@
+C23.42 Manufacture of ceramic sanitary fixtures
+This class includes:
+- manufacture of ceramic sanitary fixtures (e.g. sinks, washbasins, washbasin pedestals, baths, bidets, water closet pans, flushing cisterns)
+This class excludes:
+- manufacture of refractory ceramic goods, see 23.20
+- manufacture of ceramic building materials, see 23.3

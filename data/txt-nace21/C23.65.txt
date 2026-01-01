@@ -1,0 +1,7 @@
+C23.65 Manufacture of fibre cement
+This class includes:
+- manufacture of panels, boards, tiles, blocks and similar articles of vegetable substances (e.g. wood wool, straw, reeds, rushes) agglomerated with cement, plaster or other mineral binders
+- manufacture of articles of asbestos cement or cellulose fibre cement, e.g.:
+corrugated sheets, other sheets, panels, tiles, tubes, pipes, reservoirs, troughs, basins, sinks, jars, window frames
+This class excludes:
+- manufacture of insulating fibreboards of wood or other ligneous fibres, whether or not bonded with resins or other organic substances, see 16.21

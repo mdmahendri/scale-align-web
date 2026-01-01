@@ -1,0 +1,15 @@
+R88.10 Social work activities without accommodation for older persons or persons with disabilities
+This class includes:
+- social, counselling, welfare, referral and similar services which are aimed at older persons or persons with disabilities in their homes or elsewhere and carried out by government offices or by private organisations, national or local self-help organisations and by specialists providing counselling services:
+visiting older persons and persons with disabilities
+day-care activities for older persons or adults with disabilities
+home assistance services for older persons or persons with disabilities
+vocational rehabilitation and habilitation activities for persons with physical disabilities where the education component is limited
+This class also includes:
+- activities of caregivers (home assistance)
+- homecare services
+- home assistance services, such as to carry out domestic tasks, rendered to persons having a diagnosis of temporary medical impairment
+This class excludes:
+- funding and administration of compulsory social security programmes, see 84.30
+- activities similar to those described in this class, but including accommodation, see 87.30
+- day-care activities for children with disabilities, see 88.91

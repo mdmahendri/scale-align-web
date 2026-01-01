@@ -1,0 +1,26 @@
+C10.89 Manufacture of other food products n.e.c.
+This class includes the manufacture of food products edible within a maximum of three days after production:
+- manufacture of soups and broths
+- manufacture of perishable prepared foods, e.g.:
+sandwiches
+fresh (uncooked) pizza
+- manufacture of quiche and croque-monsieur
+This class also includes:
+- manufacture of yeast
+- manufacture of extracts and juices of meat, fish, crustaceans or molluscs
+- manufacture of meat and cheese substitutes
+- manufacture of egg products (e.g. egg albumin)
+- manufacture of artificial concentrates
+- processing of purchased natural honey
+- production of semi-finished products for ice cream and pastries
+- manufacture of pre-cooked instant soups and instant noodles
+- manufacture of artificial honey and caramel
+- manufacture of malt extracts and syrups
+- manufacture of insect meal and other insect-based preparations
+This class excludes:
+- manufacture of perishable prepared foods of fruits and vegetables, see 10.39
+- manufacture of tofu (bean curd), see 10.39
+- manufacture of frozen pizza, see 10.85
+- manufacture of spirits, beer, wine and soft drinks, see division 11
+- production of plant-based milk substitutes (e.g. coconut, rice, almond, soya-based beverages), see 11.07
+- manufacture of vitamins, see 21.10

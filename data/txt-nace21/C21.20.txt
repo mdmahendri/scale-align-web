@@ -1,0 +1,25 @@
+C21.20 Manufacture of pharmaceutical preparations
+This class includes:
+- manufacture of medicaments:
+antisera and other blood fractions
+vaccines
+diverse medicaments, including homeopathic preparations
+- manufacture of chemical contraceptive products for external use and hormonal contraceptive medicaments
+- manufacture of medical diagnostic preparations, including pregnancy tests
+- manufacture of radioactive in-vivo diagnostic substances
+- manufacture of cell and gene advance therapy medical products
+This class also includes:
+- manufacture of medical impregnated wadding, gauze, bandages, dressings, etc.
+- preparation of botanical products (grinding, grading, milling) for pharmaceutical use
+- manufacture of viral vector-based medicines or vaccines
+- manufacture of pharmaceutical preparations for veterinary medicines
+This class excludes:
+- manufacture of herb infusions (mint, vervain, chamomile, etc.), see 10.83
+- manufacture of probiotics, see 21.10
+- manufacture of dental fillings and dental cement, see 32.50
+- manufacture of bone reconstruction cements, see 32.50
+- manufacture of surgical drapes, see 32.50
+- wholesale of pharmaceuticals, see 46.46
+- retail sale of pharmaceuticals, see 47.73
+- research and development for pharmaceuticals and other biotech products, see 72.10
+- packaging of pharmaceuticals, see 82.92

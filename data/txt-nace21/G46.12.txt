@@ -1,0 +1,6 @@
+G46.12 Activities of agents involved in the wholesale of fuels, ores, metals and industrial chemicals
+This class includes the activities of agents involved in the wholesale of:
+- fuels, ores, metals and industrial chemicals, including fertilisers
+This class excludes:
+- wholesale on own account, see 46.2 to 46.9
+- activities of commission agents who assume ownership of the goods, even if they are acting in the name of a third party, see 46.2 to 46.9

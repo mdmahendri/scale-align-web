@@ -1,0 +1,12 @@
+C24.44 Copper production
+This class includes:
+- manufacture of unrefined or refined unwrought copper, alloyed or not alloyed, from ores or from copper waste and scrap
+- manufacture of bars, rods, profiles, plates, sheets and strip of copper and copper alloys
+- manufacture of wire of copper and copper alloys
+- manufacture of tubes, pipes, tube and pipe fittings of copper and copper alloys
+- manufacture of copper foil, whether or not printed or backed with paper, paperboard, plastics or similar backing materials
+This class also includes:
+- manufacture of bars, rods, profiles, plates, sheets, strip, wire, tubes and pipes of brass
+This class excludes:
+- casting of copper, see 24.54
+- shredding of copper waste and scrap, see 38.21

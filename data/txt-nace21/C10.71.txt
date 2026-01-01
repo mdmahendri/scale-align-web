@@ -1,0 +1,11 @@
+C10.71 Manufacture of bread; manufacture of fresh pastry goods and cakes
+This class includes:
+- manufacture of bakery products:
+bread and rolls
+pastry, cakes, pies, tarts, pancakes, waffles, etc.
+This class also includes:
+- manufacture of pre-baked bread
+This class excludes:
+- manufacture of dry bakery products, see 10.72
+- manufacture of pastas, see 10.73
+- retail sale of bread and rolls baked on the premises from pre-baked products, see 47.24

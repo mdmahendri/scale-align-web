@@ -1,0 +1,25 @@
+C28.93 Manufacture of machinery for food, beverage and tobacco processing
+This class includes:
+- manufacture of dryers for agricultural products
+- manufacture of machinery for the dairy industry, e.g.:
+cream separators
+milk processing machinery (e.g. homogenisers)
+milk converting machinery (e.g. butter churns, butter workers and moulding machines)
+cheese-making machines (e.g. homogenisers, moulders, presses)
+- manufacture of machinery for the grain milling industry, e.g.:
+machinery to clean, sort or grade seeds, grain or dried leguminous vegetables (e.g. winnowers, sieving belts, separators, grain brushing machines)
+machinery to produce flour and meal, etc. (e.g. grinding mills, feeders, sifters, bran cleaners, blenders, rice hullers, pea splitters)
+- manufacture of presses, crushers, etc. (e.g.to make wine, cider, fruit juices)
+- manufacture of machinery for the bakery industry or for making macaroni, spaghetti or similar products, e.g.:
+baking ovens, dough mixers, dough-dividers, moulders, slicers, cake depositing machines
+- manufacture of machines and equipment to process diverse foods, e.g.:
+machinery to make confectionery, cocoa or chocolate; to manufacture sugar; for breweries; to process meat or poultry; to prepare fruits, nuts or vegetables; to prepare fish, shellfish or other seafood
+other machinery for the industrial preparation or manufacture of food or drink
+- manufacture of machinery for filtering or purifying food and beverages
+- manufacture of machinery for the extraction or preparation of animal or vegetable fats or oils
+- manufacture of machinery for the preparation of tobacco and for the making of cigarettes or cigars, or for pipe or chewing tobacco or snuff
+- manufacture of machinery, plant and equipment for cooking or heating food in hotels and restaurants
+This class excludes:
+- manufacture of food and milk irradiation equipment, see 26.60
+- manufacture of packing, wrapping and weighing machinery, see 28.29
+- manufacture of cleaning, sorting or grading machinery for eggs, fruits or other crops (except seeds, grains and dried leguminous vegetables), see 28.30

@@ -1,0 +1,35 @@
+A01.13 Growing of vegetables and melons, roots and tubers
+This class includes:
+- growing of leafy or stem vegetables, e.g.:
+artichokes
+asparagus
+cabbages
+cauliflower and broccoli
+lettuce and chicory
+spinach
+- growing of fruit-bearing vegetables, e.g.:
+cucumbers and gherkins
+eggplants (aubergines)
+tomatoes
+watermelons
+- growing of root, bulb or tuberous vegetables, e.g.:
+carrots
+turnips
+garlic
+onions (including shallots)
+leeks and other alliaceous vegetables
+- growing of mushrooms and truffles
+- growing of vegetable seeds, including sugar beet seeds, excluding other beet seeds
+- growing of sugar beet
+- growing of chillies, peppers (Capsicum spp.)
+- growing of roots and tubers, e.g.:
+potatoes
+sweet potatoes
+cassava
+yams
+swedes and mangolds
+This class also includes:
+- growing of sweetcorn
+This class excludes:
+- growing of spices and aromatic, drug and pharmaceutical crops, see 01.28
+- growing of mushroom spawn, see 01.30

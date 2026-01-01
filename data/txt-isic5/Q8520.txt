@@ -1,0 +1,6 @@
+Q8520 Primary education
+This class includes primary education: the furnishing of academic courses and associated course work that give students a sound basic education in reading, writing and mathematics and an elementary understanding of other subjects such as history, geography, natural science, social science, art and music.
+This class includes also adult literacy programmes, second chance or re-integration primary education programmes or any kind of primary education for adults.
+This class excludes:
+- non-formal education and training disregarding the age or field of education, see 855
+- child day-care activities, including day nurseries for pupils, see 8890

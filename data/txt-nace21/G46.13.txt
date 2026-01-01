@@ -1,0 +1,9 @@
+G46.13 Activities of agents involved in the wholesale of timber and building materials
+This class also includes:
+- activities of agents involved in the wholesale of:
+prefabricated buildings and building equipment
+pallets and wooden containers and their parts
+sanitary equipment
+This class excludes:
+- wholesale on own account, see 46.2 to 46.9
+- activities of commission agents who assume ownership of the goods, even if they are acting in the name of a third party, see 46.2 to 46.9

@@ -1,0 +1,10 @@
+G46.73 Wholesale of motorcycles, motorcycle parts and accessories
+This class includes:
+- wholesale of new and used motorcycles, including mopeds
+- wholesale of parts and accessories for motorcycles
+- wholesale of protective gear for motorcyclists
+This class excludes:
+- activities of commission agents specialised in the wholesale of motorcycles, see 46.18
+- wholesale of bicycles, electric bicycles and their related parts and accessories, see 46.49
+- rental of motorcycles, see 77.11
+- repair and maintenance of motorcycles, see 95.32

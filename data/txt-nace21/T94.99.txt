@@ -1,0 +1,26 @@
+T94.99 Activities of other membership organisations n.e.c.
+This class includes:
+- activities of organisations (not directly affiliated to a political party) furthering a public cause or issue by means of public education, political influence, fundraising, etc.:
+citizens initiative or protest movements
+environmental and ecological movements
+organisations supporting community and educational facilities n.e.c.
+organisations for the protection and betterment of special groups (e.g. ethnic and minority groups)
+associations for patriotic purposes, including war veterans associations
+associations intended to promote health
+associations for the protection of animals
+consumer associations
+- activities of automobile associations (other than sports)
+- activities of associations for the purpose of social acquaintanceship (e.g. Rotary Clubs, lodges)
+- activities of associations of youth (e.g. scout associations, young persons associations, student associations, clubs, fraternities and sororities)
+- activities of associations for the pursuit of cultural or recreational activities or a hobby, other than sports or games (e.g. poetry, literature and book clubs, historical clubs, gardening clubs, film and photographic clubs, music and art clubs, craft and collectors clubs, social clubs, carnival clubs)
+This class also includes:
+- grant-giving activities by membership organisations or others
+- activities of philanthropic intermediaries and activities to promote volunteerism
+- international cooperation and solidarity activities
+- service activities to promote hunting and trapping
+This class excludes:
+- charitable activities like fundraising aimed at social work, see 88.99
+- activities of sports clubs, see 93.12
+- activities of sports federations, see 93.19
+- activities of professional membership organisations, see 94.12
+- activities of international organisations under international treaties between states, see 99.00

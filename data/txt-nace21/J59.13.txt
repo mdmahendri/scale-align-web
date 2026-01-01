@@ -1,0 +1,12 @@
+J59.13 Motion picture and video distribution activities
+This class includes:
+- acquiring copyrights or distribution rights (e.g. for film and audiovisual works)
+- distributing productions (e.g. film and audiovisual works to motion picture theatres, television networks and stations, and exhibitors)
+This class excludes:
+- film duplication and reproduction of audio and video recordings from master copies, see 18.20
+- wholesale of recorded media, see 46.49
+- retail sale of recorded media, see 47.69
+- reproduction of motion picture film for theatrical distribution, see 59.12
+- video streaming distribution and download service activities not associated with its publishing, see 60.20
+- management of copyrights and distribution rights for films, see 74.91
+- rental of recorded media, see 77.22

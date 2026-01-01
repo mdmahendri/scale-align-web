@@ -1,0 +1,14 @@
+A0220 Logging
+This class includes:
+- production of roundwood for forest-based manufacturing industries
+- production of roundwood used in an unprocessed form such as pit-props, fence posts and utility poles.
+This class also includes:
+- gathering and production of forest harvesting residues, e.g. brushwood, stumps, wood chips from logging and other forest waste for energy
+- production of charcoal in the forest (using traditional methods)
+This class excludes:
+- growing of Christmas trees, see 0129
+- harvesting of short rotation coppice as energy crop, e.g. poplar and willow, on a fee or contract basis, see 0161
+- growing of standing timber: planting, replanting, transplanting, thinning and conserving of forests and timber tracts, see 0210
+- gathering of wild growing non-wood forest products, see 0230
+- production of wood chips and particles not associated with forestry activities, see 1610
+- production of charcoal through distillation of wood, see 2011

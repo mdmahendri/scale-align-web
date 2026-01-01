@@ -1,0 +1,14 @@
+J6010 Radio broadcasting and audio distribution activities
+This class includes:
+- broadcasting audio signals throughradio broadcasting studios and facilities for transmission of aural programming to the public, to affiliates or to subscribers
+- third party on-demand audio streaming distribution services and downloads live podcast broadcasting and third party on-demand podcast streaming services and downloads
+This class also includes:
+- activities of radio networks, i.e. assembling and transmitting aural programming to the affiliates or subscribers via over-the-air broadcasts, cable or satellite
+- radio broadcasting activities over the Internet (Internet radio stations)
+- audio book third party on-demand streaming distribution services and downloads
+This class excludes:
+- publishing of audio books, and streaming distribution services and downloads of audio book publishers, see 5811
+- publishing of music and other sound records, see 5920
+- production of radio programming and audio podcasts, see 5920
+- wholesale of audio recordings on CD, DVD, or other physical media, see 4649
+- retail sale of audio recordings on CD, DVD, or other physical media, see 4769

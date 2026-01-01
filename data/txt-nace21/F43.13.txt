@@ -1,0 +1,11 @@
+F43.13 Test drilling and boring
+This class includes:
+- test drilling, test boring and core sampling for construction, geophysical, geological or similar purposes
+This class excludes:
+- drilling of production oil or gas wells, see 06.10, 06.20
+- test drilling, associated with extraction of petroleum or gas, see 09.10
+- test drilling and boring support services (e.g. associated with mining activities), see 09.90
+- water well drilling, see 42.21
+- geothermal drilling, see 42.21
+- shaft sinking, see 43.50
+- exploration of oilfields and gas fields, geophysical, geological and seismic surveying, see 71.12

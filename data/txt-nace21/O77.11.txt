@@ -1,0 +1,11 @@
+O77.11 Rental and leasing of cars and light motor vehicles
+This class includes:
+- rental and operating leasing of motor vehicles (with a maximum permissible weight not exceeding 3,5 tons) without a driver, regardless of the length of rental period or way of payment (e.g. subscription):
+passenger cars, motorhomes, other light motor vehicles without a driver
+- rental of shared cars
+This class also includes:
+- rental and operating leasing of an individuals own car without a driver
+- rental and leasing of motorcycles
+This class excludes:
+- rental or leasing of passenger cars or light motor vehicles with a driver, see 49.33
+- intermediation service activities for the rental and leasing of passenger cars and light motor vehicles, see 77.51

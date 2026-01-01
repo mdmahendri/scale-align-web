@@ -1,0 +1,8 @@
+C25.92 Manufacture of light metal packaging
+This class includes:
+- manufacture of iron or steel cans which are to be closed by soldering or crimping, of a capacity of less than 50 litres
+- manufacture of aluminium casks, drums, cans, boxes and similar containers, of a capacity not exceeding 300 litres
+- manufacture of tins and cans for food products, collapsible tubes and boxes
+- manufacture of metallic closures
+This class excludes:
+- manufacture of containers of metal, for compressed or liquefied gas, of a capacity exceeding 300 litres, see 25.22

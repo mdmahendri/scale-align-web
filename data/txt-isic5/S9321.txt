@@ -1,0 +1,8 @@
+S9321 Activities of amusement parks and theme parks
+This class includes the activities of amusement parks and theme parks characterized by a permanent and site-based operation of a variety of attractions, such as mechanical rides, carousels, games, shooting galleries, shows, theme exhibits and picnic grounds, that are provided under the economic and operational directive of a central operator.
+These parks are typically located in structurally delimited areas, for which customers must pay admission.
+This class also includes:
+- activities of aqua/water parks
+This class excludes:
+- operation of gambling or lottery games, see 9200
+-operation of mechanical rides, games and shows by independent providers, e.g. at fairgrounds, folk festivals and Christmas markets, see 9329

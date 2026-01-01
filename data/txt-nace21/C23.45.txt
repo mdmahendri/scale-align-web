@@ -1,0 +1,8 @@
+C23.45 Manufacture of other ceramic products
+This class includes:
+- manufacture of ceramic pots, jars and similar articles, of a kind used for conveyance or packing of goods
+- manufacture of ceramic troughs, tubs and similar receptacles, of a kind used in agriculture
+- manufacture of ceramic products n.e.c.
+This class excludes:
+- manufacture of ceramic sanitary fixtures, see 23.42
+- manufacture of artificial teeth, see 32.50

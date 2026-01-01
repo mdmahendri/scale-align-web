@@ -1,0 +1,14 @@
+G46.87 Wholesale of waste and scrap
+This class includes:
+- wholesale of metal and non-metal waste and scrap and materials for recycling, including collecting, sorting, separating, stripping of used goods (e.g. cars in order to obtain reusable parts), packing and repacking, storage and delivery, but without a transformation process.
+Additionally, the purchased and sold waste has a remaining value
+- wholesale of usable goods (metal, plastics), following the dismantling of cars, computers, televisions and other equipment on own account by the unit without further transformation of the goods
+- wholesale of car wrecks
+This class excludes:
+- collection of household and industrial waste, see 38.1
+- processing of waste and scrap and other articles into secondary raw materials when a transformation process is required (the resulting secondary raw material is fit for direct use in an industrial manufacturing process, but is not a final product), see 38.21
+- dismantling of unusable automobiles, computers, televisions, and other equipment and parts for materials recovery, see 38.21
+- ship-breaking, see 38.21
+- shredding of cars by means of a mechanical process, see 38.21
+- treatment of waste for disposal without recovery, see 38.3
+- retail sale of second-hand goods, see 47.79

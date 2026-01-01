@@ -1,0 +1,11 @@
+T94.91 Activities of religious organisations
+This class includes:
+- activities of religious organisations or individuals providing services directly to worshippers in churches, mosques, temples, synagogues or other places
+- activities of organisations furnishing monastery and convent services
+- religious retreat activities
+This class also includes:
+- religious funeral service activities
+This class excludes:
+- education provided by religious organisations, see division 85
+- health activities by religious organisations, see division 86
+- social work activities by religious organisations, see divisions 87, 88

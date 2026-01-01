@@ -1,0 +1,16 @@
+E3821 Treatment and disposal of non-hazardous waste
+This class includes the disposal, treatment prior to disposal and other treatment of solid or non-solid non-hazardous waste.
+This class includes:
+- operation of landfills for the disposal of non-hazardous waste
+- disposal of non-hazardous waste by combustion or incineration or other methods, with or without the resulting production of electricity or steam, substitute fuels, biogas, ashes or other by-products for further use etc.
+- treatment of organic waste for disposal
+- treatment of organic waste for landfilling or permanent storage
+- production of compost from organic waste
+This class includes also:
+- - permanent underground storage of waste in a deep geological cavity such as a salt or potassium mine
+This class excludes:
+- operation of facilities where waste is unloaded for further transport, see 381
+- storage of waste prior to recovery, see 383
+- incineration and combustion of hazardous waste, see 3822
+- operation of facilities where recoverable materials are sorted, see 3830
+- carbon capturing activities, decontamination, clean up of land, water; and toxic material abatement, see 3900

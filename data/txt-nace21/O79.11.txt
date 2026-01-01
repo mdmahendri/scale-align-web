@@ -1,0 +1,13 @@
+O79.11 Travel agency activities
+This class includes:
+- activities of agencies, primarily engaged in the sale of packaged tours and cruises to the general public or to commercial clients, alongside additional accommodation advice or expertise:
+reservation services for pre-packaged tours, domestic (national) and international
+reservation services for customised tour packages for groups, domestic (national) or international
+- intermediation service activities for the conclusion of contracts for the provision of tourist services from tour operators
+This class also includes:
+- intermediation of packaged travel services in the destination
+This class excludes:
+- intermediation service activities for passenger transport only, see 52.32
+- intermediation service activities for accommodation only, see 55.40
+- activities of factual and legal actions related to the conclusion of contracts for the provision of tourist services, at the request of the customer, see division 69
+- selling of deferred travel services: form of distribution of a service linked to travel, which can be of any nature (hotels, restaurants, personal care, leisure activities, etc.), see 82.99

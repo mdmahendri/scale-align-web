@@ -1,0 +1,14 @@
+C25.11 Manufacture of metal structures and parts of structures
+This class includes:
+- manufacture of metal frameworks or skeletons for construction and parts thereof (towers, lattice masts, trusses, bridges, bridge sections, etc.)
+- manufacture of equipment for scaffolding, shuttering, propping or pit-propping
+- manufacture of industrial frameworks in metal (frameworks for blast furnaces, lifting and handling equipment, etc.)
+- manufacture of prefabricated buildings mainly of metal:
+site huts, modular exhibition elements, etc.
+This class also includes:
+- manufacture of supporting structures of metal (e.g. for lights or loudspeakers)
+This class excludes:
+- manufacture of parts for marine or power boilers, see 25.21
+- manufacture of assembled railway track fixtures, see 25.99
+- manufacture of coachwork, see 29.20
+- manufacture of sections of ships, see 30.11, 30.13

@@ -1,0 +1,7 @@
+O77.33 Rental and leasing of office machinery, equipment and computers
+This class includes:
+- rental and operating leasing of office machinery and equipment without an operator:
+computers and computer peripheral equipment
+duplicating machines, typewriters and word-processing machines
+accounting machinery and equipment: cash registers, electronic calculators, etc.
+office furniture

@@ -1,0 +1,9 @@
+R86.97 Intermediation service activities for medical, dental and other human health services
+This class includes the intermediation of medical, dental and other human health services, by bringing clients and service providers together for a fee or commission, without the intermediary providing the medical, dental and other human health services that are intermediated.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (including face-to-face, door-to-door, telephone, mail, and so on).
+The fee or commission can be received from either the client or the provider of the medical, dental or other human health service.
+Revenue for the intermediation activities can include other sources of income (for example, revenues from the sale of advertising space).
+This class also includes:
+- appointment reservations for medical, dental and other human health services
+This class excludes:
+- intermediation service activities for residential care activities, see 87.91

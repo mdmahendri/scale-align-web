@@ -1,0 +1,7 @@
+L64.22 Activities of financing conduits
+This class includes the activities of financing conduits, in other words, units created by a financial or non-financial group to raise or borrow funds (often on the open market) and to remit those funds to their parent or another entity within the group.
+This class also includes:
+- activities of captive financial institutions involved in intragroup lending
+- brass plate companies engaged in raising funds and remitting those funds to their parent, i.e. units that are owned (directly or indirectly) by a non-resident unit, of which a large part of the balance sheet consists of claims and liabilities towards non-resident units, and that have few or no employees and little or no physical presence in the jurisdiction of incorporation
+This class excludes:
+- management services of public funds and public debt, see 84.11

@@ -1,0 +1,9 @@
+J6031 News agency activities
+This class includes:
+- news syndicate and news agency activities furnishing news, pictures and features to the media, publishers and broadcasters
+This class excludes:
+- publishing activities, see 581
+- broadcasting and third party on-demand streaming distribution activities , see 6010, 6020
+- activities of independent photojournalists, see 7420
+- activities of independent journalists, see 9011
+- retail outlets of newspapers, see 4761

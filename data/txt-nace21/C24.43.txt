@@ -1,0 +1,9 @@
+C24.43 Lead, zinc and tin production
+This class includes:
+- production of unwrought lead, zinc and tin, alloyed or not alloyed, from ores or from lead, zinc or tin waste and scrap
+- manufacture of bars, rods, profiles, wire, plates, sheets, strip and foil of lead, zinc or tin
+This class also includes:
+- manufacture of zinc powder by atomisation of molten zinc
+This class excludes:
+- casting of lead, zinc or tin, see 24.54
+- shredding of lead, zinc or tin waste and scrap, see 38.21

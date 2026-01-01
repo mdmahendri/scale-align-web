@@ -1,0 +1,19 @@
+Q Education
+This section includes education at any level or for any profession.
+The instructions may be oral or written and may be provided by radio, television, Internet or via correspondence.
+Education activities are those having an educational programme, a time frame and some evaluation of the knowledge achieved.
+It includes formal initial education at its different levels provided by the different institutions in the regular school system designed for students as a continuous educational pathway before their first entrance to the labour market, as well as formal education outside the regular school system with programme content and qualifications that are equivalent to those of such initial education (adult education, literacy programmes etc).
+Also included are activities provided by military schools and academies, prison schools etc. at their respective levels.
+This section includes compulsory and non-compulsory schooling and public as well as private education.
+For each level of education, the classes include special education for physically or mentally disabled persons.
+Groups 851, 852, 853 and 854 take into account the formal education activities provided under the ISCED-P 2011 classification, that is, the international classification of educational programmes.
+As a consequence, the breakdown of the categories in this section is based on the level of education offered as defined by the levels of ISCED-P 2011.
+The activities of educational institutions providing courses on ISCED-P 2011 level 02 are classified in 8510, on ISCED-P 2011 level 1 in 8520, on ISCED-P 2011 levels 2 in class 8531, on ISCED-P 2011 levels 3 in class 8532, on ISCED-P 2011 levels 4 in class 8533 and on ISCED-P 2011 level 5-6-7-8 in group 854.
+Educational institutions classified in groups 852 to 854 are authorised to certify successful completion of an educational programme, usually in the form of a document officially recognized by the relevant national education authorities.
+This section is also based on the distinction between formal and non-formal educational programmes provided by the European classification of learning activities (CLA).
+Thus, this section also includes non-formal instruction primarily concerned with sport and recreational activities such as tennis or golf and education support activities (in groups 855-856).
+This section also includes education activities run by self-employed/own account/individual/independent lecturers (tutors, academics, instructors).
+Such activities should be classified in class 8559.
+This section also includes activities relating to administration, inspection, operation or support of schools and other institutions providing education as well as coordination of sports programmes.
+This section excludes:
+- child day-care activities (ISCED-P 2011 level 01 early childhood educational development), see 8890

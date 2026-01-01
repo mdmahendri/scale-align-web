@@ -1,0 +1,11 @@
+B05.20 Mining of lignite
+This class includes:
+- mining of lignite (brown coal): underground or surface mining, including mining through liquefaction methods
+- washing, dehydrating, pulverising, compressing of lignite to improve quality or facilitate transport or storage
+This class excludes:
+- hard coal mining, see 05.10
+- peat digging, see 08.92
+- support activities for lignite mining, see 09.90
+- test drilling for coal mining, see 09.90
+- manufacture of lignite fuel briquettes, ovoids and similar solid lignite fuels, see 19.20
+- work performed to develop or prepare properties for lignite mining, see 43.12

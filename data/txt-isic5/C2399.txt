@@ -1,0 +1,19 @@
+C2399 Manufacture of other non-metallic mineral products n.e.c.
+This class includes abrasive products and other non-metallic mineral products.
+It includes:
+- manufacture of millstones, grindstones, grinding wheels and the like, without frameworks, for grinding, sharpening, trueing or cutting, hand sharpening or polishing stones
+- manufacture ofnatural or artificial abrasive powder or grain, on a base of textile material, of paper, of paperboard or of other materials, whether or not cut to shape or sewn or otherwise made
+- manufacture of friction material and unmounted articles thereof with a base of mineral substances or of cellulose
+- manufacture of mineral insulating materials:
+* slag wool, rock wool and similar mineral wools; exfoliated vermiculite, expanded clays and similar heat-insulating, sound-insulating or sound-absorbing materials
+- manufacture of articles of diverse mineral substances:
+* worked mica and articles of mica, of peat, of graphite (other than electrical articles) etc.
+- manufacture of articles of asphalt or similar material, e.g. petroleum bitumen, coal tar pitch etc.
+- manufacture of carbon and graphite fibers and products (except electrodes and electrical applications)
+- manufacture of artificial corundum
+This class includes also:
+- calcination of kaolin
+- drying and grinding of clay into clay powder
+This class excludes:
+- manufacture of glass wool and non-woven glass wool products, see 2310
+- manufacture of carbon or graphite gaskets, see 2819

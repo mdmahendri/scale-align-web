@@ -1,0 +1,37 @@
+G46.64 Wholesale of other machinery and equipment
+This class includes:
+- wholesale of machinery for the textile industry and of sewing and knitting machines
+- wholesale of robots for production lines
+- wholesale of machinery for the food, beverages and tobacco industry
+- wholesale of transport equipment (e.g. locomotives, wagons), except motor vehicles, motorcycles and bicycles
+- wholesale of ships and boats
+- wholesale of armoured vehicles
+- wholesale of aircraft, drones and unmanned aircraft systems
+- wholesale of equipment for fish farming
+- wholesale of attractions for amusement and theme parks (e.g. mechanical rides)
+- wholesale of equipment for hairdressers, gyms, solariums and beauty centres
+- wholesale of event technology equipment for events, fairs and exhibitions
+- wholesale of other machinery n.e.c. for use in industry, trade and navigation and other services
+- wholesale of other electrical material (e.g. electrical motors, transformers)
+- wholesale of batteries and accumulators for domestic use
+- wholesale of wires and switches and other installation equipment
+- wholesale of photovoltaic panels
+- wholesale of weapons, weapon systems and ammunition
+- wholesale of box pallets
+- wholesale of reservoirs, tanks, vats and similar containers, capacity exceeding 300 litres, of plastics and for industrial use
+This class also includes:
+- wholesale of measuring instruments and equipment
+- wholesale of machines for additive manufacturing (3D printers, etc.)
+This class excludes:
+- wholesale of sewing machines household-type, see 46.43
+- wholesale of non-household-type medical equipment, see 46.46
+- wholesale of recreational boats, see 46.49
+- wholesale of bicycles, see 46.49
+- wholesale of mining, construction and civil engineering machinery, see 46.63
+- wholesale of motor vehicles (including trailers and caravans), see 46.71
+- wholesale of motor vehicle parts, see 46.72
+- wholesale of batteries and accumulators for motor vehicles, see 46.72
+- wholesale of motorcycles, see 46.73
+- wholesale of scaffolding, see 46.83
+- maintenance and repair of motor vehicles, see 95.31
+- maintenance and repair of motorcycles, see 95.32

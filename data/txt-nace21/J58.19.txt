@@ -1,0 +1,24 @@
+J58.19 Other publishing activities, except software publishing
+This class includes:
+- publishing in any format, including print, digital or on the internet, e.g.:
+directories and mailing lists
+compilations (e.g. case law, pharmaceutical compendia)
+catalogues
+photographs, engravings and postcards
+calendars
+greeting cards
+forms
+posters
+reproductions of works of art
+non-bound leaflets and advertising material
+statistics and other information
+datasets/databases without associated data processing services
+This class excludes:
+- retail sale of software on physical media, see 47.40
+- publishing of advertising newspapers, see 58.12
+- publishing of software, see 58.2
+- production of video content, see 59.11
+- operation of content distribution (sharing) platforms, including blogs and wiki sites, social network sites and online gaming / video game sites, not associated with publishing of the content, see 60.39
+- application hosting, see 63.10
+- operation of web search portals, see 63.91
+- compiling of information or directories on a fee or contract basis, see 63.92

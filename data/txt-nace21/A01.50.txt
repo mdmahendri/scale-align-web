@@ -1,0 +1,6 @@
+A01.50 Mixed farming
+This class includes:
+- the combined production of crops and animals without a specialised production of crops or animals
+This class excludes:
+- mixed crop farming, see 01.1, 01.2
+- mixed animal farming, see 01.4

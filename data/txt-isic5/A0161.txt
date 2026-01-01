@@ -1,0 +1,14 @@
+A0161 Support activities for crop production
+This class includes:
+- crop production activities on a fee or contract basis: preparation of fields establishing a crop treatment of crops crop spraying, including by air trimming of fruit trees and vines transplanting of rice, thinning of beets harvesting pest control (including rabbits) in connection with agriculture
+- operation of agricultural irrigation equipment.
+This class also includes:
+- provision of agricultural machinery with operators and crew
+- maintenance of own or leased land keeping it in good condition, without agricultural production.
+This class excludes:
+- post-harvest crop activities, see 0163 and 0164
+- drainage of agricultural land, see 4312
+- landscape architecture, see 7110
+- activities of agronomists and agricultural economists, see 7499
+- landscape gardening, planting, see 8130
+- organisation of agricultural shows and fairs, see 8230

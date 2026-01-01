@@ -1,0 +1,7 @@
+N74.30 Translation and interpretation activities
+This class includes:
+- translation and interpretation of all languages, including sign language, whether spoken or written
+This class excludes:
+- publishing translation software, see 58.29
+- development of translation tools and training translation engines, see 62.10
+- language teaching activities, see 85.59

@@ -1,0 +1,18 @@
+O8129 Other cleaning activities
+This class includes:
+- exterior cleaning of buildings of all types, including offices, factories, shops, institutions and other business and professional premises and multiunit residential buildings
+- specialized cleaning activities for buildings such as window cleaning, chimney cleaning and cleaning of fireplaces, stoves, furnaces, incinerators, boilers, ventilation ducts and exhaust units
+- swimming pool cleaning and maintenance services
+- cleaning of industrial machinery
+- bottle cleaning
+- cleaning of trains, buses, planes, etc.
+- cleaning of the inside of road and sea tankers
+- disinfecting and exterminating activities
+- street sweeping and snow and ice removal
+- other building and industrial cleaning activities, n.e.c.
+- cleaning of new buildings immediately after construction
+- steam cleaning, sand blasting and similar activities for building exteriors
+This class excludes:
+- agriculture pest control, see 0161
+- cleaning of sewers and drains, see 3700
+- automobile cleaning, car wash, see 9531

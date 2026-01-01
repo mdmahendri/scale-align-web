@@ -1,0 +1,11 @@
+L64.32 Activities of trust, estate and agency accounts
+This class includes legal entities, not acting as collective investment schemes, organised to pool securities, estates and other financial assets, without managing, on behalf of shareholders or beneficiaries.
+The portfolios are customised to achieve specific investment characteristics (for example, diversification, risk, rate of return, price volatility).
+These entities earn interest, dividends and other property income but have little or no employment and no revenue from the sale of services.
+This class includes:
+- trusts, estates and agency accounts, administered on behalf of multiple beneficiaries under the terms of a trust agreement, will or agency agreement
+This class also includes:
+- activities of shareholding companies, not owning controlling levels of equity
+- venture capital companies where the only financing is by shares and no fee is received
+This class excludes:
+- raising funds by issuing shares or units and acting as collective investment schemes, see 64.31

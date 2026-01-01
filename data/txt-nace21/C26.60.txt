@@ -1,0 +1,18 @@
+C26.60 Manufacture of irradiation, electromedical and electrotherapeutic equipment
+This class includes:
+- manufacture of irradiation apparatus and tubes (e.g. industrial, medical diagnostic, medical therapeutic, research, scientific):
+alpha, beta, gamma, X-ray or other radiation equipment
+- manufacture of computed tomography (CT) scanners
+- manufacture of positron emission tomography (PET) scanners
+- manufacture of magnetic resonance imaging (MRI) equipment
+- manufacture of medical ultrasound equipment
+- manufacture of electrocardiographs
+- manufacture of electromedical endoscopic equipment
+- manufacture of medical laser equipment
+- manufacture of artificial respiration or therapeutic respiration apparatus
+- manufacture of pacemakers
+- manufacture of hearing aids
+This class also includes:
+- manufacture of food and milk irradiation equipment
+This class excludes:
+- manufacture of tanning beds, see 27.90

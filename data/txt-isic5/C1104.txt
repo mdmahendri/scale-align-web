@@ -1,0 +1,6 @@
+C1104 Manufacture of malt
+This class includes:
+- manufacture of malt from barley, rye, or other grains.
+This class excludes:
+- malt liquors, see 1103
+- malt extracts and syrups, see 1079

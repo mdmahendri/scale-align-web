@@ -1,0 +1,13 @@
+G478 Retail sale of motor vehicles, motorcycles and related parts and accessories
+This group includes retail sale of new and second hand motor vehicles, motorcycles and all kinds of parts, components, supplies, tools and accessories for motor vehicles and motorcycles, such as:
+rubber tyres and inner tubes for tyres
+spark plugs, batteries, lighting equipment, vehicle charging equipment and electrical parts etc.
+This group includes also:
+- retail trade in used parts and accessories after dismantling of cars or other motor vehicles
+- retail sale of parts and accessories for electric motor vehicles and motorcycles
+This group excludes:
+- intermediary services in wholesale, see 4610
+- intermediary services in retail trade of motor vehicles and motorcycles, see 479
+- on-demand passenger transport service activities by vehicle with driver, see 4922
+- rental and leasing of motor vehicles without driver, see 771
+- maintenance and repair of motor vehicles and motorcycles, see group 953

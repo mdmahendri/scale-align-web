@@ -1,0 +1,15 @@
+C1071 Manufacture of bakery products
+This class includes the manufacture of fresh, frozen or dry bakery products.
+This class includes:
+- manufacture of bread and rolls
+- manufacture of fresh pastry, cakes, pies, tarts etc.
+- manufacture of rusks, biscuits and other "dry" bakery products
+- manufacture of preserved pastry goods and cakes
+- manufacture of snack products (cookies, crackers, pretzels etc.), whether sweet or salted
+- manufacture of tortillas
+- manufacture of frozen bakery products: pancakes, waffles, rolls etc.
+This class excludes:
+- manufacture of flour mixes and prepared blended flour and dough for bread, cakes, biscuits or pancakes, see 1061
+- manufacture of farinaceous products (pastas), see 1074
+- manufacture of potato snacks, see 1030
+- heating up of bakery items for immediate consumption, see division 56

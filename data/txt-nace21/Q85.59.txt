@@ -1,0 +1,24 @@
+Q85.59 Other education n.e.c.
+This class includes:
+- education that is not definable by level
+- academic tutoring
+- remedial courses
+- professional examination review courses
+- language instruction and conversational skills instruction
+- computer training (e.g. general computer use, programming courses, use of computer applications)
+- relaxation courses (e.g. meditation courses, breathing techniques, courses of awareness through movement, courses on stress and anxiety relief techniques)
+- sewing courses
+- oenology courses
+- family life courses (e.g. parentchild courses)
+- training on plant protection products
+This class also includes:
+- lifeguard training
+- survival training
+- public speaking training
+- speed-reading instruction
+- activities of professional instructors and teachers in subjects other than sports, arts and driving
+This class excludes:
+- formal adult literacy programmes, see 85.20
+- general secondary education, see 85.31
+- technical and vocational secondary education and training, see 85.32
+- entertainment activities in retirement homes, see 93.29

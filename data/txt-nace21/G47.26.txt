@@ -1,0 +1,6 @@
+G47.26 Retail sale of tobacco products
+This class includes:
+- retail sale of tobacco in any form (e.g. cigarettes, cigars, pipe tobacco, chewing tobacco)
+- retail sale of tobacco and smoking products and accessories, including lighters, pipes, cigarette rolling equipment, etc.
+This class also includes:
+- retail sale of electronic cigarettes (vapes) and e-liquids used in vaping devices

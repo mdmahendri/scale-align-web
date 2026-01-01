@@ -1,0 +1,5 @@
+A01.43 Raising of horses and other equines
+This class includes:
+- raising and breeding of horses, asses, mules or hinnies, regardless of the purpose
+This class excludes:
+- operation of racing and riding stables (if they do not have breeding activities), see 93.19

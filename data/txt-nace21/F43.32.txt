@@ -1,0 +1,10 @@
+F43.32 Joinery installation
+This class includes:
+- installation of doors (except automated and revolving), windows, door and window frames, of wood or other materials
+- installation of fitted kitchens, built-in cupboards, staircases, shopfittings, etc.
+- interior completion (e.g. of ceilings and movable partitions)
+- installation works for conservatories, verandas and balconies, of wood or other materials
+- assembly of stands and stalls (e.g. at markets, exhibitions, fairs)
+This class excludes:
+- installation of automated and revolving doors, see 43.24
+- rental and leasing of stands and stalls (e.g. for exhibitions or fairs), see 77.39

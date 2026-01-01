@@ -1,0 +1,13 @@
+R87.20 Residential care activities for persons living with or having a diagnosis of a mental illness or substance abuse
+This class includes the provision of residential care (but not licensed hospital care), protective supervision and counselling to persons living with or having a diagnosis of a mental illness, intellectual disability or substance abuse, irrespective of their age.
+This class includes activities of:
+- facilities for the treatment of substance abuse
+- mental health convalescent homes
+- residential group homes for the emotionally disturbed
+- mental health halfway houses
+- assisted living facilities for persons having a diagnosis of intellectual disability
+This class excludes:
+- mental health hospitals, see 86.10
+- provision of residential nursing care and rehabilitative services for individuals other than those living with or having a diagnosis of a mental illness, see 87.10, 87.30
+- social work activities with accommodation (e.g. temporary homeless shelters), see 87.99
+- non-residential care activities for persons living with or having a diagnosis of a mental illness (e.g. mental healthcare centres), see division 88

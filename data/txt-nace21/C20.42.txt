@@ -1,0 +1,15 @@
+C20.42 Manufacture of perfumes and toilet preparations
+This class includes:
+- manufacture of perfume and toilet preparations:
+perfume and toilet water
+beauty and make-up preparations
+sunburn prevention and suntan preparations
+manicure and pedicure preparations
+shampoos, hair lacquers, waving and straightening preparations
+dentifrices and preparations for oral hygiene, including denture fixative preparations
+shaving preparations, including pre-shave and aftershave preparations
+deodorants and bath salts
+depilatories
+- manufacture of cosmetic soap
+This class excludes:
+- extraction and refining of natural essential oils, see 20.59

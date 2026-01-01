@@ -1,0 +1,15 @@
+R8710 Residential nursing care activities
+This class includes the provision of residential care, with medical assistance, nursing and rehabilitation treatments.
+These establishments have a permanent core staff of registered or licensed practical nurses that, along with other staff, provide nursing care in combination with personal care.
+The medical or nursing care services typically include administering medication, performing medical diagnoses and dressing wounds, and are typically provided without the supervision of a medical doctor located on the premises.
+This class includes activities of:
+homes for older persons with nursing care
+convalescent homes, other than mental health and substance abuse facilities
+rest homes with nursing care
+nursing care facilities
+nursing homes hospices
+inpatient care hospices for palliative care
+This class excludes:
+- palliative care for out-patients, see, 8699
+- activities of homes for older persons without or with only minimal nursing care, see 8730
+- residential and personal care activities e.g. orphanages, children's boarding homes and hostels, temporary homeless shelters, see 8799

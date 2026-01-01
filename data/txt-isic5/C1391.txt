@@ -1,0 +1,11 @@
+C1391 Manufacture of knitted and crocheted fabrics
+This class includes:
+- manufacture and processing of knitted or crocheted fabrics:
+pile and terry fabrics
+net and window furnishing type fabrics
+other knitted or crocheted fabrics
+This class also includes:
+- manufacture of imitation fur by knitting
+This class excludes:
+- manufacture of net and window furnishing type fabrics of lace, see 1399
+- manufacture of knitted and crocheted apparel, see 1430

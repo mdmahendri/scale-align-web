@@ -1,0 +1,7 @@
+C28 Manufacture of machinery and equipment n.e.c.
+This division includes the manufacture of machinery and equipment that act independently on materials either mechanically or thermally or perform operations on materials (such as handling, spraying, weighing or packing), including their mechanical components that produce and apply force, and any specially manufactured primary parts.
+This includes the manufacture of fixed and mobile or hand-held devices, regardless of whether they are designed for industrial, building and civil engineering, agricultural or home use.
+The manufacture of special equipment for passenger or freight transport within demarcated premises also belongs within this division.
+This division distinguishes between the manufacture of special-purpose machinery, i.e. machinery for exclusive use in an ISIC activity or a small cluster of ISIC activities, and general-purpose machinery, i.e. machinery that is being used in a wide range of ISIC industries.
+This division also includes the manufacture of other special-purpose machinery, not covered elsewhere in the classification, whether or not used in a manufacturing process, such as fairground amusement equipment, automatic bowling alley equipment, etc.
+This division excludes the manufacture of metal products for general use (division 25), associated control devices, computer equipment, measurement and testing equipment, electricity distribution and control apparatus (divisions 26 and 27) and general-purpose motor vehicles (divisions 29).

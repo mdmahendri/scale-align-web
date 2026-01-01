@@ -1,0 +1,3 @@
+F43.91 Masonry and bricklaying activities
+This class includes:
+- bricklaying, block laying, stone setting and other masonry works

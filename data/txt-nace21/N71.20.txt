@@ -1,0 +1,29 @@
+N71.20 Technical testing and analysis
+This class includes:
+- performance of physical, chemical and other analytical testing of all types of materials and products, e.g.:
+acoustics and vibration testing
+testing of composition and purity of minerals
+testing activities in the field of food hygiene, including testing and control in relation to food production (e.g. testing of animals before slaughter)
+testing of physical characteristics and the performance of materials (e.g. strength, thickness, durability, radioactivity)
+qualification and reliability testing
+performance testing of complete machinery: motors, automobiles, electronic equipment, etc.
+radiographic testing of welds and joints
+failure analysis
+testing and measuring of environmental indicators: air and water pollution, etc.
+testing the quality of fuels
+- certification of products, including consumer goods, motor vehicles, aircraft, pressurised containers, nuclear plants, etc.
+- periodic road safety testing of motor vehicles
+- testing with use of models or mock-ups (e.g. of aircraft, ships, dams)
+- operation of police or forensic laboratories
+- product origin and quality assessment activities
+This class also includes:
+- inspections of air ducts, water and gas pipes, not associated with repair or installation
+This class excludes:
+- inspections of air ducts, water and gas pipes, associated with repair or installation, see section F
+- sampling and weighing as part of goods handling operations, see 52.25
+- penetration testing of computer systems, ethical hacking and cybersecurity, see division 62
+- consulting activities carried out by companies or professionals in order to obtain a certification, see 70.20
+- DNA sequencing for general research on biological processes, see 72.10
+- testing of animal specimens, for sanitary reasons and not associated with food production, see 75.00
+- diagnostic imaging, testing and analysis of medical and dental specimens, see division 86
+- DNA sequencing for ruling out or curing a specific disease, see 86.91

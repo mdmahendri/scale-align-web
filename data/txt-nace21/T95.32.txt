@@ -1,0 +1,8 @@
+T95.32 Repair and maintenance of motorcycles
+This class includes:
+- repair and maintenance of motorcycles
+- motorcycle and motorcycle parts spraying and painting activities
+- bodywork repair on motorcycles
+- washing, polishing, etc., of motorcycles
+This class excludes:
+- repair and maintenance of bicycles and electric bicycles, see 95.29

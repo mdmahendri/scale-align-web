@@ -1,0 +1,7 @@
+H491 Transport via railways
+This group includes all transportation of passengers and/or freight by rail suing rolling stock on mainline networks, usually spread over an extensive geographic area.
+Freight rail transport over short-line freight railroads is included here.
+This group excludes:
+- urban and suburban passenger land transport, see 4921
+- related activities such as switching and shunting, see 5221
+- operation of railroad infrastructure, see 5221

@@ -1,0 +1,6 @@
+Q8510 Pre-primary education
+This class includes:
+- pre-primary education.
+Pre-primary education is defined as the initial stage of organised instruction designed primarily to introduce very young children to a school- type environment, that is, to provide a bridge between the home and a school-based atmosphere.
+This class excludes:
+- child day-care activities (ISCED-P 2011 level 01 early childhood educational development), see 8890

@@ -1,0 +1,14 @@
+C23.99 Manufacture of other non-metallic mineral products n.e.c.
+This class includes:
+- manufacture of friction material and unmounted articles thereof with a base of mineral substances or of cellulose
+- manufacture of mineral insulating materials, e.g.:
+slag wool, rock wool and similar mineral wools; exfoliated vermiculite, expanded clays and similar heat-insulating, sound-insulating or sound-absorbing materials
+- manufacture of articles of diverse mineral substances, e.g.:
+worked mica and articles of mica, of peat, of graphite (other than electrical articles)
+- manufacture of articles of asphalt or similar material (e.g. petroleum bitumen or coal tar pitch)
+- manufacture of carbon and graphite fibres and products (except electrodes and electrical applications)
+- manufacture of artificial corundum
+This class excludes:
+- manufacture of glass wool and non-woven glass wool products, see 23.14
+- manufacture of graphite electrodes, see 27.90
+- manufacture of carbon or graphite gaskets, see 28.29

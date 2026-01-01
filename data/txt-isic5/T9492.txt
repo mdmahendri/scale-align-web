@@ -1,0 +1,4 @@
+T9492 Activities of political organizations
+This class includes:
+- activities of political organisations and auxiliary organisations e.g. young people's auxiliaries associated with a political party.
+These organisations chiefly engage in influencing decision-taking in public governing bodies by placing members of the party or those sympathetic to the party in political office and involve the dissemination of information, public relations, fund-raising etc

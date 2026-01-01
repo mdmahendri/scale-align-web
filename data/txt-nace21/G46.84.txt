@@ -1,0 +1,13 @@
+G46.84 Wholesale of hardware, plumbing and heating equipment and supplies
+This class includes:
+- wholesale of ironware and similar household hardware
+- wholesale of fittings
+- wholesale of hot water heaters, radiators and boilers
+- wholesale of sanitary installation equipment:
+tubes, pipes, fittings, taps, T pieces, connections, rubber pipes, etc.
+- wholesale of tools (e.g. hammers, saws, screwdrivers and other hand tools), including power hand tools
+- wholesale of heating, ventilation and air-conditioning equipment, for non-domestic use
+This class excludes:
+- wholesale of heating, ventilation and air-conditioning equipment, for domestic use, see 46.43
+- wholesale of mining, construction and civil engineering machinery, see 46.63
+- wholesale of sanitary equipment, see 46.83

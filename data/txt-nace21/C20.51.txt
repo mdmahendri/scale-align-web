@@ -1,0 +1,10 @@
+C20.51 Manufacture of liquid biofuels
+This class includes:
+- manufacture of biodiesel
+- manufacture of ethanol from biomass
+- manufacture of mixtures of bioethanol and ethers partially derived from biomass
+- manufacture of liquid biofuels even if processes use waste as an input
+This class excludes:
+- manufacture of solid fuels from vegetable biomass, see 16.26
+- manufacture of ethyl alcohol other than for bioethanol biofuels, see 20.14
+- manufacture of explosives, see 20.59

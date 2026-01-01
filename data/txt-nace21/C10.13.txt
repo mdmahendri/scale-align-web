@@ -1,0 +1,9 @@
+C10.13 Production of meat and poultry meat products
+This class includes:
+- production of preserved meat (e.g. by cooking, drying, salting or smoking)
+- production of meat products:
+sausages, salami, puddings, andouillettes, saveloys, bolognas, pts, rillettes, boiled ham
+This class excludes:
+- manufacture of prepared meat and poultry dishes, see 10.85
+- manufacture of soup containing meat, see 10.89
+- wholesale of meat, see 46.32

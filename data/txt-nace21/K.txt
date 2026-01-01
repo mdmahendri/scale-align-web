@@ -1,0 +1,7 @@
+K TELECOMMUNICATION, COMPUTER PROGRAMMING, CONSULTING, COMPUTING INFRASTRUCTURE AND OTHER INFORMATION SERVICE ACTIVITIES
+This section includes telecommunication and related service activities, in other words, transmitting voice, data, text, sound and video (division 61), computer programming, consultancy and related activities (division 62), and the provision of computing infrastructure, data processing, hosting and other information service activities (division 63).
+This section excludes:
+- publishing, broadcasting and content production, including software publishing, post-production services to convert audio and video content into streaming formats and independent third-party provision of on-demand audio and video streaming or download distribution services, see section J
+- provision of financial and insurance services using published financial and insurance technologies software, see section L
+- activities of gambling sites, see 92.00
+- repair and maintenance of computers and communication equipment, see 95.10

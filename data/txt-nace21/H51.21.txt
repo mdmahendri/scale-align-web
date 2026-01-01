@@ -1,0 +1,5 @@
+H51.21 Freight air transport
+This class includes:
+- air transport of freight, whether scheduled or not
+This class also includes:
+- rental of air transport equipment with an operator for the purpose of freight transport

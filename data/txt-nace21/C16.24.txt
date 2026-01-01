@@ -1,0 +1,9 @@
+C16.24 Manufacture of wooden containers
+This class includes:
+- manufacture of packing cases, boxes, crates, drums and similar items of wood
+- manufacture of pallets, box pallets and other load boards of wood
+- manufacture of barrels, vats, tubs and other coopers products of wood
+- manufacture of wooden cable drums
+This class excludes:
+- manufacture of luggage, see 15.12
+- manufacture of cases of plaiting material, see 16.28

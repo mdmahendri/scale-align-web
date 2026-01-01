@@ -1,0 +1,7 @@
+R87.91 Intermediation service activities for residential care activities
+This class includes the intermediation of residential care activities, by bringing clients and service providers together for a fee or commission, without the intermediary providing the residential care services that are intermediated.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (including door-to-door, face-to-face, telephone, mail, and so on).
+The fee or commission can be received from either the client or the provider of the residential care service.
+Revenue for the intermediation activities can include other sources of income (for example, revenues from the sale of advertising space).
+This class excludes:
+- intermediation service activities for medical, dental and other human health services, see 86.97

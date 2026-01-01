@@ -1,0 +1,5 @@
+C23.63 Manufacture of ready-mixed concrete
+This class includes:
+- manufacture of concrete ready to pour, i.e. to which water has already been added and which is usually transported in concrete mixer lorries
+This class excludes:
+- manufacture of refractory cements, see 23.20

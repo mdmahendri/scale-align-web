@@ -1,0 +1,16 @@
+C30.13 Building of military ships and vessels
+This class includes the building of military ships and vessels, such as combat ships equipped with various offensive and defensive weapons and with protective devices against shelling, and the building of military floating structures, for example:
+- aircraft carriers
+- amphibious warfare and assault ships
+- cruisers
+- destroyers
+- submarines
+- landing crafts
+- tugs for transporting ammunition or mines
+This class also includes:
+- factory conversion of military ships, vessels and floating structures
+This class excludes:
+- manufacture of weapons and ammunition (e.g. torpedo tubes, torpedoes), see 25.30
+- factory overhaul of military ship and vessel engines, see 28.11
+- building of civilian ships and floating structures, see 30.11
+- manufacture of inflatable boats or rafts for pleasure and sport, see 30.12

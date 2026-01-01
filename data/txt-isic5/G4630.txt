@@ -1,0 +1,24 @@
+G4630 Wholesale of food, beverages and tobacco
+This class includes:
+- wholesale of fruit and vegetables
+- wholesale of dairy products
+- wholesale of eggs and egg products
+- wholesale of edible oils and fats of animal or vegetable origin
+- wholesale of meat and meat products
+- wholesale of fishery products
+- wholesale of sugar, chocolate and sugar confectionery
+- wholesale of bakery products
+- wholesale of beverages
+- wholesale of coffee, tea, cocoa and spices
+- wholesale of tobacco and smoking products and accessories, including electronic cigarettes (vapes), lighters, pipes, cigarette rolling equipment
+This class also includes:
+- buying of wine in bulk and bottling without transformation
+- wholesale of feed for pet animals
+- wholesale of ready-made meals
+- wholesale of homogenised food preparations and dietetic food
+- wholesale of food supplements for human consumption
+- wholesale of insects, e.g. crickets, which are processed and ready to eat
+This class excludes:
+- blending of wine or distilled spirits, see 1101, 1102 wholesale of livestock feeds, see 4620
+- wholesale of e-liquids for electronic cigarettes, see 4679
+- activities of wholesalers who do not assume ownership of the goods they trade, see 461

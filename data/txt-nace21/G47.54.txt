@@ -1,0 +1,6 @@
+G47.54 Retail sale of electrical household appliances
+This class includes the retail sale of electrical household appliances.
+This class excludes:
+- retail sale of audio and video equipment, see 47.40
+- retail sale of lawnmowers, see 47.52
+- retail sale of power hand tools, see 47.52

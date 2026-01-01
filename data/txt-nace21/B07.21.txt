@@ -1,0 +1,9 @@
+B07.21 Mining of uranium and thorium ores
+This class includes:
+- mining of ores chiefly valued for uranium and thorium content: pitchblende, etc.
+- concentration of such ores
+- manufacture of yellowcake
+This class excludes:
+- enrichment of uranium and thorium ores, see 20.13
+- production of uranium metal from pitchblende or other ores, see 24.46
+- smelting and refining of uranium, see 24.46

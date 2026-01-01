@@ -1,0 +1,21 @@
+C1812 Service activities related to printing
+This class includes pre-press and pre-media services, and binding and related services.
+It includes:
+- composing, typesetting and phototypesetting, pre-press data input into a form suitable for use in various printing processes and representation in other visual media including scanning and optical character recognition, electronic make-up
+- preparation of data files for multi-media (printing on paper, CD-ROM, Internet) applications
+- plate-making services including image setting and plate setting (for the printing processes letterpress and offset)
+- cylinder preparation: engraving or etching of cylinders for gravure printing
+- plate processing: "computer to plate" CTP (also photopolymer plates)
+- preparation of plates and dies for relief stamping or printing
+- preparation of:
+artistic works of technical character, such as preparation of lithographic stones and wood blocks
+presentation media
+sketches, layouts, dummies, etc.
+production of proofs
+- trade binding, sample mounting and post press services in support of printing activities, e.g. trade binding and finishing of books, brochures, magazines, catalogues, by e.g. folding, cutting and trimming, assembling, stitching, thread sewing, adhesive binding, cutting and cover laying, gluing, collating, basting, gold stamping; spiral binding and plastic wire binding
+- binding and finishing of printed paper or printed cardboard, by folding, stamping, drilling, punching, perforating, embossing, sticking, gluing, laminating
+- finishing services for CD-ROMs
+- mailing finishing services e.g. customisation, envelope preparation
+- other finishing activities e.g. die, sinking or stamping, Braille copying
+This class excludes:
+- graphic designing of visual content for the communication of information using print and other media, see 7410

@@ -1,0 +1,14 @@
+C2592 Treatment and coating of metals; machining
+This class includes:
+- plating, anodizing etc. of metals
+- heat treatment of metals
+- deburring, sandblasting, tumbling, cleaning of metals
+- colouring and engraving of metals
+- non-metallic coating of metals:
+* plasticizing, enamelling, lacquering etc.
+- hardening, buffing of metals
+- boring, turning, milling, eroding, planing, lapping, broaching, levelling, sawing, grinding, sharpening, polishing, welding, splicing etc. of metalwork pieces
+- cutting of and writing on metals by means of laser beams
+This class excludes:
+- activities of farriers, see 0162
+- rolling precious metals onto base metals or other metals, see 2420

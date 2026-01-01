@@ -1,0 +1,8 @@
+R86 Human health activities
+This division includes activities of short- or long-term inpatient health care, general or specialty medical or surgical, offered by hospitals, preventoria, medical nursing homes, mental hospital institutions, rehabilitation centres and other human health institutions, which have accommodation facilities and which engage in providing diagnostic and medical treatment to primarily inpatients, with a wide range of medical conditions.
+This division also includes medical consultation and treatment in the field of general and specialised medicine, by general practitioners and medical specialists and surgeons.
+It includes dental practice activities of a general or specialised nature, as well as orthodontic activities.
+Additionally, this division includes medical, curative, rehabilitative, or prevention activities by paramedical practitioners and health professionals other than hospitals or practicing medical doctors.
+This division includes also other human health activities such as activities of medical laboratories, blood banks, sperm banks, transplant organ banks etc. including collecting, processing, storing and shipping.
+This division excludes:
+- veterinary activities, see 7500

@@ -1,0 +1,10 @@
+L6629 Other activities auxiliary to insurance and pension funding
+This class includes:
+- activities involved in or closely related to insurance and pension funding (except financial intermediation, claims adjusting and activities of insurance agents):
+salvage administration
+actuarial services
+pension and insurance advisory activities
+administration of financial markets for insurance and pension funding
+This class excludes:
+- marine salvage activities, see 5222
+- publishing of insurance software/applications, see class 5829

@@ -1,0 +1,10 @@
+J5913 Motion picture, video and television programme distribution activities
+This class includes:
+- distributing film, videos, or audiovisual works and similar productions to motion picture theatres, television networks and stations, and exhibitors
+This class excludes:
+- film duplication (except reproduction of motion picture film for theatrical distribution) as well as reproduction of audio and video recordings on CD, DVD, or other physical media from master copies, see 1820
+- reproduction of motion picture film for theatrical distribution, see 5912
+- third-party on-demand video streaming distribution services and downloads , see 6020
+- wholesale of recorded videos on CD, DVD, or other physical media, see 4649
+- retail sale of recorded videos on CD, DVD, or other physical media, see 4769
+- rental of recorded videos on CD, DVD, or other physical media to the general public, see 7729

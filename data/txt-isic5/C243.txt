@@ -1,0 +1,9 @@
+C243 Casting of metals
+This group includes activities of foundries employing different casting processes to produce castings with all ferrous and non-ferrous metal alloys.
+Subsequent trimming or de-scaling of the castings might be included, but without any further processing.
+This group includes the manufacture of castings used in various industries
+This group excludes:
+- manufacture of products obtained by production processes other than from castings, e.g. as forged, pressed, drawn and stamped parts, rolled rings or powder metallurgy products, etc., see division 25
+- manufacture of finished products by further processing of castings e.g.:
+boilers and radiators, see 2512
+cast household items, see 2599

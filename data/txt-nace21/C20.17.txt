@@ -1,0 +1,8 @@
+C20.17 Manufacture of synthetic rubber in primary forms
+This class includes:
+- manufacture of synthetic rubber in primary forms:
+synthetic rubber
+factice
+- manufacture of mixtures of synthetic rubber and natural rubber or rubber-like gums (e.g. balata)
+This class excludes:
+- sorting, shredding, cleaning, grinding and pelletising of rubber waste, see 38.21

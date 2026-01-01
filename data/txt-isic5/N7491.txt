@@ -1,0 +1,10 @@
+N7491 Patent brokering and marketing service activities
+This class includes:
+- brokering and marketing activities on patents
+This class includes also:
+- management services for copyrights and their revenues
+- management services for rights to industrial property (patents, licences, trademarks, franchises etc.)
+- activities of collective rights management organisations
+This class excludes:
+- leasing of intellectual property and similar products, see 7740
+- buying and selling patents and similar intellectual property rights on own account, see 7740

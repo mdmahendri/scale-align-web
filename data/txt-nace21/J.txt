@@ -1,0 +1,17 @@
+J PUBLISHING, BROADCASTING, AND CONTENT PRODUCTION AND DISTRIBUTION ACTIVITIES
+This section includes the production and publishing, broadcasting and other distribution of information products.
+This section includes: book, newspaper, periodical and software publishing activities (division 58); the production of motion picture, video and television programme elements , sound recording and music publishing activities (division 59); radio and television broadcasting as well as television or radio programme production and distribution activities, including the operation of streaming, downloads and content distribution (sharing) platforms not associated with publishing of the content, the operation of blogs and wiki sites, social network sites and online gaming / video game sites (division 60).
+Publishing refers to the acquisition of copyrights to content (information products) and making this content available to the general public by engaging in (or arranging for) the reproduction and distribution of this content in various forms.
+Publishers may solely publish and then license rights to others to distribute their content, or they may publish and distribute content they create or own.
+All the feasible forms of publishing (in print, electronic, digital, analogue, or any other form) and self-publishing activities are included in this section.
+Individual television programming components (for example, movies, television series) are produced by activities in division 59, while the creation of a complete programme for a television channel, from components produced in division 59 or other components (for example, live news programming), is included in division 60.
+Division 60 also includes the broadcasting of this programme by the producer.
+This section also includes:
+- the creation and leasing of copyrights for published content
+This section excludes:
+- wholesale and retail sale of recorded media, see section G
+- activities of providing telecommunication and related service activities, i.e. transmitting voice, data, text, sound and video, computer programming activities, computing infrastructure and hosting activities, and web search portals, see section K
+- provision of financial and insurance services using published financial and insurance technologies software, see section L
+- the management of copyrights, see 74.91
+- rental of discs, see 77.22
+- activities of independent musicians and actors (including influencers appearing in vlogs), writers and bloggers, whose content is published by a third party, and gambling sites, see section S

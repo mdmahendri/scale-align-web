@@ -1,0 +1,35 @@
+C2029 Manufacture of other chemical products n.e.c.
+This class includes:
+- manufacture of propellant powders
+- manufacture of explosives and pyrotechnic products, including percussion caps, detonators, signalling flares etc.
+- manufacture of gelatine and its derivatives
+- manufacture of glues and prepared adhesives, including rubber-based glues and adhesives
+- manufacture of extracts of natural aromatic products
+- manufacture of resinoids
+- manufacture of aromatic distilled waters
+- manufacture of mixtures of odoriferous products for the manufacture of perfumes or food
+- manufacture of e-liquids used in vaping devices
+- manufacture of photographic plates, films, sensitized paper and other sensitized unexposed materials
+- manufacture of chemical preparations for photographic uses
+- manufacture of various chemical products:
+* peptones, peptone derivatives, other protein substances and their derivatives n.e.c.
+* essential oils
+* chemically modified oils and fats
+* materials used in the finishing of textiles and leather
+* powders and pastes used in soldering, brazing or welding
+* substances used to pickle metal
+* prepared additives for cements
+* activated carbon, lubricating oil additives, prepared rubber accelerators, catalysts and other chemical products for industrial use
+* anti-knock preparations, antifreeze preparations
+* composite diagnostic or laboratory reagents
+This class also includes:
+- Manufacture of biofuels
+- manufacture of writing and drawing ink
+- manufacture of matches
+This class excludes:
+- manufacture of chemically defined products in bulk, see 2011
+- manufacture of distilled water, see 2011
+- manufacture of synthetic aromatic products, see 2011
+- manufacture of printing ink, see 2022
+- manufacture of perfumes and toilet preparations, see 2023
+- manufacture of asphalt-based adhesives, see 2399

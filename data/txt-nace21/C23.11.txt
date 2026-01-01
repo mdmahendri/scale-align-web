@@ -1,0 +1,7 @@
+C23.11 Manufacture of flat glass
+This class includes:
+- manufacture of flat glass (e.g. cast, rolled, drawn or blown), surface ground or polished glass in sheets and sheets of float glass, opacified, flashed or having an absorbent, reflecting or non-reflecting layer, including wired, coloured throughout the mass, or tinted flat glass
+This class also includes:
+- shaping and processing done as part of the manufacturing process
+This class excludes:
+- shaping and processing of flat glass sheets (e.g. bending, engraving, laminating, tempering), see 23.12

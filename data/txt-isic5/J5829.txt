@@ -1,0 +1,17 @@
+J5829 Other software publishing
+This class includes:
+- publishing of other software, including :
+operating systems
+business and other applications, e.g. distributed ledger technology (DLT) or financial technologies software
+cybersecurity software
+modelling software
+intermediation service activities for software publishing
+marketplaces for software downloads
+This class excludes:
+- publishing of video games, see 5821
+- reproduction of software, see 1820
+- retail sale of non-customised software on physical media, see 4740
+- development of software independent of publishing, including translation or adaptation of non-customised software for a particular market on a fee or contract basis, see 621
+- application hosting, see 6310
+- operation of online gaming/video game sites, independent of publishing , see 6039
+- use of published software for provision of financial and insurance activities, see section L

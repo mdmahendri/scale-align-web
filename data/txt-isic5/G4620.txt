@@ -1,0 +1,14 @@
+G4620 Wholesale of agricultural raw materials and live animals
+This class includes:
+- wholesale of grains and seeds and seeds for planting
+- wholesale of oleaginous fruits
+- wholesale of flowers and plants
+- wholesale of unmanufactured tobacco
+- wholesale of live animals including pets
+- wholesale of hides and skins
+- wholesale of leather
+- wholesale of agricultural material, waste, residues and by-products used for animal feed
+This class excludes:
+- activities of wholesalers who do not assume ownership of the goods they trade, see 461
+- wholesale of food for pet animals, see 4630
+- wholesale of textile fibres, see 4679

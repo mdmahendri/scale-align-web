@@ -1,0 +1,12 @@
+G4771 Retail sale of clothing, footwear and leather articles
+This class includes:
+- retail sale of articles of clothing
+- retail sale of articles of fur
+- retail sale of clothing accessories such as gloves, ties, braces etc.
+- retail sale of umbrellas
+- retail sale of footwear
+- retail sale of leather goods
+- retail sale of travel accessories of leather and leather substitutes
+This class excludes:
+- retail sale of textiles, see 4751
+- retail sale of special footwear for sports e.g. football shoes, ice skates, ski boots, etc., see 4762

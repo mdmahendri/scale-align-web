@@ -1,0 +1,15 @@
+F43.35 Other building completion and finishing
+This class includes the finishing work which concludes the construction of a building.
+This class includes:
+- installation of prefabricated metal sheets, steel parts, profiles, etc.
+- ornamentation fitting works on buildings
+- cladding for exterior walls
+- erection of curtain walls
+- other building completion and finishing work n.e.c.
+This class excludes:
+- installation of large-scale shelving (e.g. in shops or warehouses (not an integral part of the building)), see 33.20
+- installation of acoustic panels, tiles and similar materials, see 43.23
+- interior design activities, see 74.13
+- general interior cleaning of buildings and other structures, see 81.21
+- specialised interior and exterior cleaning of buildings, see 81.22
+- steam cleaning, sandblasting and similar activities for building exteriors, see 81.22

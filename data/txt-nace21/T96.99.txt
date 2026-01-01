@@ -1,0 +1,29 @@
+T96.99 Other personal service activities n.e.c.
+These activities are predominantly provided to individuals.
+This class includes:
+- astrological and spiritualists activities
+- social activities (e.g. escort services, dating services, services of a marriage bureau)
+- provision or arrangement of sexual services, organisation of prostitution events or operation of prostitution establishments
+- pet care services (e.g. boarding, grooming or training pets)
+- operation of shelters for abandoned pets
+- genealogical activities
+- activities of tattooing and piercing studios
+- activities of shoe-shiners, porters, car parkers, etc.
+- concession operation of coin-operated personal services machines (e.g. photo booths, weighing machines or lockers)
+- operation of photo automats for printing photographs from electronic records (e.g. from telephone, memory cards, flash drives)
+- dating and other speed networking activities
+- tattoo artist activities, using biological substances (e.g. henna) for temporary decoration
+- horse whispering activities
+- housesitting activities
+- wedding planners activities
+This class excludes:
+- veterinary activities, see 75.00
+- home cleaning activities, see 81.21
+- yoga or Pilates instruction, see 85.51
+- provision of alternative therapeutic services (e.g. homeopathy, chiropractic treatments, osteopathy, crystal therapy, iridology, kinesiology and radionics), see 86.96
+- activities of practitioners in the field of shiatsu, Thai massage, Watsu, tui na, qigong, see 86.99
+- homecare services for older persons, including live-in care services, see 88.10
+- day-care activities for children provided in private homes or day-care centres, see 88.91
+- after-school care services, see 88.91
+- operation of coin-operated gambling machines, see 92.00
+- operation of coin-operated washing machines, see 96.10

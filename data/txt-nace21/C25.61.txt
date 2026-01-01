@@ -1,0 +1,12 @@
+C25.61 Manufacture of cutlery
+This class includes:
+- manufacture of domestic cutlery (e.g. knives, forks, spoons)
+- manufacture of other articles of cutlery, e.g.:
+cleavers and choppers
+razors and razor blades
+scissors and hair clippers
+- manufacture of cutlasses, swords, bayonets, etc.
+This class excludes:
+- manufacture of knives and cutting blades for industrial machines, see 25.63
+- manufacture of hollowware (pots, kettles, etc.), dinnerware (bowls, platters, etc.), or flatware (plates, saucers, etc.), see 25.99
+- manufacture of cutlery of precious metal, see 32.12

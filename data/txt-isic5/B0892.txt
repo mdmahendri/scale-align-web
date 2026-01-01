@@ -1,0 +1,10 @@
+B0892 Extraction of peat
+This class includes:
+- peat digging
+- preparation of peat to improve quality or facilitate transport or storage
+This class excludes:
+- service activities incidental to peat mining, see 0990
+- manufacture of peat briquettes, see 1920
+- manufacture of potting soil mixtures, of e.g. of peat, natural soil, sands, clays, fertiliser minerals, see
+2012
+- manufacture of articles of peat, see 2399

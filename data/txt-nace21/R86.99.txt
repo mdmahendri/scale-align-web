@@ -1,0 +1,33 @@
+R86.99 Other human health activities n.e.c.
+This class includes:
+- activities for human health n.e.c.:
+activities of paramedical practitioners in the field of optometry, hydrotherapy, speech therapy, podiatry/chiropody, etc.
+This class also includes:
+- activities of dental paramedical personnel (e.g. dental therapists, school dental nurses or dental hygienists) who may work remote from but are periodically supervised by dentists
+- activities of blood banks, tissue banks, sperm banks, transplant organ banks, biobanks, genome data centres, etc., including collecting, processing, storage and shipping
+- operation of bone marrow donor registries
+- activities of orthoptists
+- activities of podiatrists
+- activities of skin therapists
+- health-related monitoring activities (infant nutrition, child health)
+- activities of dieticians
+- prevention health activities and disease detection (cancer, tuberculosis, venereal diseases)
+- transport of blood and body organs/fluids
+- shiatsu, Thai massage, Watsu, tui na qigong
+- animal therapy activities (e.g. hippotherapy)
+- colonic hydrotherapy
+- dance and movement therapy
+- art therapy
+This class excludes:
+- production of artificial teeth, denture and prosthetic appliances by dental laboratories, see 32.50
+- non-medical laboratory testing, see 71.20
+- testing activities in the field of food hygiene, see 71.20
+- hospital activities, see 86.10
+- medical and dental practice activities, see 86.2
+- diagnostic imaging services and medical laboratory activities, see 86.91
+- activities of psychologists (e.g. clinical psychologists, health psychologists, psychotherapists, except medical doctors), see 86.93
+- nursing and midwifery activities, see 86.94
+- physiotherapy activities, see 86.95
+- activities of medical massage therapists, see 86.95
+- residential nursing care facilities, see 87.10
+- activities of massage salons for non-medical massage, see 96.23

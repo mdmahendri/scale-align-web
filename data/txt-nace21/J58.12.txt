@@ -1,0 +1,11 @@
+J58.12 Publishing of newspapers
+This class includes:
+- publishing of newspapers
+All the feasible forms of publishing (in print, digital, analogue, or any other form) are included.
+This class also includes:
+- advertising newspapers
+This class excludes:
+- production of television or video news programmes, see 59.11
+- news agency activities, see 60.31
+- activities of photojournalists, not self-publishing their own created content, see 74.20
+- activities of journalists whose content is published by a third party, see 90.11

@@ -1,0 +1,19 @@
+H5221 Service activities incidental to land transportation
+This class includes:
+- activities related to road, rail and other land transport of passengers, animals or freight:
+operation of terminal facilities such as railway stations, bus stations, stations for the handling of goods
+operation of railroad infrastructure and rail related facilities, cargo terminals, technical back-up points, railway stops for fuel
+operation of roads, including bridges, tunnels, and highway toll roads
+- operation of car parks or garages, bicycle parkings, winter storage of caravans
+- switching and shunting
+- towing and roadside assistance
+- operation of toll collection facilities
+- truck transportation cargo surveying activities
+This class also includes:
+- liquefaction and/or regasification of natural gas for the purpose of land transportation
+This class excludes:
+- operation and maintenance of roads (incl. activities of winter maintenance, bridges, tunnels), see section F
+- liquefaction of natural gas for transport purposes, done at the mine site, see 0910
+- regasification of natural gas for distribution through mains, see 3520
+- regasification of natural gas for the purpose of transport via pipeline, see 4930
+- moving cargos on industrial sites, typically with transport equipment that is not suitable for use on roads open to public traffic, see 5224

@@ -1,0 +1,12 @@
+O8292 Packaging activities
+This class includes:
+- packaging activities on a fee or contract basis, whether or not these involve an automated process:
+bottling of liquids, including beverages and food
+packaging of solids (blister packaging, foil-covered etc.)
+security packaging of pharmaceutical preparations
+labelling, stamping and imprinting
+parcel-packing and gift-wrapping
+- product sterilisation associated with packaging
+This class excludes:
+- manufacture of soft drinks and production of mineral water, see 1105
+- packaging activities incidental to transport, see 5229

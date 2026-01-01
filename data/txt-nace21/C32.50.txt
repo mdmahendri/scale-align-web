@@ -1,0 +1,34 @@
+C32.50 Manufacture of medical and dental instruments and supplies
+This class includes the manufacture of laboratory apparatus, surgical and medical instruments, surgical appliances and supplies, dental equipment and supplies, orthodontic goods, dentures and orthodontic appliances.
+Further included is the manufacture of medical, dental and similar furniture where the additional specific functions determine the purpose of the product (for example, dentists chairs with built-in hydraulic functions).
+This class includes:
+- manufacture of surgical drapes and sterile yarns/tissue
+- manufacture of dental fillings and cements (except denture adhesives), dental wax and other dental plaster preparations
+- manufacture of bone reconstruction cements
+- manufacture of dental laboratory furnaces
+- manufacture of laboratory ultrasonic cleaning machinery
+- manufacture of medical, surgical or laboratory sterilisers
+- manufacture of laboratory-type centrifuges
+- manufacture of medical, surgical, dental or veterinary furniture, e.g.:
+operating tables
+examination tables
+hospital beds with mechanical fittings
+dentist chairs
+- manufacture of articles specially designed for use exclusively in implants in medical, surgical, dental or veterinary sciences (e.g. plates which remain permanently in the body (e.g. to replace part or the whole of a bone))
+- manufacture of syringes, needles, catheters, cannulae, etc.
+- manufacture of dental instruments and appliances
+- manufacture of artificial teeth and dental fittings
+- manufacture of orthopaedic and prosthetic devices
+- manufacture of glass eyes
+- manufacture of medical thermometers
+- manufacture of ophthalmic goods, eyeglasses, sunglasses, lenses ground to prescription, contact lenses, safety goggles
+- manufacture of made-to-measure orthopaedic footwear and special insoles for correcting orthopaedic conditions
+- manufacture of individual protective masks (e.g. FFP2, FFP3, surgical masks)
+This class excludes:
+- manufacture of special series-produced shoes supporting the arch of the foot, see 15.20
+- manufacture of denture fixative pastes and powders, see 20.42
+- manufacture of wadding, gauze, bandages and similar articles (e.g. dressings, adhesive plasters, poultices, impregnated or coated with pharmaceutical substances), see 21.20
+- manufacture of electromedical and electrotherapeutic apparatus, see 26.60
+- manufacture of hearing aids, see 26.60
+- manufacture of wheelchairs, see 30.92
+- retail sale of corrective glasses, lenses and sunglasses, see 47.74

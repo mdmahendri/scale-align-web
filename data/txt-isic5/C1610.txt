@@ -1,0 +1,19 @@
+C1610 Sawmilling and planing of wood
+This class includes:
+- sawmilling, planning, processing and finishing of wood
+- sawing, planing and machining of wood
+- slicing, peeling or chipping logs
+- manufacture of wooden railway sleepers
+- manufacture of unassembled wooden flooring
+- manufacture outside of forest of wood wool, wood sawdust and flour, wood chips and particles
+This class also includes:
+- impregnation or chemical treatment of wood with preservatives or other materials
+- general activities for the processing and finishing of wood, which are typically carried out on a fee or contract basis:
+- boring, turning, milling, eroding, planning, lapping, broaching, levelling, sawing, grinding, sharpening, polishing, welding, splicing etc. of wood
+- industrial drying of wood
+- impregnation or chemical treatment of wood
+- treatment of wood in the rough with paint, stains or other preservatives
+This class excludes:
+- logging and production of wood in the rough, see 0220
+- manufacture of veneer sheets thin enough for use in plywood, boards and panels, see 1621
+- manufacture of shingles and shakes, beadings and mouldings, see 1622

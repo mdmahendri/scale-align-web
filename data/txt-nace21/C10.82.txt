@@ -1,0 +1,11 @@
+C10.82 Manufacture of cocoa, chocolate and sugar confectionery
+This class includes:
+- manufacture of cocoa, cocoa butter, cocoa fat, cocoa oil
+- manufacture of chocolate and chocolate confectionery
+- manufacture of sugar confectionery: caramels, cachous, nougats, fondant, white chocolate
+- manufacture of chewing gum
+- preserving in sugar of fruits, nuts, fruit peels and other parts of plants
+- manufacture of confectionery lozenges and pastilles
+- manufacture of sugar-free confectionery
+This class excludes:
+- manufacture of sucrose sugar, see 10.81

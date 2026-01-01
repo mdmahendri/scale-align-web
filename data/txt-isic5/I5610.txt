@@ -1,0 +1,24 @@
+I5610 Restaurants and mobile food service activities
+This class includes the provision of food services to customers, whether they are served while seated or serve themselves from a display of items, whether they eat the prepared meals on the premises, take them out or have them delivered.
+This includes the preparation and serving of meals for immediate consumption from motorized vehicles or non-motorized carts.
+This class includes activities of:
+- restaurants
+- cafeterias
+- fast-food restaurants
+- take-out eating places
+- mobile food operators, including:
+truck vendors
+- mobile food carts
+- food preparation in market stalls
+This class includes also:
+- operation of restaurants on transportation equipment and within transportation facilities, if the restaurants are considered as separate units and not part of the transportation provider
+- Operation of restaurants from within a hotel, if these restaurants are considered as separate unites and not part of the hotel
+- operation of take-away restaurants in a supermarket if operated by separate units not part of the supermarket
+This class excludes:
+- concession operation of eating facilities, see 5629
+- catering activities, see 5621
+- restaurant reservation services, if provided by an intermediary and not by the restaurant, see 5640
+- retail sale of food through vending machines, see 472
+- activities of food service contractors, e.g. for transportation companies, see 5629
+- activities of tea rooms, see 5630
+- mobile beverage vendors, see 5630

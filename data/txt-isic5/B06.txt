@@ -1,0 +1,10 @@
+B06 Extraction of crude petroleum and natural gas
+This division includes the production of crude petroleum, the mining and extraction of oil from oil shale and oil sands and the production of natural gas and recovery of hydrocarbon liquids.
+This division includes the activities of operating and/or developing oil and gas field properties.
+Such activities may include drilling, completing and equipping wells; operating separators, emulsion breakers, desalting equipment and field gathering lines for crude petroleum; and all other activities in the preparation of oil and gas up to the point of shipment from the producing property.
+This division excludes:
+- oil and gas field support activities, performed on a fee or contract basis, see 0910
+- oil and gas well exploration, see 0910
+- test drilling and boring in connection with petroleum or gas extraction, see 0910
+- refining of petroleum products, see 1920
+- geophysical, geologic and seismic surveying, see 7110

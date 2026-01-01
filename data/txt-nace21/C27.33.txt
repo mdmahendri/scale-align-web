@@ -1,0 +1,15 @@
+C27.33 Manufacture of wiring devices
+This class includes the manufacture of current-carrying and non-current-carrying wiring devices for electrical circuits regardless of material.
+This class includes:
+- manufacture of bus bars, electrical conductors (except switchgear-type)
+- manufacture of ground fault circuit interrupters (GFCIs)
+- manufacture of lamp-holders
+- manufacture of lightning arrestors and coils
+- manufacture of switches for electrical wiring (e.g. pressure, push-button, snap, tumbler switches)
+- manufacture of electrical plugs or sockets
+- manufacture of boxes for electrical wiring (e.g. junction, outlet, switch boxes)
+- manufacture of electrical conduit and fitting
+- manufacture of transmission pole and line hardware
+- manufacture of plastic non-current-carrying wiring devices, including plastic junction boxes, faceplates and similar, plastic pole line fittings and switch covers
+This class excludes:
+- manufacture of ceramic insulators, see 23.43

@@ -1,0 +1,7 @@
+Q85.20 Primary education
+This class includes primary education: the furnishing of academic courses and associated coursework that give students a sound basic education in reading, writing and mathematics and an elementary understanding of other subjects (for example, history, geography, natural science, social science, art and music).
+This class also includes the provision of education programmes within or outside the school system which are equivalent in content to programmes in primary education but are intended for those considered too old to enter primary schools.
+Examples of such programmes are adult literacy programmes, second chance or reintegration programmes.
+This class excludes:
+- non-formal education and training regardless of the age or field of education, see 85.5
+- child day-care activities, including day nurseries for pupils, see 88.91

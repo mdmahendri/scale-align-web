@@ -1,0 +1,15 @@
+O8019 Security activities n.e.c.
+This class includes the provision of one or more of the following services: security system services as part of security service centres or alarm receiving centres (ARC); remote monitoring and video surveillance systems services, and, only if provided in connection with later monitoring and remote monitoring services, installation, repair and maintenance of electronic security systems.
+This class also includes:
+- security consultants activities
+- activities in an emergency call and service center or alarm receiving centre (ARC)
+- monitoring and remote monitoring of electronic security systems such as burglar alarms, video surveillance systems and fire alarms
+- monitoring and remote monitoring of mechanical or electronic locking devices, safes and vaults
+- installation and maintenance of electronic security systems, such as burglar or theft alarms, video surveillance systems and fire alarms, if provided in connection with later monitoring and remote monitoring services
+- installation, repair, modification and adaptation of mechanical or electronic locking devices, electronic security systems, safes and vaults, if provided in connection with later monitoring and remote monitoring services
+This class excludes:
+- installation of security systems, e.g. burglar, surveillance systems and fire alarms, without later monitoring and remote monitoring services, see 4321
+- retail sale of electrical security alarm systems, mechanical or electronic locking devices, safes and security vaults, without monitoring, installation or maintenance services, see 4759
+- public order and safety activities, e.g. policing, see 8423
+- providing key duplication services, see 9529
+- cyber security consulting activities, see 6220

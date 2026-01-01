@@ -1,0 +1,18 @@
+F4220 Construction of utility projects
+This class includes the construction of distribution lines and related buildings and structures that are integral part of these systems.
+This class includes:
+- construction of civil engineering constructions for:
+* long-distance pipelines, communication and power lines
+* urban pipelines, urban communication and power lines; ancillary urban works
+* water main and line construction
+* irrigation systems (canals)
+* reservoirs
+- construction of:
+* sewer systems, including repair
+* sewage disposal plants
+* pumping stations
+* power plants
+This class also includes:
+- water well drilling
+This class excludes:
+- project management activities related to civil engineering works, see 7110

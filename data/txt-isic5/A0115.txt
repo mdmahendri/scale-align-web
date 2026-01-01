@@ -1,0 +1,5 @@
+A0115 Growing of tobacco
+This class includes:
+- growing of unmanufactured tobacco.
+This class excludes:
+- manufacture of tobacco products, see 1200

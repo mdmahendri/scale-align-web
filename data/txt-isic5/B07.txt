@@ -1,0 +1,8 @@
+B07 Mining of metal ores
+This division includes mining for metallic minerals (ores), performed through underground or open- cast extraction, seabed mining etc.
+This division also includes:
+- ore dressing and beneficiating operations, such as crushing, grinding, washing, drying, sintering, calcining or leaching ore, gravity separation or flotation operations.
+This division excludes:
+- roasting of iron pyrites, see 2011
+- production of aluminium oxide, see 2420
+- operation of blast furnaces, see division 24

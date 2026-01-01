@@ -1,0 +1,5 @@
+G47.77 Retail sale of watches and jewellery
+This class also includes:
+- retail sale of silverware articles
+This class excludes:
+- retail sale of imitation jewellery, see 47.78

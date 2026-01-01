@@ -1,0 +1,40 @@
+O7730 Rental and leasing of other machinery, equipment and tangible goods
+This class includes:
+- renting and operational leasing, without operator, of other machinery and equipment that are generally used as capital goods by industries:
+engines and turbines
+machine tools
+mining and oilfield equipment
+professional radio, television and communication equipment
+motion picture production equipment
+measuring and controlling equipment
+other scientific, commercial and industrial machinery
+renting and operational leasing of land-transport equipment other than motor vehicles and motorcycleswithout drivers, such as railroad vehicles
+
+- renting and operational leasing of water-transport equipment without operator:
+commercial boats and ships
+- renting and operational leasing of air transport equipment without operator:
+airplanes
+hot-air balloons
+- renting and operational leasing of agricultural and forestry machinery and equipment without operator:
+renting of products produced by class 2821, such as agricultural tractors etc.
+- renting and operational leasing of construction and civil-engineering machinery and equipment without operator:
+crane lorries
+scaffolds and work platforms, without erection and dismantling
+- renting and operational leasing of office machinery and equipment without operator:
+computers and computer peripheral equipment
+duplicating machines, typewriters and word-processing machines
+accounting machinery and equipment: cash registers, electronic calculators etc.
+office furniture
+This class also includes:
+- renting of accommodation or office containers
+- renting of containers
+- renting of pallets
+- renting of animals (e.g. herds, race horses)
+This class excludes:
+- renting of agricultural and forestry machinery or equipment with operator, see 0161, 0240
+- renting of construction and civil engineering machinery or equipment with operator, see division 43
+- renting of water-transport equipment with operator, see division 50
+- renting of air-transport equipment with operator, see division 51
+- financial leasing, see 6491
+- renting of pleasure boats, see 7721
+- renting of bicycles, see 7721

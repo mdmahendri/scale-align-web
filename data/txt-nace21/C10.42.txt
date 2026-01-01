@@ -1,0 +1,5 @@
+C10.42 Manufacture of margarine and similar edible fats
+This class includes:
+- manufacture of margarine
+- manufacture of melanges and similar spreads
+- manufacture of compound cooking fats

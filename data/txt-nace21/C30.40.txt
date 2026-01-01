@@ -1,0 +1,18 @@
+C30.40 Manufacture of military fighting vehicles
+This class includes the manufacture of military fighting vehicles, whether or not fitted with weapons, and of parts of such vehicles, for example:
+- manufacture of tanks
+- manufacture of armoured combat vehicles for transporting persons
+- manufacture of armoured supply vehicles or armoured recovery vehicles with cranes
+- manufacture of armoured amphibious military vehicles
+- manufacture of remotely operated tanks
+- manufacture of armoured fighting vehicle bodies and parts thereof (e.g. armoured turrets, armoured doors and covers)
+- manufacture of armoured plates that are identifiable as parts of military fighting vehicles
+- manufacture of special tracks and special wheels, and drive wheels for armoured fighting vehicles
+This class also includes:
+- factory overhaul and rebuilding of military fighting vehicles
+This class excludes:
+- manufacture of weapons and ammunition, see 25.30
+- manufacture of passenger cars and trucks with light armour or with removable armour, see 29.10
+- manufacture of military ships, see 30.13
+- manufacture of drones for military purposes, see 30.32
+- repair and maintenance of military fighting vehicles, see 33.18

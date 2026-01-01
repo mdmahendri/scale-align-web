@@ -1,0 +1,16 @@
+I5520 Other short term accommodation activities
+This class includes the provision of short-term accommodation, typically on a daily or weekly basis, in furnished rooms, homes, flats or apartments principally for short stay by visitors.
+No on-site reactive customer services and very minimal complementary services, if any, are provided.
+
+This class includes accommodation in e.g.:
+- holiday homes and apartments
+- visitor flats and bungalows
+- cottages and cabins without housekeeping services
+- mountain lodges
+- hostels
+- bed and breakfast units
+- guest rooms provided by private households
+- mountain huts
+This class excludes:
+- accommodation services in a hotel with daily or weekly service, see 5510
+- intermediation service activities for accommodation, see 5540

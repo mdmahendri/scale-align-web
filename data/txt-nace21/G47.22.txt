@@ -1,0 +1,6 @@
+G47.22 Retail sale of meat and meat products
+This class includes:
+- retail sale of meat and meat products, including poultry and game
+- retail sale of tripe, delicatessen (charcuterie), salted meat
+This class also includes:
+- retail sale of snails

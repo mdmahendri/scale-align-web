@@ -1,0 +1,9 @@
+I55.30 Camping grounds and recreational vehicle parks
+This class includes:
+- provision of short-term accommodation in camping grounds (e.g. recreational camps, fishing and hunting camps)
+- provision of space and facilities for recreational vehicles
+This class also includes:
+- glamping accommodation
+- accommodation provided by protective shelters or plain bivouac facilities
+This class excludes:
+- intermediation service activities for accommodation, see 55.40

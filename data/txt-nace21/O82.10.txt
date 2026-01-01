@@ -1,0 +1,29 @@
+O82.10 Office administrative and support activities
+This class includes the provision of a combination of day-to-day office administrative services (for example, reception, financial planning, billing and record-keeping, personnel, postal and mailing services, and so on), for others on a contract or fee basis.
+This class includes:
+- document preparation (e.g. editing, proofreading, typing, word processing and pre-archiving)
+- other secretarial support services
+- transcription of documents
+- letter or rsum writing
+- provision of mailbox rental services and other postal and mailing services (e.g. pre-sorting, addressing)
+- duplicating
+- blueprinting
+- operation of photocopying machines for photocopying as a self-service
+- digitalisation of files (without any further processing of data)
+- formatting of e-books
+This class also includes support activities for others on a contract or fee basis that are ongoing routine business support functions that businesses and organisations traditionally do for themselves.
+Units classified in this class do not provide operating staff to carry out the complete administrative operations of a business.
+Units engaged in one particular aspect of these activities are classified according to that particular activity.
+This class excludes:
+- printing of documents (offset printing, quick printing, digital printing, etc.), see 18.12
+- pre-press services, see 18.13
+- storage of paper files, see 52.10
+- courier services, see 53.20
+- data processing and digitalisation of files associated with the further processing of data, see 63.10
+- storage of data files, see 63.10
+- rental of non-equipped offices, co-working spaces and fully-equipped offices, see 68.20
+- activities of shared service centres (SSC) with strategic and managerial activities/centralised activities, see 70.10
+- developing and organising mail advertising campaigns, see 73.11
+- renting of containers to be used as offices, see 77.39
+- public stenography services and specialised stenotype services (e.g. court reporting), see 82.99
+- archiving of all kinds of documents (in paper or electronic forms), see 91.12

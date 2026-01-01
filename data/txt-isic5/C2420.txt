@@ -1,0 +1,38 @@
+C2420 Manufacture of basic precious and other non-ferrous metals
+This class includes the production of precious metals (gold, silver, platinum, etc.) and other non-ferrous metals (aluminum, lead, zinc, tin, copper, etc.), and processing of nuclear fuel.
+It includes:
+- production of basic precious metals:
+* production and refining of unwrought or wrought precious metals: gold, silver, platinum etc. from ore and scrap
+- production of precious metal alloys
+- production of precious metal semi-products
+- production of silver rolled onto base metals
+- production of gold rolled onto base metals or silver
+- production of platinum and platinum group metals rolled onto gold, silver or base metals
+- production of aluminium from alumina
+- production of aluminium from electrolytic refining of aluminium waste and scrap
+- production of aluminium alloys
+- semi-manufacturing of aluminium
+- production of lead, zinc and tin from ores
+- production of lead, zinc and tin from electrolytic refining of lead, zinc and tin waste and scrap
+- production of lead, zinc and tin alloys
+- semi-manufacturing of lead, zinc and tin
+- production of copper from ores
+- production of copper from electrolytic refining of copper waste and scrap
+- production of copper alloys
+- manufacture of fuse wire or strip
+- semi-manufacturing of copper
+- production of chrome, manganese, nickel etc. from ores or oxides
+- production of chrome, manganese, nickel etc. from electrolytic and aluminothermic refining of chrome, manganese, nickel etc., waste and scrap
+- production of alloys of chrome, manganese, nickel etc.
+- semi-manufacturing of chrome, manganese, nickel etc.
+- production of mattes of nickel
+- processing of nuclear fuel
+This class also includes:
+- manufacture of wire of these metals by drawing
+- production of aluminium oxide (alumina)
+- production of aluminium wrapping foil
+- manufacture of aluminium (tin) foil laminates made from aluminum (tin) foil as primary component
+- manufacture of precious metal foil laminates
+This class excludes:
+- casting of non-ferrous metals, see 2432
+- manufacture of precious metal jewellery, see 3211

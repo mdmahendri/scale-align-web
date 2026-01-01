@@ -1,0 +1,5 @@
+L6520 Reinsurance
+This class includes:
+- activities of assuming all or part of the risk associated with existing insurance policies originally underwritten by other insurance providers
+This class includes also:
+- activity of finite reinsurance

@@ -1,0 +1,6 @@
+G46.63 Wholesale of mining, construction and civil engineering machinery
+This class includes:
+- wholesale of mining, construction and civil engineering machinery and equipment, (e.g. excavating machines)
+This class excludes:
+- wholesale of scaffolding, see 46.83
+- wholesale of hand tools, hardware, plumbing and heating equipment and supplies, see 46.84

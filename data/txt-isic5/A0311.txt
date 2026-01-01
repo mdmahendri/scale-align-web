@@ -1,0 +1,16 @@
+A0311 Marine fishing
+This class includes:
+- fishing on a commercial basis in ocean and coastal waters
+- taking of marine crustaceans and molluscs
+- whale catching
+- taking of marine aquatic animals, e.g.: turtles, sea squirts, tunicates, sea urchins.
+This class also includes:
+- gathering of other marine organisms and materials: natural pearls, sponges, coral , seaweed and algae.
+This class excludes:
+- capturing of marine mammals apart from whales, e.g. seals and walruses, see 0170
+- processing of whales on factory ships, see 1010
+- processing of fish, crustaceans and molluscs on factory ships or in factories ashore, see 1020
+- rental of pleasure boats with crew for sea and coastal water transport (e.g. for fishing cruises), see _x000D_5011
+- fishing inspection, protection and patrol services, see 8423
+- fishing practiced for sport or recreation and related services, see 9319
+- operation of sport fishing preserves, see 9319

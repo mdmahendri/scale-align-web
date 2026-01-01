@@ -1,0 +1,17 @@
+A03.30 Support activities for fishing and aquaculture
+This class includes:
+- service activities incidental to marine or freshwater fishery or aquaculture, e.g.:
+diving services for aquaculture
+remotely operated underwater vehicles (ROV) services for aquaculture
+repair and maintenance services for fish cages
+other support activities on fishing and aquaculture n.e.c.
+This class also includes:
+- fishery (fishery guard) and aquaculture control
+This class excludes:
+- fishing and aquaculture activities, see 03.1, 03.2
+- processing of fish and aquaculture products on factory ships or in factories ashore, see 10.20
+- processing of fish, crustaceans and molluscs, see 10.20
+- activities related to the servicing of equipment and/or vessels, see division 33
+- distribution of fisheries and aquaculture products, see divisions 46, 47, 52
+- fishing practiced for sport or recreation and related services, see 93.19
+- operation of sport fishing preserves, see 93.19

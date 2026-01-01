@@ -1,0 +1,12 @@
+C2394 Manufacture of cement, lime and plaster
+This class includes:
+- manufacture of clinkers and hydraulic cements, including Portland, aluminous cement, slag cement and superphosphate cements
+- manufacture of quicklime, slaked lime and hydraulic lime
+- manufacture of plasters of calcined gypsum or calcined sulphate
+- manufacture of calcined dolomite
+This class excludes:
+- manufacture of refractory mortars, concrete etc., see 2391
+- manufacture of articles of cement, see 2395
+- manufacture of articles of plaster, see 2395
+- manufacture of ready-mixed and dry-mix concrete and mortars, see 2395
+- manufacture of cements used in dentistry, see 3250

@@ -1,0 +1,7 @@
+D35.11 Production of electricity from non-renewable sources
+This class includes:
+- operation of generation facilities that produce electricity from non-renewable sources (e.g. natural gas, coal and other fossil fuels), and from emission-free non-renewable sources (e.g. nuclear)
+This class excludes:
+- production of electricity from renewable sources, see 35.12
+- production of electricity as part of the storage of electricity, see 35.16
+- pretreatment of waste for energy recovery, see 38.22

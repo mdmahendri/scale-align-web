@@ -1,0 +1,14 @@
+C17.25 Manufacture of other articles of paper and paperboard
+This class includes:
+- manufacture of paper or paperboard labels
+- manufacture of filter paper and paperboard
+- manufacture of cigarette paper
+- manufacture of paper and paperboard bobbins, spools, cops, etc.
+- manufacture of egg trays and other moulded or pressed articles of paper pulp packaging products
+- manufacture of paper novelties
+- manufacture of paper or paperboard cards for use on Jacquard machines
+This class excludes:
+- printing of labels, not self-manufactured, see 18.12
+- manufacture of playing cards, see 32.40
+- manufacture of games and toys of paper or paperboard, see 32.40
+- publishing of books, newspapers and other publishing activities, except software publishing, see 58.1

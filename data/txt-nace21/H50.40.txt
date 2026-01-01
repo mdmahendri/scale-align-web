@@ -1,0 +1,9 @@
+H50.40 Inland freight water transport
+This class includes:
+- transport of freight via rivers, canals, lakes and other inland waterways, including inside harbours and ports
+- transport of freight on inland waterways, involving vessels that are not suitable for sea transport
+This class also includes:
+- rental of vessels with crew for inland freight water transport
+This class excludes:
+- cargo handling, see 52.24
+- rental of commercial ships or boats without crew, see 77.34

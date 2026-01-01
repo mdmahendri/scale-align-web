@@ -1,0 +1,5 @@
+H52.2 Support activities for transportation
+This group includes activities supporting the transport of passengers or freight, including the operation of transport facilities and parts of the transport infrastructure and activities related to handling freight before, after or between transport segments.
+This group excludes:
+- intermediation service activities for freight transport, see 52.31
+- intermediation service activities for passenger transport, see 52.32

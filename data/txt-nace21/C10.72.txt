@@ -1,0 +1,9 @@
+C10.72 Manufacture of rusks, biscuits, preserved pastries and cakes
+This class includes:
+- manufacture of rusks, biscuits and other dry bakery products
+- manufacture of preserved pastry goods, cakes and waffles
+- manufacture of snack products (cookies, crackers, pretzels, etc.), whether sweet or salted
+This class also includes:
+- manufacture of breadcrumbs, obtained by grinding toasted bread
+This class excludes:
+- manufacture of potato snacks, see 10.31

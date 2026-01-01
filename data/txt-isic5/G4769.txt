@@ -1,0 +1,13 @@
+G4769 Retail sale of cultural and recreational goods n.e.c.
+This class includes retail sale of cultural and recreational goods not elsewhere classified:
+- retail sale of recorded media
+- retail sale of musical instruments, scores and related accessories, e.g. strings, music stands, metronomes
+- retail sale of philately, numismatics and collectors items such as stamps and coins
+- activities of commercial art galleries
+This class also includes also:
+- retail sale of art supplies, including beads, clay, canvasses, oil and water colours etc.
+This class excludes:
+- retail sale of video games on a physical medium, see 4740
+- retail sale of souvenirs, craftwork and religious articles, see 4773
+- retail sale of antiques, second-hand and antique books, second-hand musical instruments and second-hand recorded media, see 4774
+- distribution of audio via streaming and downloading by their publishers, see 5920

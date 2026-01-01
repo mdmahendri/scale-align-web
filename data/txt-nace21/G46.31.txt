@@ -1,0 +1,12 @@
+G46.31 Wholesale of fruit and vegetables
+This class includes:
+- wholesale of fresh fruits and vegetables
+- wholesale of legumes
+- wholesale of dried fruits and vegetables
+- wholesale of preserved fruits and vegetables
+- wholesale of frozen fruits and vegetables
+This class also includes:
+- wholesale of mushrooms
+This class excludes:
+- wholesale of fruit and vegetable juices, see 46.34
+- wholesale of ready-made meals, see 46.38

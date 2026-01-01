@@ -1,0 +1,28 @@
+C2910 Manufacture of motor vehicles
+This class includes the manufacture of electric, combustion and hybrid engine vehicles and of autonomous vehicles
+It includes
+- manufacture of passenger cars
+- manufacture of commercial vehicles:
+vans, lorries, road tractors for semi-trailers etc.
+- manufacture of buses, trolleybuses and coaches
+- manufacture of motor vehicle engines, including electric motors
+- manufacture of other motor vehicles e.g.:
+snowmobiles, golf carts, amphibious motor vehicles
+road sweeper trollies
+crane lorries
+- all-terrain vehicles (ATV), go-carts and similar including racing cars
+This class also includes:
+- factory rebuilding of motor vehicle engines
+This class excludes:
+- manufacture of lamps for motor vehicles, see 2740
+- manufacture of pistons, piston rings and carburetors, see 2811
+- manufacture of agricultural and forestry tractors, see 2821
+- manufacture of track laying excavators, see 2824
+- manufacture of off-road dumping trucks, see 2824
+- manufacture of bodies for motor vehicles, e.g. fire engines, travelling libraries, concrete-mixer lorries etc., see 2920
+- manufacture of armoured vehicles for transport of goods, see 2920
+- manufacture of electrical parts for motor vehicles, see 2930
+- manufacture of parts and accessories for motor vehicles, see 2930
+- manufacture of tanks and other military fighting vehicles, see 3040
+- repair and maintenance of motor vehicles, see 9531
+- manufacture of works trucks fitted with a crane, see 2816

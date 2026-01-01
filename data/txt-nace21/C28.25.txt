@@ -1,0 +1,16 @@
+C28.25 Manufacture of non-domestic air conditioning equipment
+This class includes:
+- manufacture of non-domestic refrigerating or freezing equipment
+- manufacture of air-conditioning machines, except for motor vehicles
+- manufacture of non-domestic fans
+- manufacture of heat exchange units
+- manufacture of machinery for liquefying air or other gas
+- manufacture of attic ventilation fans (e.g. gable fans, roof ventilators)
+- manufacture of evaporators and condensers for non-domestic refrigerators
+This class also includes:
+- manufacture of reversible heat pumps that have a motorised fan and devices for changing both the air temperature and humidity
+This class excludes:
+- manufacture of domestic refrigerating or freezing equipment, see 27.51
+- manufacture of domestic fans, see 27.51
+- manufacture of household cooling equipment, see 28.21
+- manufacture of air-conditioning machines for motor vehicles, see 29.32

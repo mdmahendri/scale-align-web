@@ -1,0 +1,17 @@
+O80.01 Investigation and private security activities
+This class includes:
+- investigation services in private, commercial, insurance and legal fields
+- guard, patrol or security services
+- support services for cash collection and deposit services
+- secure shredding and data destruction services
+- armoured car services
+This class also includes:
+- guard and security service activities (e.g. for shops, trauma centres)
+- luggage and passenger inspection at airports, railway stations and other similar places
+- activities of security personnel for events, concerts, fairs and exhibitions
+This class excludes:
+- risk analysis, security advice and consulting, see 80.09
+- remote surveillance activities, see 80.09
+- concierge, reception and doormen safety services, see 81.10, 82.10
+- public order and safety activities, see 84.24
+- security, including cybersecurity training, see 85.59

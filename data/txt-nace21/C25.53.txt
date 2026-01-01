@@ -1,0 +1,6 @@
+C25.53 Machining of metals
+This class includes:
+- boring, turning, milling, eroding, planing, lapping, broaching, levelling, sawing, grinding, sharpening, deburring, sandblasting, tumbling, polishing, buffing, welding, splicing, etc., of metalwork pieces
+- cutting of and engraving or writing on metals by means of laser beams
+This class excludes:
+- activities of farriers, see 01.62

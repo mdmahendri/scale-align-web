@@ -1,0 +1,10 @@
+C24.45 Other non-ferrous metal production
+This class includes:
+- production of unwrought chrome, manganese, nickel, etc., alloyed or not alloyed, from ores or oxides or from electrolytic and aluminothermic refining of chrome, manganese, nickel, etc., waste and scrap
+- manufacture of bars, rods, profiles and wire of chrome, manganese, nickel, etc.
+- manufacture of plates, sheets, strip and foil of chrome, manganese, nickel, etc.
+- production of mattes of nickel
+- production of other non-ferrous metals
+This class excludes:
+- casting of non-ferrous metals, see 24.53, 24.54
+- shredding of non-ferrous metal waste and scrap, see 38.21

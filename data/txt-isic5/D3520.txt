@@ -1,0 +1,22 @@
+D3520 Manufacture of gas; distribution of gaseous fuels through mains
+This class includes the manufacture of gas, the storage and the distribution of natural or synthetic gas to the user through a system of mains.
+- production of gas for the purpose of gas supply by carbonation of coal, from by-products of agriculture or from waste
+- - gas storage and gas storage service (e.g. sale of storage capacity for natural gas)
+- manufacture of gaseous fuels with a specified calorific value, by purification, blending and other processes from gases of various types including natural gas
+- transportation, distribution and supply of gaseous fuels of all kinds through a system of mains
+- sale of gas to the user through mains
+- commodity and transport capacity exchanges for gaseous fuels
+This class excludes:
+- extraction of crude natural gas, see 0620
+- operation of coke ovens, see 1910
+- manufacture of refined petroleum products and liquefied petroleum gas (LPGs), see 1920
+- manufacture of industrial gases, see 2011
+- activities of brokers or agents (intermediaries) that arrange the sale of natural gas via gas distribution systems operated by others, see 3540
+- wholesale of bottled gaseous fuels, see 4671
+- retail sale of gaseous fuel for motor vehicles and motorcycles, see 4730
+- retail sale of household fuel oil and bottled gaseous fuels, see 4773
+- transportation, usually over long-distance, of gas through by pipelines, see 4930
+- The separate operation of gas pipelines, typically done over long distances, connecting producers with distributors of gas, or between urban centers, See 4950
+- manufacture of basic organic gases, not for energy supply through a network, see 2011
+- production of blast furnace gas, see 2410
+- production of gas as by-product in landfills, see 3821

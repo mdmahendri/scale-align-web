@@ -1,0 +1,7 @@
+G46.44 Wholesale of china and glassware and cleaning materials
+This class includes:
+- wholesale of china and glassware
+- wholesale of cleaning materials
+- wholesale of household utensils, crockery and pottery
+This class excludes:
+- wholesale of saucepans and pans, see 46.49

@@ -1,0 +1,22 @@
+C2013 Manufacture of plastics and synthetic rubber in primary forms
+This class includes the manufacture of resins, plastics materials and non-vulcanizable thermoplastic elastomers, the mixing and blending of resins on a custom basis, as well as the manufacture of non-customized synthetic resins.
+This class includes:
+- manufacture of plastics in primary forms:
+* polymers, including those of ethylene, propylene, styrene, vinyl chloride, vinyl acetate and acrylics
+* polyamides
+* phenolic and epoxide resins and polyurethanes
+* alkyd and polyester resins and polyethers
+* silicones
+* ion-exchangers based on polymers
+- manufacture of synthetic rubber in primary forms:
+* synthetic rubber
+* factice
+- manufacture of mixtures of synthetic rubber and natural rubber or rubber-like gums (e.g. balata)
+This class also includes:
+- manufacture of cellulose and its chemical derivatives
+- manufacture of plastics powders, granules or flakes by compounding or reformulating plastics resins from recovered plastic waste
+- manufacture of recycled plastic by flaking and/or pelletising pre-treated plastic waste following material recovery operations
+- remelting of plastics to produce granulates or compounds
+This class excludes:
+- manufacture of artificial and synthetic fibres, filaments and yarn, see 2030- processing of shredding, cleaning, melting, grinding of plastic waste, see 3830- pelleting of plastic to produce secondary raw materials for tubes, flower pots, pallets and the like, see 3830
+- sorting, shredding, cleaning, grinding and pelletising of rubber waste, see 3830

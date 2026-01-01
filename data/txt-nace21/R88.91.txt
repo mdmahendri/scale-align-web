@@ -1,0 +1,6 @@
+R88.91 Child day-care activities
+This class includes:
+- day-care activities for children provided in private homes or day-care centres
+- after-school care activities
+This class also includes:
+- day-care activities for children with disabilities

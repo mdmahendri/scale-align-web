@@ -1,0 +1,17 @@
+L65.12 Non-life insurance
+This class includes:
+- provision of insurance services other than life insurance:
+accident insurance
+medical and health insurance
+travel insurance
+fire and natural forces damage to property insurance
+other damage to property insurance
+motor vehicles, railway rolling stock, ships, aircraft and other transport insurance
+- freight insurance
+financial loss and liability insurance
+- credit insurance
+- legal expenses insurance
+- income protection insurance
+- workers compensation insurance
+This class excludes:
+- compulsory social security schemes, see 84.30

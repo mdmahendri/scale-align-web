@@ -1,0 +1,7 @@
+N74.11 Industrial product and fashion design activities
+This class includes:
+- fashion design related to textiles, wearing apparel, shoes, jewellery, furniture and other interior decoration, and other fashion goods, as well as other personal or household goods
+- industrial design, carried out also through specialised software, i.e. creating and developing designs and specifications that optimise the use, value, package and appearance of products, including the determination of the materials, mechanism, shape, colour and surface finishes of the product, taking into consideration human characteristics and needs, safety, market appeal in distribution, use and maintenance
+This class excludes:
+- engineering design, i.e. applying physical laws and principles of engineering in the design of machines, materials, instruments, structures, processes and systems, see 71.12
+- design of computer plans for 3D printing, see 71.12

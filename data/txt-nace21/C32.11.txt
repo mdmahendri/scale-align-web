@@ -1,0 +1,3 @@
+C32.11 Striking of coins
+This class includes:
+- manufacture of coins, including coins for use as legal tender, whether or not of precious metal

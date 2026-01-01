@@ -1,0 +1,8 @@
+J5813 Publishing of journals and periodicals
+This class includes:
+- publishing of periodicals and other journalspublishing of radio and television schedules
+All the feasible forms of publishing (in print, electronic, digital, analog, or any other form) are included.
+This class excludes:
+- activities of independent journalists, see 9011
+- activities of independent photojournalists, see 7420
+- production of television or video news programmes, see 5911

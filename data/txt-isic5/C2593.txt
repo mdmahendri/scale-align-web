@@ -1,0 +1,23 @@
+C2593 Manufacture of cutlery, hand tools and general hardware
+This class includes:
+- manufacture of domestic cutlery such as knives, forks, spoons etc.
+- manufacture of other articles of cutlery:
+* cleavers and choppers
+* razors and razor blades
+* scissors and hair clippers
+- manufacture of knives and cutting blades for machines or for mechanical appliances
+- manufacture of hand tools such as pliers, screwdrivers etc.
+- manufacture of non-power-driven agricultural hand tools
+- manufacture of saws and saw blades, including circular saw blades and chainsaw blades
+- manufacture of interchangeable tools for hand tools, whether or not power-operated, or for machine tools: drills, punches, milling cutters etc.
+- manufacture of press tools
+- manufacture of blacksmiths' tools: forges, anvils etc.
+- manufacture of moulding boxes and moulds (except ingot moulds)
+- manufacture of vices, clamps
+- manufacture of padlocks, locks, keys, hinges and the like, hardware for buildings, furniture, vehicles etc.
+- manufacture of cutlasses, swords, bayonets etc.
+This class excludes:
+- manufacture of hollowware (pots, kettles etc.), dinnerware (bowls, platters etc.) or flatware (plates, saucers etc.), see 2599
+- manufacture of power-driven hand tools, see 2818
+- manufacture of ingot moulds, see 2823
+- manufacture of cutlery of precious metal, see 3211

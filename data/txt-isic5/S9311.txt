@@ -1,0 +1,23 @@
+S9311 Operation of sports facilities
+This class includes:
+operation of facilities for indoor or outdoor sports events (open, closed or covered, with or without spectator seating):
+football, hockey, cricket, baseball, jai-alai stadiums
+racetracks for auto, dog, horse races
+swimming pools and stadiums
+track and field stadiums
+winter sports arenas and stadiums
+ice-hockey arenas
+boxing arenas
+golf courses
+bowling lanes
+fitness centers
+organization and operation of outdoor or indoor sports events for professionals or amateurs by organizations in their own facilities (not by sports clubs)
+This class also includes:
+- managing and providing the staff to operate these facilities
+- operation of sport areas, which may include the operation of cableways, ski lifts and chairlifts
+- management of outdoor sports equipped areas
+- operation of grassroots sport activities
+- provision of equipment to operate these facilities
+This class excludes:
+rental of recreation and sports equipment, see 7721
+operation of ski hills, park and beach activities, see 9329

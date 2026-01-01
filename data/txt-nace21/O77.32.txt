@@ -1,0 +1,9 @@
+O77.32 Rental and leasing of construction and civil engineering machinery and equipment
+This class includes:
+- rental and operating leasing of construction and civil engineering machinery and equipment without an operator:
+crane lorries
+scaffolds and work platforms, without erection and dismantling
+This class excludes:
+- rental of construction and civil engineering machinery or equipment with an operator, see division 43
+- rental or operating leasing of scaffolds and work platforms, including erection and dismantling, see 43.99
+- rental or operating leasing of mining machinery and equipment, see 77.39

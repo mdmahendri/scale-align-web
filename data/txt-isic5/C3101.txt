@@ -1,0 +1,11 @@
+C3101 Manufacture of wooden furniture
+This class includes the manufacture of wooden furniture of any kind and for various purposes.
+The furniture is considered being made from wood if its frame is made of wood, or if there is no frame, the predominant component material is wood.
+Reference to wood in this class applies also to bamboos and other materials of a woody nature.
+This class excludes:
+manufacture of mattresses and other furniture that are not made from wood, see 3102
+manufacture of furniture of ceramics, concrete and stone, see 2393, 2395, 2396
+manufacture of lighting fittings or lamps, see 2740
+manufacture of blackboards, see 2817
+manufacture of car seats, railway seats, aircraft seats, see 2930, 3020, 3030
+modular furniture attachment and installation, partition installation, laboratory equipment furniture installation, see 4330

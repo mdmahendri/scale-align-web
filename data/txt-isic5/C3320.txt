@@ -1,0 +1,25 @@
+C3320 Installation of industrial machinery and equipment
+This class includes the specialised installation of machinery.
+However, the installation of equipment that forms an integral part of buildings or similar structures, such as installation of escalators, electrical wiring, burglar alarm systems or air-conditioning systems, is classified as construction.
+This class includes:
+- installation of industrial machinery in industrial plant
+- installation and assembly of industrial process control equipment
+- installation of other industrial equipment, e.g.:
+communications equipment
+mainframe and similar computers
+irradiation and electromedical equipment etc.
+- dismantling large-scale machinery and equipment
+- activities of millwrights
+- machine rigging
+- installation of bowling alley equipment
+- installation of warehouse machinery and equipment
+This class includes also:
+- installation of large-scale shelving, warehouses (not as an integral part of building)
+- Installation of stand-alone charging stations
+This class excludes:
+- installation of charging stations in wall-boxes, see Section F
+- construction of complete warehouses, see 4100
+- installation of elevators, escalators, automated doors, vacuum cleaning systems etc., see 4329
+- installation of doors, staircases, shop fittings, furniture etc., see 4330
+- erection of structural steel for warehouse storage shelves, see 4390
+- installation (setting-up) of personal computers, see 629

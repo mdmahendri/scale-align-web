@@ -1,0 +1,21 @@
+G4752 Retail sale of hardware, building materials, paints and glass
+This class includes:
+- retail sale of hardware
+- retail sale of paints, varnishes and lacquers
+- retail sale of solvents, white spirit and other drugstore products
+- retail sale of flat glass
+- retail sale of other building material such as bricks, tiles, breezeblock, wood, floor boards, insulation material etc.
+- retail sale of sanitary and heating equipment
+- retail sale of do-it-yourself material, electrical and plumbing material and equipment
+- retail sale of tools such as hammers, saws, screwdrivers and other hand tools, including power hand tools
+- retail sale of renewable energy materials, e.g. non-electric solar collectors and photovoltaic panels, without installation
+- retail trade of electrical or electronic fire alarms, fire extinguishers, emergency blocks, smoke extraction system, safes, and vaults, without installation or maintenance services
+- retail sale of doors and windows and shutters of any material
+This class also includes:
+- retail sale of garden and landscaping equipment, e.g. lawnmowers etc.
+- retail sale of saunas, swimming pools and spas, including in kits etc., without installation
+This class excludes:
+- installation of photovoltaic panels not connected to a building, see 4220
+- installation of photovoltaic panels connected to a building, see 4321
+- retail sale of wall or floor coverings such as wallpaper, tiles, laminates and vinyl flooring, see 4753
+- retail sale of carpets and rugs, see 4753

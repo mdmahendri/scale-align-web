@@ -1,0 +1,5 @@
+L6432 Activities of non-money market investments funds
+This class includes activities of non-money market funds, i.e., collective investment schemes that raise funds by issuing shares or units to the public, of which proceeds are invested primarily in financial assets, other than short-term assets, and in non-financial assets (usually real estate).
+Their units (or shares) are not substitutes for deposits.
+This class excludes:
+-Activities of money market funds, see 6431.

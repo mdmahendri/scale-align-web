@@ -1,0 +1,6 @@
+D3511 Electric power generation activities from non-renewable sources
+This class includes:
+- Operation of generation facilities that produce electricity from non-renewable sources, e.g. natural gas, coal, petroleum products, peat and other fossil fuels, and emission-free non-renewable sources such as nuclear.
+This class excludes:
+- production of electricity from renewable sources, see 3512
+- production of electricity through incineration of waste, see 3821

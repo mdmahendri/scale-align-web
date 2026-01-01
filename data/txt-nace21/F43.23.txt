@@ -1,0 +1,11 @@
+F43.23 Installation of insulation
+This class includes:
+- thermal insulation works (e.g. for pipes, boilers and ducts, interior or exterior, including cladding for insulation)
+- sound insulation works
+- vibration insulation works
+- fireproofing works
+- hydro insulation
+- internal insulation of roofs
+This class excludes:
+- external insulation of roofs, see 43.41
+- waterproofing of roofs, see 43.41

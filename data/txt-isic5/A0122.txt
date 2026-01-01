@@ -1,0 +1,10 @@
+A0122 Growing of tropical and subtropical fruits
+This class includes:
+- growing of tropical and subtropical fruits such as:
+avocados
+bananas and plantains
+dates
+figs
+mangoes
+papayas
+pineapples

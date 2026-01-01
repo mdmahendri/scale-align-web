@@ -1,0 +1,10 @@
+S91.1 Library and archive activities
+This group includes activities related to the management, care, preservation and assessment of libraries and archives.
+This group includes:
+- documentation and information activities of libraries and archives of all kinds, including reading, listening and viewing rooms, providing library and archive services to the general public or to a specific public (e.g. students, scientists, staff members)
+- operation of public archives (at governmental, regional or local level) or of private archives (artists, historians, writers archives, etc.)
+- organisation of a library collection, whether specialised or not, cataloguing collections
+- lending and storage of books, maps, periodicals, films, records, tapes, works of art, archives, etc.
+- retrieval activities in order to comply with information requests, etc.
+This group excludes:
+- conservation and restoration of cultural heritage, see 91.30

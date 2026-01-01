@@ -1,0 +1,5 @@
+G47.75 Retail sale of cosmetic and toilet articles
+This class includes:
+- retail sale of perfumes, cosmetics, toiletries, personal care products, etc.
+This class excludes:
+- retail sale of toiletries, hygiene products, etc. for pets, see 47.76

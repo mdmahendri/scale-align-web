@@ -1,0 +1,14 @@
+B0610 Extraction of crude petroleum
+This class includes:
+- extraction of crude petroleum oils.
+This class also includes:
+- extraction of bituminous or oil shale and tar sand
+- production of crude petroleum from bituminous shale and sand
+- processes to obtain crude oils e.g.: decantation, desalting, dehydration, stabilisation.
+This class excludes:
+- support activities for oil and natural gas extraction, see 0910
+- oil and gas exploration, see 0910
+- manufacture of refined petroleum products, see 1920
+- recovery of liquefied petroleum gases in the refining of petroleum, see 1920
+- operation of pipelines, see 4930
+- extraction of condensates or natural gas liquids, see 0620

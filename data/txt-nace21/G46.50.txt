@@ -1,0 +1,17 @@
+G46.50 Wholesale of information and communication equipment
+This class includes the wholesale of information and communication technology (ICT) equipment.
+This class includes:
+- wholesale of computers, computer peripheral equipment and parts
+- wholesale of smart boards
+- wholesale of non-customised software, including video games, provided on physical media, with a right to perpetual use
+- wholesale of electronic valves and tubes
+- wholesale of semiconductor devices
+- wholesale of microchips and integrated circuits
+- wholesale of printed circuits
+- wholesale of recordable media
+- wholesale of telephone and communication equipment (e.g. mobile telephones, modems)
+- wholesale of office machinery and equipment
+This class excludes:
+- wholesale of recorded media, see 46.49
+- wholesale of machines for additive manufacturing (3D printers, etc.), see 46.64
+- publishing activities, see division 58

@@ -1,0 +1,32 @@
+C32.99 Other manufacturing n.e.c.
+This class includes:
+- manufacture of protective safety equipment, e.g.:
+linemens safety belts and other belts for occupational use
+cork life preservers
+safety headgear and other personal safety equipment (e.g. protective face shields/visors, of plastics, such as athletic helmets)
+fire-protective clothing
+metal safety headgear and other metal personal safety devices
+earplugs and noise plugs (e.g. for swimming and noise protection)
+gas masks
+biohazard protective clothing and accessories
+bulletproof vests
+clean room suits and accessories
+- manufacture of pens and pencils of all kinds, whether or not mechanical
+- manufacture of pencil leads
+- manufacture of date, sealing or numbering stamps, hand-operated devices for printing, or embossing labels, hand-printing sets, prepared typewriter ribbons and inked pads
+- manufacture of globes
+- manufacture of umbrellas, sun umbrellas, walking sticks, seat-sticks
+- manufacture of buttons, press fasteners, snap-fasteners, press studs, slide fasteners
+- manufacture of electronic cigarettes (vapes)
+- manufacture of cigarette lighters and other lighters
+- manufacture of articles of personal use (e.g. smoking pipes, scent sprays, vacuum flasks and other vacuum vessels for personal or household use, wigs, false beards, eyebrows)
+- manufacture of miscellaneous articles (e.g. candles, tapers, etc.; artificial flowers, fruits and foliage; jokes and novelties; hand sieves and hand riddles; tailors dummies; burial coffins)
+- manufacture of floral baskets, bouquets, wreaths and similar articles
+- taxidermy activities
+- manufacture of scale models designed for demonstrational purposes
+This class excludes:
+- manufacture of lighter wicks, see 13.96
+- manufacture of workwear, see 14.23
+- manufacture of paper novelties, see 17.25
+- manufacture of plastic headgear excluding safety headgear, see 22.26
+- manufacture of individual protective masks (e.g. FFP2, FFP3, surgical masks), see 32.50

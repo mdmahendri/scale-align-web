@@ -1,0 +1,7 @@
+A0116 Growing of fibre crops
+This class includes growing of fiber crops such as:
+- growing of cotton
+- growing of jute, kenaf and other textile bast fibres
+- growing of flax and hemp
+- growing of sisal and other textile fibre of the genus agave
+- growing of abaca, ramie and other vegetable textile fibres

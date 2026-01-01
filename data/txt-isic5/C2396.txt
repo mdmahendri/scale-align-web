@@ -1,0 +1,9 @@
+C2396 Cutting, shaping and finishing of stone
+This class includes:
+- cutting, shaping and finishing of stone e.g. for use in construction, in cemeteries, on roads, as roofing
+- manufacture of stone furniture
+This class includes also:
+- manufacture of table tops of stone
+This class excludes:
+- activities carried out by operators of quarries, e.g. production of rough cut stone, see 0810
+- production of millstones, abrasive stones and similar products, see 239

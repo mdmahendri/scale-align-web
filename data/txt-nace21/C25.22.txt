@@ -1,0 +1,8 @@
+C25.22 Manufacture of other tanks, reservoirs and containers of metal
+This class includes:
+- manufacture of reservoirs, tanks, vats and similar containers of metal of a capacity exceeding 300 litres, whether or not lined or heat-insulated
+- manufacture of metal containers for compressed or liquefied gas
+This class excludes:
+- manufacture of metal casks, drums, cans, pails, boxes, etc., of a kind normally used for carrying and packing of goods, of a capacity not exceeding 300 litres, see 25.91, 25.92
+- manufacture of transport containers, see 29.20
+- manufacture of tanks (armoured military vehicles), see 30.40

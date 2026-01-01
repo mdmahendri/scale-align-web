@@ -1,0 +1,9 @@
+S912 Museum, collection, historical site and monument activities
+This group includes activities related to the operation, management, care, preservation and appraisal of cultural heritage: tangible, intangible and digital in a wide variety of types of collections (both private and public).
+It includes activities of pertaining to cultural heritage places as the result of human intervention in its surroundings, from landscapes to gardens, from historical and archaeological sites to buildings.
+This group excludes:
+- renovation and restoration of historical sites and buildings, see section F
+- retail sale of paintings and sculptures (activities of commercial art galleries), see 4769
+- architectural activities relating to the rehabilitation or restoration of cultural heritage properties, see 7110
+- conservation and restoration activities, see 913
+- other care and preservation activities if not conducted by units classified in 912, see 9130

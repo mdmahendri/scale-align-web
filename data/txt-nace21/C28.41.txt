@@ -1,0 +1,15 @@
+C28.41 Manufacture of metal forming machinery and machine tools for metal work
+This class includes:
+- manufacture of machine tools for working metals, including those using a laser beam, ultrasonic waves, plasma arc, magnetic pulse, etc.
+- manufacture of machine tools for turning, drilling, boring, threading or tapping for working metal
+- manufacture of machine tools for deburring, sharpening, grinding, honing, lapping, polishing or otherwise finishing metal or cermet by means of grinding stones, abrasives or polishing products
+- manufacture of machining centres and multi-station machines for working metal
+- manufacture of machine tools for planing, shaping, slotting, broaching, gear cutting, gear grinding or gear finishing, sawing and cutting-off, and of other machine tools working by removing metal or cermets
+- manufacture of metal stamping or pressing machine tools
+- manufacture of punch presses, hydraulic presses, hydraulic brakes, drop hammers, forging machines, etc.
+- manufacture of draw benches, thread rolling machines for working wires
+- manufacture of filing machines, riveters, sheet metal cutters
+This class excludes:
+- manufacture of interchangeable tools, see 25.63
+- manufacture of electrical welding and soldering machinery and apparatus, see 27.90
+- manufacture of machines for additive manufacturing, see 28.97

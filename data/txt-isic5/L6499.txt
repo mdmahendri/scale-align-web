@@ -1,0 +1,30 @@
+L6499 Other financial service activities n.e.c., except insurance and pension funding activities
+This class includes:
+- other financial service activities primarily concerned with distributing funds other than by granting loans:
+writing of swaps, options and other hedging arrangements
+activities of viatical settlement companies
+- own-account investment and trading activities, by e.g. venture capital companies or investment clubs
+- acting as a counterparty for clearing and settlement of transactions
+This class also includes:
+- dealing in financial markets on own-account
+- trade of receivables on own account
+- security and derivate dealers (operating on own account)
+- activities of financial vehicle corporations other than securisation
+- securitisation transactions of assets other than loans by issuing financial instruments
+- trade of swaps or options on own account
+- trade of commodity contracts on own account
+- issuing of crypto assets with a corresponding liability (not by a monetary authority)
+- trading of crypto assets with a corresponding liability on own account
+This class excludes:
+- issuing of crypto assets without a corresponding liability (not by a monetary authority), see 6310
+- financial leasing, see 6491
+- securitisation, see 6494
+- security and commodity contracts dealing on behalf of others (brokerage), see 6612
+- activities of bureaux de change, see 6612
+- brokerage of crypto assets, see 6612
+- mortgage brokerage, see 6619
+- investment funds management, see 6630
+- trade, leasing and rental of real estate property, see division 68
+- bill collection without debt buying up, see 8291
+- trade and brokerage of crypto assets without a corresponding liability (not by a monetary authority), see 8299
+- grant giving activities by membership organisations, see 9499

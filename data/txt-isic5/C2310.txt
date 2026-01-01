@@ -1,0 +1,24 @@
+C2310 Manufacture of glass and glass products
+This class includes the manufacture of glass in all forms, made by any process and the manufacture of articles of glass.
+This class includes:
+- manufacture of flat glass, including wired, coloured or tinted flat glass
+- shaping and processing of flat glass
+- manufacture of toughened or laminated flat glass
+- manufacture of glass in rods or tubes
+- manufacture of glass paving blocks
+- manufacture of glass mirrors
+- manufacture of multiple-walled insulating units of glass
+- manufacture of hollow glass, such as bottles and other containers of glass or crystal, drinking glasses and other domestic glass or crystal articles
+- manufacture of glass fibres, including glass wool and non-woven products thereof
+- manufacture of laboratory, hygienic or pharmaceutical glassware
+- manufacture of clock or watch glasses, optical glass and optical elements not optically worked
+- manufacture of glassware used in imitation jewellery
+- manufacture of glass insulators and glass insulating fittings
+- manufacture of glass envelopes for lamps
+- manufacture of glass figurines
+This class excludes:
+- manufacture of woven fabrics of glass fibres, see 1399
+- manufacture of optical elements optically worked, see 2670
+- manufacture of fiber optic cable for data transmission or live transmission of images, see 2731
+- manufacture of glass toys, see 3240
+- manufacture of syringes and other medical laboratory equipment, see 3250

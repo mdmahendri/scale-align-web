@@ -1,0 +1,17 @@
+C1811 Printing
+This class includes:
+- printing of newspapers, magazines and other periodicals, books and brochures, music and music manuscripts, maps, atlases, posters, advertising catalogues, prospectuses and other printed advertising, postage stamps, taxation stamps, documents of title, cheques and other security papers, diaries, calendars, business forms and other commercial printed matter, personal stationery and other printed matter by letterpress, offset, photogravure, flexographic and other printing presses, duplication machines, computer printers, embossers etc., including quick printing
+- printing directly onto textiles, plastic, glass, metal, wood and ceramics
+- laser engraving on textiles
+The material printed is typically copyrighted.
+This class also includes:
+- printing on labels or tags (lithographic, gravure printing, flexographic printing, other)
+- printing signs, beer mats, and photographs
+- activities of advertising printing
+This class excludes:
+- printing of textile fabrics as an intermediate process in manufacture of textiles, see 1313
+- manufacture of paper articles, such as binders, see 1709
+- publishing of printed matter, see group 581
+- engraving onto metal, glass, wood etc., see corresponding class according to the material used
+- advertising design activities, see 7310
+- operation of photocopying machines as a self-service, see 8210

@@ -1,0 +1,14 @@
+J58.21 Publishing of video games
+This class includes:
+- publishing of video games for all platforms and all devices
+- provision of online game in-game and in-app purchases by the publisher, for all users, including subscribers
+This class also includes:
+- intermediation service activities for video game software publishing
+This class excludes:
+- reproduction of video game software, see 18.20
+- retail sale of non-customised video game software on physical media, see 47.40
+- operation of video game streaming sites for viewing only, see 60.20
+- operation of online gaming / video game sites, not associated with publishing, see 60.39
+- development of video game software, on behalf of others, see 62.10
+- application hosting, see 63.10
+- operation of gambling sites, see 92.00

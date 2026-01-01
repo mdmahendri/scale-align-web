@@ -1,0 +1,18 @@
+D35.21 Manufacture of gas
+This class includes:
+- production of gaseous fuels for energy supply through a gas distribution network (e.g. by carbonation of coal, gasification of lignite, electrolysis or methanisation)
+- production of gaseous fuels for energy supply with a specified calorific value, by purification, blending and other processes from gases of various types, including natural gas or hydrogen
+- production of biogas for the purpose of gas supply (e.g. from sewage sludge, manure, waste)
+- production of gaseous biofuels for energy supply through a gas distribution network
+This class also includes:
+- cleansing of biogas for energy supply through a permanent network
+- regasification of natural gas for distribution through mains
+This class excludes:
+- extraction of crude natural gas, see 06.20
+- production of coke oven gas, see 19.10
+- manufacture of refined petroleum products, see 19.20
+- production of liquefied petroleum gas (LPG), see 19.20
+- manufacture of industrial gases, see 20.11
+- production of hydrogen, not for energy supply through a network, see 20.11
+- manufacture of basic organic gases, not for energy supply through a network, see 20.14
+- production of blast furnace gas, see 24.10

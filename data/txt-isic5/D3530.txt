@@ -1,0 +1,11 @@
+D3530 Steam and air conditioning supply
+This class includes:
+- production, collection and distribution of steam and hot water for heating, power and other purposes
+- production and distribution of cooled air, e.g. for air conditioning supply
+- production and distribution of chilled water for cooling purposes
+- production of ice from natural water
+This class also includes:
+- storage of thermal energy
+This class excludes:
+- manufacturing of edible ice, see 1050
+- production of heat/steam through waste incineration, see 3821

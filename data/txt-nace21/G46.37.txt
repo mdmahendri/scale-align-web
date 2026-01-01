@@ -1,0 +1,4 @@
+G46.37 Wholesale of coffee, tea, cocoa and spices
+This class excludes:
+- processing of tea and coffee, see 10.83
+- wholesale of prepared beverages in cans or bottles, see 46.34

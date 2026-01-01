@@ -1,0 +1,6 @@
+G4723 Retail sale of tobacco products
+This class includes:
+- retail sale of tobacco in any form
+- retail sale of tobacco and smoking products and accessories, including lighters, pipes, cigarette rolling equipment etc.
+This class includes also:
+- retail sale of electronic cigarettes and e-liquids

@@ -1,0 +1,28 @@
+C1410 Manufacture of wearing apparel, except fur apparel
+This class includes the manufacture of wearing apparel.
+The materials used generally do not include fur and may be coated, impregnated or rubberized but not knitted or crocheted.
+However this class includes headgear of fur skins.
+This class includes:
+- manufacture of wearing apparel made of leather or composition leather, including leather industrial work accessories such as welder's leather aprons
+- manufacture of work wear
+- manufacture of other outerwear made of woven, knitted or crocheted fabric, non-wovens etc. for men, women and children:
+* coats, suits, ensembles, jackets, trousers, skirts etc.
+- manufacture of underwear and nightwear made of woven, knitted or crocheted fabric, lace etc. for men, women and children:
+* shirts, T-shirts, underpants, briefs, pyjamas, nightdresses, dressing gowns, blouses, slips, brassieres, corsets etc.
+- manufacture of babies' garments, tracksuits, ski suits, swimwear etc.
+- manufacture of hats and caps
+- manufacture of other clothing accessories: gloves, belts, shawls, ties, cravats, hairnets etc.
+This class also includes:
+- custom tailoring
+- manufacture of headgear of fur skins
+- manufacture of footwear of textile material without applied soles
+- manufacture of parts of the products listed
+This class excludes:
+- manufacture of wearing apparel of fur skins (except headgear), see 1420
+- manufacture of knitted or crocheted wearing apparel and other made-up articles directly into shape, see 1430
+- manufacture of footwear, see 1520
+- manufacture of wearing apparel of rubber or plastics not assembled by stitching but merely sealed together, see 2219, 2220
+- manufacture of leather sports gloves and sports headgear, see 3230
+- manufacture of safety headgear (except sports headgear), see 3290
+- manufacture of fire-resistant and protective safety clothing, see 3290
+- repair of wearing apparel, see 9529

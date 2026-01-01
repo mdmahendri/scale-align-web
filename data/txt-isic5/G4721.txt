@@ -1,0 +1,13 @@
+G4721 Retail sale of food
+This class includes:
+- retail sale of any the following types of food products without processing and not intended for immediate consumption:
+* fresh or preserved fruit and vegetables
+* dairy products and eggs
+* meat and meat products (including poultry)
+* fish, other seafood and products thereof
+* bakery products
+* sugar confectionery
+* other food products
+This class excludes:
+- manufacturing and retail sale of food products if both activities are carried out by the same unit, see division 10
+- preparation of meals for immediate consumption, see division 56

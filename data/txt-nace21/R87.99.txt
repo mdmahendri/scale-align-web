@@ -1,0 +1,21 @@
+R87.99 Other residential care activities n.e.c.
+This class includes the provision of residential care and assistance services for persons, except older persons and persons with disabilities, who are unable to fully care for themselves or who do not wish to live on their own.
+This class includes:
+- residential and social assistance activities provided on a round-the-clock basis to special categories of persons, but where medical treatment or education are not essential elements:
+orphanages
+childrens boarding homes and hostels
+provision of residential services for homeless persons, refugees, immigrants, etc.
+other residential family support activities
+The activities are usually carried out by government offices or private organisations.
+This class also includes activities of:
+- halfway houses for groups of persons with social or personal problems
+- halfway houses for delinquents and offenders
+- juvenile correction homes
+This class excludes:
+- funding and administration of compulsory social security programmes, see 84.30
+- activities of residential nursing care facilities, see 87.10
+- provision of residential nursing and rehabilitative services for persons living with or having a diagnosis of a mental illness, see 87.20
+- residential care activities for persons having a diagnosis of intellectual disability, see 87.20
+- residential care activities for older persons or persons with physical disabilities, see 87.30
+- child day-care activities, see 88.91
+- adoption service activities, see 88.99

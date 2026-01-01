@@ -1,0 +1,4 @@
+E38.31 Incineration without energy recovery
+This class includes the disposal and treatment prior to disposal of waste by combustion or thermal treatment without energy recovery.
+This class excludes:
+- thermal treatment with the resulting production of energy, see 38.22

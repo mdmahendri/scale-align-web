@@ -1,0 +1,38 @@
+C2220 Manufacture of plastics products
+This class includes the processing of new or spent (i.e. recycled) plastics resins into intermediate or final products, using such processes as compression molding, extrusion molding, injection molding, blow molding and casting.
+For most of these, the production process is such that a wide variety of products can be made.
+This class includes:
+- manufacture of semi-manufactures of plastic products:
+* plastic plates, sheets, blocks, film, foil, strip etc. (whether self-adhesive or not)
+- manufacture of finished plastic products:
+* plastic tubes, pipes and hoses; hose and pipe fittings
+- manufacture of plastic articles for the packing of goods:
+* plastic bags, sacks, containers, boxes, cases, carboys, bottles etc.
+- manufacture of builders' plastics ware:
+* plastic doors, windows, frames, shutters, blinds, skirting boards
+* tanks, reservoirs
+* plastic floor, wall or ceiling coverings in rolls or in the form of tiles etc.
+* plastic sanitary ware, such as:
+** plastic baths, shower baths, washbasins, lavatory pans, flushing cisterns etc.
+- manufacture of plastic tableware, kitchenware and toilet articles
+- cellophane film or sheet
+- manufacture of resilient floor coverings, such as vinyl, linoleum etc.
+- manufacture of artificial stone (e.g. cultured marble)
+- manufacture of plastic signs (non-electrical)
+- manufacture of diverse plastic products:
+* plastic headgear, insulating fittings, parts of lighting fittings, office or school supplies, articles of apparel (if only sealed together, not sewn), fittings for furniture, statuettes, transmission and conveyer belts, self-adhesive tapes of plastic, plastic wall paper, plastic shoe lasts, plastic cigar and cigarette holders, combs, plastics hair curlers, plastics novelties, etc.
+This class includes also:
+- general activities for the processing and finishing of plastic products, typically carried out on a fee or contract basis
+This class excludes:
+- manufacture of plastic luggage, see 1512
+- manufacture of plastic footwear, see 1520
+- manufacture of plastics in primary forms, see 2013
+- manufacture of articles of synthetic or natural rubber, see group 221
+- manufacture of plastic non current-carrying wiring devices (e.g. junction boxes, face plates), see 2733
+- manufacture of plastic furniture, see 3102
+- manufacture of mattresses of uncovered cellular plastic, see 3100
+- manufacture of plastic sports requisites, see 3230
+- manufacture of plastic games and toys, see 3240
+- manufacture of plastic medical and dental appliances, see 3250
+- manufacture of plastic ophthalmic goods, see 3250
+- manufacture of plastics hard hats and other personal safety equipment of plastics, see 3290

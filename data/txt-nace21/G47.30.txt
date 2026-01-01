@@ -1,0 +1,15 @@
+G47.30 Retail sale of automotive fuel
+This class includes:
+- retail sale of fuels, whether fossil or carbon-free fuels, for motor vehicles and motorcycles
+- operation of petrol stations
+This class also includes:
+- retail sale of petrol in combination with electro fuels (e-fuels), if the sale of electro fuels is not predominant
+- retail sale of lubricating products and cooling products for motor vehicles
+- retail sale of hydrogen for motor vehicles and motorcycles
+- retail sale of fuel, in combination with food, beverages, products for the maintenance of vehicles, car washing services, etc. where the sale of fuel is predominant
+This class excludes:
+- operation of charging facilities for electric vehicles, e.g. electric cars, motorcycles, scooters, bicycles, see 35.15
+- wholesale of fuels, see 46.81
+- retail sale of liquefied petroleum gas (LPG) for cooking or heating, see 47.78
+- retail sale of motor vehicle parts and accessories, see 47.82
+- retail sale of motorcycles and motorcycle parts and accessories, see 47.83

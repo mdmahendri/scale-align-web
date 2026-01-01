@@ -1,0 +1,18 @@
+H5222 Service activities incidental to water transportation
+This class includes:
+- activities related to water transport of passengers, animals or freight:
+operation of terminal facilities such as harbours and piers
+operation of waterway locks etc.
+navigation, pilotage, tug and berthing activities
+bunkering and reception of port waste
+lighterage, salvage activities
+lighthouse activities
+marine cargo surveying activities
+- river information services
+- winter storage of ships and boats
+This class includes also
+- waterway infrastructure maintenance work
+This class excludes:
+- waterway construction and dredging see 4290
+- cargo handling, see 5224
+- operation of marinas, see 9329

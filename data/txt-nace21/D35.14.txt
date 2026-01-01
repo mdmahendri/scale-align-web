@@ -1,0 +1,5 @@
+D35.14 Distribution of electricity
+This class includes:
+- operation of high-voltage, medium-voltage and low-voltage distribution systems (e.g. lines, poles, meters and wiring), which convey electric power received from the generation facility or the transmission system to the end user
+- rental and leasing of electricity distribution networks
+- distribution of electricity into electricity mains/networks

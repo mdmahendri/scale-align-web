@@ -1,0 +1,25 @@
+T9531 Repair and maintenance of motor vehicles
+This class includes:
+- repair and maintenance of motor vehicles, including trailers and semi-trailers, e.g.:
+mechanical repairs
+electrical repairs
+electronic injection systems repair
+ordinary servicing
+bodywork repair
+repair of motor vehicle parts
+washing, polishing, etc.
+spraying and painting
+repair of screens and windows
+repair of motor vehicle seats
+mechatronics system repair and diagnostics services
+- repair, fitting or replacement service activities for tubes and tyres
+- anti-rust treatment
+- installation of parts and accessories not as part of the manufacturing process
+- repair and maintenance of non-military amphibious vehicles
+This class includes also:
+- repair and maintenance of caravan and motor home housing cells
+This class excludes:
+- retreading and rebuilding of tyres, see 2211
+- Fitting out services for caravans and motor homes, see 2920
+- repair of forklifts and agricultural tractors, see 3312
+periodic road-safety testing of motor vehicles, see 7120

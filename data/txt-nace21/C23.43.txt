@@ -1,0 +1,5 @@
+C23.43 Manufacture of ceramic insulators and insulating fittings
+This class includes:
+- manufacture of electrical insulators and insulating fittings for electrical purposes, of ceramics
+This class excludes:
+- manufacture of refractory ceramic goods, see 23.20

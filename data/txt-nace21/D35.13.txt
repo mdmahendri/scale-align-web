@@ -1,0 +1,3 @@
+D35.13 Transmission of electricity
+This class includes:
+- operation of high-voltage transmission systems that convey electricity from the generation facility to the distribution system

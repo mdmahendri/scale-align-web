@@ -1,0 +1,16 @@
+N69.20 Accounting, bookkeeping and auditing activities; tax consultancy
+This class includes:
+- recording of commercial transactions from businesses or others
+- bookkeeping activities for financial accounting and payroll accounting, etc.
+- preparation or auditing of financial accounts
+- examination of accounts and certification of their accuracy
+- preparation of tax returns for individuals or enterprises
+- accounting advisory activities and representation on behalf of clients before public administration (e.g. tax authorities and tax courts)
+- duty and tax tariff calculation service activities
+This class also includes:
+- activities of invoicing services
+This class excludes:
+- publishing of accounting software, see 58.29
+- computer programming of accounting software, see 62.10
+- management consultancy on accounting systems, budgetary control procedures, see 70.20
+- bill collection, see 82.91

@@ -1,0 +1,8 @@
+E38.3 Waste disposal without recovery
+This group includes waste disposal of both non-hazardous and hazardous waste.
+Included are thermal treatment without energy recovery, landfilling, release in bodies of water and permanent storage of waste.
+Treatment prior to disposal of various forms of waste by different means (for example, the treatment of organic waste with the aim of disposal; the treatment and disposal of toxic live or dead animals and other contaminated waste; the treatment and disposal of transitional radioactive waste from hospitals, etc.) are also included.
+This group also includes burial or ploughing under of refuse; disposal of used goods to eliminate harmful waste.
+This group excludes:
+- treatment and disposal of wastewater, see 37.00
+- waste recovery, see 38.2

@@ -1,0 +1,18 @@
+C28.42 Manufacture of other machine tools
+This class includes:
+- manufacture of machine tools for working wood, cork, bone, stone, hard rubber, hard plastics, ceramics, concrete, cold glass or similar hard non-metal materials
+- manufacture of work holders for machine tools
+- manufacture of dividing heads and other special attachments for machine tools
+- manufacture of stationary machines for nailing, stapling, glueing or otherwise assembling wood, cork, bone, hard rubber or hard plastics, etc.
+- manufacture of stationary rotary or rotary percussion drills, etc.
+- manufacture of presses for the manufacture of particle board, etc.
+This class also includes:
+- manufacture of parts and accessories for the machine tools listed
+This class excludes:
+- manufacture of interchangeable tools for machine tools (e.g. drills, punches, dies, taps, milling cutters, turning tools, saw blades, cutting knives), see 25.63
+- manufacture of electric handheld soldering irons and soldering guns, see 27.90
+- manufacture of power-driven hand tools, see 28.24
+- manufacture of filing machines, riveters, sheet metal cutters, see 28.41
+- manufacture of machinery used in metal mills or foundries, see 28.91
+- manufacture of machinery for mining and quarrying, see 28.92
+- manufacture of machines for additive manufacturing, see 28.97

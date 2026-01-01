@@ -1,0 +1,19 @@
+C17.12 Manufacture of paper and paperboard
+This class includes:
+- manufacture of paper and paperboard intended for further industrial processing
+This class also includes:
+- further processing of paper and paperboard:
+colouring, coating, covering and impregnation of paper and paperboard
+manufacture of crpe or crinkled paper
+manufacture of laminates and foils, if laminated with paper or paperboard
+- manufacture of handmade paper
+- manufacture of newsprint and other printing or writing paper
+- manufacture of cellulose wadding and webs of cellulose fibres
+- manufacture of carbon paper or stencil paper in rolls or large sheets
+This class excludes:
+- manufacture of corrugated paper and paperboard, see 17.21
+- manufacture of further-processed articles of paper, paperboard or pulp, see 17.22 to 17.25
+- printing and service activities related to printing, see 18.1
+- manufacture of abrasive paper, see 23.91
+- publishing of books, newspapers and other publishing activities, except software publishing, see 58.1
+- manufacture of coated or impregnated paper where the coating or impregnation is the main ingredient, see class in which the manufacture of the coating or impregnation is classified

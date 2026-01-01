@@ -1,0 +1,16 @@
+C23.15 Manufacture and processing of other glass, including technical glassware
+This class includes:
+- manufacture of laboratory, hygienic or pharmaceutical glassware
+- manufacture of clock or watch glass, optical glass and optical elements not optically worked
+- manufacture of glassware used in imitation jewellery
+- manufacture of glass insulators and glass insulating fittings
+- manufacture of glass envelopes for lamps
+- manufacture of glass figurines
+- manufacture of glass blocks and bricks, slabs, squares and tiles, of a kind used for building or construction purposes, and multicellular or foam glass in blocks, panels, plates, shells or similar forms
+- manufacture of glass in rods or tubes
+This class also includes:
+- manufacture of glass doors, walls, etc.
+- finishing of other glass, including technical glass (e.g. cutting or mechanically polishing glassware)
+This class excludes:
+- manufacture of optical elements optically worked, see 26.70
+- manufacture of syringes and other medical laboratory equipment, see 32.50

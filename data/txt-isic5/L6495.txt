@@ -1,0 +1,13 @@
+L6495 Other credit granting activities
+This class includes:
+- financial service activities primarily concerned with making loans by institutions not involved in monetary intermediation, where the granting of credit can take a variety of forms, such as loans, mortgages, credit cards etc., providing the following types of services:
+granting of consumer credit
+provision of long-term finance to industry
+money lending outside the banking system
+credit granting by specialised non-depository institutions, e.g., for house purchases
+short-term financing for corporate mergers and takeovers
+activities of pawnbrokers
+This class excludes:
+- credit granting by specialised deposit-taking institutions, see 6419
+- operating leasing, see division 77, according to type of goods leased
+- grant-giving activities by membership organizations, see 9499

@@ -1,0 +1,2 @@
+L6494 Securitisation activities
+This class covers activities to issue debt securities whose coupon and principal payments are backed by payments on specified assets or future income streams on assets that have not been originated by the issuing unit.

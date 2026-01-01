@@ -1,0 +1,3 @@
+N74.14 Other specialised design activities
+This class excludes:
+- design of computer-produced graphics for animations, see 59.11

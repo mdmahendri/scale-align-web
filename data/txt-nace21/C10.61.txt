@@ -1,0 +1,12 @@
+C10.61 Manufacture of grain mill products
+This class includes:
+- grain milling: production of flour, semolina, groats, meal or pellets of wheat, rye, oats, maize (corn) or other cereal grains
+- rice milling: production of husked, milled, polished, glazed, parboiled or converted rice; production of rice flour
+- vegetable milling: production of flour or meal of dried leguminous vegetables, of roots or tubers, or of edible nuts
+- manufacture of cereal breakfast foods
+- manufacture of flour mixes and prepared blended flour and dough for bread, cakes, biscuits, pancakes, etc.
+This class excludes:
+- preparation of crops for primary markets (e.g. cleaning, trimming, grading etc.), see 01.63
+- grain drying on a fee or contract basis, see 01.63
+- manufacture of potato flour and meal, see 10.31
+- wet corn milling, see 10.62

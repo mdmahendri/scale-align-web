@@ -1,0 +1,14 @@
+C33.17 Repair and maintenance of other civilian transport equipment
+This class includes the repair and maintenance of other transport equipment of division 30.
+This class includes:
+- repair and maintenance of locomotives and the conversion of railway cars
+- repair of animal-drawn buggies and wagons
+- repair and maintenance of vehicles for the disabled
+- repair of hand-propelled or animal-drawn vehicles
+- repair and maintenance of shopping carts
+This class excludes:
+- factory overhaul and rebuilding of locomotives and railway cars, see 30.20
+- repair and maintenance of railway engines, see 33.12
+- repair and maintenance of military fighting vehicles, see 33.18
+- repair of bicycles, see 95.29
+- repair and maintenance of motorcycles, see 95.32

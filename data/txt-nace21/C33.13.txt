@@ -1,0 +1,32 @@
+C33.13 Repair and maintenance of electronic and optical equipment
+This class includes the repair and maintenance of goods produced in groups 26.5, 26.6 and 26.7, except those that are considered household goods.
+This class includes:
+- repair and maintenance of the measuring, testing, navigating and control equipment of group 26.5, e.g.:
+aircraft engine instruments
+automotive emissions testing equipment
+meteorological instruments
+physical, electrical and chemical properties testing and inspection equipment
+surveying instruments
+radiation detection and monitoring instruments
+- repair and maintenance of irradiation, electromedical and electrotherapeutic equipment of class 26.60, e.g.:
+magnetic resonance imaging (MRI) equipment
+medical ultrasound equipment
+pacemakers
+hearing aids
+electrocardiographs
+electromedical endoscopic equipment
+irradiation apparatus
+- repair and maintenance of optical instruments and equipment of class 26.70, if the use is mainly commercial, e.g.:
+binoculars
+microscopes (except electron and proton microscopes)
+telescopes
+prisms and lenses (except ophthalmic)
+photographic equipment
+This class excludes:
+- repair and maintenance of photocopy machines, see 33.12
+- repair and maintenance of computers and peripheral equipment, see 95.10
+- repair and maintenance of computer projectors, see 95.10
+- repair and maintenance of communication equipment, see 95.10
+- repair and maintenance of commercial television and video cameras, see 95.10
+- repair of household-type video cameras, see 95.21
+- repair of watches and clocks, see 95.25

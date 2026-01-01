@@ -1,0 +1,5 @@
+G4719 Other non-specialized retail sale
+This class includes:
+- retail sale of a large variety of goods (such as wearing apparel, furniture, appliances, hardware, cosmetics, jewellery, toys, sports goods etc.) of which food products, beverages or tobacco are not predominant
+This class excludes
+- non specialised retail sale of second hand goods, see 4774

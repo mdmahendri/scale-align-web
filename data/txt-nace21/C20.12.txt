@@ -1,0 +1,8 @@
+C20.12 Manufacture of dyes and pigments
+This class includes:
+- manufacture of dyes and pigments from any source in basic form or as concentrate
+- manufacture of pure calcium oxide and calcium hydroxide
+This class also includes:
+- manufacture of products, of a kind used as fluorescent brightening agents or as luminophores
+This class excludes:
+- manufacture of prepared dyes and pigments, see 20.30

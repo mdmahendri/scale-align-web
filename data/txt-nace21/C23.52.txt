@@ -1,0 +1,9 @@
+C23.52 Manufacture of lime and plaster
+This class includes:
+- manufacture of quicklime, slaked lime and hydraulic lime
+- manufacture of plasters of calcined gypsum or calcium sulphate
+This class also includes:
+- manufacture of calcined or sintered dolomite
+This class excludes:
+- manufacture of pure calcium oxide and calcium hydroxide, see 20.12
+- manufacture of articles of plaster, see 23.62, 23.66

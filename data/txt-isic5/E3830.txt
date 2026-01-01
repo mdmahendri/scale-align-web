@@ -1,0 +1,35 @@
+E3830 Materials and other waste recovery
+This class includes:
+- processing of metal and non-metal waste and scrap and other articles into secondary raw materials, usually involving a mechanical or chemical transformation process
+- recovery of materials from waste streams in the form of:
+separating and sorting recoverable materials from non-hazardous waste streams (i.e. garbage)
+separating and sorting of commingled recoverable materials, such as paper, plastics, used beverage cans and metals, into distinct categories
+Examples of the mechanical or chemical transformation processes that are undertaken are:
+- mechanical crushing of metal waste such as used cars, washing machines, bikes etc. with subsequent sorting and separation
+- dismantling of automobiles, computers, televisions and other equipment for materials recovery
+- mechanical reduction of large iron pieces such as railway wagons
+- shredding of metal waste, end-of-life vehicles etc.
+- other methods of mechanical treatment as cutting, pressing to reduce the volume
+- ship-breaking
+- reclaiming metals out of photographic waste, e.g. fixer solution or photographic films and paper
+- reclaiming of rubber such as used tires to produce secondary raw material
+- sorting and mechanical processing (e.g. cleaning, grinding) of plastics to produce secondary raw material
+- processing (cleaning, melting, grinding) of plastic or rubber waste to granulates
+- processing (aging, cleaning, sorting) of incineration bottom ash into secondary raw materials (metals, aggregates)
+- crushing, cleaning and sorting of glass
+- crushing, cleaning and sorting of other waste such as demolition waste to obtain secondary raw material
+- recovery of waste oil, processing of used cooking oils and fats into secondary raw materials
+- processing of other food, beverage and tobacco waste and residual substances into secondary raw materials
+This class excludes:
+- manufacture of new final products from secondary metal raw materials (whether or not self-produced), such as spinning yarn from garnetted stock, making pulp from paper waste, retreading tyres or production of metal from metal scrap, see corresponding classes in section C (Manufacturing)
+- reprocessing of nuclear fuels, see 2011
+- remelting ferrous waste and scrap, see 2410
+- remelting of plastics to produce granulates or compounds, see 2013
+- treatment and disposal of non-hazardous waste, see 3821
+- treatment of organic waste for disposal, see 3821
+- energy recovery from non-hazardous waste incineration processes, see 3821
+- disposal of used goods such as refrigerators to eliminate harmful waste, see 3822
+- treatment and disposal of transition radioactive waste from hospitals etc., see 3822
+- treatment and disposal of toxic, contaminated waste, see 3822
+- dismantling of automobiles, computers, televisions and other equipment to obtain and resell usable parts, see section G
+- wholesale of recoverable materials, see 4679

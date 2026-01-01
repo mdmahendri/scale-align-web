@@ -1,0 +1,7 @@
+E38.2 Waste recovery
+This group includes waste pretreatment and recovery of both non-hazardous and hazardous waste.
+Included are materials recovery, energy recovery resulting from thermal treatment of waste and other forms of waste recovery.
+Treatment prior to recovery of various forms of waste by different means is also included in the group.
+This group excludes:
+- treatment and disposal of wastewater, see 37.00
+- waste disposal without recovery, see 38.3

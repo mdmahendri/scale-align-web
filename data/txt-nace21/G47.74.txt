@@ -1,0 +1,11 @@
+G47.74 Retail sale of medical and orthopaedic goods
+This class includes:
+- retail sale of corrective glasses, lenses and sunglasses
+- retail sale of hearing aids
+- retail sale of orthopaedic footwear
+- retail sale of crutches and wheelchairs
+- retail sale of orthopaedic prostheses
+- retail sale of cervical collars and corsets
+- retail sale of elastocompressive products (e.g. elastic stockings, sleeves)
+This class also includes:
+- retail sale of non-corrective sunglasses

@@ -1,0 +1,11 @@
+O81.10 Combined facilities support activities
+This class includes the provision of a combination of support services within clients facilities.
+These services include general interior cleaning, maintenance, waste disposal, doormen and surveillance services, mail routing, reception, laundry and related services to support operations within facilities.
+These support activities are performed by operating staff, who are not involved with or responsible for the core business or activities of the client.
+This class excludes:
+- provision of on-site management and operation of a clients computer systems and/or data processing facilities, see 62.20
+- management of real estate (e.g. property management of real estate or dwellings in joint ownership (mostly carried out on a fee or contract basis)), see 68.32
+- guard and security service activities, see 80.01
+- operation of prisons on a contract or fee basis, see 84.23
+- provision of only one of the support services (e.g. general interior cleaning services) or addressing only a single function (e.g. heating), see the appropriate NACE class according to the service provided
+- provision of management and operating staff for the complete operation of a clients establishment (e.g. hotel, restaurant, mine, hospital), see the class of the unit operated

@@ -1,0 +1,7 @@
+E38.23 Other waste recovery
+This class includes:
+- preparation of sewage sludge for land treatment resulting in benefits to agriculture or ecological improvement
+- preparation of non-hazardous waste for reclamation in excavated areas or for engineering purposes in landscaping
+This class excludes:
+- production of biogas from sewage sludge, see 35.21
+- back-filling without related preparation activities (e.g. preparation of non-hazardous waste for engineering purposes in landscaping), see division 42

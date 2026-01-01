@@ -1,0 +1,11 @@
+P84.23 Justice and judicial activities
+This class includes:
+- administration and operation of administrative, civil and criminal law courts, military tribunals, and the judicial system
+- rendering of judgements and interpretations of the law
+- activities of public prosecutors
+- arbitration of civil actions
+- prison administration and the provision of prison services, including rehabilitation services
+This class excludes:
+- legal advice and representation in civil, criminal and other cases, see 69.10
+- activities of prison schools, see division 85
+- activities of prison hospitals, see 86.10

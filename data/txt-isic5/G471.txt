@@ -1,0 +1,6 @@
+G471 Non-specialized retail sale
+This group includes the retail sale of a variety of product lines in the same unit (non-specialised sale, such as supermarkets, hypermarkets and department stores).
+The rules for defining specialised and non-specialised retail trade activities are described in paragraphs 96-98 of the NACE introductory guidelines
+This group excludes:
+- specialised retail sale, see groups 472 - 478
+- intermediation services for specialised and not specialised retail sale, see group 479

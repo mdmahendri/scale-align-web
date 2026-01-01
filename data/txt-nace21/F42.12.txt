@@ -1,0 +1,8 @@
+F42.12 Construction of railways and underground railways
+This class includes:
+- construction of railways, underground railways and subways
+- construction of electricity overhead lines and conductor rails for railways
+This class excludes:
+- installation of lighting and electrical signals, see 43.21
+- project management for construction, see 71.1
+- engineering activities, see 71.12

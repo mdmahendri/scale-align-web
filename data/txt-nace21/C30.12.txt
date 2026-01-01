@@ -1,0 +1,22 @@
+C30.12 Building of pleasure and sporting boats
+This class includes:
+- manufacture of inflatable boats and rafts for sports and recreation
+- building of sailing boats with or without auxiliary motor
+- building of motorboats
+- building of recreation-type hovercraft
+- building of yachts
+- manufacture of personal watercraft
+- manufacture of other pleasure and sporting boats, e.g.:
+canoes, kayaks, rowing boats, skiffs
+This class also includes:
+- factory conversion of pleasure and sporting boats
+This class excludes:
+- manufacture of parts of pleasure and sporting boats:
+manufacture of sails, see 13.96
+manufacture of iron or steel anchors, see 25.99
+manufacture of marine engines, see 28.11
+- factory overhaul of engines for sport/recreational ships and boats, see 28.11
+- manufacture of sailboards and surfboards, see 32.30
+- repair of pleasure boats, see 33.15
+- rental of pleasure boats and sailing boats with crew, see 50.10, 50.30
+- rental of pleasure boats and yachts without crew, see 77.21

@@ -1,0 +1,14 @@
+G4751 Retail sale of textiles
+This class includes:
+- retail sale of fabrics
+- retail sale of knitting yarn
+- retail sale of basic materials for rug, tapestry or embroidery making
+- retail sale of textiles
+- retail sale of haberdashery: needles, sewing thread etc.
+- retail sale of tarpaulins
+This class includes also:
+- retail sale of bedlinen
+This class excludes:
+- retail sale of curtains and net curtains, see 4753
+- retail sale of parasols, see 4759
+- retail sale of clothing, see 4771

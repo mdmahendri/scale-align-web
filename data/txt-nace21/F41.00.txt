@@ -1,0 +1,24 @@
+F41.00 Construction of residential and non-residential buildings
+This class includes the construction of complete residential or non-residential buildings, as well as additions and alterations.
+Outsourcing parts or the whole construction process is possible.
+If only specialised parts of the construction process are carried out, the activity is classified in division 43.
+This class includes:
+- construction of all types of buildings:
+residential buildings
+buildings for industrial production (e.g. factories, workshops)
+hospital, school and office buildings
+hotel, store, shopping centre and restaurant buildings
+airport buildings
+indoor sports facilities
+parking garages, including underground parking garages
+warehouse buildings
+religious buildings
+- erection of prefabricated buildings requiring on-site assembly
+This class also includes:
+- complete remodelling or renovating of existing residential or non-residential buildings involving several specialised construction activities
+- construction of air-supported buildings (e.g. air domes)
+This class excludes:
+- construction of industrial facilities, except buildings, see 42.99
+- development of building projects, for later sale, see 68.12
+- architectural and engineering activities, see 71.1
+- project management for construction, see 71.1

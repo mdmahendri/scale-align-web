@@ -1,0 +1,16 @@
+D3513 Electric power transmission and distribution activities
+This class includes:
+- operation of transmission systems that convey the electricity from the generation facility to the distribution system, usually in the form of high-voltage
+- operation of distribution systems (e.g. lines, poles, meters, and wiring) which convey electric power received from the generation facility or the transmission system to the end user
+- rental and leasing electricity distribution networks
+- distribution of electricity into electricity mains/networks
+- sale of electricity to the user on own account
+- operation of electricity and transmission capacity exchanges for electric power, except via intermediaries
+- conversion of electrical energy into a form of energy which can be stored, the storing of such energy, and the subsequent reconversion of such energy into electrical energy, e.g. operation of pump storage facilities, compressed air storage facilities, or battery storage facilities
+- distributing stored electricity into electricity mains/networks
+This class also includes:
+- operation of charging facilities or stations for electric vehicles, e.g. electric cars, motorcycles, scooters and bicycles
+- operation of charging facilities for electronic devices, e.g. mobile telephones, or laptops
+This class excludes:
+- sale of electricity on the account of others, see 3540
+- production of electricity not by storage, see 3511, 3512

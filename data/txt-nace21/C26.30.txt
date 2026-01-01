@@ -1,0 +1,28 @@
+C26.30 Manufacture of communication equipment
+This class includes the manufacture of telephone and data communication equipment used to move signals electronically through wired or wireless networks (for example, radio and television broadcasts, wireless communication equipment).
+This class includes:
+- manufacture of central office switching equipment
+- manufacture of cordless telephones
+- manufacture of private branch exchange (PBX) equipment
+- manufacture of telephone and facsimile equipment, including telephone answering machines
+- manufacture of data communication equipment (e.g. bridges, routers, gateways)
+- manufacture of transmitting and receiving antenna
+- manufacture of cable television equipment
+- manufacture of pagers
+- manufacture of mobile telephones
+- manufacture of mobile communication equipment
+- manufacture of radio and television studio and broadcasting equipment, including television cameras
+- manufacture of modems, carrier equipment
+- manufacture of radio and television transmitters
+- manufacture of communication devices using infra-red signals (e.g. remote controls)
+This class also includes:
+- manufacture of smartwatches
+This class excludes:
+- manufacture of electronic components and sub-assemblies used in communication equipment, including computer modems, see 26.12
+- manufacture of printed circuit boards loaded with passive elements, see 26.12
+- manufacture of computers and computer peripheral equipment, see 26.20
+- manufacture of consumer audio and video equipment, see 26.40
+- manufacture of burglar- and fire-alarm systems, sending signals to a control station, see 26.51
+- manufacture of global positioning system (GPS) devices, see 26.51
+- manufacture of electronic scoreboards, see 27.90
+- manufacture of traffic lights, see 27.90

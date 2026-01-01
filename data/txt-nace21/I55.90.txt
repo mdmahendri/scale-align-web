@@ -1,0 +1,14 @@
+I55.90 Other accommodation
+This class includes the provision of temporary accommodation in homes, flats or apartments, as well as single or shared rooms or dormitories for students, seasonal workers and other individuals.
+This class includes accommodation in:
+- homes and furnished or unfurnished flats or apartments, for a period shorter than a year
+- dormitories for workers
+- boarding houses
+- student accommodation provided for less than one year at a time
+- railway sleeping cars when not operated by railway companies
+This class excludes:
+- operation of railway sleeping cars as an integrated operation of railway companies, see 49.11
+- operation of cruise ships, see 50.10, 50.30
+- intermediaries for accommodation, see 55.40
+- all forms of accommodation for a period of one year or longer, see 68.20
+- intermediation or sale of a combination of accommodation, travel and food, i.e. travel agencies and tour operators, see 79.11, 79.12

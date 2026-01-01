@@ -1,0 +1,38 @@
+C31.00 Manufacture of furniture
+This class includes the manufacture of furniture of any material, for any place and for various purposes.
+It also includes the manufacture of parts of furniture, except of sheets and slabs (whether or not cut to shape) of glass (including mirrors), marble or other stone, concrete or similar material.
+This class includes:
+- manufacture of chairs and seats for offices, workrooms, hotels, restaurants and public premises
+- manufacture of chairs and seats for theatres, cinemas, etc.
+- manufacture of special furniture for shops: counters, display cases, shelves, etc.
+- manufacture of office furniture
+- manufacture of laboratory benches, stools, and other laboratory seating, laboratory furniture (e.g. cabinets and tables)
+- manufacture of furniture for churches, schools, restaurants
+- manufacture of kitchen furniture
+- manufacture of sofas, sofa beds and sofa sets
+- manufacture of garden chairs and seats
+- manufacture of furniture for bedrooms, living rooms, gardens, etc.
+- manufacture of cabinets for sewing machines, televisions, etc.
+- manufacture of mattresses and of mattress supports
+This class also includes:
+- manufacture of catering carts
+- manufacture of built-in components for shop furniture
+- finishing of furniture (e.g. spraying, painting, polishing, upholstering)
+- manufacture of walk-in wardrobes
+This class excludes:
+- manufacture of pillows, pouffes, cushions, quilts and eiderdowns, see 13.92
+- manufacture of wooden mouldings which are not recognisable as integral parts of furniture, see 16.1
+- manufacture of builders carpentry and joinery, see 16.23
+- manufacture of inflatable rubber mattresses, see 22.12
+- manufacture of rubber waterbed mattresses, see 22.12
+- manufacture of sheets and slabs (whether or not cut to shape) of ceramics, concrete and stone, see 23.42, 23.66, 23.70
+- manufacture of light fittings or lamps, see 27.40
+- manufacture of blackboards, see 28.23
+- manufacture of car seats, see 29.32
+- manufacture of baby seat for cars, see 29.32
+- manufacture of railway car seats, see 30.20
+- manufacture of aircraft seats, see 30.31, 30.32
+- manufacture of medical, surgical, dental or veterinary furniture, see 32.50
+- installation of modular furniture attachment, partition installation, laboratory equipment furniture installation at construction site, see 43.32
+- installation of built-in components for shop furniture, see 43.32
+- reupholstering, refinishing and repairing of furniture, see 95.24

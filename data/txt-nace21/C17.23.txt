@@ -1,0 +1,12 @@
+C17.23 Manufacture of paper stationery
+This class includes:
+- manufacture of printing and writing paper ready for use
+- manufacture of computer print-out paper ready for use
+- manufacture of self-copy paper ready for use
+- manufacture of duplicator stencils and carbon paper ready for use
+- manufacture of gummed or adhesive paper ready for use
+- manufacture of envelopes and letter cards
+- manufacture of educational and commercial stationery (notebooks, binders, registers, accounting books, business forms, etc.), when the printed information is not the main characteristic
+- manufacture of boxes, pouches, wallets and writing compendiums containing an assortment of paper stationery
+This class excludes:
+- printing on paper products, see 18.1

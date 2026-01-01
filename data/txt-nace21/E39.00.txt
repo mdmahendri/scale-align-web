@@ -1,0 +1,21 @@
+E39.00 Remediation activities and other waste management service activities
+This class includes:
+- decontamination of soils and groundwater at the place of pollution, either in situ or ex situ, using, e.g. mechanical, chemical or biological methods
+- decontamination of industrial plants or sites, including nuclear plants and sites
+- decontamination and cleaning up of surface water following accidental pollution (e.g. through collection of pollutants or through application of chemicals)
+- cleaning up oil spills and other pollutions on land, in surface water, in ocean and seas, including coastal areas
+- asbestos, lead paint and other toxic material abatement
+- clearing of landmines, etc., including detonation at the site
+- other specialised pollution-control activities
+- carbon capture activities
+- remediation of mining sites
+This class also includes:
+- site remediation containment, control and monitoring services
+This class excludes:
+- pest control in agriculture, see 01.61
+- purification of water for water supply purposes, see 36.00
+- treatment of waste with recovery, see 38.2
+- treatment of waste for disposal, see 38.3
+- storage of captured carbon dioxide (CO2), see 38.32
+- civil engineering projects for the rehabilitation of mining sites, see section F
+- outdoor sweeping and watering of streets, see 81.23

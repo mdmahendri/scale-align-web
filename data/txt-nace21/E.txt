@@ -1,0 +1,12 @@
+E WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIES
+This section includes activities related to the management, collection, pretreatment, recovery and disposal, of various forms of waste (for example, solid or non-solid industrial or household waste) and its organisation.
+The output of the waste or sewage treatment process can either be disposed of or become an input into other production processes.
+Secondary raw materials are materials and products which can be used as raw materials by simple reuse, or via recycling and recovery of waste.
+Activities of water supply are also grouped in this section, since they are often carried out in connection with, or by units also engaged in, the treatment of sewage.
+The activities also include remediation of contaminated buildings and sites, soil, surface and groundwater (for example, oceans, mangroves, seas), and so on.
+Units that usually take over their clients waste procedures and become the customer of the waste hauler, and then in turn charge their clients for waste services, are classified in division 38.
+Even if these units do not render the corresponding services themselves, they are responsible for their fulfilment.
+This activity is regarded as the complete outsourcing of a service.
+This section excludes:
+- waste trade activities as agents, see 46.18
+- waste trade activities as wholesalers, see 46.87

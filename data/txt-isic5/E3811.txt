@@ -1,0 +1,19 @@
+E3811 Collection of non-hazardous waste
+This class includes:
+- collection of non-hazardous solid waste (i.e. garbage) within a local area such as collection of wated from households and businesses, by means of bins, containers etc., which may contain mixed recoverable materials
+- collection of recyclable materials (separated or not)
+- collection of non-hazardous waste of animal or vegetal origin
+- collection of used cooking oils and fats
+- collection of refuse in public places
+- collection of yard waste
+This class also includes:
+- collection of construction and demolition waste
+- collection and removal of debris
+- collection of waste output of industrial plants
+- operation of waste transfer facilities for non-hazardous waste
+This class excludes:
+- collection of sewage, see 37
+- collection of hazardous waste, see 3812
+- operation of landfills for the disposal of non-hazardous waste and permanent storage of non-hazardous waste, see 3821
+- operation of facilities for sorting recoverable waste, see 3830
+- operation of recovery facilities, see 3830

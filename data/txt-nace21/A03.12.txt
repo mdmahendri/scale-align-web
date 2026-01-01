@@ -1,0 +1,15 @@
+A03.12 Freshwater fishing
+This class includes:
+- fishing on a commercial basis in inland waters
+- taking of freshwater crustaceans and molluscs
+- taking of freshwater aquatic animals
+This class also includes:
+- gathering of freshwater materials
+- gathering of other freshwater organisms: seaweed and algae
+This class excludes:
+- catching of frogs or collection of snails in the wild, see 01.70
+- collecting wild plants (e.g. reeds, sedges), see 02.30
+- processing of fish, crustaceans and molluscs on factory ships or in factories ashore, see 10.20
+- fishing inspection, protection and patrol services, see 84.24
+- fishing practiced for sport or recreation and related services, see 93.19
+- operation of sport fishing preserves, see 93.19

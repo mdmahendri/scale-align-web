@@ -1,0 +1,16 @@
+H52.26 Other support activities for transportation
+This class includes:
+- issue and procurement of transport documents and waybills
+- activities of customs agents
+- organisation of multimodal and combined transport activities by rail, road, water or air (intermodal transport) on behalf of the shipper or consignee
+- organisation and freight forwarding of group and individual consignments on behalf of the client
+This class excludes:
+- rail, ship and aircraft freight brokerage, see 52.31
+- operation of platforms for intermediation of freight transport, see 52.31
+- brokerage for passenger seats for ship and aircraft space, see 52.32
+- courier activities, see 53.20
+- provision of motor, marine, aviation and transport insurance, see 65.12
+- management consultancy for companies logistics, see 70.20
+- activities of travel agencies, see 79.11
+- activities of tour operators, see 79.12
+- tourist assistance activities, see 79.90

@@ -1,0 +1,22 @@
+P8412 Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security and environment
+This class includes:
+- public administration of programmes aimed to increase personal well-being, e.g.:
+health
+education
+culture
+sport
+recreation
+housing
+social services
+- public administration of research and development policies and associated funds for these areas
+This class also includes:
+- public sponsoring of recreational and cultural activities
+- distribution of public grants to artists
+- administration of housing programmes
+This class excludes:
+- compulsory social security activities, see 8430
+- education activities, see section Q
+- human health-related activities, see division 86
+- operation of museums and other cultural institutions, see division 91
+- activities of libraries and archives (private, public or government operated), see 911
+- sporting or other recreational activities, see division 93

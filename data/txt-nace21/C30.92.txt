@@ -1,0 +1,12 @@
+C30.92 Manufacture of bicycles and invalid carriages
+This class includes:
+- manufacture of non-motorised bicycles and other cycles, including (delivery) tricycles, tandems, childrens bicycles and tricycles
+- manufacture of parts and accessories of bicycles (e.g. frames, forks, wheel rims and spokes, hubs, brakes, saddles, pedals, crank gear and derailleur gears)
+- manufacture of bicycles with an auxiliary electric motor
+- manufacture of carriages for disabled persons with or without motor
+- manufacture of parts and accessories of carriages for disabled persons
+- manufacture of personal transporters (e.g. electric skateboards and kickscooters)
+- manufacture of baby carriages and parts thereof
+This class excludes:
+- manufacture of pneumatic tyres and inner tubes of rubber, of a kind used for bicycles, see 22.11
+- manufacture of wheeled toys designed to be ridden, including plastic bicycles and tricycles, see 32.40

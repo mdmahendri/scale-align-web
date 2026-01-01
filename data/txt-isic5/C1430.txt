@@ -1,0 +1,9 @@
+C1430 Manufacture of knitted and crocheted apparel
+This class includes:
+- manufacture of hosiery, including socks, tights and pantyhose
+- manufacture of knitted or crocheted wearing apparel and other made-up articles directly into shape e.g. pullovers, cardigans, jerseys, shirts, T-shirts, blouses, waistcoats, nightwear and underwear, including babies wear, clothing for playing sports (both individual and professional use), including knitted and crocheted sportswear and swimwear
+This class also includes:
+- manufacture of medical stockings and hosiery
+- manufacture of footwear without applied soles, knitted or crocheted
+This class excludes:
+- manufacture of knitted and crocheted fabrics, see 1391

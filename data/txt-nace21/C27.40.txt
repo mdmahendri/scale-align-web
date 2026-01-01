@@ -1,0 +1,22 @@
+C27.40 Manufacture of lighting equipment
+This class includes the manufacture of electric light bulbs and tubes, and parts and components thereof (except glass blanks for electric light bulbs), electric lighting and other fixtures, and lighting fixture components (except current-carrying wiring devices).
+This class includes:
+- manufacture of lamps, fixtures and bulbs (e.g. discharge, incandescent, fluorescent, ultraviolet, infra-red, light-emitting diode (LED))
+- manufacture of ceiling or wall lighting fixtures (e.g. chandeliers)
+- manufacture of table or floor-standing lamps (i.e. lighting fixtures)
+- manufacture of light chains
+- manufacture of electric fireplace logs
+- manufacture of flashlights
+- manufacture of electric insect lamps
+- manufacture of lanterns (e.g. carbide, electric, gas, gasoline, kerosene)
+- manufacture of spotlights
+- manufacture of street lighting fixtures (except traffic signals)
+- manufacture of lighting equipment for transport equipment (e.g. for motor vehicles, aircraft, boats)
+- manufacture of solar lighting equipment
+This class excludes:
+- manufacture of glassware and glass parts for lighting fixtures, see 23.15
+- manufacture of light-emitting diodes (LEDs), see 26.11
+- manufacture of current-carrying and non-current-carrying wiring devices for lighting fixtures, see 27.33
+- manufacture of ceiling fans or bath fans with integrated lighting fixtures, see 27.51
+- manufacture of electrical signalling equipment (e.g. traffic lights and pedestrian signalling equipment), see 27.90
+- manufacture of electrical signs, see 27.90

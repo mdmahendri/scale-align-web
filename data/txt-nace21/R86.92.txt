@@ -1,0 +1,10 @@
+R86.92 Patient transportation by ambulance
+This class includes ambulance transport of patients by any mode of transport, including airplanes.
+Ambulance vehicles carry paramedics / medical doctors and are usually equipped with lifesaving equipment.
+This class also includes:
+- specialised transport of patients, accompanied by paramedics
+- primary care given by a paramedic or a doctor during the patients transport by ambulance
+This class excludes:
+- transport of patients in vehicles without paramedical practitioners and equipment for lifesaving, see divisions 49, 50
+- transport of patients in airplanes without paramedical practitioners and equipment for lifesaving, see division 51
+- transport of blood and body organs/fluids, see 86.99

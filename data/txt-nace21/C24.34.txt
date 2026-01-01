@@ -1,0 +1,6 @@
+C24.34 Cold drawing of wire
+This class includes:
+- manufacture of drawn steel wire, by cold drawing of steel wire rod
+This class excludes:
+- drawing of bars and solid sections of steel, see 24.31
+- manufacture of derived wire products, see 25.93

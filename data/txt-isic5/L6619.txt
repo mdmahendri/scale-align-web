@@ -1,0 +1,25 @@
+L6619 Other activities auxiliary to financial service activities, except insurance and pension funding
+This class includes activities auxiliary financial service activities not elsewhere classified, e.g.:
+- financial transaction processing and settlement activities, including digital (or internet based) payment provision and settlement activities for credit card transactions
+- investment advisory services including robo-advisory services
+- activities of mortgage and loan advisors
+- activities of digital currency wallet providers
+- activities of financial advisors in relation to mergers and acquisition services
+- validation and mining for crypto assets deemed financial assets
+- securities custody
+- tokenization of digital assets including security token offerings, initial coin offerings
+This class also includes:
+- trustee, fiduciary and custody services on a fee or contract basis
+- activities of tax refund offices
+- consumer credit intermediation
+- activities of payment providers, e.g. electronic funds transfer services, including peer-to-peer payment services
+- analysing financial markets as an advisory service
+This class excludes:
+- publishing of financial markets analysis, see class 5819
+- information search services regarding financial markets, see 6390
+- crypto assets exchange, see 6611
+- brokerage activities, see 6612
+- brokerage of crypto assets, see 6612
+- activities of insurance agents and brokers, see 6622
+- management of funds, see 6630
+- activities of debt collection agencies and non-performing loans servicers, see 8291

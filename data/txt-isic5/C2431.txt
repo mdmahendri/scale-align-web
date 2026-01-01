@@ -1,0 +1,12 @@
+C2431 Casting of iron and steel
+This class includes the casting of iron and steel, i.e. the activities of iron and steel foundries.
+This class includes:
+- casting of semi-finished iron products
+- casting of grey iron castings
+- casting of spheroidal graphite iron castings
+- casting of malleable cast-iron products
+- casting of semi-finished steel products
+- casting of steel castings
+- manufacture of tubes, pipes and hollow profiles and of tube or pipe fittings of cast-iron
+- manufacture of seamless tubes and pipes of steel by centrifugal casting
+- manufacture of tube or pipe fittings of cast-steel

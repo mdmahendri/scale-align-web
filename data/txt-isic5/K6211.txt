@@ -1,0 +1,11 @@
+K6211 Development of video games, video game software, and video game software tools
+This class includes
+- designing the structure and content of, and/or writing, modifying (including updates and patches), customizing, testing and supporting of the computer code necessary to create and implement:
+* video game software
+* video game applications
+* video game software tools
+* video game middleware
+This class excludes
+- publishing video games and gaming applications, see 5821
+- activities of online gaming/video game sites, see 6039
+- activities of gambling sites, see 9200

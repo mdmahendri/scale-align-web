@@ -1,0 +1,8 @@
+C2611 Manufacture of solar cells, solar panels and photovoltaic inverters
+This class includes the manufacture of solar cells , solar panels and photovoltaic inverters.
+This class includes:
+- manufacture of photovoltaic cells, modules and panels
+This class excludes:
+- manufacture of solar lights, see 2740
+- manufacture of solar heating systems, see 2815
+- installation of solar heating systems, see 4321

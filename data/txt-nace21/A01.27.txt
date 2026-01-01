@@ -1,0 +1,10 @@
+A01.27 Growing of beverage crops
+This class includes:
+- growing of beverage crops e.g.:
+coffee
+tea
+mat
+cocoa
+This class excludes:
+- growing of grapes, see 01.21
+- growing of hops, see 01.28

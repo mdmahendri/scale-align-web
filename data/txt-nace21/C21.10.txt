@@ -1,0 +1,10 @@
+C21.10 Manufacture of basic pharmaceutical products
+This class includes:
+- manufacture of active pharmaceutical ingredients to be used for their pharmacological properties in the manufacture of medical products (e.g. antibiotics, basic vitamins, salicylic and O-acetylsalicylic acids)
+- processing of blood
+This class also includes:
+- manufacture of chemically pure sugars
+- manufacture of probiotics
+- processing of glands and manufacture of extracts of glands, etc.
+This class excludes:
+- manufacture of advance cell and gene therapy pharmaceutical preparations, see 21.20

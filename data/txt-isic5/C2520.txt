@@ -1,0 +1,18 @@
+C2520 Manufacture of weapons and ammunition
+This class includes:
+- manufacture of military weapons e.g. artillery weapons, rocket launchers, flame-throwers, grenade launchers, torpedo tubes and similar projectors, machine guns
+- manufacture of pistols, shotguns and rifles
+- manufacture of spring, air or gas guns and pistols etc.
+- manufacture of war ammunition
+- manufacture of cartridges for shotguns, revolvers and pistols
+- manufacture of bombs, grenades, torpedos, mines, missiles and similar munitions of war
+This class also includes:
+- manufacture of hunting, sporting or protective firearms and ammunition
+This class excludes:
+- manufacture of percussion caps, detonators or signalling flares, see 2029
+- manufacture of optical gun sighting equipment, see 2670
+- manufacture of cutlasses, swords, bayonets etc., see 2593
+- manufacture of armoured vehicles for the transport of banknotes or valuables, see 2910
+- manufacture of military air and spacecraft, see 3030
+- manufacture of tanks and other armoured and motorised fighting vehicles, see 3040
+- building of military ships and vessels, see 3011

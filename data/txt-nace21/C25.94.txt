@@ -1,0 +1,5 @@
+C25.94 Manufacture of fasteners and screw machine products
+This class includes:
+- manufacture of rivets, washers and similar non-threaded products
+- manufacture of screw machine products
+- manufacture of bolts, screws, nuts and similar threaded products

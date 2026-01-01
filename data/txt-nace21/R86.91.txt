@@ -1,0 +1,11 @@
+R86.91 Diagnostic imaging services and medical laboratory activities
+This class includes activities of medical laboratories providing analytic or diagnostic services (without the medical analysis or interpretation itself), including body fluid analysis or genetic testing, directly to outpatients with or without referral from healthcare practitioners, for example:
+- X-ray laboratories and other diagnostic imaging centres
+- blood analysis laboratories
+- DNA sequencing for ruling out or curing a specific disease
+This class also includes:
+- laboratory doping control activities
+This class excludes:
+- non-medical laboratory testing, testing activities in the field of food hygiene, activities of forensic laboratories, see 71.20
+- medical analysis and interpretation of diagnostic medical images (X-ray, electrocardiograms, endoscopies, etc.), see 86.22
+- activities of genome data centres, blood and organ banks, see 86.99

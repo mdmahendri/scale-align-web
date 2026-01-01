@@ -1,0 +1,15 @@
+C30.32 Manufacture of military air and spacecraft and related machinery
+This class includes the manufacture of military aircraft and spacecraft and related machinery.
+The class includes the manufacture of:
+- fixed-wing aircraft
+- tiltrotor aircraft
+- rotary-wing aircraft
+- drones for military purposes (unmanned aerial vehicles (UAVs))
+This class also includes:
+- factory overhaul and rebuilding military air and spacecraft
+- manufacture of military aircraft seats
+This class excludes:
+- manufacture of weapons and ammunition, see 25.30
+- manufacture of missiles for military purposes, see 25.30
+- manufacture of civilian air and spacecraft and related machinery, see 30.31
+- repair and maintenance of military air and spacecraft machinery, see 33.18

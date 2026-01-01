@@ -1,0 +1,18 @@
+C1512 Manufacture of luggage, handbags and the like, saddlery and harness of any material
+This class includes:
+- manufacture of luggage, handbags, backpacks etc., of leather, composition leather or any other material, , where the same technology is used as for leather
+- manufacture of saddlery and harness for any animal
+- manufacture of non-metallic watch bands (e.g. fabric, leather, plastic)
+- manufacture of diverse articles of leather or composition leather e.g. driving belts, packings
+- manufacture of shoe-lace, of leather
+- manufacture of horse whips and riding crops
+This class also includes:
+- manufacture of leather clothes for animals
+This class excludes:
+- manufacture of leather wearing apparel, see 1420
+- manufacture of leather gloves and hats, see 1410
+- manufacture of footwear, see 1520
+- manufacture of saddles for bicycles, see 3092
+- manufacture of precious metal watch bands, see 3211
+- manufacture of non-precious metal watch bands, see 3212
+- manufacture of linemen's safety belts and other belts for occupational use, see 3290

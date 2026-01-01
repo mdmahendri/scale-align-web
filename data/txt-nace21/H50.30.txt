@@ -1,0 +1,11 @@
+H50.30 Inland passenger water transport
+This class includes:
+- transport of passengers via rivers, canals, lakes and other inland waterways, including inside harbours and ports
+This class also includes:
+- rental of pleasure boats with crew for inland water transport
+- operation of sightseeing boats and excursions on inland waterways
+- inland ferry transport of passengers with or without a vehicle
+This class excludes:
+- restaurant and bar activities aboard ships, when provided by separate units, see 56.11, 56.30
+- rental of pleasure boats and yachts without crew, see 77.21
+- operation of floating casinos, not transporting passengers, see 92.00

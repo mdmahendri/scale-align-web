@@ -1,0 +1,11 @@
+F4329 Other construction installation
+This class includes the installation of equipment other than electrical, plumbing, heating and air-conditioning systems or industrial machinery in buildings and civil engineering structures, including maintenance and repair.
+This class includes:
+- installation in buildings or other construction projects of:
+* elevators, escalators
+* automated and revolving doors
+* lightning conductors
+* vacuum cleaning systems
+* thermal, sound or vibration insulation
+This class excludes:
+- installation of industrial machinery, see 3320

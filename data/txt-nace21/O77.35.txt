@@ -1,0 +1,8 @@
+O77.35 Rental and leasing of air transport equipment
+This class includes:
+- rental and operating leasing of air transport equipment without an operator:
+airplanes
+hot-air balloons
+helicopters
+This class excludes:
+- rental of air transport equipment with an operator, see division 51

@@ -1,0 +1,30 @@
+C3290 Other manufacturing n.e.c.
+This class includes:
+- manufacture of protective safety equipment
+* manufacture of fire-resistant and protective safety clothing
+* manufacture of linemen's safety belts and other belts for occupational use
+* manufacture of cork life preservers
+* manufacture of plastics hard hats and other personal safety equipment of plastics (e.g. athletic helmets)
+* manufacture of fire-fighting protection suits
+* manufacture of metal safety headgear and other metal personal safety devices
+* manufacture of ear and noise plugs (e.g. for swimming and noise protection)
+* manufacture of gas masks
+- manufacture of brooms and brushes, including brushes constituting parts of machines, hand-operated mechanical floor sweepers, mops and feather dusters, paint brushes, paint pads and rollers, squeegees and other brushes, brooms, mops etc.
+- manufacture of shoe and clothes brushes
+- manufacture of pens and pencils of all kinds whether or not mechanical
+- manufacture of pencil leads
+- manufacture of date, sealing or numbering stamps, hand-operated devices for printing, or embossing labels, hand printing sets, prepared typewriter ribbons and inked pads
+- manufacture of globes
+- manufacture of umbrellas, sun-umbrellas, walking sticks, seat-sticks
+- manufacture of buttons, press-fasteners, snap-fasteners, press-studs, slide fasteners
+- manufacture of electronic cigarettes
+- manufacture of cigarette lighters and other lighters
+- manufacture of articles of personal use: smoking pipes, scent sprays, vacuum flasks and other vacuum vessels for personal or household use, wigs, false beards, eyebrows
+- manufacture of miscellaneous articles: candles, tapers and the like; bouquets, wreaths and floral baskets; artificial flowers, fruit and foliage; jokes and novelties; hand sieves and hand riddles; tailors' dummies; burial caskets etc.
+- taxidermy activities
+This class excludes:
+- manufacture of lighter wicks, see 1399
+- manufacture of workwear and service apparel (e.g. laboratory coats, work overalls, uniforms), see 1410
+- manufacture of paper novelties, see 1709
+- manufacture of plastic novelties, see 2220
+- manufacture of individual protective masks, see 3250

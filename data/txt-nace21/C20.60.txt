@@ -1,0 +1,11 @@
+C20.60 Manufacture of man-made fibres
+This class includes:
+- manufacture of synthetic or artificial filament tow
+- manufacture of synthetic or artificial staple fibres, not carded, combed or otherwise processed for spinning
+- manufacture of synthetic or artificial filament yarn, including high-tenacity yarn
+- manufacture of synthetic or artificial monofilament or strip
+- manufacture of recycled fibres
+This class excludes:
+- spinning of synthetic or artificial fibres, see 13.10
+- manufacture of yarns made of man-made staple, see 13.10
+- manufacture of carbon fibres, see 23.99

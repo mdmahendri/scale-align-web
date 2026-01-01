@@ -1,0 +1,21 @@
+C32.12 Manufacture of jewellery and related articles
+This class includes:
+- production of worked pearls
+- production of precious and semi-precious stones in the worked state, including the working of industrial quality stones and synthetic or reconstructed precious or semi-precious stones
+- working of diamonds
+- manufacture of jewellery of precious metal or of base metals clad with precious metals, or precious or semi-precious stones, or of combinations of precious metal and precious or semi-precious stones
+- manufacture of goldsmiths articles of precious metals or of base metals clad with precious metals, e.g.:
+dinnerware, flatware, hollowware, toilet articles, office or desk articles, articles for religious use
+- manufacture of technical or laboratory articles of precious metal (except instruments and parts thereof), e.g.:
+crucibles, spatulas, electroplating anodes
+- manufacture of precious metal watch bands, wristbands, watch straps and cigarette-cases
+This class also includes:
+- engraving of personal precious and non-precious metal products
+This class excludes:
+- manufacture of non-metallic watch bands (e.g. fabric, leather, plastic), see 15.12
+- manufacture of base metals clad with silver, gold or platinum, not further worked, see 24.41
+- manufacture of statuettes and other ornaments of base metal plated with precious metal, see 25.99
+- manufacture of watch cases, whether or not of precious metal, see 26.52
+- manufacture of (non-precious) metal watch bands, see 32.13
+- manufacture of imitation jewellery, whether or not plated with precious metal, see 32.13
+- repair of jewellery, see 95.25

@@ -1,0 +1,11 @@
+N7330 Public relations activities
+This class includes the provision of advice, guidance and operational assistance, including lobbying
+activities, to businesses and other organisations on public relations and communication.
+This class includes also:
+- lobbying activities
+- activities of sale representatives, for promotion purposes
+This class excludes:
+- lobbying consultancy activities, see 7020
+- advertising agencies and media representation services, see 7310
+- market research and public opinion polling, see 7320
+- design and consulting with respect to visual communication, see 7410

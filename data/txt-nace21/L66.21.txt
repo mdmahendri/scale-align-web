@@ -1,0 +1,12 @@
+L66.21 Risk and damage evaluation
+This class includes the provision of administration services of insurance, for example:
+- assessing insurance claims
+claims adjusting
+risk assessing
+risk and damage evaluation
+average and loss adjusting
+- settling insurance claims
+This class excludes:
+- appraisal of real estate, see 68.31
+- appraisal for other purposes, see 74.99
+- investigation activities, see 80.01

@@ -1,0 +1,14 @@
+S91.30 Conservation, restoration and other support activities for cultural heritage
+This class includes:
+- conservation and restoration of historical and archaeological assets of all types of materials, whether the assets are movable or stationary
+This class also includes:
+- consulting regarding the conservation and restoration of cultural heritage
+- activities necessary for the digitisation of cultural heritage, e.g.:
+gathering the information and data needed for the creation of virtual replicas
+This class excludes:
+- renovation, renewal, reconstruction and retrofitting of historical and archaeological sites and buildings, see 43.99
+- architectural activities to support the conservation and restoration of cultural heritage properties, see 71.11
+- conservation science (research and development activities devoted to cultural heritage), see division 72
+- archaeological excavations, see 72.20
+- repair of furniture not considered cultural heritage and non-historical, see 95.24
+- repair of musical instruments not considered cultural heritage and non-historical, see 95.29

@@ -1,0 +1,12 @@
+B MINING AND QUARRYING
+Mining and quarrying include the extraction of minerals occurring naturally as solids (coal and ores), liquids (petroleum) or gases (natural gas).
+Extraction can be achieved by different methods (for example, underground or surface mining, well operation, seabed mining).
+This section includes supplementary activities aimed at preparing the crude materials for marketing (for example, crushing, grinding, cleaning, drying, sorting, concentrating ores and liquefaction of natural gas).
+Mining activities are classified into divisions, groups and classes on the basis of the principal mineral produced.
+Divisions 05 and 06 are concerned with mining and quarrying of fossil fuels (coal, lignite, petroleum, gas); divisions 07 and 08 concern metal ores, various minerals and quarry products.
+Some of the technical operations of this section, particularly related to the extraction of hydrocarbons, may also be carried out for third parties by specialised units as an industrial service activity which is reflected in division 09.
+This section excludes:
+- further processing of the extracted materials, see section C
+- use of the extracted materials without further transformation for construction purposes, see section F
+- bottling of natural spring and mineral waters at springs and wells, see 11.07
+- remediation of mine sites, see 39.00

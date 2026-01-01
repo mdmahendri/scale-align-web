@@ -1,0 +1,8 @@
+C2823 Manufacture of machinery for metallurgy
+This class includes:
+- manufacture of machines and equipment for handling hot metals e.g. converters, ingot moulds, ladles and casting machines of a kind used in metallurgy or in metal foundries
+- manufacture of metal-rolling mills and rolls for such mills
+This class excludes:
+- manufacture of draw-benches, see 2822
+- manufacture of moulding boxes and moulds (except ingot moulds), see 2593
+- manufacture of machines for forming foundry moulds, see 2829

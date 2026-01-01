@@ -1,0 +1,35 @@
+N73.11 Activities of advertising agencies
+This class includes:
+- provision of a full range of advertising services (i.e. through in-house capabilities or subcontracting), including advice, creative services, production of advertising material
+- planning and organising advertising and marketing campaigns
+- placing advertisements in the media
+- conceptual work on advertising messages
+- managing the course of advertising campaigns
+- creation and realisation of advertising campaigns:
+creating and placing advertising, planning social media marketing campaigns in newspapers, periodicals, radio, television, over the internet and other media
+creating and placing of outdoor advertising (e.g. billboards, panels, bulletins and frames, window dressing, showroom design, car and bus carding)
+aerial advertising
+distribution or delivery of advertising material or samples
+design of stands and other display structures and sites
+- conducting marketing campaigns and other advertising services
+promotion of products
+merchandising
+point-of-sale marketing
+direct mail advertising
+marketing consulting
+influencer marketing
+This class excludes:
+- manufacturing of advertising material, see section C depending on the type of material
+- manufacturing of stands for fairs and exhibitions and of product displays, see section C depending on the type of material
+- installation of stands for fairs and exhibitions, see 43.32
+- publishing of advertising material, see 58.19
+- production of commercial messages for television and film, see 59.11
+- production of commercial product videos (including production of videos for social networks), see 59.11
+- publishing of contents that include video (e.g. by influencers, bloggers and vloggers), see 59.11
+- production of commercial messages for radio, see 59.20
+- content distribution (sharing) platforms, including blogs and wiki sites, social network sites, and operation of online gaming / video game sites, independent of publishing the games, see 60.39
+- market research and public opinion polling, see 73.20
+- advertising photography, see 74.20
+- postal and mailing activities, see 82.10
+- convention and trade show organisers, see 82.30
+- advertising services used to fund predominant activities of the business which may be provided free of charge, see predominant activity

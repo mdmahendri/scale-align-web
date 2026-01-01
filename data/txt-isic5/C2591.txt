@@ -1,0 +1,9 @@
+C2591 Forging, pressing, stamping and roll-forming of metal; powder metallurgy
+This class includes:
+- forging, pressing, stamping and roll-forming of metal
+-production of metal objects directly from metal powders by heat treatment
+(sintering) or under pressure, i.e. powder metallurgy
+This class also includes:
+- subsequent trimming or de-scaling of the metal, without any further processing
+This class excludes:
+- production of metal powder, see 241, 242

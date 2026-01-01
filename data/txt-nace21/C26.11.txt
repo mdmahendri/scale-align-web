@@ -1,0 +1,34 @@
+C26.11 Manufacture of electronic components
+This class includes the manufacture of semiconductors and other components for electronic applications.
+This class includes:
+- manufacture of capacitors, electronic
+- manufacture of resistors, electronic
+- manufacture of microprocessors
+- manufacture of electron tubes
+- manufacture of cables, printer cables, monitor cables, universal serial bus (USB) cables
+- manufacture of bare printed circuit boards, consisting only of conductor elements and contacts
+- manufacture of integrated circuits (analogue, digital or hybrid)
+- manufacture of diodes, transistors and related discrete devices
+- manufacture of inductors (e.g. chokes, coils, transformers), electronic component-type transformers
+- manufacture of electronic crystals and crystal assemblies
+- manufacture of solenoids, switches and transducers for electronic applications
+- manufacture of dice or wafers which consist of chemical elements (e.g. silicon) that are selectively doped or diffused to create discrete regions for the purposes of their applications in the field of electronics
+- manufacture of display components (plasma, polymer, liquid crystal displays (LCDs))
+- manufacture of light-emitting diodes (LEDs)
+- manufacture of photovoltaic cells, modules and panels
+This class excludes:
+- printing of smart cards, see 18.12
+- manufacture of printed circuits consisting of conductor elements, contacts and other passive elements, see 26.12
+- manufacture of computer and television displays, see 26.20, 26.40
+- manufacture of modems (carrier equipment), see 26.30
+- manufacture of X-ray tubes and similar irradiation devices, see 26.60
+- manufacture of optical equipment and instruments, see 26.70
+- manufacture of similar devices for electrical applications, see division 27
+- manufacture of fluorescent ballasts, see 27.11
+- manufacture of solar generators, which can be used directly to supply power to, e.g. a motor or an electrolyser, see 27.11
+- manufacture of electrical relays, see 27.12
+- manufacture of electrical wiring devices, see 27.33
+- manufacture of assembled electric conductors, insulated and fitted with connectors, see 27.90
+- manufacture of solar water heaters, see 28.21
+- installation of solar panels, see 43.21
+- installation of solar heating systems, see 43.22

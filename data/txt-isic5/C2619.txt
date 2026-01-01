@@ -1,0 +1,33 @@
+C2619 Manufacture of other electronic components and boards
+This class includes the manufacture of semiconductors and other components for electronic applications.
+This class includes:
+- manufacture of capacitors, electronic
+- manufacture of resistors, electronic
+- manufacture of microprocessors
+- manufacture of bare printed circuit boards
+- manufacture of electron tubes
+- manufacture of electronic connectors
+- manufacture of integrated circuits (analog, digital or hybrid)
+- manufacture of diodes, transistors and related discrete devices
+- manufacture of inductors (e.g. chokes, coils, transformers), electronic component type
+- manufacture of electronic crystals and crystal assemblies
+- manufacture of solenoids, switches and transducers for electronic applications
+- manufacture of dice or wafers, semiconductor, finished or semi-finished
+- manufacture of interface cards (e.g. sound, video, controllers, network, modems)
+- manufacture of display components (plasma, polymer, LCD)
+- manufacture of light emitting diodes (LED)
+- loading of components onto printed circuit boards
+This class also includes:
+- manufacture of printer cables, monitor cables, USB cables, connectors etc.
+This class excludes:
+- printing of smart cards, see 1811
+- manufacture of solar cells , solar panels and photovoltaic inverters, see 2611
+- manufacture of modems (carrier equipment), see 2630
+- manufacture of computer and television displays, see 2620, 2640
+- manufacture of X-ray tubes and similar irradiation devices, see 2660
+- manufacture of optical equipment and instruments, see 2670
+- manufacture of similar devices for electrical applications, see division 27
+- manufacture of lighting ballasts, see 2710
+- manufacture of electrical relays, see 2710
+- manufacture of electrical wiring devices, see 2733
+- manufacture of complete equipment is classified elsewhere based on complete equipment classification

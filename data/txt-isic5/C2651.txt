@@ -1,0 +1,39 @@
+C2651 Manufacture of measuring, testing, navigating and control equipment
+This class comprises manufacture of search, detection, navigation, guidance, aeronautical, and nautical systems and instruments; automatic controls and regulators for applications, such as heating, air-conditioning, refrigeration and appliances; instruments and devices for measuring, displaying, indicating, recording, transmitting, and controlling temperature, humidity, pressure, vacuum, combustion, flow, level, viscosity, density, acidity, concentration, and rotation; totalising (i.e., registering) fluid meters and counting devices; instruments for measuring and testing the characteristics of electricity and electrical signals; instruments and instrumentation systems for laboratory analysis of the chemical or physical composition or concentration of samples of solid, fluid, gaseous, or composite material; other measuring and testing instruments and parts thereof.
+The manufacture of non-electric measuring, testing and navigating equipment (except simple mechanical tools) is included here.
+This class includes:
+- manufacture of aircraft engine instruments
+- manufacture of automotive emissions testing equipment
+- manufacture of meteorological instruments
+- manufacture of physical properties testing and inspection equipment
+- manufacture of polygraph machines
+- manufacture of radiation detection and monitoring instruments
+- manufacture of surveying instruments
+- manufacture of thermometers liquid-in-glass and bimetal types (except medical)
+- manufacture of humidistats
+- manufacture of hydronic limit controls
+- manufacture of flame and burner control
+- manufacture of spectrometers
+- manufacture of pneumatic gauges
+- manufacture of consumption meters, e.g., water, gas, electricity
+- manufacture of flow meters and counting devices
+- manufacture of tally counters
+- manufacture of mine detectors, pulse (signal) generators; metal detectors
+- manufacture of search, detection, navigation, aeronautical, and nautical equipment, including sonobuoys
+- manufacture of radar equipment
+- manufacture of GPS devices
+- manufacture of environmental controls and automatic controls for appliances
+- manufacture of measuring and recording equipment, e.g. flight recorders
+- manufacture of motion detectors
+- manufacture of radars
+- manufacture of laboratory analytical instruments (e.g. blood analysis equipment)
+- manufacture of laboratory scales, balances, incubators, and miscellaneous laboratory apparatus for measuring, testing, etc.
+manufacture of sensors and sensing equipment
+This class excludes:
+- manufacture of telephone answering machines, see 263
+- manufacture of irradiation equipment, see 267
+- manufacture of optical positioning equipment, see 268
+- manufacture of dictating machines, see 2817
+- manufacture of weighing machinery (other than sensitive laboratory balances), levels, tape measures etc., see 2819
+- manufacture of medical thermometers, see 3250
+- installation of industrial process control equipment, see 3320

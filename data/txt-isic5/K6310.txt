@@ -1,0 +1,30 @@
+K6310 Computing infrastructure, data processing, hosting and related activities
+This class includes:
+- provision of computing infrastructure including cloud infrastructure and platform provision (IaaS, PaaS)
+- cloud computing (except software publishing and computer systems design), whether or not in combination with infrastructure provision
+- provision of technical infrastructure related to streaming services
+- data processing services and related activities:
+complete processing of data supplied by clients
+generation of specialized reports from data supplied by clients
+blockchain/distributed ledger technology (DLT) data processing activities
+- specialized hosting activities such as:
+web hosting
+application hosting
+- general time-share provision of mainframe facilities to clients
+- digitalisation of files (for further processing of data)
+- provision of data entry services
+- data centre colocation activities (i.e., rental of server and networking space in data centres, )
+- computer data storage services
+This class also includes:
+- issuing of crypto assets without a corresponding liability (not by a monetary authority)
+This class excludes:
+- software publishing, see 582
+- postproduction services to convert video content into streaming formats, see 5912
+- postproduction services to convert audio content into streaming formats, see 5920
+- third party on-demand audio streaming distribution services, see 6010
+- third party on-demand video streaming distribution services, see 6020
+- computer systems design, see 6220
+- issuing of digital currency, see 6411
+- issuing of crypto assets with a corresponding liability (not by a monetary authority), see 6499
+- repair and maintenance of computers and communications equipment, see 9510
+- electronic storage of archival material for access by the general public, see 9112

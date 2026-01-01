@@ -1,0 +1,18 @@
+L64.92 Other credit granting
+This class includes:
+- financial service activities primarily concerned with making intermediation by incurring liabilities in forms other than currency, deposits or close substitutes for deposits where the granting of credit can take a variety of forms (e.g. loans, mortgages, credit cards), providing the following types of services:
+granting of consumer credit by non-depository institutions
+international trade financing
+provision of long-term finance to industry
+provision of banking-like services without a banking license, in cooperation with a licensed bank
+money lending outside the banking system
+credit granting by specialised non-depository institutions (e.g. for house purchases)
+loan securitisation
+factoring and supply chain financing activities
+activities of pawnbrokers
+This class excludes:
+- credit granting by specialised deposit-taking institutions, see 64.19
+- financial leasing, see 64.91
+- securitisation of assets other than loans, see 64.99
+- operating leasing, according to type of goods leased, see division 77
+- grant-giving activities by membership organisations, see 94.99

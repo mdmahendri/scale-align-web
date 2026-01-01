@@ -1,0 +1,10 @@
+G47.83 Retail sale of motorcycles, motorcycle parts and accessories
+This class includes:
+- retail sale of new and used motorcycles, including mopeds
+- retail sale of new and used parts and accessories for motorcycles
+- retail sale of protective gear for motorcyclists
+This class excludes:
+- retail sale of bicycles, electric bicycles, monowheels, hoverboards, kickscooters, and related parts and accessories, see 47.63
+- rental of motorcycles, see 77.11
+- repair and maintenance of bicycles, electric bicycles, monowheels, hoverboards, kickscooters, see 95.29
+- repair and maintenance of motorcycles, see 95.32

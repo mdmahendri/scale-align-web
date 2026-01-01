@@ -1,0 +1,9 @@
+C33.16 Repair and maintenance of civilian air and spacecraft
+This class includes the repair and maintenance of civilian aircraft and spacecraft.
+This class includes:
+- repair and maintenance of civilian aircraft (except factory conversion, factory overhaul, factory rebuilding)
+- repair and maintenance of civilian aircraft engines
+This class excludes:
+- factory overhaul and rebuilding of civilian aircraft, see 30.31
+- factory overhaul of civilian aircraft engines, see 30.31
+- repair and maintenance of military fighting vehicles, aircraft and spacecraft, see 33.18

@@ -1,0 +1,13 @@
+C30.91 Manufacture of motorcycles
+This class includes:
+- manufacture of motorcycles and mopeds
+- manufacture of engines for motorcycles
+- manufacture of sidecars for motorcycles
+- manufacture of parts and accessories for motorcycles (e.g. brakes, gearboxes, clutches, road wheels, silencers and exhaust pipes, and parts thereof)
+- manufacture of pistons, piston rings and carburettors for motorcycles
+This class excludes:
+- manufacture of pneumatic tyres of rubber, of a kind used for motorcycles, see 22.11
+- manufacture of bicycles, see 30.92
+- manufacture of cycles with an electric motor for propulsion, see 30.92
+- manufacture of carriages for disabled persons, see 30.92
+- manufacture of personal transporters (e.g. electric skateboards and kickscooters), see 30.92

@@ -1,0 +1,37 @@
+C2750 Manufacture of domestic appliances
+This class includes the manufacture of small electric appliances and electric housewares, household-type fans, household-type vacuum cleaners, electric household-type floor care machines, household-type cooking appliances, household-type laundry equipment, household-type refrigerators, upright and chest freezers and other electrical and non-electrical household appliances, such as dishwashers, water heaters and garbage disposal units.
+This class includes the manufacture of appliances with electric, gas or other fuel sources.
+This class includes:
+- manufacture of domestic electric appliances:
+* refrigerators
+* freezers
+* dishwashers
+* washing and drying machines
+* vacuum cleaners
+* floor polishers
+* waste disposers
+* grinders, blenders, juice squeezers
+* tin openers
+* electric shavers, electric toothbrushes and other electric personal care device
+* knife sharpeners
+* ventilating or recycling hoods
+- manufacture of domestic electrothermic appliances:
+* electric water heaters
+* electric blankets
+* electric dryers, combs, brushes, curlers
+* electric smoothing irons
+* space heaters and household-type fans, portable
+* electric ovens
+* microwave ovens
+* cookers, hotplates
+* toasters
+* electric barbecue
+* coffee or tea makers
+* fry pans, roasters, grills, hoods
+* electric heating resistors etc.
+- manufacture of domestic non-electric cooking and heating equipment:
+* non-electric space heaters, cooking ranges, grates, stoves, water heaters, cooking appliances, plate warmers
+This class excludes:
+- manufacture of commercial and industrial refrigerators and freezers, room air-conditioners, attic fans, permanent mount space heaters and commercial ventilation and exhaust fans, commercial-type cooking equipment; commercial-type laundry, dry-cleaning and pressing equipment; commercial, industrial and institutional vacuum cleaners, see division 28
+- manufacture of household-type sewing machines, see 2826
+- installation of central vacuum cleaning systems, 4329

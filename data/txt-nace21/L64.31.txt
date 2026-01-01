@@ -1,0 +1,13 @@
+L64.31 Activities of money market and non-money market investments funds
+This class includes activities of money market and non-money market investment funds, in other words, collective investment schemes that raise funds by issuing shares or units to the public, of which the proceeds are invested primarily in financial assets (including short-term assets).
+This class includes:
+- open-end investment funds
+- closed-end investment funds
+- unit and investment trusts
+This class excludes:
+- activities of holding companies, see 64.21
+- activities of non-majority shareholding companies, not owning controlling levels of equity, see 64.32
+- trusts, estate and agency accounts not acting as collective investment schemes, see 64.32
+- activities of venture capital companies, see 64.99
+- pension funding, see 65.30
+- management of funds, see 66.30

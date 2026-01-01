@@ -1,0 +1,7 @@
+C25.12 Manufacture of doors and windows of metal
+This class includes:
+- manufacture of metal doors, windows and their frames, thresholds for doors, shutters and gates
+- metal room partitions for floor attachment
+- manufacture of metal blinds, metal sunblinds and insect screens
+This class also includes:
+- manufacture of temporary spatial extensions made of metal

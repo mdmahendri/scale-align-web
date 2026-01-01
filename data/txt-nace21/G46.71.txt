@@ -1,0 +1,16 @@
+G46.71 Wholesale of motor vehicles
+This class includes:
+- wholesale of new and used motor vehicles, including electric vehicles:
+passenger motor vehicles, including specialised passenger motor vehicles (e.g. ambulances, minibuses)
+lorries, trailers and semi-trailers
+camping vehicles (e.g. caravans, motorhomes)
+This class also includes:
+- wholesale of off-road motor vehicles
+This class excludes:
+- activities of agents involved in the wholesale of cars and light motor vehicles, see 46.18
+- wholesale of electric bicycles and their related parts and accessories, see 46.49
+- wholesale of motorised transport equipment (e.g. ships, yachts, planes, trains), see 46.64
+- wholesale of parts and accessories for motor vehicles, see 46.72
+- on-demand passenger transport service activities by vehicle with a driver, see 49.33
+- rental and leasing of cars and light motor vehicles without a driver, see 77.11
+- maintenance and repair of motor vehicles, see 95.31

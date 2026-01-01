@@ -1,0 +1,39 @@
+C33.12 Repair and maintenance of machinery
+This class includes the repair and maintenance of industrial and commercial machinery and equipment (for example, sharpening or installing machinery blades and saws); the provision of welding (for example, automotive, general) repair services; the repair of agricultural and other heavy and industrial machinery and equipment (for example, forklifts and other materials handling equipment, machine tools, commercial refrigeration equipment, construction equipment and mining machinery), including machinery and equipment of division 28.
+This class includes:
+- repair and maintenance of engines, except for motor vehicles, ships, boats and aircraft
+- repair and maintenance of railway engines
+- repair and maintenance of pumps, compressors and related equipment
+- repair and maintenance of fluid power machinery
+- repair of valves
+- repair of gearing and driving elements
+- repair and maintenance of industrial process furnaces
+- repair and maintenance of lifting and handling equipment
+- repair and maintenance of industrial refrigeration equipment and air-purifying equipment
+- repair and maintenance of commercial-type general-purpose machinery
+- repair of power-driven hand tools
+- repair and maintenance of metal-cutting and metal-forming machine tools and accessories
+- repair and maintenance of other machine tools
+- repair and maintenance of agricultural and forestry tractors
+- repair and maintenance of agricultural machinery, forestry and logging machinery
+- repair and maintenance of metallurgy machinery
+- repair and maintenance of machinery for mining, construction, oilfields and gas fields
+- repair and maintenance of food, beverage and tobacco processing machinery
+- repair and maintenance of textile apparel and leather production machinery
+- repair and maintenance of papermaking machinery
+- repair and maintenance of plastic and rubber machinery
+- repair and maintenance of other special-purpose machinery of division 28
+- repair and maintenance of weighing equipment
+- repair and maintenance of vending machines
+- repair and maintenance of cash registers
+- repair and maintenance of photocopy machines
+- repair of calculators, electronic or not
+- repair of typewriters
+This class excludes:
+- repair and maintenance of civilian ship and boat engines, see 33.15
+- repair and maintenance of civilian aircraft engines, see 33.16
+- repair and maintenance of engines for military fighting vehicles, ships, boats, air and spacecraft, see 33.18
+- installation, repair and maintenance of furnaces and other heating equipment, see 43.22
+- installation, repair and maintenance of elevators and escalators, see 43.24
+- repair and maintenance of computers, see 95.10
+- repair and maintenance of engines for motor vehicles, see 95.31

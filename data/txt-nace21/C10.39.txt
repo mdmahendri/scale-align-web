@@ -1,0 +1,19 @@
+C10.39 Other processing and preserving of fruit and vegetables
+This class includes:
+- manufacture of food consisting chiefly of fruits or vegetables
+- preserving of fruits, nuts or vegetables (e.g. freezing, drying, freeze-drying, drying by infra-red radiation, immersing in oil or in vinegar, canning, high pressure, high temperature)
+- manufacture of fruit or vegetable food products
+- manufacture of jams, marmalades and table jellies
+- shelling, peeling and roasting of nuts
+- manufacture of nut foods and pastes
+This class also includes:
+- manufacture of perishable prepared foods of fruits and vegetables, e.g.:
+salads; mixed salads, packaged
+peeled or cut vegetables
+tofu (bean curd)
+This class excludes:
+- manufacture of fruit and vegetable juices, see 10.32
+- manufacture of flour or meal of dried leguminous vegetables, see 10.61
+- preservation of fruits and nuts in sugar, see 10.82
+- manufacture of prepared vegetable dishes, see 10.85
+- manufacture of artificial concentrates, see 10.89

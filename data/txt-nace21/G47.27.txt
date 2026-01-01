@@ -1,0 +1,12 @@
+G47.27 Retail sale of other food
+This class includes the retail sale of food products not elsewhere classified.
+The retail sale of organically labelled foods, regional foods, and so on, is included in classes 47.21 to 47.27, depending on the product sold.
+This class includes:
+- retail sale of dairy products, including milk and cheese preparations, and eggs
+- retail sale of coffee, tea, oils, flour, sugar, pasta, etc.
+- retail sale of other food products n.e.c.
+This class also includes:
+- retail sale of ready-made meals, except for immediate consumption on the spot
+- retail sale of food supplements for human consumption (e.g. dietary supplements, diet products)
+This class excludes:
+- retail sale of ready-made meals for immediate consumption on the spot, see 56.1

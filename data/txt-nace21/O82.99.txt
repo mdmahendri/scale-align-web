@@ -1,0 +1,30 @@
+O82.99 Other business support service activities n.e.c.
+This class includes:
+- fundraising organisation services on a contract or fee basis
+- court reporting or stenotype recording services
+- public stenography services
+- real-time (i.e. simultaneous) closed captioning of meetings, conferences
+- barcoding services
+- barcode imprinting services
+- parking meter coin collection services
+- activities of handling visa and work permits
+- restaurant voucher handling service activities
+- providing assistance in motor vehicle registration
+- relocation service activities
+- administration of gift packages for leisure activities
+- voucher issuing and handling activities
+- charity crowdfunding activities
+- company domiciliation services
+- reading of consumption of heat and hot water, including cost allocation
+- administration of loyalty programmes
+- selling of deferred travel services: form of distribution of a service linked to travel, which can be of any nature (hotels, restaurants, personal care, leisure activities, etc.)
+- trading and brokerage of crypto-assets without liabilities
+This class excludes:
+- activities of auctioning houses (wholesale) and online auction activities (wholesale), see 46.1
+- activities of auctioning houses (retail sale) and online auction activities (retail sale), see 47.9
+- providing film or tape captioning or subtitling services, see 59.12
+- activities of shared service centres (SSC) with strategic and managerial activities/centralised activities, see 70.10
+- business and other management consultancy activities, see 70.20
+- activities of shared service centres (SSC) with two or more combined activities (set of administrative services) providing operational tasks for the whole enterprise or group (e.g. reception, financial planning, billing and record-keeping, personnel, postal and mailing services for the same enterprise group), see 82.10
+- provision of document transcription services, see 82.10
+- intermediation service activities for business support service activities n.e.c., see 82.40

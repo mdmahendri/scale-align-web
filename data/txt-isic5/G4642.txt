@@ -1,0 +1,9 @@
+G4642 Wholesale of household, office and shop furniture, carpets and lighting equipment
+This class includes:
+- wholesale of furniture
+- wholesale of carpets
+- wholesale of lighting equipment
+- wholesale of mattress and box springs
+This class includes also
+- wholesale of outdoor furniture
+- wholesale of furniture for warehouses, churches, medical facilities, etc.

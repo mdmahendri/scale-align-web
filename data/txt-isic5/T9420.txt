@@ -1,0 +1,8 @@
+T9420 Activities of trade unions
+This class includes:
+- promoting of the interests of organised labour and union employees
+This class also includes:
+- activities of associations whose members are employees interested chiefly in the representation of their views concerning the salary and work situation, and in concerted action through organisation
+This class excludes:
+- education provided by such organisations, see division 85
+- activities of professional membership organisations, see 9412

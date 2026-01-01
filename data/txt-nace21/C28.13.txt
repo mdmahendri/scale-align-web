@@ -1,0 +1,9 @@
+C28.13 Manufacture of other pumps and compressors
+This class includes:
+- manufacture of air or vacuum pumps, air or other gas compressors
+- manufacture of pumps for liquids, whether or not fitted with a measuring device
+- manufacture of pumps for internal combustion engines (e.g. oil, water and fuel pumps for motor vehicles)
+This class also includes:
+- manufacture of hand pumps
+This class excludes:
+- manufacture of hydraulic fluid power pumps, see 28.12

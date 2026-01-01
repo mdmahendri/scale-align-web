@@ -1,0 +1,14 @@
+Q85.69 Educational support activities n.e.c.
+This class includes:
+- provision of non-instructional activities that support educational processes or systems:
+educational consulting
+vocational and career-related counselling activities
+educational guidance counselling activities
+educational testing evaluation activities
+educational testing activities
+organisation of student exchange programmes
+examination and testing of regulated professions (e.g. pilots)
+development of curricula
+expert and rehabilitation activities examining learning ability
+This class excludes:
+- research and experimental development on social sciences and humanities, see 72.20

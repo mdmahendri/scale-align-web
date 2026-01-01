@@ -1,0 +1,6 @@
+A0121 Growing of grapes
+This class includes:
+- growing of grapes for consumption or the production of wine, juice, vinegar and other dried fruit, e.g. raisins, zante currants and sultanas.
+This class excludes:
+- manufacture of wine, see 1102
+- processing and preserving of grapes, see 1030

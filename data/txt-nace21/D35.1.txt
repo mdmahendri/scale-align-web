@@ -1,0 +1,6 @@
+D35.1 Electric power generation, transmission and distribution
+This group includes the generation of electric power, transmission from generating facilities to distribution centres and distribution to end users.
+Trade and storage of electric power are also included.
+This group excludes:
+- separate production and distribution of steam and heat, see 35.3
+- activities of electric power brokers or agents that arrange the sale of electricity via power distribution systems operated by others, see 35.4

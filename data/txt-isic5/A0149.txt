@@ -1,0 +1,16 @@
+A0149 Raising of other animals
+This class includes:
+- raising and breeding of semi-domesticated or other live animals: ostriches and emus and other birds that are not poultry insects rabbits and other fur animals reindeer
+- production of fur skins, skins of birds and reptiles from land farms
+- operation of worm farms, land mollusc farms, snail farms etc.
+- raising of silk worms, production of silk worm cocoons
+- bee-keeping, bee propagation for sale, and production of e.g. honey, beeswax, propolis, honeycomb
+- raising and breeding of pet animals (except fish): cats and dogs pet birds, e.g. parakeets hamsters.
+This class excludes:
+- raising and breeding of poultry, see 0146
+- production of hides and skins originating from hunting and trapping, see 0170
+- operation of frog farms, crocodile farms, marine worm farms, see 0321, 0322
+- operation of fish farms, see 0321, 0322
+- boarding and training of pet animals, see 9690
+- raising of live ornamental fish, see 0321, 0322
+- operation of animal shelters for abandoned (pet) animals, see 9690

@@ -1,0 +1,14 @@
+C16.11 Sawmilling and planing of wood
+This class includes:
+- sawing, planing and machining of wood
+- slicing, peeling or chipping logs
+- manufacture of wooden railway sleepers
+- manufacture of unassembled wooden flooring
+- manufacture outside the forest of wood wool, wood sawdust and flour, wood chips and particles
+This class excludes:
+- logging and production of wood in the rough, see 02.20
+- drying of wood, see 16.12
+- manufacture of veneer sheets thin enough for use in plywood, boards and panels, see 16.21
+- manufacture of parquet panels and other assembled flooring panels of wood or bamboo, see 16.22
+- manufacture of wooden shingles and shakes, see 16.23
+- manufacture of fire logs or pressed wood, see 16.26

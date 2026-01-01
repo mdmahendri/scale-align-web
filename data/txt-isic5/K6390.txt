@@ -1,0 +1,16 @@
+K6390 Web search portals activities and other information service activities
+This class includes:
+- operation of websites that use a search engine to generate and maintain extensive databases of Internet addresses and content in an easily searchable format; these web search portals are not responsible for the content operation of comparison websites for prices, product specification, etc., with provision of links to other websites
+- other information service activities not elsewhere classified, such as:
+* telephone based information services
+* information search services on a contract or fee basis
+* news clipping services, press clipping services, etc.
+* compiling of information or directories on a fee or contract basis
+This class excludes:
+- intermediation service activities for retail sale , see 4790
+- intermediation service activities for passenger transportation, see 5232
+- intermediation services activities for accommodation, see 5540
+- publishing activities, such as newspapers, see division 58
+- broadcasting activities, see division 60
+- news syndicate and news agency activities, see 6031
+- activities of call centres, see 8220

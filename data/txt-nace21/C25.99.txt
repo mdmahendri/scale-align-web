@@ -1,0 +1,30 @@
+C25.99 Manufacture of other fabricated metal products n.e.c.
+This class includes:
+- manufacture of metal household articles:
+flatware: plates, saucers, etc.
+hollowware: pots, kettles, etc.
+dinnerware: bowls, platters, etc.
+saucepans, frying pans and other non-electrical utensils for use at the table or in the kitchen
+small hand-operated kitchen appliances and accessories
+metal scouring pads
+- manufacture of building components of zinc: gutters, roof capping, baths, sinks, washbasins and similar articles
+- manufacture of metal goods for office use, except furniture
+- manufacture of safes, strongboxes, armoured doors, etc.
+- manufacture of various metal articles:
+ship propellers and blades thereof
+anchors
+bells
+assembled railway track fixtures
+clasps, buckles, hooks
+metal ladders
+metal signs, including road signs
+- manufacture of foil bags
+- manufacture of permanent metallic magnets
+- manufacture of metal badges and metal military insignia
+- manufacture of metal hair curlers, metal umbrella handles and frames, combs
+This class excludes:
+- manufacture of swords, bayonets, see 25.61
+- manufacture of shopping carts, see 30.99
+- manufacture of metal furniture, see 31.00
+- manufacture of sports goods, see 32.30
+- manufacture of games and toys, see 32.40

@@ -1,0 +1,14 @@
+G46.42 Wholesale of clothing and footwear
+This class includes:
+- wholesale of clothing, including sports clothes
+- wholesale of clothing accessories (e.g. gloves, ties and braces)
+- wholesale of footwear, including non-specialised sports footwear
+- wholesale of fur articles
+- wholesale of umbrellas
+This class also includes:
+- wholesale of work clothes, uniforms, costumes
+This class excludes:
+- wholesale of jewellery, see 46.48
+- wholesale of leather goods, excluding clothing and footwear, see 46.49
+- wholesale of specialised sports footwear only used in the practice of a sport (e.g. ski boots, football shoes, skates, ballet shoes), see 46.49
+- wholesale of protective gear for motorcyclists, see 46.73

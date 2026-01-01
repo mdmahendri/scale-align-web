@@ -1,0 +1,9 @@
+G4783 Retail sale of motorcycles, motorcycles parts and accessories
+This class includes:
+- retail sale of new and used motorcycles, including mopeds
+- retail sale of new and used parts and accessories for motorcycles
+This class excludes:
+- retail sale of bicycles, e-bikes, monowheels, hoverboards, kick scooters and related parts and accessories, see 4762
+- rental of motorcycles, see 7730
+- repair and maintenance of bicycles, e-bikes, monowheels, hoverboards, kick scooters, see 9529
+- repair and maintenance of motorcycles, see 953

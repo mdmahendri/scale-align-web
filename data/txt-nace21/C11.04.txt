@@ -1,0 +1,5 @@
+C11.04 Manufacture of other non-distilled fermented beverages
+This class includes:
+- manufacture of aromatised wine of fresh grapes, flavoured with aromatic substances (e.g. vermouth)
+This class excludes:
+- merely bottling and labelling, see 46.34 (if performed as part of wholesale) and 82.92 (if performed on a fee or contract basis)

@@ -1,0 +1,9 @@
+C1394 Manufacture of cordage, rope, twine and netting
+This class includes:
+- manufacture of twine, cordage, rope and cables of textile fibres or strip or the like, whether or not impregnated, coated, covered or sheathed with rubber or plastics
+- manufacture of knotted netting of twine, cordage or rope
+- manufacture of products of rope or netting e.g. fishing nets, ships' fenders, unloading cushions, loading slings, rope or cable fitted with metal rings etc.
+This class excludes:
+- manufacture of hairnets, see 1410
+- manufacture of wire rope, see 2599
+- manufacture of landing nets for sports fishing, see 3230

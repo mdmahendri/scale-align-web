@@ -1,0 +1,11 @@
+K61 Telecommunication
+This division includes:
+- activities of providing telecommunication and related service activities, i.e. transmitting voice, data, text, sound and video.
+The transmission facilities that carry out these activities may be based on a single technology or a combination of technologies.
+The commonality of activities classified in this division is the transmission of content, without being involved in its creation or alteration.
+In the case of transmission of television signals this may include complete bundled and programmed channels (produced in division 60) into programme packages
+- provision of services for machine-to-machine communication
+- transmission of audio or video data without having acquired the rights to the audio or video content
+This division excludes:
+- motion picture, audiovisual, television programme, and sound recording production and post-production activities, including services to convert audio and video content into streaming formats, see division 59
+- activities of broadcasting and provision of audio and video streaming or download distribution services, see division 60

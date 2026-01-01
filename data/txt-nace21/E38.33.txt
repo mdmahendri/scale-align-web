@@ -1,0 +1,8 @@
+E38.33 Other waste disposal
+This class includes:
+- release of liquid waste to seas/oceans or other water bodies, including seabed insertion
+- injection of pumpable discards into wells, salt domes or naturally occurring repositories
+This class excludes:
+- operation of facilities where recoverable materials are sorted, see 38.21
+- energy recovery by thermal treatment of waste, see 38.22
+- decontamination, cleaning up land, water and toxic material abatement, see 39.00

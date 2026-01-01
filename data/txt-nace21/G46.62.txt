@@ -1,0 +1,5 @@
+G46.62 Wholesale of machine tools
+This class includes:
+- wholesale of machine tools of any type and for any material
+This class also includes:
+- wholesale of computer-controlled machine tools

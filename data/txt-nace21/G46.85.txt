@@ -1,0 +1,10 @@
+G46.85 Wholesale of chemical products
+This class includes:
+- wholesale of industrial chemicals (e.g. aniline, essential oils, chemical glues, methanol, paraffin, scents and flavourings, soda, industrial salt, acids and sulphurs, starch derivates, industrial gases, dyes and pigments, other organic and inorganic basic chemicals, glazes, printing inks and adhesives)
+- wholesale of explosives and pyrotechnic products
+- wholesale of fertilisers and agrochemical products
+- wholesale of hydrogen
+This class also includes:
+- wholesale of e-liquids for electronic cigarettes
+This class excludes:
+- sale of gaseous fuels through mains on the account of others, see 35.40

@@ -1,0 +1,3 @@
+H5022 Inland freight water transport
+This class includes:
+- transport of freight via rivers, canals, lakes and other inland waterways, including inside harbours and ports

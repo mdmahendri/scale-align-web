@@ -1,0 +1,28 @@
+O8240 Intermediation service activities for business support activities n.e.c., except financial intermediation
+This class includes the intermediation service activities for business support activities n.e.c.
+This class includes units that bring clients and service providers together for a fee or commission.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (face-to-face including door-to-door, phone, mail, etc.).
+The fee or commission can be received from either the client or the provider of the service.
+Revenue for the intermediation activities can include other sources of income, such as revenues from advertising.
+This class also includes:
+-ticket reservation and sales activities for theatrical, sports and other amusement and entertainment events
+This class excludes:
+- activities of brokers and agents for electric power and natural gas, see 354
+- intermediation service activities for specialised construction services, see 434
+- wholesale trade on a contract or fee basis, see 461
+- intermediation service activities for retail sale, see 4790
+- intermediation service activities for transportation, see 523
+- intermediation service activities for postal and courier activities, see 5330
+- intermediation service activities for accommodation, see 5540
+- intermediation service activities for food and beverage services activities, see 5640
+- intermediation service activities for software publishing, see 582
+- intermediation service activities for telecommunications activities, see 6120
+- financial and insurance intermediation service activities, see section L intermediation service activities for real estate activities, see 6821
+- patent brokering (marketing) service activities, see 7491
+- intermediation service activities for rental and leasing of tangible goods and non-financial intangible assets, see 775
+- travel agency activities, see 7911
+- intermediation service activities for courses and tutors, see 8561
+- intermediation service activities for medical, dental and other health services, see 8691
+- intermediation service activities for residential care activities, see 8791
+- intermediation service activities for repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles, see 9540
+- intermediation service activities for personal services, see 9640

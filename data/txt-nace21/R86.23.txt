@@ -1,0 +1,10 @@
+R86.23 Dental practice care activities
+This class includes:
+- dental practice activities of a general or specialised nature (e.g. dentistry, endodontic and paediatric dentistry); oral pathology
+- orthodontic activities
+This class also includes:
+- dental activities in operating rooms
+This class excludes:
+- production of artificial teeth, denture and prosthetic appliances by dental laboratories, see 32.50
+- inpatient hospital activities, see 86.10
+- activities of dental paramedical personnel (e.g. dental hygienists, dental therapists), see 86.99

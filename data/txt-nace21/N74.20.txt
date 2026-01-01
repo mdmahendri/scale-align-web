@@ -1,0 +1,25 @@
+N74.20 Photographic activities
+This class includes:
+- commercial and consumer photography:
+portrait photography for passports, schools, weddings, etc.
+photography for commercials, publishers, fashion, real estate or tourism purposes
+aerial and underwater photography
+videotaping of events: weddings, meetings, etc.
+- film processing:
+developing, printing and enlarging from client-taken negatives or cine-films
+film developing and photo printing laboratories
+one-hour photo shops (not part of shops selling cameras)
+mounting of slides
+copying and restoring or transparency retouching in connection with photographs
+- activities of photojournalists
+- activities of artistic photographs
+This class also includes:
+- microfilming of documents
+- digitising photographs, uploading video to the cloud
+- object scanning in 3D
+This class excludes:
+- activities of printing photographs (from mobile telephones, memory cards, universal serial bus (USB) and other electronic supports), see 18.12
+- processing motion picture film related to motion picture and television industries, see 59.12
+- cartographic and spatial information activities, see 71.12
+- photogrammetric surveying activities, see 71.12
+- operation of coin-operated (self-service) photo machines, see 96.99

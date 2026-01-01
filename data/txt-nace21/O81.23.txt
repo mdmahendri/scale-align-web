@@ -1,0 +1,12 @@
+O81.23 Other cleaning activities
+This class includes:
+- swimming pool cleaning and maintenance activities
+- cleaning of trains, buses, planes, etc.
+- cleaning of the inside of road and sea tankers
+- sanitising, disinfecting and exterminating activities
+- bottle cleaning
+- street sweeping and snow and ice removal
+- other cleaning activities n.e.c.
+This class excludes:
+- agricultural pest control, see 01.61
+- cleaning of motor vehicles, including car washing, see 95.31

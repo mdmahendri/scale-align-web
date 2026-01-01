@@ -1,0 +1,9 @@
+O82.91 Activities of collection agencies and credit bureaus
+This class includes:
+- collection of payments for claims and remittance of payments collected to the clients (e.g. bill or debt collection services)
+- compiling and the provision of information (e.g. credit or employment history) for financial institutions, retailers and others who have a need to evaluate the creditworthiness of individuals or businesses
+This class also includes:
+- activities of rating agencies
+- repossession activities
+This class excludes:
+- factoring activities, see 64.92

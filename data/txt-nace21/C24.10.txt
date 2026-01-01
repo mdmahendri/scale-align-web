@@ -1,0 +1,22 @@
+C24.10 Manufacture of basic iron and steel and of ferro-alloys
+This class includes activities such as the direct reduction of iron ore, production of pig iron in molten or solid form, conversion of pig iron into steel, manufacture of ferro-alloys and manufacture of steel products.
+This class includes:
+- operation of blast furnaces, steel converters, rolling and finishing mills
+- production of pig iron and spiegeleisen in pigs, blocks or other primary forms
+- production of ferro-alloys
+- production of ferrous products by direct reduction of iron and other spongy ferrous products
+- production of iron of exceptional purity by electrolysis or other chemical processes
+- remelting of scrap ingots of iron or steel
+- production of granular iron and iron powder
+- production of iron and steel in ingots or other primary forms
+- production of semi-finished products of iron or steel
+- manufacture of hot-rolled and cold-rolled flat-rolled products of iron or steel
+- manufacture of hot-rolled bars and rods of iron or steel
+- manufacture of hot-rolled open sections of iron or steel
+- manufacture of sheet piling of steel and welded open sections of iron or steel
+- manufacture of railway track materials (unassembled rails) of iron or steel
+- production of blast furnace gas
+This class also includes:
+- manufacture of coated or uncoated flat-rolled steel products in coils or in straight lengths of a width of 600 mm or more by cold re-rolling of hot-rolled flat products or of steel rods
+This class excludes:
+- cold drawing of bars, see 24.31

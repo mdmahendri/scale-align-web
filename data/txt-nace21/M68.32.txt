@@ -1,0 +1,11 @@
+M68.32 Other real estate activities on a fee or contract basis
+This class includes:
+- activities of rent-collecting agencies
+- management of real estate (e.g. property management of real estate or dwellings in joint ownership (mostly carried out on a fee or contract basis))
+- activities of real estate valuation
+- activities of real estate escrow agents
+- advisory activities on a fee or contract basis, in connection to buying, selling and rental of real estate
+This class excludes:
+- legal activities, see 69.10
+- asset management activities as part of financial management consulting, see 70.20
+- combined facilities support services; the provision of a combination of support services (e.g. general interior cleaning, maintenance and making minor repairs, waste disposal, guard and security services), see 81.10

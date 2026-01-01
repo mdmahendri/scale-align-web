@@ -1,0 +1,7 @@
+C16.26 Manufacture of solid fuels from vegetable biomass
+This class includes:
+- manufacture of briquettes, fire logs and pellets from agglomerated sawdust, wood waste and scrap, straw or other vegetable biomass
+This class excludes:
+- manufacture of animal feed from soybean waste, see 10.9
+- slicing, peeling or chipping logs, see 16.11
+- manufacture of peat briquettes, see 19.20

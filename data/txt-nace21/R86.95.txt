@@ -1,0 +1,12 @@
+R86.95 Physiotherapy activities
+This class includes therapies provided by independent professionals to improve mobility, restore function or reduce pain.
+The therapies provided include physiotherapy, and so on.
+This class also includes:
+- activities of medical massage therapists
+- activities of ergotherapists
+- activities of occupational therapists
+This class excludes:
+- activities of osteopaths, see 86.96
+- activities of chiropractors, see 86.96
+- body treatment techniques (e.g. shiatsu, Thai massage, Watsu, tui na qigong), see 86.99
+- activities of massage salons for non-medical massage, see 96.23

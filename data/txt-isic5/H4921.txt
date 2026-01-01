@@ -1,0 +1,9 @@
+H4921 Urban and suburban passenger land transport
+This class includes:
+- land transport of passengers by urban or suburban transport systems.
+This may include different modes of land transport, such as by motorbus, tramway, streetcar, trolley bus, underground and elevated railways etc. The transport is carried out on scheduled routes normally following a fixed time schedule, entailing the picking up and setting down of passengers at normally fixed stops.
+This class also includes:
+- town-to-airport or town-to-station lines
+- operation of funicular railways, aerial cableways etc. if part of urban or suburban transit systems
+This class excludes:
+- passenger transport by inter-urban railways, see 4911

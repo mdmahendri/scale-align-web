@@ -1,0 +1,42 @@
+C2790 Manufacture of other electrical equipment
+This class includes the manufacture of miscellaneous electrical equipment other than motors, generators and transformers, batteries and accumulators, wires and wiring devices, lighting equipment or domestic appliances
+This class includes:
+- manufacture of battery chargers, solid-state
+- manufacture of door opening and closing devices, electrical
+- manufacture of electric bells
+- manufacture of extension cords made from purchased insulated wire
+- manufacture of ultrasonic cleaning machines (except laboratory and dental)
+- manufacture of tanning beds
+- manufacture of fuel cells (except for motor vehicles), regulated and unregulated power supplies
+- manufacture of uninterruptible power supplies (UPS)
+- manufacture of surge suppressors (except for distribution level voltage)
+- manufacture of appliance cords, extension cords, and other electrical cord sets with insulated wire and connectors
+- manufacture of carbon and graphite electrodes, contacts, and other electrical carbon and graphite products
+- manufacture of particle accelerators
+- manufacture of electrical capacitors, resistors, condensers and similar components
+- manufacture of electromagnets
+- manufacture of sirens
+- manufacture of electronic scoreboards
+- manufacture of electrical signs
+- manufacture of electrical signalling equipment such as traffic lights and pedestrian signalling equipment
+- manufacture of electrical insulators (except glass or porcelain)
+- manufacture of electrical welding and soldering equipment, including hand-held soldering irons
+- manufacture of inverters for photovoltaic installations
+- manufacture of electroplating machinery
+- manufacture of on-board chargers for motor vehicles
+- manufacture of assembled cables, fitted with connectors
+- manufacture of charging stations for cars
+This class excludes:
+- manufacture of glass electrical insulators, see 2310
+- manufacture of porcelain electrical insulators, see 2393
+- manufacture of carbon and graphite fibres and products (except electrodes and electrical applications), see 2399
+- manufacture of photovoltaic cells, modules and panels, see 2611
+- manufacture of electronic component-type rectifiers, voltage regulating integrated circuits, power converting integrated circuits, electronic capacitors, electronic resistors, and similar devices, see 2619
+- manufacture of transformers, motors, generators, switchgear, relays and industrial controls, see 27
+- manufacture of batteries, see 2720
+- manufacture of communication and energy wire, current-carrying and noncurrent-carrying wiring devices, see 273
+- manufacture of lighting equipment, see 2740
+- manufacture of household-type appliances, see 275
+- manufacture of non-electrical welding and soldering equipment, see 2819
+- manufacture of motor vehicle electrical equipment, such as generators, alternators, spark plugs, ignition wiring harnesses, power window and door systems, voltage regulators, see 2930
+- manufacture of inverter modules and fuel cells for motor vehicle, see 2930

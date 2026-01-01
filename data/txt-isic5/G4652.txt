@@ -1,0 +1,13 @@
+G4652 Wholesale of electronic and telecommunications equipment and parts
+This class includes:
+wholesale of electronic valves and tubes
+wholesale of semiconductor devices
+wholesale of microchips and integrated circuits
+wholesale of printed circuits
+wholesale of blank audio and video tapes and diskettes, magnetic and optical disks (CDs, DVDs)
+wholesale of telephone and communications equipment, e.g. mobile phones, modems etc.
+This class excludes:
+wholesale of recorded audio and video tapes, CDs, DVDs, see 4649
+wholesale of consumer electronics, see 4649
+wholesale of computers and computer peripheral equipment, see 4651
+- wholesale of industrial machines for additive manufacturing (3D printers etc.), see 4659

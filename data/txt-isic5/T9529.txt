@@ -1,0 +1,18 @@
+T9529 Repair and maintenance of other personal and household goods
+This class includes:
+- repair and maintenance of bicycles, e-bikes, monowheels, hoverboards, kick scooters
+- repair and alteration of clothing
+- repair and alteration of jewellery
+- repair of watches, clocks and their parts such as watchcases and housings of any material
+- repair of sporting goods (except sporting guns)
+- repair of books
+- repair of musical instruments
+- repair of toys and similar articles
+- repair of other personal and household goods
+- piano-tuning
+This class excludes:
+- industrial engraving of metals, see 2592
+- repair of sporting and recreational guns, see 3311
+- repair of hand held power tools, see 3312
+- restoring of organs and other historical musical instruments, see 3319
+- repair of time clocks, time/date stamps, time locks and similar time recording devices, see 3313

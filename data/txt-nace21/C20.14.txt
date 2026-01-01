@@ -1,0 +1,29 @@
+C20.14 Manufacture of other organic basic chemicals
+This class includes the manufacture of chemicals using basic processes (for example, thermal cracking, distillation).
+The output of these processes is usually separate chemically defined organic compounds.
+This class includes:
+- manufacture of basic organic chemicals:
+acyclic hydrocarbons, saturated and unsaturated
+cyclic hydrocarbons, saturated and unsaturated
+acyclic and cyclic alcohols
+mono- and polycarboxylic acids, including acetic acid
+other oxygen-function compounds, including aldehydes, ketones, quinones and dual or poly oxygen-function compounds
+synthetic glycerol
+nitrogen-function organic compounds, including amines
+fermentation of sugar cane, corn or similar to produce alcohol and esters
+other organic compounds, including wood distillation products (e.g. charcoal), etc.
+- manufacture of synthetic aromatic products
+- manufacture of methane, not for the provision as a gaseous fuel through a permanent supply network
+- distillation of coal tar
+- manufacture of ethyl alcohol, other than for bioethanol fuel
+- manufacture of refrigerant gases
+This class excludes:
+- extraction of natural gas, consisting predominantly of methane, see 06.20
+- manufacture of plastics in primary forms, see 20.16
+- manufacture of synthetic rubber in primary forms, see 20.17
+- manufacture of crude glycerol, see 20.41
+- manufacture of liquid biofuels (e.g. bioethanol fuel), see 20.51
+- manufacture of natural essential oils, see 20.59
+- manufacture of salicylic and O-acetylsalicylic acids, see 21.10
+- manufacture of ethanol from biomass, see 20.51
+- production of methane for the provision as a gaseous fuel through a permanent supply network, see 35.21

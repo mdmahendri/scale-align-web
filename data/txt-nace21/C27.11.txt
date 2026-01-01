@@ -1,0 +1,23 @@
+C27.11 Manufacture of electric motors, generators and transformers
+This class includes the manufacture of all electric motors and transformers: AC, DC and AC/DC.
+This class includes:
+- manufacture of electric motors, except for motor vehicles
+- manufacture of distribution transformers, electric
+- manufacture of arc welding transformers
+- manufacture of ballasts for discharge lamps or tubes (i.e. transformers)
+- manufacture of substation transformers for electric power distribution
+- manufacture of transmission and distribution-voltage regulators
+- manufacture of inverters, rectifiers and converters
+- manufacture of electric linear actuators
+- manufacture of prime mover generator sets (except turbine generator sets)
+- manufacture of power generators (except battery charging alternators for internal combustion engines)
+- manufacture of motor generator sets (except turbine generator sets)
+- rewinding of armatures on a factory basis
+- manufacture of solar generators, which can be used directly to supply power to, e.g. a motor or an electrolyser
+This class excludes:
+- manufacture of electronic component-type transformers and switches, see 26.11
+- manufacture of photovoltaic cells, modules and panels, see 26.11
+- manufacture of electric welding and soldering equipment, see 27.90
+- manufacture of turbine generator sets, see 28.11
+- manufacture of electric motors for motor vehicles, see 29.10
+- manufacture of starting motors and generators for internal combustion engines, see 29.31

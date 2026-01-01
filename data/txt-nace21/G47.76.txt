@@ -1,0 +1,8 @@
+G47.76 Retail sale of flowers, plants, fertilisers, pets and pet food
+This class includes:
+- retail sale of flowers and plants
+- retail sale of fertilisers and plant protection products
+- retail sale of pets and articles for pets
+- retail sale of food for pets and other animals kept at home for pleasure (e.g. chickens, horses)
+This class also includes:
+- retail sale of toiletries, hygiene products, etc. for pets

@@ -1,0 +1,13 @@
+G4672 Wholesale of metals and metal ores
+This class includes:
+- wholesale of ferrous and non-ferrous metal ores
+- wholesale of ferrous and non-ferrous metals in primary forms
+- wholesale of ferrous and non-ferrous semi-finished metal products n.e.c.
+- wholesale of gold and other precious metals
+- wholesale of semi-finished metal products and metal ores
+This class also includes:
+- wholesale of steel sheets on own account, including usual cutting operations associated with trade
+- wholesale of gold and other precious metals, purchased from households or enterprises and sold to retailers, to industrial, commercial, institutional or professional users, or to other wholesalers
+This class excludes:
+- wholesale of metal scrap, see 4679
+- gold bullion sales, see Section L

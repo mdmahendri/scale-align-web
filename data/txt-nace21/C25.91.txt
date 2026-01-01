@@ -1,0 +1,5 @@
+C25.91 Manufacture of steel drums and similar containers
+This class includes:
+- manufacture of iron or steel tanks, cans, drums, buckets, boxes and similar containers, of a capacity not exceeding 300 litres
+This class excludes:
+- manufacture of containers of metal, for compressed or liquefied gas, of a capacity exceeding 300 litres, see 25.22

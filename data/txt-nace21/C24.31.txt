@@ -1,0 +1,5 @@
+C24.31 Cold drawing of bars
+This class includes:
+- manufacture of steel bars, rods, and solid sections of steel by cold drawing, grinding or cold-finishing
+This class excludes:
+- cold drawing of wire, see 24.34

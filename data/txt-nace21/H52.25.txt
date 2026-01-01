@@ -1,0 +1,12 @@
+H52.25 Logistics service activities
+This class includes:
+- activities of distribution centres
+- pickup of goods and grouping for shipping
+- goods handling operations (e.g. temporary crating and packing goods into boxes for the purpose of warehousing or for protecting them during transport, unpacking, sampling, weighing of goods)
+This class excludes:
+- freight forwarding, see 52.26
+- ship brokerage includes taking care of the entry and clearance of ships, as an intermediary between shipowners and shippers or receivers of goods, see 52.31
+- courier activities, see 53.20
+- provision of motor, marine, aviation and transport insurance, see 65.12
+- management consultancy for companies logistics, see 70.20
+- logistics consulting activities, i.e. planning, designing and supporting operations of transport, warehousing and distribution, see 70.20

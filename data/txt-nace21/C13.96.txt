@@ -1,0 +1,24 @@
+C13.96 Manufacture of other technical and industrial textiles
+This class includes:
+- manufacture of narrow woven fabrics, including fabrics consisting of warp without weft assembled by means of an adhesive
+- manufacture of labels, badges, etc.
+- manufacture of ornamental trimmings: braids, tassels, pompons, etc.
+- manufacture of textile fabrics impregnated, coated, covered or laminated with plastics
+- manufacture of metallised yarn, rubber thread and cord covered with textile material, textile yarn covered, impregnated, coated or sheathed with rubber or plastics
+- manufacture of tyre cord fabric of high-tenacity man-made yarn
+- manufacture of other treated or coated fabrics (e.g. buckram and similar stiffened textile fabrics, fabrics coated with gum or amylaceous substances)
+- manufacture of diverse textile articles (e.g. textile wicks, incandescent gas mantles, tubular gas)
+- manufacture of mantle fabric, hose piping, transmission or conveyor belts or belting (whether or not reinforced with metal or other material), bolting cloth, straining cloth
+- manufacture of automotive trimmings
+- manufacture of artists' canvas boards and tracing cloth
+- manufacture of tarpaulins, tents, pneumatic mattresses of textile materials, sails, parachutes, textiles for blinds and sunblinds, loose covers for cars, machines or furniture
+This class also includes:
+- manufacture of fabrics of glass fibres
+This class excludes:
+- manufacture of napkins and napkin liners for babies and similar articles of textile materials, see 17.22
+- manufacture of medical textiles impregnated or covered with pharmaceutical substances (e.g. gauze, bandages) see 21.20
+- manufacture of transmission or conveyor belts of textile fabric, impregnated, coated, covered or laminated with rubber, see 22.12
+- manufacture of pneumatic mattresses of vulcanised rubber, see 22.12
+- manufacture of plates or sheets of cellular rubber or plastic combined with textiles for reinforcing purposes only, see 22.12, 22.21
+- manufacture of cloth of woven metal wire, see 25.93
+- manufacture of single-use surgical drapes used during surgical procedures made up of non-wovens, see 32.50

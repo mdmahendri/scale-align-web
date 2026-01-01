@@ -1,0 +1,19 @@
+C1040 Manufacture of vegetable and animal oils and fats
+This class includes the manufacture of crude and refined oils and fats from vegetable or animal materials, except rendering or refining of lard and other edible animal fats.
+This class includes:
+- manufacture of crude vegetable oils: olive oil, soya-bean oil, groundnut oil, palm oil, sunflower-seed oil, cotton-seed oil, rape, colza or mustard oil, linseed oil etc.
+- manufacture of non-defatted flour or meal of oilseeds, oil nuts or oil kernels
+- manufacture of refined vegetable oils: olive oil, soya-bean oil etc.
+- processing of vegetable oils: blowing, boiling, dehydration, hydrogenation etc.
+- manufacture of margarine
+- manufacture of melanges and similar spreads
+- manufacture of compound cooking fats.
+This class also includes:
+- manufacture of non-edible animal oils and fats
+- extraction of fish and marine mammal oils
+- production of cotton linters, oilcakes and other residual products of oil production.
+This class excludes:
+- rendering and refining of lard and other edible animal fats, see 1010
+- wet corn milling, see 1062
+- production of essential oils, see 2029
+- treatment of oil and fats by chemical processes, see 2029

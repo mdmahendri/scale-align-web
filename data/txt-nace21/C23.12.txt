@@ -1,0 +1,11 @@
+C23.12 Shaping and processing of flat glass
+This class includes:
+- manufacture of bent, edgeworked, engraved, drilled or enamelled glass sheets or profiles
+- manufacture of toughened or laminated safety glass
+- manufacture of glass mirrors
+- manufacture of multiple-walled insulating glass and units of glass
+- manufacture of coated glass
+- surface treatment of flat glass
+This class excludes:
+- printing onto glass, see 18.12
+- manufacture of vehicle mirrors, see 29.32

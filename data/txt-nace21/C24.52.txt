@@ -1,0 +1,6 @@
+C24.52 Casting of steel
+This class includes:
+- manufacture of castings made of alloy or common steel castings
+- manufacture of castings made of carbon or commercial steel castings
+- manufacture of castings made of alloy and high alloy castings
+- manufacture of castings made of stainless-steel castings

@@ -1,0 +1,27 @@
+O8220 Activities of call centres
+This class includes the activities of:
+- inbound call centres, including answering calls from clients by using human operators, automatic call distribution, computer telephone integration, interactive voice response systems or similar methods to receive orders, provide product information, dealing with customer requests for assistance or address customer complaints
+- outbound call centres using similar methods to market goods or services to potential customers, conducting telephone interviews for market and opinion research surveys on a contract or fee basis
+- web contact centres
+This class also includes:
+- centres dealing with customer requests for assistance or address customer complaints through other communication channels
+This class excludes:
+- market research and public opinion polling and statistical analysis thereof, see 7320
+- activities of brokers and agents for electric power and natural gas, see 354
+- intermediation service activities for specialised construction services, see 4340
+- intermediation service activities for retail sale, see 4790
+- intermediation service activities for freight and passenger transportation, see 5231, 5232
+- intermediation service activities for postal and courier activities, see 5330
+- intermediation service activities for accommodation, see 5540
+- intermediation service activities for food and beverage services activities, see 5640
+- intermediation service activities for telecommunications activities, see 6120
+- financial and insurance intermediation service activities, see section L (e.g., 6622 activities of insurance agents and brokers)
+- intermediation service activities for real estate activities, see 6821
+- patent brokering (marketing) service activities, see 7491
+- intermediation service activities for rental and leasing of tangible goods and non-financial intangible assets, see 775
+- intermediation service activities for business support activities (except financial intermediation) n.e.c., see 8240
+- intermediation service activities for courses and tutors, see 8561
+- intermediation service activities for medical, dental and other health services, see 8691
+- intermediation service activities for residential care activities, see 8791
+- intermediation service activities for repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles, see 9540
+- intermediation service activities for other personal services, see 9640

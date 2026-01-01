@@ -1,0 +1,10 @@
+C14.21 Manufacture of outerwear
+This class includes:
+- manufacture of outerwear, other than knitted or crocheted (e.g. pullovers, cardigans, jerseys, coats, suits, ensembles, jackets, trousers, skirts, shirts, T-shirts, blouses, babies outerwear garments)
+This class also includes:
+- bridal dresses and other clothes for ceremony
+- custom tailoring
+This class excludes:
+- manufacture of knitted or crocheted wearing apparel (e.g. pullovers, cardigans, jerseys, shirts, T-shirts, blouses, waistcoats, nightwear, underwear, including babies wear), see 14.10
+- uniforms and similar official clothing, see 14.23
+- manufacture of wearing apparel of rubber or plastics, see 22.12, 22.26

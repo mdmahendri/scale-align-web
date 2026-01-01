@@ -1,0 +1,9 @@
+G4663 Wholesale of motorcycles, motorcycle parts and accessories
+This class includes:
+- wholesale of new and used motorcycles, including mopeds
+- wholesale of parts and accessories for motorcycles
+This class excludes:
+- activities of commission agents specialised in the sale motorcycles, see 4610
+- wholesale of bicycles, e-bikes and their related parts and accessories, see 4649
+- rental of motorcycles, see 7730
+- repair and maintenance of motorcycles, see 9532

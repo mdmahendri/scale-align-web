@@ -1,0 +1,5 @@
+A0142 Raising of horses and other equines
+This class includes:
+- raising and breeding of horses, asses, mules or hinnies.
+This class excludes:
+- operation of horse stables for racing and riding for sport, see 9319

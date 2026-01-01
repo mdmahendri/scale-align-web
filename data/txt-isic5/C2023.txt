@@ -1,0 +1,31 @@
+C2023 Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations
+This class includes:
+- manufacture of organic surface-active agents
+- manufacture of soap
+- manufacture of paper, wadding, felt etc. coated or covered with soap or detergent
+- manufacture of crude glycerol
+- manufacture of surface-active preparations:
+* washing powders in solid or liquid form and detergents
+* dish-washing preparations
+* textile softeners
+- manufacture of cleaning and polishing products:
+* preparations for perfuming or deodorizing rooms
+* artificial waxes and prepared waxes
+* polishes and creams for leather
+* polishes and creams for wood
+* polishes for coachwork, glass and metal
+* scouring pastes and powders, including paper, wadding etc. coated or covered with these
+- manufacture of perfumes and toilet preparations:
+* perfumes and toilet water
+* beauty and make-up preparations
+* sunburn prevention and suntan preparations
+* manicure and pedicure preparations
+* shampoos, hair lacquers, waving and straightening preparations
+* dentifrices and preparations for oral hygiene, including denture fixative preparations
+* shaving preparations, including pre-shave and aftershave preparations
+* deodorants and bath salts
+* depilatories
+This class excludes:
+- manufacture of separate, chemically defined compounds, see 2011
+- manufacture of glycerol, synthesized from petroleum products, see 2011
+- extraction and refining of natural essential oils, see 2029

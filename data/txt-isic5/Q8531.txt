@@ -1,0 +1,10 @@
+Q8531 General secondary education
+This class includes provision of the type of education that lays the foundation for lifelong learning and human development and is capable of furthering education opportunities.
+Activities classified in this class are based on programmes that are usually on a more subject-oriented pattern using more specialised teachers, and more often employ several teachers conducting classes in their field of specialisation.
+Subject specialisation at this level often begins to have some influence even on the educational experience of those pursuing a general programme.
+Such programmes are designed to qualify students either for technical and vocational education or for entrance to higher education without any special subject prerequisite.
+This class includes:
+- lower general secondary education corresponding more or less to compulsory school age
+- upper general secondary education, whether granting access or not to higher education
+This class excludes:
+- non-formal education and training, see 855

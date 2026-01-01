@@ -1,0 +1,16 @@
+K6219 Other computer programming activities
+This class includes:
+- designing the structure and content of, and/or writing, modifying (including updates and patches), customizing, testing and supporting of the computer code necessary to create and implement:
+* systems software
+* business, finance, and other software applications (other than video game applications)
+* machine learning applications
+* artificial intelligence/machine vision applications
+* cybersecurity applications
+* distributed ledger applications
+* databases
+* web pages
+This class excludes:
+- development of video game applications, see 6211
+- software publishing, see 582
+- planning and designing computer systems that integrate computer hardware, software and communication technologies, even though providing software might be an integral part, see 6220
+- blockchain/distributed ledger technology (DLT) data processing activities, see 6310

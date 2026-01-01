@@ -1,0 +1,3 @@
+A0112 Growing of rice
+This class includes:
+- growing of rice

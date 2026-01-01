@@ -1,0 +1,9 @@
+A0144 Raising of sheep and goats
+This class includes:
+- raising and breeding of sheep and goats
+- production of raw sheep or goat milk
+- production of raw wool.
+This class excludes:
+- sheep shearing on a fee or contract basis, see 0162
+- production of pulled wool, see 1010
+- processing of milk, see 1050

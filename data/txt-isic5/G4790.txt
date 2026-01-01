@@ -1,0 +1,12 @@
+G4790 Intermediation service activities for retail sale
+This class includes intermediation service activities for specialized and non-specialised retail trade that facilitate transactions between buyers and sellers for the ordering and/or delivering of physical goods for a fee or commission, without supplying and taking ownership of the goods that are intermediated.
+These activities can be carried out on digital platforms or through non-digital channels (face-to-face including door-to-door, phone, mail, etc.).
+The fee or commission can be received from either the buyers or sellers.
+Revenue for intermediation service activities for non-specialised retail trade can include other sources of income, such as revenues from advertising.
+The rules for defining specialised and non-specialised retail trade activities are described in paragraphs 96-98 of the NACE introductory guidelines.
+This class includes also:
+- activities of retail auctioneering houses of both new and used third party goods, including internet retail auctions
+- activities of agents in retail sale of motor vehicles
+This class excludes:
+- operation of petrol stations, including commission sale of fuels, see 4730
+- activities of intermediaries in the retail sale of second hand goods, see 4774

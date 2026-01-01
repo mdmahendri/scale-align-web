@@ -1,0 +1,11 @@
+H49.11 Passenger heavy rail transport
+This class includes:
+- rail transport of passengers using railway rolling stock on mainline networks
+- operation of sleeping cars or dining cars as an integrated operation of railway companies
+This class also includes:
+- passenger heavy rail transport for sightseeing
+This class excludes:
+- passenger transport by metro, tramway, subway, underground etc., see 49.12
+- passenger terminal activities, see 52.21
+- operation of railway infrastructure and related activities (e.g. switching and shunting), see 52.21
+- operation of sleeping cars or dining cars when operated by separate units, see 55.90, 56.11

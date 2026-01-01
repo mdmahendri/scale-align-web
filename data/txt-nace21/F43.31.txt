@@ -1,0 +1,4 @@
+F43.31 Plastering
+This class includes:
+- application in buildings or other construction projects of interior and exterior plaster or stucco, including related lathing materials
+- dry-walling of walls and plastering of ceilings

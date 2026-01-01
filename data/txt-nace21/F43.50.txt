@@ -1,0 +1,15 @@
+F43.50 Specialised construction activities in civil engineering
+This class includes:
+- construction activities specialising in one aspect common in civil engineering, requiring specialised skill or equipment:
+construction of foundations for civil engineering, including piledriving
+shaft sinking
+erection of steel elements for civil engineering projects
+installation of crash barriers, traffic signs, etc.
+- erection of noise protection walls (e.g. along roads)
+- installation of street furniture
+- installation of prefabricated swimming pools
+- road painting and other marking of streets
+- erection of protective rock walls and installation of rockfall protection
+This class excludes:
+- surface work (e.g. paving of roads (asphalt, concrete, stone, etc.)), see 42.11
+- construction of non-prefabricated swimming pools, see 42.99

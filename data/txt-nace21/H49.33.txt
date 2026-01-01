@@ -1,0 +1,10 @@
+H49.33 On-demand passenger transport service activities by vehicle with driver
+This class includes the on-demand transport of passengers in vehicles with a driver, for a maximum of 9 persons:
+- taxi services
+- private hire vehicles with a driver
+- motorcycle taxi services
+This class excludes:
+- bicycle taxi services, see 49.39
+- passenger road transport by vehicles drawn by humans or animals, see 49.39
+- intermediation service activities for passenger transport, see 52.32
+- patient transport by ambulance, see 86.92

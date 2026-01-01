@@ -1,0 +1,6 @@
+A0141 Raising of cattle and buffaloes
+This class includes:
+- raising and breeding of cattle and buffaloes for meat
+- production of bovine semen.
+This class excludes:
+- processing of milk, see 1050

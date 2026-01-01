@@ -1,0 +1,13 @@
+R87.30 Residential care activities for older persons or persons with physical disabilities
+This class includes the provision of residential and personal care services for older persons or persons with physical disabilities who are unable to fully care for themselves and/or who choose not to live independently.
+The care typically includes room, board, supervision and assistance in daily living (for example, housekeeping activities).
+Nursing care is sometimes provided for residents in separate on-site facilities.
+This class includes activities of:
+- assisted living facilities
+- continuing care retirement communities
+- homes for older persons with minimal nursing care
+- rest homes without nursing care
+This class excludes:
+- residential nursing care activities for older persons, see 87.10
+- provision of residential nursing and rehabilitative services for older persons or persons living with or having a diagnosis of a mental illness, see 87.20
+- social work activities with accommodation, see 87.99

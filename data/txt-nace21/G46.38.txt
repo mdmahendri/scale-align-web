@@ -1,0 +1,10 @@
+G46.38 Wholesale of other food
+This class includes other specialised wholesale of food not already classified in the previous classes 46.31 to 46.37 (for example, wholesale of salt, vinegar, flour, yeast, honey).
+This class also includes:
+- wholesale of ready-made meals
+- wholesale of homogenised food preparations and dietetic food
+- wholesale of food for pets
+- wholesale of food supplements for human consumption
+- wholesale of insects (e.g. crickets) which are processed and ready-to-eat
+This class excludes:
+- wholesale of livestock feed, see 46.21

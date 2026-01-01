@@ -1,0 +1,6 @@
+O77.31 Rental and leasing of agricultural machinery and equipment
+This class includes:
+- rental and operating leasing of agricultural and forestry machinery and equipment without an operator:
+rental of products produced within the manufacture of agricultural and forestry machinery (class 28.30), e.g. agricultural tractors
+This class excludes:
+- rental of agricultural and forestry machinery or equipment with an operator, see 01.61, 02.40

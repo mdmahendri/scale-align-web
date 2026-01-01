@@ -1,0 +1,6 @@
+D35.16 Storage of electricity
+This class includes:
+- conversion of electrical energy into a form of energy which can be stored, the storing of such energy, and the subsequent reconversion of such energy into electrical energy (e.g. operation of pump storage facilities, compressed air storage facilities, or battery storage facilities)
+- distribution of stored electricity into electricity mains/networks
+This class excludes:
+- production of electricity not by storage, see 35.11, 35.12

@@ -1,0 +1,20 @@
+N7500 Veterinary activities
+This class includes:
+- animal health care and control activities for farm animals
+- animal health care and control activities for pet animals
+- These activities are carried out in veterinary hospitals as well as when visiting farms, kennels or homes, in own consulting and surgery rooms or elsewhere.
+This class includes also:
+- activities of veterinary assistants or other auxiliary veterinary personnel
+- clinico-pathological and other diagnostic activities pertaining to animals
+- animal ambulance activities
+- animal chiropractor
+- animal dietician
+This class excludes:
+- farm animal boarding activities without health care, see 0162
+- sheep shearing, see 0162
+- herd testing, droving and agistment services, poultry caponising, see 0162
+- activities related to artificial insemination, see 0162
+- animal genetic testing activities, 7210
+- testing and control of animals before slaughter in relation to food production, see 7120
+- scientific research on animal genetics, see 7220
+- pet animal boarding activities without health care, see 9690

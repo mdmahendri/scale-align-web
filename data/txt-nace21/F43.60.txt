@@ -1,0 +1,5 @@
+F43.60 Intermediation service activities for specialised construction services
+This class includes the intermediation for specialised construction services by bringing clients and service providers together for a fee or commission, without the intermediary providing the specialised construction services that are intermediated.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (including face-to-face, door-to-door, telephone, post, and so on).
+The fee or commission can be received from either the client or the provider of the specialised construction service.
+Revenue for the intermediation activities can include other sources of income (for example, revenues from the sale of advertising space).

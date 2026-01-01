@@ -1,0 +1,5 @@
+L64 Financial service activities, except insurance and pension funding
+This division includes the activities of obtaining and providing funds other than for the purpose of insurance or pension funding or compulsory social security.
+This division also includes activities of holding financial assets such as activities of holding companies and financing conduits and the activities of trusts, funds and similar financial entities, which are not activities according to the ISIC principle in covering economic production.
+Units classified in groups 642 Activities of holding companies and financing conduits and 643 Activities of trust, funds and similar financial entities have little or no employment, physical presence, or physical production (see paragraphs 162 - 163 of the introductory guidelines) and are integrated in ISIC to facilitate the classification of units in the statistical business registers.
+This division excludes the activities of promotional institution for economic development through long-term investments at local, regional and national level that act as the government's arm for executing public policy mandate, see 8414

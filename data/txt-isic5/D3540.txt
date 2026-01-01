@@ -1,0 +1,10 @@
+D3540 Activities of brokers and agents for electric power and natural gas
+This class includes:
+- activities of brokers or agents who arrange the sale of electricity via power distribution systems operated by others
+- activities of gas brokers or agentswho arrange the sale of gaseous fuels via gas distribution systems operated by others
+- activities of brokers or agents for commodity and distribution capacity exchanges for gaseous fuels
+- activities of brokers or agents for operation of electricity, distribution and transmission capacity exchanges for electric power
+This class excludes:
+- storage and distribution or provision of electric power to the user (through a system of mains) by the producer (own account), see 351
+- storage and distribution or provision of natural gas to the user through a system of mains by the producer (own account), see 352
+- intermediation service activities for transport of gaseous fuels, see 5231

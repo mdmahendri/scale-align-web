@@ -1,0 +1,29 @@
+N7110 Architectural and engineering, and related technical consultancy activities
+This class includes the provision of architectural services, engineering services, drafting services, building inspection services and surveying and mapping services and the like.
+This class includes:
+- architectural consulting activities:
+building design and drafting
+town and city planning and landscape architecture
+- engineering design (i.e. applying physical laws and principles of engineering in the design of machines, materials, instruments, structures, processes and systems) and consulting activities for:
+machinery, industrial processes and industrial plant
+projects involving civil engineering, hydraulic engineering, traffic engineering
+water management projects
+projects elaboration and realization relative to electrical and electronic engineering, mining engineering, chemical engineering, mechanical, industrial and systems engineering, safety engineering
+project management activities related to construction
+- elaboration of projects using air conditioning, refrigeration, sanitary and pollution control engineering, acoustical engineering etc.
+- geophysical, geologic and seismic surveying
+- geodetic surveying activities:
+land and boundary surveying activities
+hydrologic surveying activities
+subsurface surveying activities
+cartographic and spatial information activities
+This class excludes:
+- test drilling in connection with mining operations, see 0910, 0990
+- publishing of associated software, see 5829
+- development or associated software, see 6219
+- activities of computer consultants, see 6220
+- technical testing, see 7120
+- research and development activities related to engineering, see 7210
+- industrial design, see 7410
+- interior decorating, see 7410
+- aerial photography, see 7420

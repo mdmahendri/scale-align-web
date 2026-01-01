@@ -1,0 +1,7 @@
+C2432 Casting of non-ferrous metals
+This class includes:
+- casting of semi-finished products of aluminium, magnesium, titanium, zinc etc.
+- casting of light metal castings
+- casting of heavy metal castings
+- casting of precious metal castings
+- die-casting of non-ferrous metal castings

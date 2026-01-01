@@ -1,0 +1,25 @@
+F4390 Other specialized construction activities
+This class includes:
+- construction activities specializing in one aspect common to different kind of structures, requiring specialized skill or equipment:
+* construction of foundations, including pile driving
+* damp proofing and water proofing works
+* de-humidification of buildings
+* shaft sinking
+* erection of non-self-manufactured steel elements
+* reinforcement steel bending activities, at the construction site
+* bricklaying, block laying, stone setting and other masonry works
+* roofing activities such as laying of roof covering-
+* scaffolds and work platform erecting and dismantling
+* installation of crash barriers, traffic signs etc.
+* road painting and other marking
+* erection of chimneys and industrial ovens
+* work with specialist access requirements necessitating climbing skills and the use of related equipment, e.g. working at height on tall structures
+- subsurface work
+- erection of noise protection walls, e.g. along roads
+- installation of street furniture
+- construction of outdoor swimming pools
+- renting of cranes with operator
+This class also includes:
+- specialised activities for the conservation, repair and restoration of built cultural heritage
+This class excludes:
+- renting of construction machinery and equipment without operator, see 7730

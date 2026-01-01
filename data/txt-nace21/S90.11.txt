@@ -1,0 +1,14 @@
+S90.11 Literary creation and musical composition activities
+This class includes:
+- activities of individual writers, for all subjects, including fictional writing, etc.
+- musical composition
+- texts and compositions writing on behalf of someone else
+- activities of scriptwriting
+- activities of journalists whose content is published by a third party
+- activities of bloggers whose content is published by a third party
+This class also includes:
+- technical writing
+This class excludes:
+- (re)production, distribution of books and music, see section J
+- translators working on book editing, see 74.30
+- activities of independent musicians and actors participating in video and audiovisual content of all kinds, see 90.20

@@ -1,0 +1,11 @@
+K6290 Other information technology and computer service activities
+This class includes other information technology and computer related activities not elsewhere classified, such as:
+- computer disaster recovery services
+- installation (setting-up) of personal computers
+- software installation services
+This class excludes:
+- installation of mainframe and similar computers, see 3320
+- computer programming, see 621
+- computer consultancy, see 6220
+- computer facilities management, see 6220
+- provision of computing infrastructure, data processing and hosting, see 6310

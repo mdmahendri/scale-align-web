@@ -1,0 +1,8 @@
+G4651 Wholesale of computers, computer peripheral equipment and software
+This class includes:
+- wholesale of computers and computer peripheral equipment (e.g. printers, photocopiers, interactive whiteboards, videoconferencing equipment, etc.)
+- wholesale of non-customised software, including video games, provided on physical media with right to perpetual use
+This class excludes:
+- wholesale of electronic parts, see 4652
+- wholesale of office machinery and equipment, (except computers and peripheral equipment), see 4659
+- wholesale of computer-controlled machinery, see 4659

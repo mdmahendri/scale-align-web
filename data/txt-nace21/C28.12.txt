@@ -1,0 +1,13 @@
+C28.12 Manufacture of fluid power equipment
+This class includes:
+- manufacture of hydraulic and pneumatic power engines and motors, cylinders and valves
+- manufacture of hydraulic fluid power systems
+- manufacture of hydraulic transmission equipment
+- manufacture of hydrostatic transmission equipment
+This class excludes:
+- manufacture of hydraulic or pneumatic tubes, pipes and hoses of rubber, see 22.12
+- manufacture of hydraulic or pneumatic tubes, pipes and hoses of plastic, see 22.21
+- manufacture of compressors, see 28.13
+- manufacture of pumps other than hydraulic fluid power pumps, see 28.13
+- manufacture of valves for non-fluid power applications, see 28.14
+- manufacture of mechanical power transmission equipment, see 28.15

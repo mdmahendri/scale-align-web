@@ -1,0 +1,12 @@
+M68.11 Buying and selling of own real estate
+This class includes:
+- buying and selling of self-owned real estate, e.g.:
+apartment buildings and dwellings
+non-residential buildings, including office buildings, industrial buildings, warehouses, hotels and other leisure buildings, exhibition halls, self-storage facilities, retail stores/shops, and shopping centres
+data centres
+land
+This class also includes:
+- subdividing real estate into lots, without land improvement
+This class excludes:
+- subdividing and improving self-owned land for later sale, see 68.12
+- development of building projects for sale, see 68.12

@@ -1,0 +1,9 @@
+A0124 Growing of pome fruits and stone fruits
+This class includes:
+- growing of pome fruits and stone fruits such as:
+apples
+apricots
+cherries and sour cherries
+peaches and nectarines
+pears and quinces
+plums and sloes

@@ -1,0 +1,24 @@
+G4659 Wholesale of other machinery and equipment
+This class includes:
+- wholesale of office machinery and equipment, except computers and computer peripheral equipment
+- wholesale of transport equipment such as locomotives, wagons, etc., except motor vehicles, motorcycles and bicycles
+- wholesale of production-line robots
+- wholesale of wires and switches and other installation equipment for industrial use
+- wholesale of other electrical material such as electrical motors, transformers
+- wholesale of weapons, weapon systems and ammunition, including tanks and armoured fighting vehicles
+- wholesale of machine tools of any type and for any material
+- wholesale of other machinery n.e.c. for use in industry, trade and navigation and other services
+This class includes also:
+- wholesale of computer-controlled machine tools
+- wholesale of machinery for the textile industry and of sewing and knitting machines
+- wholesale of measuring instruments and equipment
+- wholesale of industrial machines for additive manufacturing (3D printers, etc.)
+- wholesale of mining, construction and civil engineering machinery and equipment, e.g. excavating machines etc.
+- wholesale of traffic barriers, bollards, streetlamps, traffic lights, traffic signs, bus and tram stops
+This class excludes:
+- wholesale of motor vehicles, trailers and caravans, see 4661
+- wholesale of motor vehicle parts, see 4662
+- wholesale of motorcycles, see 4663
+- wholesale of bicycles, see 4649
+- wholesale of computers and peripheral equipment, see 4651
+- wholesale of electronic parts and telephone and communications equipment, see 4652

@@ -1,0 +1,25 @@
+N70.20 Business and other management consultancy activities
+This class includes the provision of advice, guidance and operational assistance to businesses and other organisations on management issues (for example, corporate strategic and organisational planning, business process re-engineering, change management, cost reduction and other financial issues; marketing objectives and policies; human resources policies, practices and planning; compensation and retirement strategies; production scheduling and control planning).
+This provision of business services may include advice, guidance or operational assistance to businesses and the public service regarding:
+- design of accounting methods or procedures
+- cost accounting programmes
+- budgetary control procedures
+- public procurement procedures
+- business start-up service activities
+- planning, organisation, efficiency and control
+- management information, etc.
+This class also includes:
+- certification of management (e.g. by management audits)
+- activities of a management company, exercising the mandate of a director or a manager
+This class excludes:
+- design of computer software for accounting systems, see 62.10
+- legal advice and representation, see 69.10
+- accounting, bookkeeping and auditing activities, tax consulting, see 69.20
+- supervisory activities and management of other units of the enterprise or enterprise group, see 70.10
+- architectural and engineering advisory activities, see 71.11, 71.12
+- provision of advice, guidance and operational assistance on public relations and communication, see 73.30
+- environmental, agronomy and similar consulting activities, see 74.99
+- consulting activities for executive search and placement, see 78.10
+- activities of casting agents, see 78.10
+- staff selection activities, see 78.10
+- educational consulting activities, see 85.69

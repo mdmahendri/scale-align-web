@@ -1,0 +1,16 @@
+S90.12 Visual arts creation activities
+This class includes the activities of creation and production of works of the visual arts.
+This class includes:
+- activities of independent artists (e.g. sculptors, painters, cartoonists, calligraphers, engravers, etchers)
+- digital forms of visual arts creation
+- creations of art featuring light installations
+This class excludes:
+- manufacture of statues, other than artistic originals, see 23.70
+- motion picture and video production, see 59.11, 59.12
+- operation of cinemas, see 59.14
+- photographic activities, see 74.20
+- activities of personal theatrical or artistic agents or agencies, see 74.99
+- casting activities, see 78.10
+- intermediation service activities for theatrical, sport, amusement and entertainment tickets, see 82.40
+- choreography activities, see 90.13
+- creation and presentation of light and sound shows, see 93.29

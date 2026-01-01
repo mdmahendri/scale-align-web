@@ -1,0 +1,33 @@
+C2640 Manufacture of consumer electronics
+This class includes the manufacture of electronic audio and video equipment for home entertainment, motor vehicles, public address systems and musical instrument amplification.
+This class includes:
+- manufacture of video recorders and duplicating equipment
+- manufacture of televisions
+- manufacture of television monitors and displays
+- manufacture of audio recording and duplicating equipment, such as CD players and DVD players
+- manufacture of computer and TV projectors
+- manufacture of stereo equipment
+- manufacture of radio receivers
+- manufacture of speaker systems
+- manufacture of household-type video cameras
+- manufacture of jukeboxes
+- manufacture of amplifiers for musical instruments and public address systems
+- manufacture of microphones
+- manufacture of optical media players with optical reading system
+- manufacture of karaoke machines
+- manufacture of headphones, e.g. for radio, stereo, computer
+- manufacture of video game consoles
+- manufacture of personal audio and video headsets, including virtual reality headsets
+- manufacture of home theater audio and video equipment
+This class excludes:
+- reproduction of recorded media (computer media, sound, video, etc.), see 182
+- manufacture of computer peripheral devices and computer monitors, see 262
+- manufacture of telephone answering machines, see 263
+- manufacture of pagers, see 263
+- manufacture of remote control devices (radio and infrared), see 263
+- manufacture of broadcast studio equipment such as reproduction equipment, transmitting and
+receiving antennas, commercial video cameras, see 263
+- manufacture of broadcast and studio equipment, see 263
+- manufacture of antennas, see 263
+- manufacture of digital cameras, see 267
+- manufacture of electronic games with fixed (non-replaceable) software, see 3240

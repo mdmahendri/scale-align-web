@@ -1,0 +1,11 @@
+C2211 Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres
+This class includes:
+- manufacture of rubber tyres for vehicles, equipment, mobile machinery, aircraft, toy, furniture and other uses:
+pneumatic tyres
+solid or cushion tyres
+- manufacture of inner tubes for tyres
+- manufacture of interchangeable tyre treads, tyre flaps, "camelback" strips for retreading tyres etc.
+- tyre rebuilding and retreading
+This class excludes:
+- manufacture of tube repair materials, see 2219
+- tyre and tube repair, fitting or replacement, see 953

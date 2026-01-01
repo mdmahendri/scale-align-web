@@ -1,0 +1,6 @@
+C17.24 Manufacture of wallpaper
+This class includes:
+- manufacture of wallpaper and similar wall coverings, including vinyl-coated and textile wallpaper
+This class excludes:
+- manufacture of paper or paperboard, see 17.12
+- manufacture of plastic wallpaper, see 22.26

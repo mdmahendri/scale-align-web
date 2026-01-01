@@ -1,0 +1,10 @@
+C10.92 Manufacture of prepared pet foods
+This class includes:
+- manufacture of prepared feed for pets, including dogs, cats, birds, fish, etc.
+This class also includes:
+- processing of slaughter waste to produce animal feed
+This class excludes:
+- manufacture of meat products, see 10.13
+- production of fishmeal for animal feed, see 10.20
+- production of oilseed cake, see 10.41
+- activities resulting in by-products usable as animal feed without special treatment (e.g. oilseeds (see 10.41), grain milling residues (see 10.61), etc.)

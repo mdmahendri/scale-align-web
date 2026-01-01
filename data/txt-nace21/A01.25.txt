@@ -1,0 +1,23 @@
+A01.25 Growing of other tree and bush fruits and nuts
+This class includes:
+- growing of berries, e.g.:
+blueberries
+fresh currants
+gooseberries
+kiwi fruit
+raspberries
+strawberries
+sea buckthorn
+- growing of fruit seeds
+- growing of edible nuts, e.g.:
+almonds
+cashew nuts
+chestnuts
+hazelnuts
+pistachios
+walnuts
+pine nuts
+- growing of other tree and bush fruits, e.g.:
+locust beans
+This class excludes:
+- growing of coconuts, see 01.26

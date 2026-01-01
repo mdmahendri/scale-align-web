@@ -1,0 +1,22 @@
+C18.12 Other printing
+This class includes:
+- printing of magazines and other periodicals, appearing less than four times a week
+- printing of books and brochures, music and music manuscripts, maps, atlases, posters, advertising catalogues, prospectuses and other printed advertising, postage stamps, taxation stamps, documents of title, cheques and other security papers, smart cards, albums, diaries, calendars and other commercial printed matter, beer mats, personalised stationery and other printed matter by letterpress, offset, photogravure, flexographic, screen printing, and other printing presses, duplication machines, computer printers, embossers etc., including quick printing directly onto textiles, plastic, glass, metal, wood and ceramics
+- digital printing
+- silk-screen printing on textiles and wearing apparel
+- photocopying of documents
+- decorative printing, e.g. printing of gift wraps, wallpapers, materials for transfer
+- large format printing, e.g. printing of flags, banners, roll-ups, posters
+The material printed is typically copyrighted.
+This class covers exclusively printing service activities, not goods.
+This class also includes:
+- printing on labels or tags (for example, lithographic, gravure printing, flexographic printing, printing signs)
+- laser engraving on textiles
+- activities of printing photographs
+This class excludes:
+- printing of textile fabrics as an intermediate process within the manufacture of textiles, see 13.30
+- manufacture of stationery (e.g. notebooks, binders, registers, accounting books, business forms), when the printed information is not the main characteristic, see 17.23
+- publishing of printed matter, see 58.1
+- advertising design activities, see 73.11
+- operation of photocopying machines for photocopying as a self-service, see 82.10
+- engraving onto metal, glass, wood, etc., see corresponding class according to the material used

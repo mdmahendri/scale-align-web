@@ -1,0 +1,19 @@
+C33.14 Repair and maintenance of electrical equipment
+This class includes the repair and maintenance of goods of division 27.
+This class includes:
+- repair and maintenance of power, distribution, and specialty transformers
+- repair and maintenance of electric motors, generators and motor generator sets
+- repair and maintenance of switchgear and switchboard apparatus
+- repair and maintenance of relays and industrial controls
+- repair and maintenance of primary and storage batteries
+- repair and maintenance of electric lighting equipment
+- repair and maintenance of current-carrying wiring devices and non-current-carrying wiring devices for wiring electrical circuits
+This class also includes:
+- repair and maintenance of charging facilities for cars
+This class excludes:
+- repair and maintenance of electric motors for boats, motor vehicles and motorcycles, see 33.15, 95.31, 95.32
+- repair and maintenance of computers and peripheral computer equipment, see 95.10
+- repair and maintenance of telecommunication equipment, see 95.10
+- repair and maintenance of consumer electronics, see 95.21
+- repair and maintenance of domestic appliances, see 95.22
+- repair of watches and clocks, see 95.25

@@ -1,0 +1,9 @@
+F43.42 Other specialised construction activities in construction of buildings
+This class includes:
+- construction activities specialising in one aspect common to construction of buildings, requiring specialised skills or equipment:
+construction of foundations for buildings, including piledriving
+de-humidification of buildings
+erection of prefabricated, not self-manufactured, structural steel components for buildings
+erection of chimneys and industrial ovens
+This class excludes:
+- construction or installation of masonry heater stoves, see 43.22

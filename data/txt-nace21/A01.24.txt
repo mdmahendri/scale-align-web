@@ -1,0 +1,12 @@
+A01.24 Growing of pome fruits and stone fruits
+This class includes:
+- growing of pome fruits and stone fruits, e.g.:
+apples
+apricots
+cherries and sour cherries
+peaches and nectarines
+pears and quinces
+plums and sloes
+This class excludes:
+- growing of mangoes, rambutans and lychees, see 01.22
+- growing of olives, see 01.26

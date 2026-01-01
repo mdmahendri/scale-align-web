@@ -1,0 +1,6 @@
+C22.22 Manufacture of plastic packing goods
+This class includes:
+- manufacture of plastic articles for the packing of goods:
+plastic bags, sacks, containers, boxes, cases, carboys, bottles, etc.
+This class excludes:
+- manufacture of luggage and handbags of plastic, see 15.12

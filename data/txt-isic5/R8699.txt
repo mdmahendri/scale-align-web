@@ -1,0 +1,22 @@
+R8699 Other human health activities n.e.c
+This class includes:
+- activities for human health n.e.c.:
+activities of nurses, midwives, physiotherapists or other paramedical practitioners in the field of optometry, hydrotherapy, medical massage, occupational therapy, speech therapy, podiatry/chiropody, homeopathy, chiropractice, acupuncture etc.
+These activities may be carried out in health clinics such as those attached to firms, schools, homes for the aged, labour organizations and fraternal organizations and in residential health facilities other than hospitals, as well as in own consulting rooms, patients homes or elsewhere.
+These activities do not involve medical treatment.
+This class also includes:
+- activities of dental paramedical personnel such as dental therapists, school dental nurses and dental hygienists, who may work remote from, but are periodically supervised by, the dentist
+- activities of medical laboratories such as:
+X-ray laboratories and other diagnostic imaging centres
+blood analysis laboratories
+- activities of blood banks, sperm banks, transplant organ banks etc.
+- ambulance transport of patients by any mode of transport including airplanes.
+The ambulance vehicles carry paramedics/medical doctors and are usually equipped with lifesaving equipment.
+This class excludes:
+- production of artificial teeth, denture and prosthetic appliances by dental laboratories, see 3250
+- transfer of patients, with neither equipment for lifesaving nor medical personnel, see divisions 49, 50, 51
+- non-medical laboratory testing, see 7120
+- testing activities in the field of food hygiene, see 7120
+- hospital activities, see 8610
+- medical and dental practice activities, see 8620
+- nursing care facilities, see 8710

@@ -1,0 +1,13 @@
+E38.32 Landfilling or permanent storage
+This class includes the disposal and treatment prior to disposal of non-hazardous or hazardous waste, whether the waste is solid or not, onto or into land (i.e. underground), or in permanent waste storage facilities or sites.
+This class includes:
+- operation of landfills for the disposal of waste
+- treatment of organic waste for landfilling or permanent storage
+- disposal of by-products of animal origin in landfills
+This class also includes:
+- permanent underground storage of waste in a deep geological cavity (e.g. in salt or potassium mines)
+- storage of captured carbon dioxide
+This class excludes:
+- operation of facilities where waste is unloaded for further transport, see 38.1
+- operation of facilities where recoverable materials are sorted, see 38.21
+- decontamination, cleaning up land, water and toxic material abatement, see 39.00

@@ -1,0 +1,8 @@
+S932 Amusement and recreation activities
+This group includes a wide range of units that operate facilities or provide services to meet the varied recreational interests of their patrons.
+It includes the operation of a variety of attractions, such as mechanical rides, water rides, games, shows, theme exhibits and picnic grounds.
+
+This group excludes :
+- sports activities, see 931
+- dramatic arts, music and other arts, see division 90
+- activities related to the infrastructure and facilities for sport (e.g. swimming-pools, playgrounds), see 9311

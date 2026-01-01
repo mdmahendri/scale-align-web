@@ -1,0 +1,11 @@
+H49.34 Passenger transport by cableways and ski lifts
+This class includes:
+- transport by cableways, ski lifts and chairlifts, which may include the preparation of ski slopes
+- passenger transport by lifts
+This class also includes:
+- freight transport by cableways
+This class excludes:
+- passenger rail transport for sightseeing, see 49.1
+- passenger transport by funicular railway, see 49.12
+- non-scheduled passenger road transport in vehicles of 10 or more persons, see 49.32
+- operation of sports areas, which may include the operation of cableways, ski lifts and chairlifts, see 93.11

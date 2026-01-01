@@ -1,0 +1,8 @@
+A0128 Growing of spices, aromatic, drug and pharmaceutical crops
+This class includes:
+- growing of perennial and non-perennial spices and aromatic crops: pepper (piper spp.) nutmeg, mace and cardamoms anise, badian and fennel cinnamon (canella) cloves ginger vanilla hops caraway
+- growing of drug and narcotic crops.
+This class includes also:
+sun drying of spices, aromatic, medicinal and pharmaceutical plants, if carried out by the same unit that grows them
+This class excludes:
+sun drying of spices, aromatic, medicinal and pharmaceutical plants if carried out by a different unit, see 0163

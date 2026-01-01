@@ -1,0 +1,5 @@
+C25.52 Heat treatment of metals
+This class includes:
+- general activities for the heat treatment of metals
+- thermomechanical heat treatment of metals (e.g. preheating, annealing, hardening, tempering, quenching, deep freezing of metal)
+- thermochemical heat treatment of metals (e.g. carburising, carbonitriding, nitrocarburising, nitriding, oxidising, sulphidising, boriding)

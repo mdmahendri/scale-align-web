@@ -1,0 +1,21 @@
+J5912 Motion picture, video and television programme post-production activities
+This class includes:
+- motion picture, video or audiovisual and television programme post-production activities such as
+editing, titling, subtitling, credits,
+closed captioninganimation and special effects
+film/tape transfers
+conversion to video streaming formats
+- activities of motion picture film laboratories and activities of special laboratories for animated films:
+developing and processing motion picture film
+reproduction of motion picture film for theatrical distribution
+This class also includes:
+activities of stock footage film libraries
+This class excludes:
+- Film duplication, (except reproduction of motion picture film for theatrical distribution) as well as reproduction of audio and video recordings on CD, DVD, or other physical media from master copies, see 1820
+- wholesale of recorded videos on CD, DVD, or other physical media, see 4649
+- retail sale of recorded videos on CD, DVD, or other physical media, see 4769
+- animation production, see 5911
+- film processing other than for the motion picture industry, see 7420
+- rental of recorded videos on CD, DVD, or other physical media to the general public, see 7729
+- real-time (i.e. simultaneous) closed captioning of live television performances, meetings, conferences, etc., see 8299
+- activities of independent actors (including influencers appearing in vlogs), cartoonists, directors, stage designers, and other support activities to performing arts, see division 90

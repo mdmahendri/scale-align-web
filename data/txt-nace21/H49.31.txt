@@ -1,0 +1,13 @@
+H49.31 Scheduled passenger transport by road
+This class includes:
+- scheduled urban, suburban or long-distance road transport of passengers by e.g. bus, coach, trolleybus, minibus.
+Such transport follows a fixed timetable, entailing the picking up and setting down of passengers normally at fixed stops
+This class also includes:
+- operation of school buses and buses for the transport of employees
+- scheduled passenger transport by road for sightseeing
+This class excludes:
+- passenger rail transport, see 49.1
+- passenger transport by funicular railway, see 49.12
+- non-scheduled passenger transport by road for sightseeing, in vehicles of 10 or more persons, see 49.32
+- on-demand passenger transport services in vehicles with a driver for a maximum of 9 persons (taxi, etc.), see 49.33
+- operation of aerial cableways, etc., see 49.34

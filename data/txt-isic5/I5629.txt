@@ -1,0 +1,11 @@
+I5629 Other food service activities
+This class includes industrial catering, i.e. the provision of food preparation and supply based on contractual arrangements with the customer, for a fixed term.
+Also included is the operation of food concessions e.g. at sports and similar facilities.
+The food can be prepared directly on the premises of the client organization or in a central unit.
+
+This class includes:
+- activities of food service contractors, e.g. for transportation companies
+- operation of canteens or cafeterias, e.g. for factories, offices, hospitals or schools, on a concession basis
+This class excludes:
+- manufacture of perishable food items, see 1075
+- retail sale of perishable food items, see division 472

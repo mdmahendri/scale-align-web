@@ -1,0 +1,17 @@
+C20.11 Manufacture of industrial gases
+This class includes:
+- manufacture of liquefied or compressed selected inorganic industrial or medical gases:
+elemental gases
+liquid or compressed air
+mixed industrial gases
+inert gases (e.g. carbon dioxide)
+isolating gases
+This class also includes:
+- production of hydrogen, not for energy supply through a network
+This class excludes:
+- extraction of methane, ethane, butane or propane, see 06.20
+- liquefaction and regasification of natural gas for the purpose of transport, done at the mine site, see 09.10
+- manufacture of fuel gases (e.g. ethane, butane or propane in a petroleum refinery), see 19.20
+- manufacture of refrigerant gases of halogenated hydrocarbons, see 20.14
+- manufacture of gaseous fuels from coal, waste, etc., see 35.21
+- manufacture of hydrogen for the provision as a gaseous fuel through a permanent supply network, see 35.21

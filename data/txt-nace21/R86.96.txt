@@ -1,0 +1,15 @@
+R86.96 Traditional, complementary and alternative medicine activities
+This class includes the provision of preventive, curative, or rehabilitative healthcare services by health professionals.
+The health benefits of these services are not based on scientific data for diagnosing and treating diseases and have so far not been fully assessed in ways that can be universally accepted as being evidence-based.
+This class includes:
+- provision of traditional medicine services that comprise a range of long-standing and still-evolving practices, developed within various societies before or during the development of modern medicine (e.g. traditional Chinese therapies such as acupuncture and Chinese herbal medicines, Unani, and traditional African medicines)
+- provision of complementary therapeutic services (e.g. Alexander therapy, aromatherapy, Bach therapy and other flower therapies, body therapy, Ayurvedic, herbal medicine, naturopathy, nutritional therapy)
+- provision of alternative therapeutic services (e.g. homeopathy, chiropractic treatments, osteopathy, crystal therapy, iridology, kinesiology, radionics)
+This class also includes:
+- activities of healers
+- hypnotherapy
+- reflexology activities
+- remedial therapists Cesar and Mensendieck
+- naprapathy
+This class excludes:
+- body treatment techniques (e.g. shiatsu, Thai massage, Watsu, tui na qigong), see 86.99

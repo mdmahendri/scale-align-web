@@ -1,0 +1,8 @@
+C331 Repair and maintenance of fabricated metal products, machinery and equipment
+This group includes the specialised repair of goods produced in the manufacturing sector with the aim to restore these metal products, machinery, equipment and other products to working order.
+The provision of general or routine maintenance (i.e. servicing) on such products to ensure they work efficiently and to prevent breakdown and unnecessary repairs is included.
+This group excludes:
+- rebuilding or remanufacture of machinery and equipment, see corresponding class in divisions 25-30
+- cleaning of industrial machinery, see 8129
+- repair and maintenance of computers and communications equipment, see 951
+- repair and maintenance of household goods, see 952

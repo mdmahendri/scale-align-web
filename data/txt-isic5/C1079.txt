@@ -1,0 +1,36 @@
+C1079 Manufacture of other food products n.e.c.
+This class includes:
+- manufacture of soups and broths
+- manufacture of special food, such as:
+* infant formula
+* follow up milk and other follow up foods
+* baby food
+* foods containing homogenized ingredients
+* low-energy and energy-reduced foods intended for weight control
+* foods for medical purposes
+- manufacture of spices, sauces and condiments:
+* mayonnaise
+* mustard flour and meal
+* prepared mustard etc.
+- manufacture of vinegar
+- manufacture of artificial honey and caramel
+- manufacture of perishable prepared foods, such as:
+* sandwiches
+* fresh (uncooked) pizza.
+This class also includes:
+- manufacture of probiotics
+- manufacture of herb infusions (mint, vervain, chamomile etc.)
+- manufacture of yeast
+- manufacture of extracts and juices of meat, fish, crustaceans or molluscs
+- manufacture of non-dairy milk and cheese substitutes
+- manufacture of egg products, egg albumin
+- processing of salt into food-grade salt, e.g. iodized salt
+- manufacture of artificial concentrates.
+This class excludes:
+- growing of spice crops, see 0128
+- manufacture of inulin, see 1062
+- manufacture of perishable prepared foods of fruit and vegetables (e.g. salads, peeled vegetables, bean curd), see 1030
+- manufacture of frozen pizza, see 1075
+-manufacture of coffee, tea and mate products, see 1076
+- manufacture of spirits, beer, wine and soft drinks, see division 11
+- preparation of botanical products for pharmaceutical use, see 2100

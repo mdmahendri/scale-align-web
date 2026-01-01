@@ -1,0 +1,4 @@
+U97 Activities of households as employers of domestic personnel
+This division only includes activities of private households as employers of domestic personnel.
+The output of these activities is considered production in the European system of accounts (ESA), and for this purpose and for certain surveys this division has been included in NACE Rev. 2.1.
+The same activities when carried out by independent service providers (as opposed to domestic staff employed and paid by the household) are not classified here (for example, babysitting activities (class 88.91), washing of textiles (class 96.10) and valet activities (class 96.99).

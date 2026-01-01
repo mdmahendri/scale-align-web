@@ -1,0 +1,7 @@
+C10.32 Manufacture of fruit and vegetable juice
+This class includes:
+- manufacture of fruit or vegetable juices
+This class also includes:
+- production of concentrates from fresh fruits and vegetables
+This class excludes:
+- manufacture of beverages produced with fruit nectars, see 11.07

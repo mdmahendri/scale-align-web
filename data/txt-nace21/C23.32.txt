@@ -1,0 +1,7 @@
+C23.32 Manufacture of bricks, tiles and construction products, in baked clay
+This class includes:
+- manufacture of structural non-refractory ceramic articles, obtained by firing clay building materials (e.g. ceramic bricks, roofing tiles, chimney pots, pipes, conduits)
+- manufacture of flooring blocks in baked clay
+This class excludes:
+- manufacture of refractory ceramic products, see 23.20
+- manufacture of non-structural non-refractory ceramic products, see 23.4

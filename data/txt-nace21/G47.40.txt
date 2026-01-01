@@ -1,0 +1,21 @@
+G47.40 Retail sale of information and communication equipment
+This class includes the retail sale of information and communication technology (ICT) equipment.
+This class includes:
+- retail sale of computers
+- retail sale of computer peripheral equipment (e.g. printers, photocopiers, interactive whiteboards, videoconferencing equipment)
+- retail sale of video game consoles
+- retail sale of non-customised software, including video games, provided on physical media, with a right to perpetual use
+- retail sale of audio and video equipment
+- retail sale of radio and television equipment
+- retail sale of recordable media
+- retail sale of recording media players and recorders
+- retail sale of smart telephones, mobile telephones, telephones and their accessories (e.g. chargers, hands-free kits, protective film and cases)
+This class also includes:
+- refilling of ink and toner cartridges by retail sellers
+This class excludes:
+- retail sale of photographic, optical and precision equipment (e.g. digital cameras), see 47.78
+- second-hand retail sale of information and communication equipment, see 47.79
+- distribution of e-books and audiobooks via streaming and downloading by book publishers, see 58.11
+- distribution via streaming and downloading by video game publishers, see 58.21
+- distribution via streaming and downloading by video/film publishers, see 59.13
+- distribution via streaming and downloading by audio publishers, see 59.20

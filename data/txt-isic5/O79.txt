@@ -1,0 +1,11 @@
+O79 Travel agency, tour operator, and other travel related activities
+This division includes the activity of agencies, primarily engaged in the sale and operation and of pre-package or custom-packaged travel packages comprising transportation, accommodation, amusement and entertainment, tour guide and other services to the general public and commercial clients and the activity of arranging and assembling tours that are sold through travel agencies or directly by agents such as tour operators; and other travel-related services including reservation services.
+This division also includes:
+- activities of tourist guides and tourism promotion activities
+- intermediation services for travelling
+This division excludes:
+- intermediation service activities for passenger transport only, see 5232
+- intermediation service activities for accommodation only, see 5540
+- intermediation service activities for food and beverage services activities, see 5640
+- intermediation service activities for renting cars, motor homes, and trailers, see 7751
+- intermediation service activities for amusement, sport, and theatrical tickets, see 8240

@@ -1,0 +1,9 @@
+A01.29 Growing of other perennial crops
+This class includes:
+- growing of rubber trees for harvesting of latex
+- growing of Christmas trees
+- growing of trees for extraction of sap
+- growing of vegetable materials of a kind used primarily for plaiting
+This class excludes:
+- growing of flowers, cutting of flower buds and growing of flower seeds, see 01.19
+- gathering of tree sap or rubber-like gums in the wild, see 02.30

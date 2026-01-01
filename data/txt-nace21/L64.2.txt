@@ -1,0 +1,8 @@
+L64.2 Activities of holding companies and financing conduits
+This group includes the activities of holding companies and financing conduits.
+These are corporate groups captive financial entities, in other words, units created by a financial or non-financial group to fulfil specific financial activities and whose main activity is, respectively, to own the group or to act as a vehicle to arrange and channel funds within the group.
+This group excludes:
+- captive factoring and invoicing companies, see 64.92
+- own account investment activities (e.g. by venture capital companies, private equity firms), see 64.99
+- active management of companies and enterprises, strategic planning and decision-making of the company, see 70.10
+- other activities of corporate groups captive financial entities, which are captured under the relevant activity classes

@@ -1,0 +1,15 @@
+S91.21 Museum and collection activities
+This class includes:
+- operation, management, care, preservation, assessment and exhibition of collections of museums of all kinds:
+museums or art museums; applied art, crafts and design museums (e.g. jewellery, furniture, costumes, ceramics, silverware)
+natural history, science and technology museums, historical museums (including military museums)
+other specialised museums
+- open-air museums, ecomuseums, digital and virtual museums
+- collections in historic houses and national galleries; interpretation centres for ethnographic, religious and folk art (at local or regional level)
+- activities of art galleries, exhibiting art (not for sale)
+This class excludes:
+- retail sale of paintings and sculptures (activities of commercial art galleries), see 47.69
+- library activities, see 91.11
+- archive activities, see 91.12
+- conservation and restoration of cultural heritage, see 91.30
+- repair of furniture not considered cultural heritage and non-historical, see 95.24

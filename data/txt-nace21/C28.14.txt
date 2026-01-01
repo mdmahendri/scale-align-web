@@ -1,0 +1,9 @@
+C28.14 Manufacture of other taps and valves
+This class includes:
+- manufacture of industrial taps and valves, including regulating valves and intake taps
+- manufacture of taps and valves for sanitary fixtures
+- manufacture of central heating radiator taps and valves
+This class excludes:
+- manufacture of valves of unhardened vulcanised rubber, glass or ceramic materials, see 22.12, 23.15 or 23.44
+- manufacture of inlet and exhaust valves of internal combustion engines, see 28.11
+- manufacture of valves for hydraulic or pneumatic transmission and air preparation equipment for use in pneumatic systems, see 28.12

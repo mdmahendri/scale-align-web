@@ -1,0 +1,8 @@
+A01.15 Growing of tobacco
+This class includes:
+- growing of unmanufactured tobacco
+This class also includes:
+- preliminary processing of tobacco when associated with the growing of tobacco
+This class excludes:
+- preparation of tobacco leaves (e.g. sun drying) by a third party, see 01.63
+- manufacture of tobacco products, see 12.00

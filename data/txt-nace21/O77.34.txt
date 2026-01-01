@@ -1,0 +1,7 @@
+O77.34 Rental and leasing of water transport equipment
+This class includes:
+- rental and operating leasing of water transport equipment without an operator:
+commercial boats, ships and hovercraft
+This class excludes:
+- rental of water transport equipment with an operator, see division 50
+- rental of pleasure boats without an operator, see 77.21

@@ -1,0 +1,18 @@
+K62.20 Computer consultancy and computer facilities management activities
+This class includes:
+- computer hardware, software and systems consultancy activities, including cybersecurity consultancy activities
+- planning and designing of computer systems which integrate computer hardware, software and communication technologies
+- provision of on-site management and operation of clients computer systems and/or data processing facilities, as well as related support services
+- installation of computer systems and provision of training and support to users of such systems
+- activities of auditing and certification of computing and data processing infrastructures and services
+This class also includes:
+- cybersecurity network and system monitoring, testing and analysis
+- provision of advice on software requirements and procurement of the hardware and software components of a computer system
+This class excludes:
+- installation of mainframe and similar computers, see 33.20
+- sale of computer hardware or software on physical media, see 46.50, 47.40
+- software publishing, see 58.2
+- installation (setting-up) of personal computers, see 62.90
+- software installation, see 62.90
+- computer disaster recovery services, see 62.90
+- general cybersecurity training, see 85.59

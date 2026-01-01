@@ -1,0 +1,7 @@
+T9521 Repair and maintenance of consumer electronics
+This class includes repair and maintenance of consumer electronics:
+- repair of consumer electronics:
+television, radio receivers
+audio and video players
+household-type video cameras and photographic equipment
+video game devices

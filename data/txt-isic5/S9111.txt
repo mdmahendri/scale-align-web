@@ -1,0 +1,7 @@
+S9111 Library activities
+This class includes:
+- documentation and information activities of libraries of all kinds (including digital libraries), reading, listening and viewing rooms:
+organisation of a collection, whether specialised or not
+cataloguing collections
+lending and storage of books, maps, periodicals, films, records, tapes, works of art etc.
+retrieval activities in order to comply with information requests etc.

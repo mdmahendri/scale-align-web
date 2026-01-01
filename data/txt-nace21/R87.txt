@@ -1,0 +1,9 @@
+R87 Residential care activities
+This division includes the provision of residential care combined with either nursing, supervisory or other types of care, as required by the residents.
+Residential care is a mix of health and social services with the health services being largely nursing services.
+Residential care activities are provided for residents, who can be staying temporarily.
+This division also includes activities of residential care centres (providing regular residential care in places specially built or adapted for some target groups).
+Units are classified depending on target groups.
+This division excludes:
+- non-residential nursing activities, see 86.94
+- non-residential care activities, see division 88

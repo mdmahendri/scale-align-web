@@ -1,0 +1,7 @@
+C24.46 Processing of nuclear fuel
+This class includes:
+- production of natural uranium metal and its compounds from pitchblende or other ores
+- manufacture of alloys of natural uranium, dispersions (including cermets), ceramic products and mixtures containing natural uranium or natural uranium compounds
+- smelting and refining of natural uranium
+This class excludes:
+- enrichment of uranium and thorium ores, see 20.13

@@ -1,0 +1,5 @@
+E38.22 Energy recovery
+This class includes pretreatment of waste for energy recovery, conversion of waste materials (for example, into usable heat or electricity), through a variety of processes, which include thermal treatment.
+This class also includes the activities of waste-to-energy plants.
+This class excludes:
+- landfill gas recovery for gas supply, see 35.21

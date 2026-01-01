@@ -1,0 +1,16 @@
+I56.12 Mobile food service activities
+This class includes the preparation and serving of predominantly food for immediate consumption from movable carts or portable stalls.
+This class includes activities of mobile food operators, including:
+- hot food trucks
+- food vendors
+- ice cream vendors
+- food preparation in market stalls
+- snack vendors
+- frozen yogurt vendors
+- pancake vendors
+This class excludes:
+- retail sale of food through vending machines, see 47.2
+- food delivery by independent units, see 53.20
+- preparation and serving of food from movable and temporary carts or portable stalls based on contractual arrangements with the customer, for a specific event, see 56.21
+- concession operation of eating facilities, see 56.22
+- mobile beverage serving activities, see 56.30

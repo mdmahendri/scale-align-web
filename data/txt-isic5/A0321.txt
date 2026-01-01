@@ -1,0 +1,14 @@
+A0321 Marine aquaculture
+This class includes:
+- fish farming in sea water including farming of marine ornamental fish
+- production of bivalve spat (oyster mussel etc.), lobsterlings, shrimp post-larvae, fish fry and fingerlings
+- growing of seaweeds and algae
+- culture of crustaceans, bivalves, other molluscs and other aquatic animals in sea water.
+This class also includes:
+- aquaculture activities in brackish waters
+- land-based aquaculture activities in salt water filled tanks and reservoirs
+- operation of marine fish hatcheries and marine worm farms
+- marine microalgae cultivation.
+This class excludes:
+- frog farming, see 0322
+- operation of sport fishing preserves, see 9319

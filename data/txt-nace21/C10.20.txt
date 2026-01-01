@@ -1,0 +1,16 @@
+C10.20 Processing and preserving of fish, crustaceans and molluscs
+This class includes:
+- preparation and preservation of fish, crustaceans and molluscs (e.g. freezing, deep-freezing, drying, cooking, smoking, salting, immersing in brine, canning)
+- production of fish, crustacean and mollusc products: fish fillets, roes, caviar, caviar substitutes, etc.
+- production of fishmeal for human consumption or animal feed
+- production of meals and solubles from fish and other aquatic animals unfit for human consumption
+This class also includes:
+- activities of factory vessels not engaged in fishing and only in the processing and preserving of fish
+- processing of seaweed
+- removing fish heads, gutting and cutting fish into pieces, and then freezing
+This class excludes:
+- processing and preserving of fish on vessels engaged in fishing, see 03.11
+- processing of whales on land or specialised vessels, see 10.11
+- production of oils and fats of fish and marine mammals, see 10.41
+- manufacture of prepared fish dishes, see 10.85
+- manufacture of fish soups, see 10.89

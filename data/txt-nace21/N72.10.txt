@@ -1,0 +1,13 @@
+N72.10 Research and experimental development on natural sciences and engineering
+This class includes:
+- research and experimental development on natural sciences and engineering:
+research and development on natural sciences
+research and development on engineering and technology
+research and development on medical, health and life, and veterinary sciences
+research and development on biotechnology
+research and development on agricultural, forestry and fisheries sciences
+interdisciplinary research and development, predominantly on natural sciences and engineering
+This class also includes:
+- DNA sequencing for general research on biological processes
+This class excludes:
+- DNA sequencing for ruling out or curing a specific disease, see 86.91

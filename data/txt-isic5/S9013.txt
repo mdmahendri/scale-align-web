@@ -1,0 +1,12 @@
+S9013 Other arts creation activities
+This class includes:
+- conceptual art activities
+- choreography activities
+This class excludes:
+- restoring of furniture (except museum type restoration), see 9524
+- restoring of stained glass windows, see 913
+- renovation and restoration of historical sites and buildings, see section F
+- operation of museums of all kinds, see 912
+- restoring of works of art, e.g. paintings etc., see 9130
+- activities of restoring textiles and embroidery, see 9130
+- interior polychrome restoration, furnace tile restoration and decorative painting, see 9130

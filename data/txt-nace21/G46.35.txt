@@ -1,0 +1,7 @@
+G46.35 Wholesale of tobacco products
+This class includes:
+- wholesale of tobacco and smoking products and accessories, including lighters, pipes, cigarette rolling equipment, etc.
+This class also includes:
+- wholesale of electronic cigarettes (vapes)
+This class excludes:
+- wholesale of e-liquids for electronic cigarettes, see 46.85

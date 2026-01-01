@@ -1,0 +1,8 @@
+B08.12 Operation of gravel and sand pits and mining of clay and kaolin
+This class includes:
+- extraction and dredging of industrial sand, sand for construction and gravel
+- breaking and crushing of gravel
+- quarrying of sand
+- mining of clays, refractory clays and kaolin
+This class excludes:
+- mining of bituminous sand, see 06.10

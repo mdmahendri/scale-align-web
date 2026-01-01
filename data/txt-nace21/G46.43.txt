@@ -1,0 +1,17 @@
+G46.43 Wholesale of electrical household appliances
+This class includes:
+- wholesale of electrical household appliances
+- wholesale of radio and television equipment
+- wholesale of photographic and optical goods except corrective glasses, lenses and sunglasses
+- wholesale of electrical heating and cooling appliances
+- wholesale of heating equipment using renewable resources
+- wholesale of heating, ventilation and air-conditioning equipment
+- wholesale of sewing machines of household-type
+- wholesale of safety systems and alarms
+This class excludes:
+- wholesale of corrective glasses, lenses and sunglasses, see 46.46
+- wholesale of recorded media, see 46.49
+- wholesale of recordable media, see 46.50
+- wholesale of sewing machines other than household-type, see 46.64
+- wholesale of hardware, plumbing and heating equipment and supplies, see 46.84
+- wholesale of heating, ventilation and air-conditioning equipment for non-domestic use, see 46.84

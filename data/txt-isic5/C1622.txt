@@ -1,0 +1,15 @@
+C1622 Manufacture of builders' carpentry and joinery
+This class includes:
+- manufacture of wooden goods intended to be used primarily in the construction industry:
+* beams, rafters, roof struts
+* glue-laminated or metal connected prefabricated wooden roof trusses
+* doors, windows, shutters and their frames of wood, whether or not containing metal fittings, such as hinges, locks etc.
+* stairs, railings
+* wooden beadings and mouldings, shingles and shakes
+* parquet floor blocks, strips etc., assembled into panels
+- manufacture of prefabricated buildings (mobile homes and caravans), or elements thereof, predominantly of wood
+- manufacture of wood partitions (except free standing)
+This class excludes:
+- manufacture of unassembled wooden flooring, see 1610
+- manufacture of wooden kitchen cabinets, bookcases, wardrobes etc., see 3101
+- manufacture of wood partitions, free standing, see 3101

@@ -1,0 +1,12 @@
+C33.18 Repair and maintenance of military fighting vehicles, ships, boats, air and spacecraft
+This class includes the repair and maintenance of military fighting vehicles, ships, boats, air and spacecraft.
+This class includes:
+- repair and maintenance of military air and spacecraft
+- repair and maintenance of military fighting vehicles
+- repair and maintenance of military ships, boats and floating structures
+- repair and maintenance of engines for military fighting vehicles, vessels, ships, boats, air and spacecraft
+This class excludes:
+- factory overhaul of military ship and boat engines, see 28.11
+- factory overhaul and rebuilding of military fighting vehicles, ships, boats, floating structures, air and spacecraft, see 30.13, 30.32, 30.40
+- factory overhaul and conversion of military aircraft or aircraft engines, see 30.32
+- maintenance and repair of civilian boats, ships, aircraft and spacecraft, and other craft, see 33.15, 33.16

@@ -1,0 +1,6 @@
+B07.10 Mining of iron ores
+This class includes:
+- mining of ores valued chiefly for iron content
+- beneficiation of iron ores
+This class excludes:
+- extraction and preparation of pyrites and pyrrhotite (except roasting), see 08.91

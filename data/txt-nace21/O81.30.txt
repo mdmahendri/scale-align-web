@@ -1,0 +1,30 @@
+O81.30 Landscape service activities
+This class includes:
+- planting, care and maintenance of parks and gardens for:
+private and public housing
+public and semi-public buildings (schools, hospitals, administrative buildings, church buildings, etc.)
+municipal grounds (parks, green areas, cemeteries, etc.)
+highway greenery (roads, train lines and tramlines, waterways, ports)
+industrial and commercial buildings
+- planting, care and maintenance of greenery for:
+buildings (roof gardens, facade greenery, indoor gardens, etc.)
+sports grounds (football fields, golf courses, etc.), playgrounds, lawns for sunbathing and other recreational parks
+stationary and flowing water (basins, alternating wet areas, ponds, swimming pools, ditches, watercourses, plant sewage systems)
+- planting of vegetation for protection against noise, wind, erosion, visibility
+- protection and restoring landscape (e.g. for parks, gardens)
+- ecological engineering works for the purpose of ecological preservation of sites
+This class also includes:
+- restoration of natural environments (e.g. plant engineering, renaturation of ecosystems)
+- erosion control activities in mountain environments, spawning grounds and riverbanks
+- creation and relocation of species habitats (e.g. nesting boxes, shelters, hibernacula)
+- prevention, control and response activities against the introduction and spread of invasive species in fauna or flora
+- environmental management (e.g. performing protection and maintenance measures for dunes, moors, wetlands or other sensitive areas; eco-grazing)
+This class excludes:
+- protection or restoration activities of agricultural and forestry land, see divisions 01 and 02
+- commercial growing and planting for commercial growing of plants, trees, see divisions 01 and 02
+- tree nurseries and forest tree nurseries, see 01.30, 02.10
+- keeping the land in good environmental condition for agricultural use, see 01.61
+- restoration of marine ecosystems, see 03.30
+- construction activities for landscaping purposes, see section F
+- landscape design and architectural activities, see 71.11
+- operation of national parks, nature reserves, etc., including conservation and maintenance, see 91.42

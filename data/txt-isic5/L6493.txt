@@ -1,0 +1,4 @@
+L6493 Factoring activities
+This class covers the activity of purchasing accounts receivable (i.e., invoices) from third parties at a discount.
+This class excludes:
+-debt financing undertaken with account receivables as collateral, see 6495

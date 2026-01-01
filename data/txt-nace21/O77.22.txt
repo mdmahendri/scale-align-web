@@ -1,0 +1,21 @@
+O77.22 Rental and leasing of other personal and household goods
+This class includes:
+- rental of all kinds of household or personal goods (except recreational and sports equipment), to households or industries:
+textiles, wearing apparel and footwear (e.g. curtains, costumes, wedding dresses and shoes)
+furniture, pottery and glass, kitchen and tableware, electrical appliances and housewares
+jewellery, musical instruments, scenery and costumes
+books, journals and magazines
+machinery and equipment used by amateurs (e.g. tools for home repairs)
+flowers and plants
+electronic equipment for household use
+- rental of video games, videotapes, discs, records, etc.
+- rental of gazebos and tensile structures without additional services
+This class excludes:
+- providing accommodation services in tents, see 55.30
+- provision of online games by the publisher (not only one-time purchases but also subscriptions as well as in-game purchases and in-app purchases), see 58.21
+- operation of online gaming / video game sites, independent of publishing the games, see 60.39
+- rental of cars, motorcycles, trucks, utility trailers, and recreational vehicles without a driver, see 77.1
+- rental of sports and recreational goods, see 77.21
+- rental of office furniture, see 77.33
+- rental of caravans, see 77.39
+- rental of tents for events, see 77.39

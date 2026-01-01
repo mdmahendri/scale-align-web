@@ -1,0 +1,5 @@
+L Financial and insurance activities
+This section includes financial service activities, insurance activities and financial auxiliary activities, regardless of the technologies used to conduct these activities or support services
+Three principal types of activities are classified in this section: raising, obtaining and providing funding in division 64, pooling of risk by underwriting insurance and annuities in division 65 and providing specialised services facilitating or supporting financial or insurance service activities in division 66.
+This section also includes activities of holding assets, such as activities of holding companies and financing conduits and the activities of trusts, funds and similar financial entities (in division 64), as well as the activities of reinsurance and pension funds (in division 65).
+This section excludes support activities to financial services but not financial in nature (e.g. IT services supporting banking activities)

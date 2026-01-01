@@ -1,0 +1,30 @@
+E38.21 Materials recovery
+This class includes the processing of metal and non-metal waste, including scrap and other articles into secondary raw materials.
+Further included is the recovery of materials from waste streams in the form of: (1) separating and sorting recoverable materials from non-hazardous waste streams; or (2) separating and sorting of commingled recoverable materials (for example, paper, plastics, used beverage cans and metals) into distinct categories.
+Examples of the mechanical or chemical transformation processes that are undertaken include:
+- mechanical crushing and shredding of metal waste (e.g. from used cars, washing machines or motorcycles)
+- mechanical reduction of large iron pieces (e.g. railway wagons)
+- recovery of iron from clinker
+- reclaiming metals out of photographic waste (e.g. fixer solution or photographic films and paper)
+- dismantling of wrecks of any type (automobiles, ships, computers, televisions and other equipment) for materials recovery
+- producing of rubber powder from rubber waste and scrap, including decontamination, division (elimination) of fractions and devulcanising
+- sorting and mechanical processing (e.g. cleaning, grinding) of plastics to produce secondary raw materials
+- processing (ageing, cleaning, sorting) of incineration bottom ash into secondary raw materials (metals, aggregates)
+- crushing, cleaning and sorting of glass
+- crushing, cleaning and sorting of other waste (e.g. demolition waste to obtain secondary raw materials)
+- processing of food, beverage and tobacco waste and residual substances into secondary raw materials
+- recovery of waste oil, processing of used cooking oils and fats into secondary raw materials
+- extraction of silver from waste chemicals, other than by electrolytic refining
+- recovery of phosphorus from the incineration of sewage sludge
+- recovery of textile and clothing products by mechanical, thermal or chemical processes
+- production of waste compost
+- production of biogas from waste, not for the purpose of gas or energy supply
+This class excludes:
+- manufacture of new final products from secondary raw materials, whether or not self-manufactured (e.g. spinning yarn from garnetted stock, making pulp from paper waste, retreading tyres or the production of metal from metal scrap), see corresponding classes in section C
+- reprocessing of nuclear fuels, see 20.13
+- remelting of plastics to produce granulates or compounds, see 20.16
+- remelting ferrous waste and scrap, see 24.10
+- production of biogas from waste for gas supply, see 35.21
+- energy recovery during waste thermal treatment, see 38.22
+- disposal of waste without recovery and treatment prior to disposal, see 38.3
+- wholesale of recoverable materials, see 46.87

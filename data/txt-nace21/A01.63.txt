@@ -1,0 +1,24 @@
+A01.63 Post-harvest crop activities and seed processing for propagation
+This class includes post-harvest crop activities on a fee or contract basis:
+- preparation of crops for primary markets (e.g. cleaning, trimming, grading or disinfecting)
+- cotton ginning
+- preparation of tobacco leaves (e.g. sun drying)
+- preparation of cocoa beans (e.g. peeling)
+- waxing of fruit
+- drying of fruit, vegetables, herbs, spices, medicinal herbs and tobacco
+- sorting, cleaning and cutting of medicinal herbs
+- grain drying
+- post-harvest activities aimed at improving the propagation quality of seed (e.g. by the removal of non-seed materials, or damaged or immature seeds, or by reducing the seed moisture to a safe level for storage)
+- retting of plants bearing vegetable textile fibres (such as jute, flax or coir), not associated with the growing of vegetable textile fibres
+- artificial ripening of fruits as a service (e.g. banana ripening)
+This class also includes:
+- drying, cleaning, grading and treating of seeds until they are marketed
+- treatment of genetically modified seeds
+This class excludes:
+- preparation of agricultural products by the producer, see the corresponding classes in groups 01.1, 01.2, 01.3
+- growing of seeds, see 01.1, 01.2
+- processing of seeds to obtain oil, see 10.41
+- stemming and redrying of tobacco, see 12.00
+- marketing activities of commission merchants and cooperative associations, see division 46
+- wholesale of agricultural raw materials, see 46.2
+- research to develop or modify new forms of seeds, see 72.10

@@ -1,0 +1,16 @@
+G4641 Wholesale of textiles, clothing and footwear
+This class includes:
+- wholesale of yarn
+- wholesale of fabrics
+- wholesale of household linen etc.
+- wholesale of haberdashery: needles, sewing thread etc.
+- wholesale of clothing, including sports clothes
+- wholesale of clothing accessories such as gloves, ties and braces
+- wholesale of footwear
+- wholesale of fur articles
+- wholesale of umbrellas
+- wholesale of parasols, tarpaulins, sails, parachutes, etc
+This class excludes:
+- wholesale of jewellery and leather goods excluding clothing and footwear, see 4649
+- wholesale of tents and sleeping bags, see 4649
+- wholesale of textile fibres, see 4679

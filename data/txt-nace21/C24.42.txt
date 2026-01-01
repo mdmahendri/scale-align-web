@@ -1,0 +1,12 @@
+C24.42 Aluminium production
+This class includes:
+- production of unwrought aluminium, alloyed or not alloyed, from alumina or from aluminium waste and scrap
+- manufacture of aluminium bars, rods, profiles and wire
+- manufacture of aluminium tubes, pipes, tube and pipe fittings
+- manufacture of aluminium plates, sheets and strip, whether or not painted, varnished or coated with plastics
+- manufacture of aluminium foil, whether or not printed or backed with paper, paperboard, plastics or similar backing materials
+This class also includes:
+- production of aluminium oxide (alumina)
+This class excludes:
+- casting of aluminium and other light metals, see 24.53
+- shredding of aluminium waste and scrap, see 38.21

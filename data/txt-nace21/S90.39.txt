@@ -1,0 +1,18 @@
+S90.39 Other support activities to arts and performing arts
+This class includes:
+- support activities to the performing arts for production of live stage presentations (e.g. theatrical presentations, concerts, opera, dance, other stage productions):
+activities of producers, stage-set designers and builders, scene-shifters, lighting engineers, etc.
+- organisation of cultural and entertainment events (e.g. film festivals, music and dance festivals)
+- activities of film and theatre directors, dramaturges, film promoters and programmes creators
+This class also includes:
+- activities of producers or promoters of live arts events
+- technical planning, supply, setting-up and operation of audiovisual equipment and special effects associated with the organisation of artistic events
+This class excludes:
+- production of motion pictures, including digital distribution, for direct projection in theatres or for broadcasting or streaming, see 59.1
+- broadcasting of live performances and events, see 60.20
+- activities of personal theatrical or artistic agents or agencies, see 74.99
+- casting activities, see 78.10
+- organisation of conferences, conventions and trade shows, see 82.30
+- activities of producers or promoters of sporting events, with or without facilities, see 93.19
+- activities of performing artists and groups, see 90.20
+- technical planning, supply, setting-up and operation of audiovisual equipment and special effects associated with the organisation of non-artistic events, see 93.29

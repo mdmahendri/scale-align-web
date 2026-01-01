@@ -1,0 +1,5 @@
+G47.53 Retail sale of carpets, rugs, wall and floor coverings
+This class includes:
+- retail sale of carpets and rugs
+- retail sale of curtains and net curtains
+- retail sale of wall or floor coverings (e.g. wallpaper, tiles, laminates and vinyl flooring)

@@ -1,0 +1,20 @@
+R8610 Hospital activities
+This class includes:
+- short- or long-term provision of medical, diagnostic and treatment services, including physician, nursing and other health services to inpatients and the specialised accommodation services required by inpatients, by general hospitals and specialised hospitals (e.g. community and regional hospitals, hospitals of non-profit organisations, university hospitals, military-base and prison hospitals)
+The activities are chiefly directed to inpatients, are carried out under the direct supervision of medical doctors and include:
+activities of medical and paramedical staff
+activities of laboratory and technical facilities, including radiologic and anaesthesiologic activities
+emergency room activities
+provision of operating room services, pharmacy services, food and other hospital services
+activities of family planning centres providing medical treatment, e.g. sterilisation and
+termination of pregnancy, with accommodation
+This class also includes:
+- activities of mental health or psychiatric hospitals, providing diagnostic and medical treatment
+This class excludes:
+- laboratory testing and inspection of all types of materials and products, except medical laboratory testing, see 7120
+- veterinary activities, see 7500
+- health activities for military personnel in the field, see 8422
+- private consultants' services to inpatients, see 862
+- dental practice activities of a general or specialised nature, e.g. dentistry, endodontic and paediatric dentistry; oral pathology, orthodontic activities, see 8620
+- diagnostic imaging services and medical laboratory activities, not part of hospital activities see 8699
+- patient transportation by ambulance, see 8699

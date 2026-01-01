@@ -1,0 +1,23 @@
+C3220 Manufacture of musical instruments
+This class includes:
+- manufacture of string musical instruments
+- manufacture of keyboard stringed instruments, including automatic pianos
+- manufacture of keyboard pipe organs, harmoniums and similar keyboard instruments with free metal reeds
+- manufacture of accordions and similar instruments, including mouth organs
+- manufacture of wind instruments
+- manufacture of percussion musical instruments, e.g. drums, xylophones, cymbals, castanets, maracas
+- manufacture of musical instruments, the sound of which is produced, or must be amplified, electronically, e.g. digital pianos, synthesisers
+- manufacture of musical boxes, fairground organs, calliopes etc.
+- manufacture of instrument parts and accessories e.g.:
+metronomes, tuning forks, pitch pipes, cards, discs and rolls for automatic mechanical instruments
+etc.
+This class also includes:
+- manufacture of whistles, call horns and other mouth-blown sound signalling instruments
+This class excludes:
+- reproduction of pre-recorded sound and video tapes and discs, see 1820
+- manufacture of microphones, amplifiers, loudspeakers, headphones and similar components, see 265
+- manufacture of record players, tape recorders and the like, see 265
+- manufacture of toy musical instruments, see 3240
+- restoring of organs and other historic musical instruments, see 3319
+- publishing of pre-recorded sound and video tapes and discs, see 5920
+- piano tuning, see 9529

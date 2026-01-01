@@ -1,0 +1,19 @@
+C3315 Repair and maintenance of transport equipment, except motor vehicles
+This class includes the repair and maintenance of transport equipment of division 30, except motorcycles and bicycles.
+However, the factory rebuilding or overhaul of ships, locomotives, railroad cars and aircraft is classified in division 30.
+This class includes:
+- repair and routine maintenance of ships
+- repair and maintenance of pleasure boats
+- repair and maintenance of locomotives and railroad cars (except factory rebuilding or factory conversion)
+- repair and maintenance of aircraft (except factory conversion, factory overhaul, factory rebuilding)
+- repair and maintenance of aircraft engines
+- repair of animal drawn buggies and wagons
+This class excludes:
+- factory rebuilding of ships, see 3011
+- factory rebuilding of locomotives and railroad cars, see 3020
+- factory rebuilding of aircraft, see 3030
+- repair of ship or rail engines, see 3312
+- ship scaling, dismantling, see 3830
+- repair of bicycles and invalid carriages, see 9529
+- repair and maintenance of motor vehicles, see 9531
+- repair and maintenance of motorcycles, see 9532

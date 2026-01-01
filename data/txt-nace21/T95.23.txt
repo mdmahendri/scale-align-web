@@ -1,0 +1,6 @@
+T95.23 Repair and maintenance of footwear and leather goods
+This class includes the repair and maintenance of footwear and leather goods:
+- repair of boots, shoes, luggage, etc.
+- fitting of heels
+This class excludes:
+- activities of shoeshiners, see 96.99

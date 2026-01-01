@@ -1,0 +1,12 @@
+H52.24 Cargo handling
+This class includes:
+- loading and unloading of goods and luggage irrespective of the mode of transport used
+- stevedoring
+- loading and unloading of freight railway cars
+This class also includes:
+- rental and leasing of transtainers or luffing cranes, with an operator, for cargo handling activities
+- moving cargos on industrial sites, typically with transport equipment that is not suitable for use on roads open to public traffic
+This class excludes:
+- transport or moving of objects within an industrial plant, on a fee or contract basis, if a public road is used, see 49.41
+- operation of terminal facilities, see 52.21, 52.22, 52.23
+- intermediation service activities for freight transport, see 52.31

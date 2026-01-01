@@ -1,0 +1,15 @@
+C24.41 Precious metals production
+This class includes:
+- production of basic precious metals:
+production and refining of unwrought or wrought precious metals: gold, silver, platinum, etc., from ore and scrap
+- production of precious metal alloys
+- production of precious metal in semi-manufactured or in powder forms
+- cladding of base metals with a covering of silver, gold or platinum, affixed by soldering, brazing, welding, hot-rolling or similar mechanical means
+This class also includes:
+- manufacture of wire of precious metals by drawing
+- manufacture of precious metal plates, sheets, strips and foil laminates
+- silver recovery from waste and scrap by electrolytic refining
+- melting and casting of precious metal into ingots, blocks or similar forms
+This class excludes:
+- casting of copper, zinc and other non-ferrous metals, see 24.54
+- manufacture of precious metal jewellery, see 32.12

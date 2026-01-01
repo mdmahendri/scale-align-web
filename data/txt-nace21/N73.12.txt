@@ -1,0 +1,8 @@
+N73.12 Media representation
+This class includes:
+- media representation, i.e. sale or resale of time and space for various media soliciting advertising
+This class also includes:
+- sale of advertising space by intermediaries
+This class excludes:
+- public relations and communication activities, see 73.30
+- sale of advertising time or space directly by owners of the time or space (publishers, etc.), see the corresponding activity class

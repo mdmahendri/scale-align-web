@@ -1,0 +1,17 @@
+Q85.40 Tertiary education
+This class includes the furnishing of tertiary academic, professional and vocational courses and the granting of degrees at short-cycle, bachelors or equivalent level, masters or equivalent level, and doctoral level.
+This class includes education in public and private universities provided at the level of:
+- short-cycle studies, usually based on practical learning appropriate to the performance of a given profession and preparing students for entry into the labour market or other higher education programmes
+- first-cycle studies open to applicants with a secondary school leaving certificate and leading to a first-degree qualification
+- second-cycle studies open to applicants holding at least a first-cycle qualification and leading to a second-cycle qualification
+- comprehensive masters degree courses open to applicants holding a secondary school leaving certificate and leading to a second-cycle qualification
+- postgraduate studies open to applicants who have completed at least first-cycle studies and leading to a postgraduate qualification
+- third-cycle studies (training for doctoral students) open to applicants holding at least second-cycle studies and leading to a third-cycle qualification
+Education may be conducted as full-time or part-time studies.
+This class also includes:
+- short-cycle vocational education and training programmes at ISCED-P 2011 Level 5
+- higher vocational and professional education and training programmes at ISCED-P 2011 Level 6 and ISCED-P 2011 Level 7 (for example, those leading to master craftsmen qualifications)
+- education activities of performing arts schools providing tertiary education
+- adult or continuing education programmes equivalent in complexity of content to the education given in education activities already classified at this level
+This class excludes:
+- non-formal education and training, see 85.5

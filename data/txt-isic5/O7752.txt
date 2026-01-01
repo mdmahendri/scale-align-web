@@ -1,0 +1,10 @@
+O7752 Intermediation service activities for rental and leasing of other tangible goods and non-financial intangible assets
+This class includes the intermediation of the rental and leasing of other tangible goods and non-financial intangible assets, by bringing clients and service providers together for a fee or commission, without the intermediary providing the rental and leasing services that are intermediated.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (face-to-face including door-to-door, phone, mail, etc.).
+The fee or commission can be received from either the client or the provider of the rental and leasing service.
+Revenue for the intermediation activities can include other sources of income, such as revenues from advertising.
+This class includes:
+- providing intermediation between households that offer their goods for rental and households renting the goods, e.g. lawn movers, ladders, bicycles.
+This class excludes:
+-units that have ownership of the tangible goods and/or non-financial intangible asserts ultimately rented and leased. see 772 & 773
+- rental and leasing of personal and household goods and other equipment and tangible goods, see 772, 773

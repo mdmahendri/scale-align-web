@@ -1,0 +1,15 @@
+J5811 Publishing of books
+This class includes:
+- publishing of books, brochures and similar publications
+- publishing of dictionaries and encyclopaedias
+- publishing of atlases, maps and charts
+- publishing of e-books and audio books
+- publishing of comic books and graphic novels
+All the feasible forms of publishing (in print, electronic, digital, analog, or any other form) are included.
+This class excludes:
+- production of globes, see 3290
+- publishing of advertising material, see 5819
+- publishing of music and sheet music books, see 5920
+- jointly publishing and distributing podcasts, see 5920
+- third party on-demand audio streaming distribution services, see 6010
+- activities of independent authors, see 9011

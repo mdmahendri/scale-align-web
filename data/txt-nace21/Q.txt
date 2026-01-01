@@ -1,0 +1,19 @@
+Q EDUCATION
+This section includes education at any level or for any profession.
+The instructions may be oral or written and may be provided by radio, television, the internet or via correspondence.
+Education activities are those having an educational programme, a time frame and some evaluation of the knowledge achieved.
+This section includes formal initial education at its various levels provided by institutions in the regular school system designed for students as a continuous educational pathway before their first entrance into the labour market, as well as formal education outside the regular school system with programme content and qualifications that are equivalent to those of such initial education (adult education, literacy programmes, and so on).
+Also included are activities provided at their respective levels by military schools and academies, prison schools, and so on.
+This section includes compulsory and non-compulsory schooling, as well as public and private education.
+For each level of education, special education for physically or mentally disabled persons is included.
+Groups 85.1 to 85.4 take into account the formal education activities provided under the international classification of educational programmes (ISCED-P 2011 classification).
+The breakdown of the categories in this section is based on the level of education offered as defined by the levels of ISCED-P 2011*.
+The activities of educational institutions providing courses at ISCED-P 2011 Level 0 are classified in class 85.10, at ISCED-P 2011 Level 1 in class 85.20, at ISCED-P 2011 Level 2 category 24 and Level 3 category 34 in class 85.31, at ISCED-P 2011 2011 Level 2 category 25 and Level 3 category 35 in class 85.32, at ISCED-P 2011 Level 4 in class 85.33 and at ISCED-P 2011 Levels 5 to 8 in group 85.4.
+Educational institutions classified in groups 85.2 to 85.4 are authorised to certify successful completion of an educational programme, usually in the form of a document officially recognised by the relevant national education authorities.
+NOTE: * mappings between the levels of education and the name of the qualifications in national language can be found here https://europa.eu/!mDwYbG
+This section is also based on the distinction between formal and non-formal educational programmes provided by the European classification of learning activities (CLA).
+Thus, it also includes non-formal instruction primarily concerned with sports, arts and recreation education, and education support activities in groups 85.5 and 85.6.
+This section also includes education activities run by self-employed / own account / individual / independent lecturers (tutors, academics, instructors); such activities should be classified in group 85.5.
+This section also includes activities relating to administration, inspection, operation or support of schools and other institutions providing education as well as coordination of sports programmes.
+This section excludes:
+- child day-care activities, see 88.91

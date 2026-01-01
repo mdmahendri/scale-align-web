@@ -1,0 +1,40 @@
+N74.99 All other professional, scientific and technical activities n.e.c.
+This class includes a great variety of service activities generally delivered to commercial clients.
+It includes those activities for which more advanced professional, scientific and technical skill levels are required, but excludes ongoing, routine business functions that are generally of short duration.
+This class includes:
+- business brokerage activities, i.e. arranging for the purchase and sale of small and medium-sized businesses, including professional practices, but excluding real estate brokerage
+- appraisal activities other than for real estate and insurance (for antiques, jewellery, etc.)
+- bill auditing and freight rate information
+- weather forecasting activities
+- consulting in the area of occupational safety and health at the workplace
+- agronomy consulting services
+- environmental consulting activities
+- energy-saving advice activities
+- other technical consulting
+- activities of quantity surveyors
+This class also includes:
+- activities carried out by agents and agencies on behalf of individuals usually involving the obtaining of engagements in motion picture, theatrical production or other entertainment or sports attractions, as well as the placement of books, plays, artworks, photographs, etc., with publishers, producers, etc.
+- economic services for construction projects (e.g. by construction economists)
+- supervisory board activities
+- activities of planning and elaboration of projects in the area of hunting management
+- activities of estimation of the number of game animals
+This class excludes:
+- activities of auctioning houses (wholesale) and online auction activities (wholesale), see 46.1
+- activities of auctioning houses (retail sale) and online auction activities (retail sale), see 47.9
+- activities of real estate brokers, see 68.31
+- bookkeeping activities, see 69.20
+- activities of management consultants, see 70.20
+- activities of architecture and engineering consultants, see 71.1
+- environmental engineering activities, see 71.12
+- geodetic surveying activities, see 71.12
+- industrial and machinery design, see 71.12, 74.11
+- veterinary testing and control in relation to food production, see 71.20
+- display of advertisements and other advertising design, see 73.11
+- sales promotion service activities, see 73.11
+- patent brokerage activities, see 74.91
+- management services for rights to industrial property (patents, licences, trademarks, franchises, etc.), see 74.91
+- security consultants activities, see 80.09
+- activities of convention and trade show organisers, see 82.30
+- administration of loyalty programmes, see 82.99
+- consultation of medical doctors, see 86.2
+- consumer credit and debt counselling, see 88.99

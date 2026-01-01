@@ -1,0 +1,19 @@
+C2822 Manufacture of metal-forming machinery and machine tools
+This class includes:
+- manufacture of machine tools for working metals and other materials (wood, bone, stone, hard rubber, hard plastics, cold glass etc.), including those using a laser beam, ultrasonic waves, plasma arc, magnetic pulse etc.
+- manufacture of machine tools for turning, drilling, milling, shaping, planing, boring, grinding etc.
+- manufacture of stamping or pressing machine tools
+- manufacture of punch presses, hydraulic presses, hydraulic brakes, drop hammers, forging machines etc.
+- manufacture of draw-benches, thread rollers or machines for working wires
+- manufacture of stationary machines for nailing, stapling, glueing or otherwise assembling wood, cork, bone, hard rubber or plastics etc.
+- manufacture of stationary rotary or rotary percussion drills, filing machines, riveters, sheet metal cutters etc.
+- manufacture of presses for the manufacture of particle board and the like
+- manufacture of electroplating machinery
+This class also includes:
+- manufacture of parts and accessories for the machine tools listed above: work holders, dividing heads and other special attachments for machine tools
+This class excludes:
+- manufacture of interchangeable tools for hand tools or machine tools (drills, punches, dies, taps, milling cutters, turning tools, saw blades, cutting knives etc.), see 2593
+- manufacture of electric hand held soldering irons and soldering guns, see 2790
+- manufacture of power-driven hand tools, see 2818
+- manufacture of machinery used in metal mills or foundries, see 2823
+- manufacture of machinery for mining and quarrying, see 2824

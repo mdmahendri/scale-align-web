@@ -1,0 +1,14 @@
+B05.10 Mining of hard coal
+This class includes:
+- mining of hard coal: underground or surface mining, including mining through liquefaction methods
+- cleaning, sizing, grading, pulverising, compressing, etc. of coal to classify, improve quality or facilitate transport or storage
+This class also includes:
+- recovery of hard coal from culm banks
+This class excludes:
+- lignite mining, see 05.20
+- peat digging, see 08.92
+- support activities for hard coal mining, see 09.90
+- test drilling for coal mining, see 09.90
+- coke ovens producing solid fuels, see 19.10
+- manufacture of hard coal briquettes, ovoids and similar solid hard coal fuels, see 19.20
+- work performed to develop or prepare properties for coal mining, see 43.12

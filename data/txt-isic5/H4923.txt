@@ -1,0 +1,21 @@
+H4923 Freight transport by road
+This class includes:
+- all freight transport operations by road:
+logging haulage
+livestock haulage
+refrigerated haulage
+heavy haulage
+bulk haulage, including haulage in tanker trucks including milk collection at farms
+haulage of automobiles
+transport of waste and waste materials, without collection or disposal
+This class also includes:
+- furniture removal
+- renting of trucks with driver
+- freight transport by man or animal-drawn vehicles
+This class excludes:
+- log hauling within the forest, as part of logging operations, see 0240
+- distribution of water by trucks, see 3600
+- operation of terminal facilities for handling freight, see 5221
+- crating and packing services for transport, see 5229
+- post and courier activities, see 5310, 5320
+- waste transport as integrated part of waste collection activities, see 3811, 3812

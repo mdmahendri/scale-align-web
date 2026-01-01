@@ -1,0 +1,10 @@
+C24.53 Casting of light metals
+This class includes:
+- activities of foundries of light metal
+- manufacture of castings made of aluminium
+- manufacture of castings made of magnesium
+- manufacture of castings made of titanium
+This class also includes:
+- casting of dental implements, etc., of light metals
+This class excludes:
+- casting of metals not considered light metals, see 24.51, 24.52, 24.54

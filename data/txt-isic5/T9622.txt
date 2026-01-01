@@ -1,0 +1,4 @@
+T9622 Beauty care and other beauty treatment activities
+This class includes beauty treatment activities not performed by medical specialists, e.g. by cosmetologists such as: facial massage, manicure, pedicure, permanent make-up, depilations, tanning
+This class excludes:
+- cosmetic surgery activities performed by medical specialists, see 8620

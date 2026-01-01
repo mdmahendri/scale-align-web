@@ -1,0 +1,12 @@
+C22.25 Processing and finishing of plastic products
+This class includes general activities for the processing and finishing of plastic products, typically carried out on a fee or contract basis:
+- processing of plastics (e.g. by cutting, chamfering, turning, milling, drilling, threading by computer numerical control (CNC) or other machineries)
+- bending, gluing and welding of plastic materials
+- processing of plastic surfaces (e.g. by engraving, sandblasting, microblasting, polishing)
+- coating of plastic surfaces (e.g. painting, varnishing and metallisation of plastics)
+This class also includes:
+- cladding of metal pipes with plastics
+- welding of plastic tanks and pipes
+- metal coating of plastics
+This class excludes:
+- plastic coating of metal surfaces, see 25.51

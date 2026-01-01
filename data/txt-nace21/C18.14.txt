@@ -1,0 +1,7 @@
+C18.14 Binding and related services
+This class includes:
+- trade binding, sample mounting and post-press services in support of printing activities (e.g. trade binding and finishing of books, brochures, magazines, catalogues), by e.g. folding, cutting and trimming, assembling, stitching, thread sewing, adhesive binding, cutting and cover laying, gluing, collating, basting, gold stamping; spiral binding and plastic wire binding
+- binding and finishing of printed paper or printed cardboard, by folding, stamping, drilling, punching, perforating, embossing, sticking, gluing, laminating
+- finishing services for CD-ROMs
+- mailing finishing services (e.g. customisation, envelope preparation)
+- other finishing activities (e.g. die, sinking or stamping, Braille copying)

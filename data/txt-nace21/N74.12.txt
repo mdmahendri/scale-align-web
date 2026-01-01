@@ -1,0 +1,11 @@
+N74.12 Graphic design and visual communication activities
+This class includes:
+- activities of graphic designers
+- graphic design of web pages
+- activities of communication designers
+- activities specialised in the design of messages and information, taking into account the characteristics and needs of people, corporate objectives, market attractiveness and dissemination media
+- design and consulting in the content and external appearance of campaigns and communication content; conception and design of visual images (corporate design) and media of corporate communication; brand design and brand updating; determination of visual language (form, colour, typography of publications, didactic illustration of complex and abstract contexts)
+This class excludes:
+- design of computer-produced graphics for animations, see 59.11
+- designing the structure of web pages applying principles of software engineering, see 62.10
+- web design in combination with programming of web pages, see 62.10

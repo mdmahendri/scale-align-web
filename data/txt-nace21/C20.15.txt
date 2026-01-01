@@ -1,0 +1,15 @@
+C20.15 Manufacture of fertilisers and nitrogen compounds
+This class includes:
+- manufacture of fertilisers:
+straight or complex nitrogenous, phosphatic or potassic fertilisers
+urea, crude natural phosphates and crude natural potassium salts
+- manufacture of associated nitrogen products:
+nitric and sulphonitric acids, ammonia, ammonium chloride, ammonium carbonate, nitrites and nitrates of potassium
+This class also includes:
+- manufacture of potting soil mixtures of natural soil, peat, sand, clays and minerals, with nitrogen, phosphorus or potassium as an essential constituent
+- manufacture of other fertilisers by the mixing or chemical treatment of animal or vegetable products
+This class excludes:
+- mining of guano, see 08.91
+- manufacture of agrochemical products (e.g. pesticides), see 20.20
+- manufacture of liming agents, see 20.59
+- production of waste compost, see 38.21

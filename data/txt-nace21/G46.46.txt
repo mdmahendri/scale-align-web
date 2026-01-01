@@ -1,0 +1,12 @@
+G46.46 Wholesale of pharmaceutical and medical goods
+This class includes:
+- wholesale of pharmaceutical, medical and orthopaedic goods
+- wholesale of veterinary medicines
+- wholesale of corrective glasses, lenses and sunglasses
+- wholesale of medical and surgical instruments
+- wholesale of hospital equipment
+This class also includes:
+- wholesale of non-corrective sunglasses
+This class excludes:
+- wholesale of health foods and diet products, see 46.38
+- wholesale of furniture for medical facilities and hospitals, see 46.47

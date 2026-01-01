@@ -1,0 +1,15 @@
+K6110 Wired, wireless, and satellite telecommunication activities
+This class includes:
+- operating, maintaining or providing access to facilities for the transmission of voice, data, text, sound and video using wired, wireless or satellite telecommunications infrastructure, including:
+operating and maintaining switching and transmission facilities to provide point-to-point communications via landlines, microwave or a combination of landlines and satellite linkups
+operating of cable distribution systems (e.g. for distribution of data and television signals) with or without providing customers with third-party video-on-demand services
+provision of Internet access by the operator of the infrastructure
+maintaining and operating cellular and other wireless telecommunications networks ((including paging systems)
+delivery of visual, aural or textual programming received from cable networks, local television stations or radio networks to consumers via direct-to-home satellite systems or via Internet protocol TV (the units classified here do not generally originate programming material)
+Voice Over Internet Protocol (VOIP) provision by the operator of the infrastructure
+The transmission facilities that carry out these activities may be based on a single technology or a combination of technologies.
+This class excludes:
+- telecommunications reselling activities and intermediation service activities for telecommunication, see 6120
+- Voice Over Internet Protocol (VOIP) provision, without operating facilities for the transmission of data, see 6120
+- publishing of instant messaging or satellite geolocation applications, see 5829
+- installation of telecommunications, computer network and cable television wiring in buildings, including fibre optic wiring, without operating facilities for the transmission of data, see 4321

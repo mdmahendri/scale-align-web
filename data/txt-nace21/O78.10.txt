@@ -1,0 +1,12 @@
+O78.10 Activities of employment placement agencies
+This class includes listing employment vacancies and referring or placing applicants for employment where the individuals referred or placed are not employees of the employment agencies.
+This class includes:
+- personnel search, selection referral and placement activities, including executive search and placement activities
+- activities of casting agencies and bureaux (e.g. theatrical casting and model agencies)
+- activities of online employment placement agencies
+This class also includes:
+- activities of talent scouts
+This class excludes:
+- activities of invoicing services, see 69.20
+- activities of agents for individual artists, see 74.99
+- activities of agencies providing babysitters and au pairs for households, see 78.20

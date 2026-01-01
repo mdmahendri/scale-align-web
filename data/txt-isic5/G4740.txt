@@ -1,0 +1,18 @@
+G4740 Retail sale of information and communication equipment
+This class includes:
+- retail sale of computers
+- retail sale of computer peripheral equipment (e.g. printers, photocopiers, interactive whiteboards, videoconferencing equipment, etc.)
+- retail sale of video game consoles
+- retail sale of non-customised software, including video games, provided on physical media with right to perpetual use
+- retail sale of audio and video equipment
+- retail sale of radio and television equipment
+- retail sale of recordable media
+- retail sale of recording media players and recorders
+- retail sale of smartphones, mobile phones and telephones and their accessories (chargers, hands-free kits, protective film and case, .)
+This class excludes:
+- retail sale of photographic, optical and precision equipment, e.g. digital cameras, see 4773
+- second hand retail sale of information and communication equipment, see 4773
+- distribution of e-books and audio books via streaming and downloading by book publishers, see 5811
+- distribution via streaming and downloading by video game publishers, see 5821
+- distribution via streaming and downloading by audio publishers, see 5920
+- distribution via streaming and downloading by video/films publishers, see 5913 and 6020

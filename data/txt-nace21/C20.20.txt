@@ -1,0 +1,8 @@
+C20.20 Manufacture of pesticides, disinfectants and other agrochemical products
+This class includes:
+- manufacture of insecticides, rodenticides, fungicides, herbicides, acaricides, molluscicides, biocides
+- manufacture of anti-sprouting products, plant growth regulators
+- manufacture of disinfectants (for agricultural and other use)
+- manufacture of other agrochemical products n.e.c.
+This class excludes:
+- manufacture of fertilisers and nitrogen compounds, see 20.15

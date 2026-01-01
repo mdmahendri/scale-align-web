@@ -1,0 +1,30 @@
+G47 Retail trade
+This division includes the resale (sale without transformation or after minor alterations or usual handling, for example reconditioning) of new and used physical goods to the general public for personal or household consumption or use, by shops, department stores, consumer cooperative, stalls, mail order houses, the internet, door-to-door salespersons, hawkers, vending machines, and so on.
+This division includes the retail sale of new and used motor vehicles and motorcycles, including electric vehicles.
+The classification of retail sale activities is done based on traded goods and not according to the way of selling (in-store, online, via stalls and markets, and so on).
+Retail sale activities are divided into specialised retail sale activities (groups 47.2 to 47.8) and non-specialised retail sale activities (group 47.1).
+Retail sale includes the retail sale of second-hand goods (class 47.79).
+The above groups are further subdivided by the range of products sold.
+Activities of intermediation in retail sale, which facilitate transactions between buyers and sellers for the ordering and/or delivering of goods for a fee or commission, without taking ownership of the goods, are classified in group 47.9.
+All other retail sale activities, even if the retailer is acting on behalf of a third party, are classified in groups 47.1 to 47.8.
+The goods sold in this division are limited to goods usually referred to as consumer goods or retail goods.
+Therefore, goods not normally entering retail sale (for example, cereal grains, ores, industrial machinery) are excluded.
+Downloads (for example, books, videos) are also excluded.
+The rules for defining specialised and non-specialised retail sale activities are described in paragraphs xxxx of the introductory guidelines.
+This division also includes the retail sale of goods sold primarily to the general public from displayed merchandise (for example, personal computers, stationery, paint or timber), although these products may not be for personal or household use.
+Handling that is customary in trade does not affect the basic character of the merchandise and may include, for example, sorting, separating, mixing and packaging, delivery and installation of goods as well as sales promotion for their customers, if supplied by the same trader.
+This division also includes:
+- retail sale of automotive fuel and lubricating or cooling products
+- activities of retail auctioneering houses for both new and used third-party goods, including internet retail auctions
+- activities of units providing intermediation service activities for specialised or non-specialised retail sale (marketplaces) that facilitate transactions between buyers and sellers for the ordering and/or delivering of physical goods for a fee or commission, without taking ownership of the goods that are intermediated.
+These activities can be carried out on digital platforms or through non-digital channels (see group 47.9)
+- vending machines selling goods other than food and drinks
+- vending machines selling food and drinks prepared by the machine itself
+This division excludes:
+- sale of farmers products by farmers, see division 01
+- manufacture and sale of goods, which is generally classified as manufacturing in divisions 10 to 32
+- trade in cereal grains, ores, crude petroleum, industrial chemicals, iron and steel, and industrial machinery and equipment, see division 46
+- sale of food and drinks for consumption on the premises and sale of takeaway food, see division 56
+- the commerce of digital goods, streaming and downloading of contents on digital platforms (e.g. e-books, audio) are included in section J
+- rental and leasing of motor vehicles or motorcycles, see 77.1
+- rental and leasing of personal and household goods to the general public, see 77.2

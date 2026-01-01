@@ -1,0 +1,7 @@
+H49.39 Other passenger land transport n.e.c.
+This class includes:
+- bicycle taxi services
+- passenger road transport by vehicles drawn by humans or animals
+This class excludes:
+- patient transport by ambulance, see 86.92
+- transport of human remains, see 96.30

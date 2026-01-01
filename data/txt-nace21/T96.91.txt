@@ -1,0 +1,8 @@
+T96.91 Provision of domestic personal service activities
+This class includes the provision of a range of domestic personal service activities like cooking, washing, cleaning and ironing services, at home for households.
+When only one activity is performed it is classified according to this activity.
+This class excludes:
+- cleaning of buildings, see 81.21
+- home care services for older persons, including live-in care services, see 88.10
+- day-care activities for children provided in private homes or day-care centres, see 88.91
+- after-school care services, see 88.91

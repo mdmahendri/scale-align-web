@@ -1,0 +1,14 @@
+C29.32 Manufacture of other parts and accessories for motor vehicles
+This class includes:
+- manufacture of diverse parts and accessories for motor vehicles, e.g.:
+gearboxes, clutches, brakes, axles, road wheels, shock absorbers
+- manufacture of parts and accessories of bodies for motor vehicles, e.g.:
+bumpers, safety seat belts, safety airbags, rear-view mirrors
+- manufacture of car seats, including seats for babies and children
+- manufacture of air-conditioning machines for motor vehicles
+This class excludes:
+- manufacture of tyres, see 22.11
+- manufacture of rubber hoses and belts, and other rubber products, see 22.12
+- manufacture of pistons, piston rings and carburettors not for motor vehicles or motorcycles, see 28.11
+- manufacture of pumps for motor vehicles and engines, see 28.13
+- repair, maintenance and alteration of motor vehicles, see 95.31

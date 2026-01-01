@@ -1,0 +1,14 @@
+C2813 Manufacture of other pumps, compressors, taps and valves
+This class includes:
+- manufacture of air or vacuum pumps, air or other gas compressors
+- manufacture of pumps for liquids whether or not fitted with a measuring device
+- manufacture of pumps designed for fitting to internal combustion engines: oil, water and fuel pumps for motor vehicles etc.
+This class also includes:
+- manufacture of industrial taps and valves, including regulating valves and intake taps
+- manufacture of sanitary taps and valves
+- manufacture of heating taps and valves
+- manufacture of hand pumps
+This class excludes:
+- manufacture of valves of unhardened vulcanized rubber, glass or of ceramic materials, see 2219, 2310 or 2393
+- manufacture of hydraulic transmission equipment, see 2812
+- manufacture of inlet and exhaust valves of internal combustion engines, see 2811

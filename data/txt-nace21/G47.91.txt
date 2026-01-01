@@ -1,0 +1,9 @@
+G47.91 Intermediation service activities for non-specialised retail sale
+This class includes intermediation service activities for non-specialised retail sale that facilitate transactions between buyers and sellers for the ordering and/or delivering of physical goods for a fee or commission, without supplying and taking ownership of the goods that are intermediated.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (including face-to-face, door-to-door, telephone, mail, and so on).
+The fee or commission can be received from either the buyers or sellers.
+Revenue for intermediation service activities for non-specialised retail sale can include other sources of income (for example, revenues from the sale of advertising space).
+This class also includes:
+- activities of space rental, including staff, for the retail sale of second-hand goods
+This class excludes:
+- intermediation service activities for specialised retail sale, see 47.92

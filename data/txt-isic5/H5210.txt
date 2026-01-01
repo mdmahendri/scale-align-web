@@ -1,0 +1,21 @@
+H5210 Warehousing and storage
+This class includes:
+- operation of storage and warehouse facilities for all kinds of goods:
+operation of grain silos
+general merchandise warehouses
+refrigerated warehouses or cool stores
+storage tanks etc.
+- warehousing of furniture not part of a removal service
+This class also includes:
+- storage of goods in foreign trade zones
+- blast freezing associated with storage and warehousing
+- activity of storage of physical archives and paper files
+This class excludes:
+- storage of electricity, see 3513
+- storage of gaseous fuels for energy supply through a network, see 3520
+- storage of furniture as part of a removal service, see 4923
+- operation of parking facilities for motor vehicles and winter storage caravans, see 5221
+- storage of ships and boats, see 5222
+- storage of aircrafts, see 5223
+- operation of self storage facilities, see 6810
+- rental of vacant space, see 6810

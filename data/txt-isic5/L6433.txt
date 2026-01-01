@@ -1,0 +1,15 @@
+L6433 Activities of trust, estate and agency accounts
+This class includes legal entities, not acting as collective investment schemes, organised to pool securities, estates and other financial assets, without managing, on behalf of shareholders or beneficiaries.
+The portfolios are customised to achieve specific investment characteristics, e.g. diversification, risk, rate of return and price volatility.
+These entities earn interest, dividends and other property income, but have little or no employment and no revenue from the sale of services.
+This class includes:
+- trusts, estates or agency accounts, administered on behalf of the beneficiaries under the terms of a trust agreement, will or agency agreement
+- activities of trusts, estates and similar financial entities
+- activities of companies holding financial assets for individuals and families (family trusts)
+This class also includes:
+- - activities of shareholdings companies, not owning controlling levels of equity
+- venture companies where the only financing is by shares and no fee is received
+This class excludes:
+- raising funds by issuing shares or units and acting as collective investment schemes, see 6431 and 6432
+- carrying out securitisation transactions by issuing of financial instrument, see 6494
+- trust, estate and agency accounts, that earn revenue from the sale of goods or services, see ISIC class according to their principal activity

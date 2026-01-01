@@ -1,0 +1,18 @@
+C2814 Manufacture of bearings, gears, gearing and driving elements
+This class includes:
+- manufacture of ball and roller bearings and parts thereof
+- manufacture of mechanical power transmission equipment e.g.:
+transmission shafts including camshafts, crankshafts and cranks
+bearing housings and plain shaft bearings
+- manufacture of gears, gearing and gear boxes and other speed changers
+- manufacture of clutches and shaft couplings
+- manufacture of flywheels and pulleys
+- manufacture of articulated link chain
+- manufacture of power transmission chain
+This class excludes:
+- manufacture of other chain, see 2599
+- manufacture of hydraulic transmission equipment, see 2812
+- manufacture of hydrostatic transmissions, see 2812
+- manufacture of clutches for motor vehicles, see 2930
+- manufacture of gears, gear boxes and part thereof for motor vehicles, see 2930
+- manufacture of sub-assemblies of power transmission equipment which are suitable for use solely or principally with motor identifiable as parts of vehicles or aircraft, see divisions 29 and 30

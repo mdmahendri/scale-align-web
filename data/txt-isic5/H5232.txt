@@ -1,0 +1,19 @@
+H5232 Intermediation service activities for passenger transportation
+This class includes the intermediation of passenger transportation, by bringing clients and service providers together for a fee or commission, without the intermediary providing the passenger transportation services that are intermediated.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (face-to-face including door-to-door, phone, mail, etc.).
+The fee or commission can be received from either the client or the provider of the passenger transportation service.
+Revenue for the intermediation activities can include other sources of income, such as revenues from advertising.
+This class includes:
+- operation of on-line ridesharing platforms that allow passengers to book a ride
+- provision of intermediation services for the purchase of land, water or air transportation for passengers
+- brokerage of passenger seats in ships and aircrafts space
+- arrangement of carpools and van pools
+- arrangement of nonemergency medical transportation, without providing social assistance services
+This class includes also:
+- intermediation of transportation by taxi dispatch services, without providing the transport service themselves
+- reservation services for passenger transportation
+This class excludes:
+- taxi operation and other passenger road transport, see 4922
+- brokerage of freight transportation in ship and aircraft space, see 5231
+- operation of on-line platform activities that allow people to rent a vehicle (car, bike, scooter etc.) which they then drive, see 7751
+- units that provide reservation services alongside additional travel advice or expertise, see 7911

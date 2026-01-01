@@ -1,0 +1,20 @@
+P8411 General public administration activities
+This class includes:
+- executive and legislative administration of central, regional and local bodies
+- public general administration at national and regional level
+- administration and supervision of fiscal affairs:
+operation of taxation schemes
+duty/tax collection on goods and tax violation investigation
+customs administration
+- budget implementation and management of public funds and public debt:
+raising and receiving of money and control of their disbursement
+- administration of overall (civil) research and development policy and associated funds
+- administration and operation of overall economic and social planning and statistical services at the
+various levels of government
+This class excludes:
+- central banking, see 6411
+
+- administration of research and development policies intended to increase personal well-being and of associated funds, see 8412
+- administration of research and development policies intended to improve economic performance and competitiveness, see 8412
+- administration of defence-related research and development policies and of associated funds, see 8422
+- operation of government archives, see 9112

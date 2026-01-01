@@ -1,0 +1,15 @@
+B08.91 Mining of chemical and fertiliser minerals
+This class includes:
+- mining of natural phosphates and natural potassium salts
+- mining of native sulphur
+- extraction and preparation of pyrites and pyrrhotite, except roasting
+- mining of natural barium sulphate and carbonate (barytes and witherite), natural borates, natural magnesium sulphates (kieserite)
+- mining of earth colours, fluorspar and other minerals valued chiefly as a source of chemicals
+This class also includes:
+- guano mining
+- mining of medicinal mud
+- extraction processes to produce lithium from brine
+This class excludes:
+- extraction of salt, see 08.93
+- roasting of iron pyrites, see 20.13
+- manufacture of synthetic fertilisers and nitrogen compounds, see 20.15

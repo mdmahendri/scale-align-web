@@ -1,0 +1,12 @@
+N7410 Specialized design activities
+This class includes:
+- fashion design related to textiles, wearing apparel, shoes, jewelry, furniture and other interior decoration and other fashion goods as well as other personal or household goods
+- industrial design, carried out also through specialised software, i.e. creating and developing designs and specifications that optimize the use, value and appearance of products, including the determination of the materials, construction, mechanism, shape, colour and surface finishes of the product, taking into consideration human characteristics and needs, safety, market appeal and efficiency in production, distribution, use and maintenance
+- activities of graphic designers
+- activities of interior decorators
+This class excludes:
+- design of computer-produced graphics for animations, see 5912
+- design and programming of web pages, see 6219
+- architectural design, see 7110
+- engineering design, i.e. applying physical laws and principles of engineering in the design of machines, materials, instruments, structures, processes and systems, see 7110
+- theatrical stage-set design, see 9039

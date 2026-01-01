@@ -1,0 +1,21 @@
+C3020 Manufacture of railway locomotives and rolling stock
+This class includes:
+- manufacture of electric, diesel, steam and other rail locomotives
+- manufacture of self-propelled railway or tramway coaches, vans and trucks
+- manufacture of railway or tramway maintenance or service vehicles
+- manufacture of railway or tramway rolling stock, not self-propelled e.g.:
+passenger coaches, goods vans, tank wagons, self-discharging vans and wagons, workshop vans, crane vans, tenders
+- manufacture of specialised parts of railway or tramway locomotives or of rolling stock e.g.:
+bogies, axles, axle-boxes and wheels, brakes and parts of brakes; hooks and coupling devices, buffers and buffer parts; shock absorbers; wagon and locomotive frames; bodies; corridor connections etc.
+This class also includes:
+- manufacture of mining locomotives and mining rail cars
+- manufacture of mechanical and electromechanical signalling, safety and traffic control equipment, e.g. for railways, tramways, inland waterways, roads, parking facilities, airfields etc.
+- manufacture of railway car seats
+- manufacture of railway transport simulators
+This class excludes:
+- manufacture of unassembled rails, see 2410
+- manufacture of assembled railway or tramway track fixtures and fittings, see 2599
+- manufacture of electric motors not for motor vehicles, see 271
+- manufacture of electrical signaling, safety or traffic-control equipment for railways or tramways, see 2790
+- manufacture of engines and turbines, except motor vehicle, aircraft and cycle engines, see 2811
+- manufacture of marine engines, see 2811

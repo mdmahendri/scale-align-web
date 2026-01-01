@@ -1,0 +1,11 @@
+K6190 Other telecommunication activities
+This class includes:
+- provision of specialised telecommunications applications, such as satellite tracking, communications telemetry, and radar station operations
+- operation of satellite terminal stations and associated facilities operationally connected with one or more terrestrial communications systems and capable of transmitting telecommunications to or receiving telecommunications from satellite systems
+- Voice Over Internet Protocol (VOIP)
+- text messaging (SMS), advanced data services (SMS+, MMS+) and SMS push services provision, without operating facilities for the transmission of data
+This class also includes
+- - provision of notification services (e.g. SMS bank alert or advertising)
+This class excludes:
+- provision of Internet access by operators of telecommunications infrastructure, see 6110
+- reselling of telecommunications services and intermediation services for telecommunications, see 6120

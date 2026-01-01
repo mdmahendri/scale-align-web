@@ -1,0 +1,7 @@
+C1074 Manufacture of macaroni, noodles, couscous and similar farinaceous products
+This class includes:
+- manufacture of pastas such as macaroni and noodles, whether or not cooked or stuffed
+- manufacture of semolina (couscous).
+This class excludes:
+- manufacture of prepared meals and dishes based on pasta and of couscous dishes, see 1075
+- manufacture of soup containing pasta, see 1079

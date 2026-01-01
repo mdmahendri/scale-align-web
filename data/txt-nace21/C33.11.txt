@@ -1,0 +1,19 @@
+C33.11 Repair and maintenance of fabricated metal products
+This class includes the repair and maintenance of fabricated metal products of division 25.
+This class includes:
+- repair of metal tanks, reservoirs and containers
+- repair and maintenance for pipes and pipelines
+- mobile welding repair
+- repair of steel shipping drums
+- repair and maintenance of steam or other vapour generators
+- repair and maintenance of auxiliary plant for use with steam generators:
+condensers, economisers, superheaters, steam collectors and accumulators
+- repair and maintenance of nuclear reactors, except isotope separators
+- repair and maintenance of parts for marine or power boilers
+- plate work repair of central heating boilers and radiators
+- repair and maintenance of firearms and ordnance, including repair of sporting and recreational guns
+This class excludes:
+- sharpening of blades and saws, see 33.12
+- repair and maintenance of shopping carts, see 33.17
+- repair of central heating systems, etc., see 43.22
+- repair of mechanical locking devices, safes, etc., see 80.09

@@ -1,0 +1,9 @@
+A0240 Support services to forestry
+This class includes carrying out part of the forestry operation on a fee or contract basis.
+This class includes:
+- forestry service activities: forestry inventories forest management consulting services timber evaluation forest fire prevention forest pest control
+- logging service activities: transport of logs within the forest.
+This class excludes:
+- operation of forest tree nurseries, see 0210
+- draining of forestry land, see 4312
+- clearing of building sites, see 4312

@@ -1,0 +1,21 @@
+C26.52 Manufacture of watches and clocks
+This class includes the manufacture of watches, clocks and timing mechanisms, and parts thereof.
+This class includes:
+- manufacture of watches and clocks of all kinds, including instrument panel clocks
+- manufacture of watch and clock cases, including cases of precious metals
+- manufacture of time-recording equipment and equipment for measuring, recording and otherwise displaying intervals of time with a watch or clock movement or with synchronous motor, e.g.:
+parking meters
+time clocks
+time/date stamps
+process timers
+- manufacture of time switches and other releases with a watch or clock movement or with synchronous motor:
+time locks
+- manufacture of components for clocks and watches, e.g.:
+movements of all kinds for watches and clocks
+springs, jewels, dials, hands, plates, bridges and other parts
+watch and clock cases and housings of all materials
+This class excludes:
+- manufacture of non-metallic watch bands (e.g. fabric, leather, plastic), see 15.12
+- manufacture of smartwatches, see 26.30
+- manufacture of watch bands of precious metal, see 32.12
+- manufacture of watch bands of non-precious metal, see 32.13

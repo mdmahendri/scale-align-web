@@ -1,0 +1,12 @@
+T96.30 Funeral and related activities
+This class includes:
+- burial and incineration of human or animal corpses and related activities:
+preparing the dead for burial or cremation; embalming and morticians services
+providing burial or cremation services
+rental of equipped space in funeral parlours
+- rental or sale of graves
+- maintenance of graves and mausoleums
+- transport of human remains
+This class excludes:
+- cemetery gardening, see 81.30
+- religious funeral service activities, see 94.91

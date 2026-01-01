@@ -1,0 +1,10 @@
+L643 Activities of trusts, funds and similar financial entities
+This group includes legal entities organized to pool securities or other financial assets, without managing, on behalf of shareholders or beneficiaries.
+The portfolios are customized to achieve specific investment characteristics, such as diversification, risk, rate of return and price volatility.
+These entities earn interest, dividends and other property income, but have little or no employment and no revenue from the sale of services
+This class includes:
+- open-end investment funds
+- closed-end investment funds
+- trusts, estates or agency accounts, administered on behalf of the beneficiaries under the terms of a trust agreement, will or agency agreement
+- unit investment trust funds
+Funds and trusts that earn revenue from the sale of goods or services are therefore classified according to their principal activity in other parts of ISIC (like in division 66 for fund management, division 68 for renting and operating of real estate or in division 77 for renting and leasing of ships or airplanes).

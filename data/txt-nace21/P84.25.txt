@@ -1,0 +1,10 @@
+P84.25 Fire service activities
+This class includes:
+- firefighting activities:
+administration and operation of regular and auxiliary fire brigades in fire prevention, firefighting, the rescue of persons and animals, assistance in civic disasters, floods, road accidents, etc., including firefighting by units on a contract or fee basis
+- activities of beach supervisors, i.e. lifeguards
+- activities of rescue operations on open water and in mountains
+This class excludes:
+- fire-protection and firefighting services for forestry, see 02.40
+- firefighting services and fire-prevention services for oilfields and gas fields, see 09.10
+- firefighting and fire-prevention activities at airports, see 52.23

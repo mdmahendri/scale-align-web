@@ -1,0 +1,18 @@
+G47.78 Retail sale of other new goods
+This class includes:
+- retail sale of photographic and precision equipment
+- retail sale of optical equipment, excluding spectacles and lenses (e.g. telescopes, microscopes, binoculars)
+- retail sale of household fuel oil, bottled gas, coal and fuelwood, pellets of wood or biomass
+- retail sale of packaging articles
+- retail sale of funeral and cemetery articles (e.g. urns, tombstones)
+- retail sale of imitation jewellery
+- retail sale of cleaning products (e.g. detergents, sponges)
+- retail sale of souvenirs, craftwork and religious articles
+- retail sale of non-food products n.e.c.
+This class also includes:
+- retail sale of artificial flowers and plants
+This class excludes:
+- retail sale of fishing gear, see 47.63
+- retail sale of weapons and ammunition, see 47.63
+- retail sale of stamps and coins, see 47.69
+- retail sale of glasses and lenses, see 47.74

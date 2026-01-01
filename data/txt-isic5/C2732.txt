@@ -1,0 +1,8 @@
+C2732 Manufacture of other electronic and electric wires and cables
+This class includes:
+- manufacture of insulated wire and cable, made of steel, copper, aluminium
+- manufacture of computer cables, printer cables, USB cables, not fitted with connectors
+This class excludes:
+- manufacture (drawing) of steel and metal wire without insulation, see 2410, 2420
+- manufacture of electrical cord sets with insulated wire and connectors, see 2790
+- manufacture of cable sets, wiring harnesses and similar cable sets or assemblies for automotive applications, see 2930

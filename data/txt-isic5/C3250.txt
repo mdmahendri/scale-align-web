@@ -1,0 +1,37 @@
+C3250 Manufacture of medical and dental instruments and supplies
+This class includes the manufacture of laboratory apparatus, surgical and medical instruments, surgical appliances and supplies, dental equipment and supplies, orthodontic goods, dentures and orthodontic appliances.
+Included is the manufacture of medical, dental and similar furniture, where the additional specific functions determine the purpose of the product, e.g. dentist's chairs with built-in hydraulic functions.
+This class includes:
+- manufacture of surgical drapes and sterile yarns and tissue
+- manufacture of individual protective masks e.g. FFP2, FFP3, surgical masks
+- manufacture of dental fillings and cements (except denture adhesives), dental wax and other dental plaster preparations
+- manufacture of bone reconstruction cements
+- manufacture of dental laboratory furnaces
+- manufacture of laboratory ultrasonic cleaning machinery
+- manufacture of medical, surgical or laboratory sterilisers
+- manufacture of laboratory type centrifuges
+- manufacture of medical, surgical, dental or veterinary furniture, e.g.:
+operating tables
+examination tables
+hospital beds with mechanical fittings
+dentists' chairs
+- manufacture of articles specially designed for use exclusively in implants in medical, surgical, dental or veterinary sciences, e.g. plates which remain permanently in the body, for example, to replace part or the whole of a bone
+- manufacture of syringes, needles, catheters, cannulae, etc.
+- manufacture of dental instruments and appliances
+- manufacture of artificial teeth and dental fittings
+- manufacture of orthopaedic and prosthetic devices
+- manufacture of glass eyes
+- manufacture of medical thermometers
+- manufacture of ophthalmic goods, eyeglasses, sunglasses, lenses ground to prescription, contact lenses, safety goggles
+- manufacture of orthopaedic shoes made to measure orthopaedic footwear and special insoles for correcting orthopaedic conditions
+This class includes also:
+- manufacturing of electromechanical appliances for skin treatment
+- manufacture of professional massage chairs
+This class excludes:
+- manufacture of special series-produced shoes supporting the arch of the foot, see 1520
+- manufacture of denture fixative pastes and powders, see 2023
+- manufacture of wadding, gauze, bandages and similar articles, e.g. dressings, adhesive plasters, poultices, impregnated or coated with pharmaceutical substances, see 2100
+- manufacture of electromedical and electrotherapeutic apparatus, see 267
+- manufacture of hearing aids, see 267
+- manufacture of wheelchairs, see 3092
+- activities of opticians, see 4772

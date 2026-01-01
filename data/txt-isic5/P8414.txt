@@ -1,0 +1,23 @@
+P8414 Regulation of and contribution to more efficient operation of businesses
+This class includes:
+- public administration and regulation, including subsidy allocation, for different economic sectors, e.g.:
+agriculture
+land use
+energy and mining resources
+infrastructure
+transport
+communication
+hotels and tourism
+wholesale and retail trade
+- administration of research and development policies and associated funds to improve economic
+performance
+- administration of general labour affairs
+- implementation of regional development policy measures, e.g. to reduce unemployment
+This class also includes:
+- activities of the national cybersecurity agencies
+- financial regulation relating to the conduct of business and consumer protection and other wider financial regulatory activities
+This class excludes:
+- activities of the financial supervisory authority by the central bank, see 6411
+- financial supervisory authority of financial service activities except insurance and pending funding (not by the central bank), see 6611
+- financial supervisory authority of insurance and pension funding (not by the central bank), see 6629
+- research and experimental development activities, see division 72

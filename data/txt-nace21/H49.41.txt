@@ -1,0 +1,28 @@
+H49.41 Freight transport by road
+This class includes:
+- all freight transport operations by road:
+logging haulage
+livestock haulage
+refrigerated haulage
+heavy haulage
+bulk haulage, including haulage in tanker trucks, including milk collection at farms
+haulage of automobiles
+transport of waste and waste materials, without collection or disposal
+- road transport of freight, on behalf of postal or courier units, without carrying out any other post or courier activities
+- road transport of objects between different units (e.g. buildings, storage units, on a fee or contract basis)
+This class also includes:
+- rental of freight vehicles with a driver
+- freight road transport by vehicles drawn by humans or animals
+- rental of concrete mixer lorries with a driver
+- delivery of furniture, can include unpacking and installation
+This class excludes:
+- log hauling within the forest, as part of logging operations, see 02.40
+- distribution of water by trucks, see 36.00
+- waste transport as an integrated part of waste collection activities, see 38.11, 38.12
+- removal services, see 49.42
+- operation of terminal facilities for handling freight, see 52.2
+- crating and packing activities for transport, see 52.2
+- moving cargos on industrial sites, typically with transport equipment that is not suitable for use on roads open to public traffic, see 52.24
+- pickup of goods and grouping for shipping, see 52.25
+- post and courier activities, see 53.10, 53.20
+- transport by armoured car service activities, see 80.01

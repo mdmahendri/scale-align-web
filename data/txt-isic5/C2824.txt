@@ -1,0 +1,19 @@
+C2824 Manufacture of machinery for mining, quarrying and construction
+This class includes:
+- manufacture of continuous-action elevators and conveyors for goods and materials, for underground use
+- manufacture of boring, cutting or sinking machinery for boring earth or extracting minerals or ores or of coal or rock cutters and tunnelling machinery
+- manufacture of machinery for treating minerals by screening, sorting, separating, washing, crushing, grinding, mixing or kneading earth, stone, ores or other mineral substances, in solid (including powder or paste) form
+- manufacture of concrete and mortar mixers
+- manufacture of earth-moving machinery:
+bulldozers, angle-dozers, graders, scrapers, levellers, mechanical shovels, shovel loaders etc.
+- manufacture of pile drivers and pile extractors, mortar spreaders, bitumen spreaders, concrete surfacing machinery etc.
+- manufacture of machines for mixing mineral substances with bitumen
+- manufacture of track laying excavators
+- manufacture of bulldozer and angle-dozer blades
+- manufacture of off-road dumping trucks
+- manufacture of snow-ploughs and snow-blowers
+This class excludes:
+- manufacture of lifting and handling equipment, see 2816
+- manufacture of other tractors, see 2821, 2910
+- manufacture of machine tools for working stone, including machines for splitting or clearing stone, see 2822
+- manufacture of concrete-mixer lorries, see 2920

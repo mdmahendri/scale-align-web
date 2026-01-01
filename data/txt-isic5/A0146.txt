@@ -1,0 +1,10 @@
+A0146 Raising of poultry
+This class includes:
+- raising and breeding of poultry: chickens, turkeys, ducks, geese, quails and guinea fowls
+- production of eggs from poultry
+- operation of poultry hatcheries .
+This class includes also:
+- raising and breeding of quails
+- production of quail eggs.
+This class excludes:
+- production of feathers or down, see 1010

@@ -1,0 +1,30 @@
+C2710 Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus
+This class includes the manufacture of power, distribution and specialty transformers; electric motors, generators and motor generator sets; switchgear and switchboard apparatus; relays and industrial controls.
+The electrical equipment manufactured in this class is for distribution level voltages.
+This class includes:
+- manufacture of distribution transformers, electric
+- manufacture of arc-welding transformers
+- manufacture of fluorescent ballasts (i.e. transformers)
+- manufacture of substation transformers for electric power distribution
+- manufacture of transmission and distribution voltage regulators
+- manufacture of electric motors (except internal combustion engine starting motors)
+- manufacture of power generators (except battery charging alternators for internal combustion engines)
+- manufacture of motor generator sets (except turbine generator set units)
+- manufacture of prime mover generator sets
+- rewinding of armatures on a factory basis
+- manufacture of power circuit breakers
+- manufacture of surge suppressors (for distribution level voltage)
+- manufacture of control panels for electric power distribution
+- manufacture of electrical relays
+- manufacture of duct for electrical switchboard apparatus
+- manufacture of electric fuses
+- manufacture of power switching equipment
+- manufacture of electric power switches (except pushbutton, snap, solenoid, tumbler)
+This class excludes:
+- manufacture of electronic component-type transformers and switches, see 2619
+- manufacture of environmental controls and industrial process control instruments, see 2651
+- manufacture of switches for electrical circuits, such as pushbutton and snap switches, see 2733
+- manufacture of electric welding and soldering equipment, see 2790
+- manufacture of solid state inverters, rectifiers and converters, see 2790
+- manufacture of turbine-generator sets, see 2811
+- manufacture of starting motors and generators for internal combustion engines, see 2930

@@ -1,0 +1,7 @@
+O81.2 Cleaning activities
+This group includes general, specialised and other cleaning activities.
+The difference between them is not based on the type of customers served, but on the type of cleaning.
+This group includes the activities of general interior cleaning of all types of buildings, the exterior cleaning of buildings, specialised cleaning activities for buildings or other specialised cleaning activities, cleaning of industrial machinery, cleaning of the inside of road and sea tankers, disinfecting and extermination activities for buildings and industrial machinery, bottle cleaning, street sweeping, snow and ice removal.
+This group excludes:
+- agricultural pest control, see 01.61
+- carpet and rug shampooing, drapery and curtain cleaning, see 96.10

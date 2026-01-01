@@ -1,0 +1,12 @@
+C24.20 Manufacture of tubes, pipes, hollow profiles and related fittings, of steel
+This class includes:
+- manufacture of seamless tubes and pipes of circular or non-circular cross section and of blanks of circular cross section, for further processing, by hot rolling, hot extrusion or by other hot processes of an intermediate product, which can be a bar or a billet obtained by hot rolling or continuous casting
+- manufacture of precision and non-precision seamless tubes and pipes from hot-rolled or hot-extruded blanks by further processing, by cold drawing or cold rolling of tubes and pipes of circular cross section and by cold drawing only for tubes and pipes of non-circular cross section and hollow profiles
+- manufacture of welded tubes and pipes of an external diameter exceeding 406,4 mm, cold formed from hot-rolled flat products and longitudinally or spirally welded
+- manufacture of welded tubes and pipes of an external diameter of 406,4 mm or less of circular cross section by continuous cold or hot forming of hot- or cold-rolled flat products and longitudinally or spirally welded and of non-circular cross section by hot or cold forming into shape from hot- or cold-rolled strip longitudinally welded
+- manufacture of welded precision tubes and pipes of an external diameter of 406,4 mm or less by hot or cold forming of hot- or cold-rolled strip and longitudinally welded delivered as welded or further processed, by cold drawing or cold rolling or cold formed into shape for tube and pipe of non-circular cross section
+- manufacture of flat flanges and flanges with forged collars by processing of hot-rolled flat products of steel
+- manufacture of butt-welding fittings (e.g. elbows and reductions), by forging of hot-rolled seamless tubes of steel
+- threaded and other tube or pipe fittings of steel
+This class excludes:
+- manufacture of seamless tubes and pipes of steel by centrifugally casting, see 24.52

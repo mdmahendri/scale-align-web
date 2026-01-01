@@ -1,0 +1,3 @@
+L6622 Activities of insurance agents and brokers
+This class includes:
+- activities of insurance agents and brokers (insurance intermediaries) in selling, negotiating or soliciting of annuities and insurance and reinsurance policies

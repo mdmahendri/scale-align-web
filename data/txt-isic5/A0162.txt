@@ -1,0 +1,12 @@
+A0162 Support activities for animal production
+This class includes:
+- Animal production activities on a fee or contract basis: activities to promote propagation, growth and output of animals herd testing services, droving services, agistment services, poultry caponising, coop cleaning etc. activities related to artificial insemination stud services sheep shearing farm animal boarding and care automated egg hatching for poultry .
+This class also includes:
+- activities of farriers.
+This class excludes:
+- provision of space for animal boarding only, see 6810
+- agricultural research activities, see 7210
+- veterinary activities, see 7500
+- vaccination of animals, see 7500
+- rental of animals (e.g. herds), see 7730
+- pet boarding, see 9690

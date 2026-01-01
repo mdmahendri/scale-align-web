@@ -1,0 +1,9 @@
+K63 Computing infrastructure, data processing, hosting and other information service activities
+This division includes the provision of computing infrastructure, data processing and hosting activities, as well as activities of web search portals and other activities that primarily supply information.
+This division excludes:
+- software publishing, see division 58
+- news agency activities and provision of online gaming / video game sites, not associated with publishing, see division 60
+- telecommunication activities, see division 61
+- computer programming, computer systems design and computer facilities management activities, see division 62
+- activities of gambling sites, see 92.00
+- repair and maintenance of computers and communication equipment, see 95.10

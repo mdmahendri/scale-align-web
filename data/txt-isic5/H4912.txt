@@ -1,0 +1,11 @@
+H4912 Freight rail transport
+This class includes:
+- freight transport on mainline rail networks as well as short line freight railroads
+This class includes also
+- freight transport by funiculars
+- traction services provided over a long distance
+This class excludes:
+- warehousing and storage, see 5210
+- freight terminal activities, see 5221
+- operation of railroad infrastructure; related activities such as switching and shunting, see 5221
+- cargo handling on behalf of others, see 5224

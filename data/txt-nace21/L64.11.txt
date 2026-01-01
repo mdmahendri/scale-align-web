@@ -1,0 +1,16 @@
+L64.11 Central banking
+This class includes:
+- issuing and managing banknotes and digital currency
+- conducting monetary policy, including monitoring and control of the money supply
+- promoting financial stability
+- taking deposits that are used for clearance between monetary intermediaries
+- supervising banking or non-banking monetary operations, unless performed by some other entity
+- holding the countrys international reserves
+- acting as banker to the government
+This class also includes:
+- activities of central banks, currency boards and central monetary agencies
+This class excludes:
+- operation and supervision of financial markets other than by central banks and public authorities, see 66.11
+- financial supervisory activities for insurance and pension funding (not by the central bank), see 66.29
+- financial regulation relating to the conduct of business and consumer protection and other wider financial regulatory activities, see 84.13
+- activities of international organisations (e.g. the World Bank), see 99.00

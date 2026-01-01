@@ -1,0 +1,11 @@
+C29.31 Manufacture of electrical and electronic equipment for motor vehicles
+This class includes:
+- manufacture of motor vehicle electrical equipment (e.g. starter motors, generators, alternators, spark plugs, insulated ignition wiring sets, power window and door systems, assembly of purchased gauges into instrument panels, voltage regulators)
+- manufacture of (electromagnetic) clutches for motor vehicles
+This class also includes:
+- manufacture of inverter modules and fuel cells for cars
+- manufacture of cable sets, insulated wiring sets and similar cable sets or assemblies for automotive applications
+This class excludes:
+- manufacture of batteries for vehicles, see 27.20
+- manufacture of lighting equipment for motor vehicles, see 27.40
+- manufacture of pumps for motor vehicles and engines, see 28.13

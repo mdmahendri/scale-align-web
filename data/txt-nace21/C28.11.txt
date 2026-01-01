@@ -1,0 +1,26 @@
+C28.11 Manufacture of engines and turbines, except aircraft, vehicle and cycle engines
+This class includes:
+- manufacture of internal combustion piston engines, except for motor vehicle, aircraft and motorcycle propulsion engines:
+marine engines
+railway engines
+- manufacture of parts suitable for use solely or principally within internal combustion engines (e.g. pistons, piston rings, carburettors and such, except for motor vehicles)
+- manufacture of inlet and exhaust valves of internal combustion engines
+- manufacture of turbines and parts thereof:
+steam turbines and other vapour turbines
+hydraulic turbines, waterwheels and regulators thereof
+wind turbines and mills
+gas turbines, except turbojets or turbopropellers for aircraft propulsion
+- manufacture of boiler turbine sets
+- manufacture of turbine generator sets, consisting of a turbine and a generator mounted together
+- manufacture of engines for industrial application
+- factory overhaul of ship and boat engines
+This class excludes:
+- manufacture of electric generators (except turbine generator sets), see 27.11
+- manufacture of prime mover generator sets (except turbine generator sets), see 27.11
+- manufacture of parts of motor vehicles combustion engines, see 29.10
+- manufacture of electrical equipment and components of internal combustion piston engines for motor vehicles, see 29.3
+- manufacture of pistons, piston rings and carburettors for motor vehicles, see 29.32
+- manufacture of internal combustion piston engines for aircraft, see 30.3
+- manufacture of aircraft engines, turbojets and turbopropellers, see 30.31, 30.32
+- manufacture of motorcycle propulsion engines, see 30.91
+- manufacture of pistons, piston rings and carburettors for motorcycles, see 30.91

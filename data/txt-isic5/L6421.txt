@@ -1,0 +1,8 @@
+L6421 Activities of holding companies
+This class includes the activities of holding companies, i.e. units that hold the assets (owning controlling-levels of equity) of one or more subsidiaries and whose only purpose is owning subsidiaries.
+The holding companies in this class do not provide any other service to the enterprises in which the equity is held, i.e. they do not administer or manage other units.
+This class excludes:
+- dealing in financial markets on own account, see 6499
+- activities of asset management on a fee or contract basis, 6630
+- provision of managerial services, e.g. strategic planning, decision making and administrative services of a head office, see 7010
+- active management of companies and enterprises, strategic planning and decision making of the company, see 7010

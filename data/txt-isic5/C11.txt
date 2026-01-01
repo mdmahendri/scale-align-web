@@ -1,0 +1,7 @@
+C11 Manufacture of beverages
+This division includes the manufacture of beverages, such as non-alcoholic beverages and mineral water, manufacture of alcoholic beverages mainly through fermentation, beer and wine, and the manufacture of distilled alcoholic beverages.
+This division also includes the manufacture of malt.
+This division excludes:
+- manufacture of fruit and vegetable juices, see 1030
+- manufacture of milk-based drinks, see 1050
+- manufacture of coffee, tea and mate products, see 1076

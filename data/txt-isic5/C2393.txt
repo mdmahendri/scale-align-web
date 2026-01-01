@@ -1,0 +1,21 @@
+C2393 Manufacture of other porcelain and ceramic products
+This class includes ceramic household and ornamental articles, ceramic sanitary fixtures, technical ceramic products (such as insulators, insulating fittings and permanent magnets), and other ceramic products.
+It includes:
+- manufacture of ceramic tableware and other domestic or toilet articles
+- manufacture of statuettes and other ornamental ceramic articles
+- manufacture of ceramic sanitary fixtures
+- manufacture of electrical insulators and insulating fittings of ceramics
+- manufacture of ceramic and ferrite magnets
+- manufacture of ceramic laboratory, chemical and industrial products
+- manufacture of ceramic pots, jars and similar articles of a kind used for conveyance or packing of goods
+- manufacture of ceramic furniture
+- manufacture of ceramic products n.e.c.
+This class excludes:
+- manufacture of artificial stone (e.g. cultured marble), see 2220
+- manufacture of refractory ceramic goods, see 2391
+- manufacture of ceramic building materials, see 2392
+- manufacture of ceramic sanitary fixtures, see 2392
+- manufacture of permanent metallic magnets, see 2599
+- manufacture of imitation jewellery, see 3212
+- manufacture of ceramic toys, see 3240
+- manufacture of artificial teeth, see 3250

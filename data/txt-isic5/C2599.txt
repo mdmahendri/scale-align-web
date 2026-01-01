@@ -1,0 +1,49 @@
+C2599 Manufacture of other fabricated metal products n.e.c.
+This class includes:
+- manufacture of pails, cans, drums, buckets, boxes
+- manufacture of tins and cans for food products, collapsible tubes and boxes
+- manufacture of metallic closures
+- manufacture of metal cable, plaited bands and similar articles
+- manufacture of uninsulated metal cable or insulated cable not capable of being used as a conductor of electricity
+- manufacture of articles made of wire: barbed wire, wire fencing, grill, netting, cloth etc.
+- manufacture of nails and pins
+- manufacture of rivets, washers and similar non-threaded products
+- manufacture of screw machine products
+- manufacture of bolts, screws, nuts and similar threaded products
+- manufacture of springs (except watch springs):
+* leaf springs, helical springs, torsion bar springs
+* leaves for springs
+- manufacture of chain, except power transmission chain
+- manufacture of metal household articles:
+* flatware: plates, saucers etc.
+* hollowware: pots, kettles etc.
+* dinnerware: bowls, platters etc.
+* saucepans, frying pans and other non-electrical utensils for use at the table or in the kitchen
+* small hand-operated kitchen appliances and accessories
+* metal scouring pads
+- manufacture of baths, sinks, washbasins and similar articles
+- manufacture of metal goods for office use, except furniture
+- manufacture of safes, strongboxes, armoured doors etc.
+- manufacture of various metal articles:
+* ship propellers and blades thereof
+* anchors
+* bells
+* assembled railway track fixtures
+* clasps, buckles, hooks
+- manufacture of foil bags
+- manufacture of permanent metallic magnets
+- manufacture of metal vacuum jugs and bottles
+- manufacture of metal signs (non-electrical)
+- manufacture of metal badges and metal military insignia
+- manufacture of metal hair curlers, metal umbrella handles and frames, combs
+This class excludes:
+- manufacture of ceramic and ferrite magnets, see 2393
+- manufacture of tanks and reservoirs, see 2512
+- manufacture of swords, bayonets, see 2593
+- manufacture of clock or watch springs, see 2652
+- manufacture of wire and cable for electricity transmission, see 2732
+- manufacture of power transmission chain, see 2814
+- manufacture of shopping carts, see 3099
+- manufacture of metal furniture, see 3102
+- manufacture of sports goods, see 3230
+- manufacture of games and toys, see 3240

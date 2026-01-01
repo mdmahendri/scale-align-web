@@ -1,0 +1,16 @@
+J60.10 Radio broadcasting and audio distribution activities
+This class includes:
+- broadcasting audio signals through radio broadcasting studios and facilities for the transmission of aural programming to the public, to affiliates or to subscribers
+- on-demand audio streaming and download services by third-party distributors with distribution rights
+- broadcasting live podcasts
+This class also includes:
+- activities of radio networks, i.e. assembling and transmitting aural programming to the affiliates or subscribers via over-the-air broadcasts, cable or satellite
+- radio broadcasting activities over the internet (internet radio stations)
+- radio programme broadcasting and concurrent filming for video broadcast
+This class excludes:
+- wholesale of audio recordings on physical media, see 46.49
+- retail sale of audio recordings on physical media, see 47.69
+- publishing of audiobooks, associated with streaming and download services of book publishers, see 58.11
+- publishing of music and other sound recordings, associated with streaming and download services of music and other sound recording publishers, see 59.20
+- production of radio programming and audio podcasts, see 59.20
+- provision of technical infrastructure services related to audio streaming services without having acquired the rights to the audio content, see 63.10

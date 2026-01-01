@@ -1,0 +1,16 @@
+R86.22 Medical specialists activities
+This class includes:
+- medical consultation and treatment in the field of specialised medicine by medical specialists and surgeons
+This class also includes:
+- family planning centres providing medical treatment (e.g. sterilisation, termination of pregnancy), without accommodation
+- cosmetic surgery activities performed by medical specialists
+- treatment in outpatient or day clinics (e.g. dialysis, chemotherapy, insulin therapy, respiratory treatment, radiation treatment)
+- medical analysis and interpretation of diagnostic medical images (x-ray, electrocardiograms, endoscopies, etc.)
+- activities provided by psychiatrists
+- activities of vaccination centres (immunisation, inoculation)
+- activities of thrombosis centres
+This class excludes:
+- inpatient hospital activities, see 86.10
+- nursing and midwifery activities, see 86.94
+- activities of physiotherapists, see 86.95
+- beauty treatment activities not performed by medical specialists (e.g. by cosmetologists), see 96.22

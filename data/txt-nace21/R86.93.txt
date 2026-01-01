@@ -1,0 +1,7 @@
+R86.93 Activities of psychologists and psychotherapists, except medical doctors
+This class includes:
+- consultation and treatment activities of psychologists (e.g. clinical psychologists, health psychologists, psychotherapists), except medical doctors
+This class also includes:
+- music therapy activities performed by psychotherapists/psychologists
+This class excludes:
+- activities of psychiatrists, see 86.22

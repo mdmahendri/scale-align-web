@@ -1,0 +1,19 @@
+A0170 Hunting, trapping and related service activities
+This class includes:
+- hunting and trapping on a commercial basis
+- taking of wild animals (dead or alive) for food, fur, skin, for animal population control or for use in research, in zoos or as pets
+- production of fur skins, reptile or bird skins from hunting or trapping activities
+- catching of frogs and toads in the wild
+- collecting of snails in the wild.
+This class also includes:
+- land-based catching of sea mammals such as walrus and seal
+- hunting of foxes, minks and wolves to protect livestock
+- hunting for animal population control
+This class excludes:
+- production of fur skins, skins of birds and reptiles from land farms, see 0149
+- raising of game animals on ranching operations, see 014
+- pest control (including rabbits) in connection with agriculture, see 0161
+- catching of whales, see 0311
+- production of hides and skins originating from slaughterhouses, see 1010
+- hunting for sport or recreation and related service activities, see 9319
+- service activities to promote hunting and trapping, see 9499

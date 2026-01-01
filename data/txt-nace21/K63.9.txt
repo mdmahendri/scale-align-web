@@ -1,0 +1,16 @@
+K63.9 Web search portal activities and other information service activities
+This group includes:
+- operation of web sites that use a search engine to generate and maintain extensive databases of internet addresses and content in an easily searchable format (web search portals)
+- other information service activities not elsewhere classified, e.g.:
+telephone-based information services
+information search services on a contract or fee basis
+news clipping services, press clipping services
+The primary source of revenue from advertising does not have a bearing on classification for these activities.
+This group excludes:
+- intermediation service activities for retail sale, see 47.9
+- intermediation service activities for passenger transport, see 52.32
+- intermediation service activities for accommodation, see 55.40
+- publishing activities, see division 58
+- broadcasting activities, see division 60
+- news syndicate and news agency activities, see 60.31
+- activities of call centres, see 82.20

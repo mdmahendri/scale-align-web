@@ -1,0 +1,17 @@
+C2920 Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+This class includes:
+- manufacture of bodies, including cabs for motor vehicles e.g.
+fire engines, travelling libraries, armoured cars.
+concrete-mixer lorries
+- outfitting of all types of motor vehicles, trailers and semi-trailers
+- manufacture of trailers and semi-trailers e.g.:
+tankers, trailers with closed and open bodies etc.
+caravans etc.
+- reconditioning and customising of motor vehicles
+- manufacture of containers (including containers for the transport of fluids) specially designed and equipped for carriage by one or more modes of transport
+- manufacture of chassis for trailers
+This class excludes:
+- manufacture of trailers and semi-trailers specially designed for use in agriculture, see 2821
+- manufacture of parts and accessories of bodies for motor vehicles, see 2930
+- manufacture of vehicles drawn by animals, see 3099
+- manufacture of tanks and other military fighting vehicles, see 3040

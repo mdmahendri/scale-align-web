@@ -1,0 +1,33 @@
+C20.59 Manufacture of other chemical products n.e.c.
+This class includes:
+- manufacture of photographic plates, films, sensitised paper and other sensitised unexposed materials
+- manufacture of chemical preparations for photographic uses
+- manufacture of gelatine and its derivatives
+- manufacture of glues and prepared adhesives, including rubber-based glues and adhesives
+- manufacture of essential oils
+- manufacture of extracts of natural aromatic products
+- manufacture of resinoids
+- manufacture of mixtures of odoriferous products for the manufacture of perfumes or food
+- manufacture of propellant powders
+- manufacture of explosives and pyrotechnic products, including percussion caps, detonators, signalling flares, etc.
+- manufacture of e-liquids used in vaping devices
+- manufacture of various chemical products:
+peptones, peptone derivatives, other protein substances and their derivatives n.e.c.
+chemically modified oils and fats
+materials used in the finishing of textiles and leather
+powders and pastes used in soldering, brazing or welding
+substances used to pickle metal
+prepared additives for cements
+activated carbon, lubricating oil additives, prepared rubber accelerators, catalysts and other chemical products for industrial use
+anti-knock preparations, antifreeze preparations
+liquids for hydraulic transmission
+composite diagnostic or laboratory reagents
+fuel additives (e.g. based on ethyl tertiary-butyl ether (ETBE) and methyl tertiary-butyl ether (MTBE))
+This class also includes:
+- manufacture of writing and drawing ink
+- manufacture of matches
+This class excludes:
+- manufacture of synthetic aromatic products, see 20.14
+- manufacture of printing ink, see 20.30
+- manufacture of perfume and toilet preparations, see 20.42
+- manufacture of liquid biofuels, see 20.51

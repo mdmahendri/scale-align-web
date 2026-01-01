@@ -1,0 +1,19 @@
+F42.21 Construction of utility projects for fluids
+This class includes the construction of utility distribution lines for the transport of fluids, including gas, and related buildings and structures that are integral part of these systems.
+This class includes:
+- construction of civil engineering structures for:
+long-distance, underwater and urban pipelines
+water mains and water lines
+irrigation systems (canals)
+reservoirs
+- construction of:
+sewerage systems, including repair
+sewage treatment and disposal plants
+pumping stations
+This class also includes:
+- water well drilling
+- geothermal drilling
+This class excludes:
+- installation of water and wastewater pipes in buildings, see 43.22
+- project management activities related to civil engineering works, see 71.12
+- camera inspections in wastewater, water and gas pipes, not associated with repair or installation, see 71.20

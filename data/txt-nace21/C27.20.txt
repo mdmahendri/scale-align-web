@@ -1,0 +1,18 @@
+C27.20 Manufacture of batteries and accumulators
+This class includes the manufacture of non-rechargeable and rechargeable batteries.
+This class includes:
+- manufacture of primary cells and primary batteries
+cells containing manganese dioxide, mercuric dioxide, silver oxide, etc.
+- manufacture of electric accumulators, including parts thereof:
+separators, containers, covers
+- manufacture of lead acid batteries
+- manufacture of nickelcadmium (NiCad) batteries
+- manufacture of nickelmetal hydride (NiMH) batteries
+- manufacture of lithium batteries
+- manufacture of dry cell batteries
+- manufacture of wet cell batteries
+- manufacture of batteries for vehicles, bicycles and other cycles
+- manufacture of battery energy storage systems
+This class excludes:
+- manufacture of charging facilities for cars, see 27.90
+- installation of electric storage systems for buildings, see 43.21

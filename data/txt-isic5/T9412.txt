@@ -1,0 +1,12 @@
+T9412 Activities of professional membership organizations
+This class includes:
+- activities of organisations whose members' interests centre chiefly on a particular scholarly discipline or professional practice or technical field, e.g. medical associations, legal associations, accounting associations, engineering associations, architects associations etc.
+- activities of associations of specialists engaged in scientific, academic or cultural activities, e.g. associations of writers, painters, performers of various kinds, journalists etc.
+- dissemination of information, the establishment and supervision of standards of practice, representation before government agencies and public relations of professional organisations
+This class also includes:
+- activities of learned societies
+This class excludes:
+- education provided by these organisations, see division 85
+- activities of business and employers membership organisations, see 9411
+- activities of trade unions, see 9420
+- activities of non-governmental organisations, see 9499

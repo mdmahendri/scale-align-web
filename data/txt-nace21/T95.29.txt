@@ -1,0 +1,19 @@
+T95.29 Repair and maintenance of personal and household goods n.e.c.
+This class includes the repair and maintenance of personal and household goods:
+- repair and maintenance of bicycles, electric bicycles, monowheels, hoverboards, kickscooters
+- repair and alteration of clothing
+- repair of sports goods (except sporting guns) and camping equipment
+- repair of books
+- repair of non-historical musical instruments
+- repair of toys and similar articles
+- repair of other personal and household goods
+- piano tuning
+- knife sharpening
+- key cutting activities
+This class also includes:
+- while-you-wait engraving
+This class excludes:
+- industrial engraving of metals, see 25.53
+- repair of sporting and recreational guns, 33.11
+- repair of handheld power tools, see 33.12
+- locksmith activities, see 80.09

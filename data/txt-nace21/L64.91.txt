@@ -1,0 +1,8 @@
+L64.91 Financial leasing
+This class includes the activities of financial leasing, a contract under which the lessor as legal owner of an asset conveys the risks and benefits of ownership of the asset to the lessee.
+Under a financial lease, the lessor is deemed to make, to the lessee, a loan with which the lessee acquires all the economic benefits and risks of the lease.
+Thereafter, the leased asset is shown on the balance sheet of the lessee and not the lessor; the corresponding loan is shown as an asset of the lessor and a liability of the lessee.
+This class also includes:
+- financial leasing of durable goods (e.g. vehicles)
+This class excludes:
+- operating leasing, according to type of goods leased, see division 77

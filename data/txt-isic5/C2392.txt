@@ -1,0 +1,9 @@
+C2392 Manufacture of clay building materials
+This class includes:
+- manufacture of non-refractory ceramic hearth or wall tiles, mosaic cubes etc.
+- manufacture of non-refractory ceramic flags and paving
+- manufacture of structural non-refractory clay building materials:
+- manufacture of flooring blocks in baked clay
+This class excludes:
+- manufacture of artificial stone (e.g. cultured marble), see 2220
+- manufacture of refractory ceramic products, see 2391

@@ -1,0 +1,31 @@
+C16.28 Manufacture of other products of wood and articles of cork, straw and plaiting materials
+This class includes:
+- manufacture of various wood products:
+wooden handles and bodies for tools, brooms, brushes
+wooden boot- or shoe-lasts and trees, clothes-hangers
+household utensils, tableware and kitchenware of wood
+wooden statuettes and ornaments, wood marquetry, inlaid wood
+wooden cases for jewellery, cutlery and similar articles
+wooden spools, cops, bobbins, sewing thread reels and similar articles of turned wood
+other articles of wood
+- manufacture of wooden frames for artists canvases
+- natural cork processing, manufacture of agglomerated cork
+- manufacture of cork for bottles
+- manufacture of articles of natural or agglomerated cork, including floor coverings
+- manufacture of plaits and products of plaiting materials: mats, matting, screens, cases, etc.
+- manufacture of basket-ware and wickerwork
+- manufacture of wooden mirror and picture frames
+- manufacture of handles for umbrellas, canes and similar
+- manufacture of blocks for the manufacture of smoking pipes
+This class excludes:
+- manufacture of mats or matting of textile materials, see 13.93
+- manufacture of luggage, see 15.12
+- manufacture of wooden footwear or wooden parts of footwear, see 15.20
+- manufacture of matches, see 20.59
+- manufacture of clock cases, see 26.52
+- manufacture of wooden spools and bobbins that are part of textile machinery, see 28.94
+- manufacture of furniture, see 31.00
+- manufacture of wooden toys, see 32.40
+- manufacture of brooms and brushes, see 32.91
+- manufacture of coffins, see 32.99
+- manufacture of cork life preservers, see 32.99

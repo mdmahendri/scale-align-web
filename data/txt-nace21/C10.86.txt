@@ -1,0 +1,12 @@
+C10.86 Manufacture of homogenised food preparations and dietetic food
+This class includes:
+- manufacture of foods for particular nutritional uses:
+infant formulae
+follow-up formulae milk and other follow-up foods
+baby foods
+low-energy and energy-reduced foods intended for weight control
+foods for medical purposes
+This class excludes:
+- manufacture of lactose-free dairy products, see 10.51
+- manufacture of gluten-free products, see 10.6, 10.7
+- manufacture of sugar-free confectionery, see 10.82

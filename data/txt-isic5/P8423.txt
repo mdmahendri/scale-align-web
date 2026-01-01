@@ -1,0 +1,19 @@
+P8423 Public order and safety activities
+This class includes:
+- administration and operation of regular and auxiliary police forces supported by public authorities and of port, border, coastguards and other special police forces, including traffic regulation, alien registration, maintenance of arrest records
+- firefighting activities and fire prevention:
+* administration and operation of regular and auxiliary fire brigades in fire prevention, firefighting, rescue of persons and animals, assistance in civic disasters, floods, road accidents etc., including firefighting by units on a fee or contract basis
+- administration and operation of administrative civil and criminal law courts, military tribunals and the judicial system
+- rendering of judgements and interpretations of the law
+- arbitration of civil actions
+- prison administration and provision of correctional services, including rehabilitation services
+- provision of supplies for domestic emergency use in case of peacetime disasters
+This class excludes:
+- forestry fire-protection and fire-fighting services, see 0240
+- oil and gas field fire fighting, see 0910
+- firefighting and fire-prevention services at airports provided by non-specialized units, see 5223
+- legal advice and representation in civil, criminal and other cases, see 6910
+- operation of police laboratories, see 7120
+- administration and operation of military armed forces, see 8422
+- activities of prison schools, see division 85
+- activities of prison hospitals, see 8610

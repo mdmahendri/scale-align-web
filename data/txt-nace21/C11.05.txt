@@ -1,0 +1,5 @@
+C11.05 Manufacture of beer
+This class includes:
+- manufacture of malt liquors (e.g. beer, ale, porter, stout)
+This class also includes:
+- manufacture of low alcohol or non-alcoholic beer

@@ -1,0 +1,4 @@
+H51.22 Space transport
+This class includes:
+- launching of satellites and space vehicles
+- space transport of freight and passengers

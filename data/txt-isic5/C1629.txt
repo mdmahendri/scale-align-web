@@ -1,0 +1,35 @@
+C1629 Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials
+This class includes:
+- manufacture of various wood products:
+* wooden handles and bodies for tools, brooms, brushes
+* wooden boot or shoe parts (e.g. heels)
+* wooden boot or shoe lasts and trees
+* wooden clothes hangers
+* wooden mirror and picture frames
+* wooden frames for artists' canvases
+* household utensils and kitchenware of wood
+* wooden statuettes and ornaments, wood marquetry, inlaid wood
+* wooden cases for jewellery, cutlery and similar articles
+* wooden spools, cops, bobbins, sewing thread reels and similar articles of turned wood
+* wooden handles for umbrellas, canes and similar
+* wooden blocks for the manufacture of smoking pipes
+* other articles of wood
+- natural cork processing, manufacture of agglomerated cork
+- manufacture of articles of natural or agglomerated cork, including floor coverings
+- manufacture of plaits and products of plaiting materials: mats, matting, screens, cases etc.
+- manufacture of basket-ware and wickerwork
+- manufacture of solid fuels from vegetable biomass
+- manufacture of fire logs, made of pressed wood or substitute materials like coffee or soybean grounds
+This class excludes:
+- manufacture of mats or matting of textile materials, see 1392
+- manufacture of luggage, see 1512
+- manufacture of wooden footwear, see 1520
+- manufacture of wooden shoe parts (e.g. heels and lasts), see 1520
+- manufacture of matches, see 2029
+- manufacture of clock cases, see 2652
+- manufacture of wooden spools and bobbins that are part of textile machinery, see 2826
+- manufacture of wooden furniture, see 3101
+- manufacture of wooden toys, see 3240
+- manufacture of cork life preservers, see 3290
+- manufacture of brushes and brooms, see 3290
+- manufacture of burial caskets, see 3290

@@ -1,0 +1,31 @@
+C2410 Manufacture of basic iron and steel
+This class includes operations of conversion by reduction of iron ore in blast furnaces and oxygen converters or of ferrous waste and scrap in electric arc furnaces or by direct reduction of iron ore without fusion to obtain crude steel which is smelted and refined in a ladle furnace and then poured and solidified in a continuous caster in order to produce semi-finished flat or long products, which are used, after reheating, in rolling, drawing and extruding operations to manufacture finished products such as plate, sheet, strip, bars, rods, wire, tubes, pipes and hollow profiles.
+This class includes:
+- operation of blast furnaces, steel converters, rolling and finishing mills
+- production of pig iron and spiegeleisen in pigs, blocks or other primary forms
+- production of ferro-alloys
+- production of ferrous products by direct reduction of iron and other spongy ferrous products
+- production of iron of exceptional purity by electrolysis or other chemical processes
+- production of granular iron and iron powder
+- production of steel in ingots or other primary forms
+- remelting of scrap ingots of iron or steel
+- production of semi-finished products of steel
+- manufacture of hot-rolled and cold-rolled flat-rolled products of steel
+- manufacture of hot-rolled bars and rods of steel
+- manufacture of hot-rolled open sections of steel
+- manufacture of steel bars and solid sections of steel by cold drawing, grinding or turning
+- manufacture of open sections by progressive cold forming on a roll mill or folding on a press of flat-rolled products of steel
+- manufacture of wire of steel by cold drawing or stretching
+- manufacture of sheet piling of steel and welded open sections of steel
+- manufacture of railway track materials (unassembled rails) of steel
+- manufacture of seamless tubes, pipes and hollow profiles of steel, by hot rolling, hot extrusion or hot drawing, or by cold drawing or cold rolling
+- manufacture of welded tubes and pipes of steel, by cold or hot forming and welding, delivered as welded or further processed by cold drawing or cold rolling or manufactured by hot forming, welding and reducing
+- manufacture of tube fittings of steel, such as:
+* flat flanges and flanges with forged collars
+* butt-welded fittings
+* threaded fittings
+* socket-welded fittings
+This class excludes:
+- manufacture of tubes, pipes and hollow profiles and of tube or pipe fittings of cast-iron, see 2431
+- manufacture of seamless tubes and pipes of steel by centrifugal casting, see 2431
+- manufacture of tube or pipe fittings of cast-steel, see 2431

@@ -1,0 +1,8 @@
+C23.14 Manufacture of glass fibres
+This class includes:
+- manufacture of glass fibres, including glass wool and non-woven products thereof
+- manufacture of products from glass fibres
+This class excludes:
+- manufacture of woven fabrics of glass yarn, see 13.96
+- manufacture of slag wool, rock wool and similar mineral wools, see 23.99
+- manufacture of fibre-optic cables for data transmission or live transmission of images, see 27.31

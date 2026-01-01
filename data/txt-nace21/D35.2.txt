@@ -1,0 +1,7 @@
+D35.2 Manufacture of gas, and distribution of gaseous fuels through mains
+This group includes the manufacture of gas, the storage and the distribution of natural or synthetic gas to the user through a system of mains.
+This group excludes:
+- extraction of crude natural gas, see 06.20
+- activities of brokers or agents that arrange the sale of gaseous fuels over gas distribution systems operated by others, see 35.4
+- transport, usually over long distances, of gas through pipelines, see 49.50
+- separate operation of gas pipelines, typically done over long distances, connecting producers with distributors of gas, or between urban centres, see 49.50

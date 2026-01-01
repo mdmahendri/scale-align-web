@@ -1,0 +1,7 @@
+A0123 Growing of citrus fruits
+This class includes:
+- growing of citrus fruits such as:
+grapefruit and pomelo
+lemons and limes
+oranges
+tangerines, mandarins and clementines

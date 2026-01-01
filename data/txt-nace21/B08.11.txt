@@ -1,0 +1,12 @@
+B08.11 Quarrying of ornamental stone, limestone, gypsum, slate and other stone
+This class includes:
+- quarrying, rough trimming and sawing of monumental and building stone (for example, marble, granite, sandstone)
+- breaking and crushing of ornamental and building stone
+- quarrying, crushing and breaking of limestone
+- mining of gypsum and anhydrite
+- mining of chalk and uncalcined dolomite
+- production of granules, chippings and powder of extracted stones, whether heat-treated or not
+This class excludes:
+- mining of chemical and fertiliser minerals, see 08.91
+- production of calcined dolomite, see 23.52
+- cutting, shaping and finishing of stone outside quarries, see 23.70

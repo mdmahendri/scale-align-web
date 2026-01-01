@@ -1,0 +1,14 @@
+G46.32 Wholesale of meat, meat products, fish and fish products
+This class includes:
+- wholesale of meat and meat products
+- wholesale of poultry and game
+- wholesale of fish and fish products
+- wholesale of seafood
+This class also includes:
+- wholesale of tripe, delicatessen (charcuterie), salted meat
+- wholesale of snails
+- wholesale of algae and seaweed
+This class excludes:
+- wholesale of livestock feed, see 46.21
+- wholesale of ready-made meals, see 46.38
+- wholesale of food for pets, see 46.38

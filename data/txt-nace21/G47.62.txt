@@ -1,0 +1,9 @@
+G47.62 Retail sale of newspapers, and other periodical publications and stationery
+This class includes:
+- retail sale of newspapers, periodicals and journals
+This class also includes:
+- retail sale of stationery, office and school supplies (e.g. pens, pencils, paper)
+This class excludes:
+- retail sale of art tools and materials for drawing, painting and sculpting, see 47.69
+- distribution of newspapers via streaming or downloading by their publishers, see 58.12
+- distribution of periodicals and journals via streaming or downloading by their publishers, see 58.13

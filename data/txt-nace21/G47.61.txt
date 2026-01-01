@@ -1,0 +1,8 @@
+G47.61 Retail sale of books
+This class includes:
+- retail sale of books, including audiobooks on physical media
+This class excludes:
+- retail sale of recorded media except audiobooks on physical media, see 47.69
+- retail sale of antique books, see 47.79
+- retail sale of second-hand books, see 47.79
+- distributing e-books and audiobooks via streaming and downloading by book publishers, see 58.11

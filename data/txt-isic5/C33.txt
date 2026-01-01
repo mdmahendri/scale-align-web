@@ -1,0 +1,14 @@
+C33 Repair, maintenance and installation of machinery and equipment
+This division includes the specialised repair of goods produced in the manufacturing sector with the aim to restore machinery, equipment and other products to working order.
+The provision of general or routine maintenance (i.e. servicing) on such products to ensure they work efficiently and to prevent breakdown and unnecessary repairs is included.
+This division does only include specialised repair and maintenance activities.
+A substantial amount of repair is also done by manufacturers of machinery, equipment and other goods, in which case the classification of units engaged in these repair and manufacturing activities is done according to the value-added principle which would often assign these combined activities to the manufacture of the good.
+The same principle is applied for combined trade and repair.
+The rebuilding or remanufacture of machinery and equipment is considered a manufacturing activity and included in other divisions of this section.
+Also included in this division is the specialised installation of machinery.
+This division excludes:
+- cleaning of industrial machinery, see 8129
+- the installation of equipment that forms an integral part of buildings or similar structures, e.g. installation of electrical wiring, of escalators or of air-conditioning systems, is classified as construction
+- repair and maintenance of goods that are utilised as capital goods as well as consumer goods is typically classified as repair and maintenance of household goods (e.g. office and household furniture repair, see 9524).
+- repair and maintenance of computers and communications equipment, see 951
+- repair and maintenance of household goods, see 952

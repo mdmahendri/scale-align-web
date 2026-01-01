@@ -1,0 +1,10 @@
+G46.34 Wholesale of beverages
+This class includes:
+- wholesale of alcoholic beverages
+- wholesale of non-alcoholic beverages
+- wholesale of fruit and vegetable juices
+- wholesale of prepared beverages in cans or bottles
+This class also includes:
+- buying of wine in bulk and bottling without transformation
+This class excludes:
+- blending of wine, distilled spirits and other beverages (in order to make a new product), see 11.01, 11.02, 11.07

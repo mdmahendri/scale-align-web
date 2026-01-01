@@ -1,0 +1,11 @@
+H5110 Passenger air transport
+This class includes:
+- scheduled air transportation of passengers over regular routes
+- charter flights for passengers
+- sightseeing flights
+This class also includes:
+- rental of air transport equipment with operator for the purpose of passenger transportation
+This class excludes:
+- rental of air transport equipment without operator, see 7730
+- transport of passengers by aero clubs for instruction, see 8553
+- air ambulances, see 869

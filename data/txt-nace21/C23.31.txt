@@ -1,0 +1,8 @@
+C23.31 Manufacture of ceramic tiles and flags
+This class includes:
+- manufacture of non-refractory ceramic hearth or wall tiles, mosaic cubes, etc.
+- manufacture of non-refractory ceramic flags and paving
+This class excludes:
+- manufacture of refractory ceramic products, see 23.20
+- manufacture of ceramic bricks and roofing tiles, see 23.32
+- manufacture of artificial stone articles for use in construction, see 23.61

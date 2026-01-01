@@ -1,0 +1,9 @@
+C25.40 Forging and shaping metal and powder metallurgy
+This class includes general activities for the forming of metal.
+This class includes:
+- forging, pressing, stamping and roll-forming of metal
+- production of metal objects directly from metal powders by heat treatment (sintering) or under pressure, i.e. powder metallurgy
+This class also includes:
+- subsequent trimming or descaling of the metal, without any further processing
+This class excludes:
+- production of metal powder, see 24.10, 24.4

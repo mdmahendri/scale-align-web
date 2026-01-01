@@ -1,0 +1,19 @@
+L6612 Security and commodity contracts brokerage
+This class includes:
+- dealing in financial markets on behalf of others (e.g. stock broking) and related activities
+- securities brokerage
+- brokerage of investment funds shares
+- Standardized commodity contracts brokerage
+- currency trading on behalf of others
+- trade and brokerage of crypto assets with liabilities
+- activities of bureaux de change
+- equity-based crowdfunding
+- debt-based crowdfunding offering securities
+This class also includes:
+- brokerage of securities for investment projects, e.g. wind or solar parks
+This class excludes:
+- dealing in financial markets on own account, see division 64
+- portfolio management, on a fee or contract basis, see 6630
+- buying and selling of real estate projects, e.g. wind or solar parks, see division 68
+- trading and brokerage of crypto assets without a corresponding liability (not by a monetary authority), see 8299
+- donation-based fundraising, see 8299

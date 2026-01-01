@@ -1,0 +1,44 @@
+G WHOLESALE AND RETAIL TRADE
+This section includes wholesale and retail sale (in other words, sale without transformation) of any type of physical goods and rendering services incidental to the sale of merchandise.
+Goods are physical, produced objects for which a demand exists, over which ownership rights can be established and whose ownership can be transferred from one unit to another by engaging in transactions on markets.
+This is consistent with the definitions and concepts applied in the balance of payments domain, the G20 Digital Economy Task Force, the Handbook on Measuring Digital Trade, and so on.
+Wholesale and retail sale are the final steps in the distribution of merchandise.
+For this purpose, ancillary activities (see introductory guidelines, Chapter xx) are carried out, which include a number of usual operations (or manipulations) associated with trade, without transforming the goods.
+These operations (or manipulations) include, for example, sorting, grading and assembling of goods, mixing or blending of goods (for example, sand), bottling (with or without preceding bottle cleaning), packaging, breaking bulk and repacking for distribution in smaller lots, storage (whether or not frozen or chilled).
+If not carried out as usual operations (or manipulations) associated with trade, the mentioned activities can be carried out as principal, secondary or ancillary activities in other sections of NACE.
+The distinction between wholesale (division 46) and retail sale (division 47) is based on the type of customer.
+Wholesale is the resale of new and used goods to retailers, business-to-business trade (for example, to industrial, commercial, institutional or professional users) or other wholesalers, or it involves acting as an agent or broker in buying merchandise for, or selling merchandise to, such persons or companies.
+The principal types of businesses included are merchant wholesalers, in other words, wholesalers who take title to the goods they sell, such as wholesale merchants or jobbers, industrial distributors, exporters, importers, and cooperative buying associations, sales branches and sales offices (but not retail stores) that are maintained by manufacturing or mining units apart from their plants or mines for the purpose of marketing their products and that do not merely take orders to be filled by direct shipments from the plants or mines.
+Also included are merchandise and commodity brokers, commission merchants, agents, assemblers and buyers.
+If the wholesaler does not assume ownership of the goods the wholesaler trades, the wholesaler is classified in group 46.1.
+If the wholesaler assumes ownership of the goods, even if the wholesaler is acting on behalf of a third party, the wholesaler is classified in groups 46.2 to 46.9.
+Wholesalers frequently physically assemble, sort and grade goods in large lots, break bulk, repack and redistribute in smaller lots (for example, for pharmaceuticals); store, refrigerate, deliver and install goods, engage in sales promotion for their customers and label design.
+Retailing is the resale of new and used goods to final consumers for personal or household consumption or use, whatever the channel, in shops, department stores, stalls, mail order houses, door-to-door salespersons, hawkers, consumer cooperatives, auction houses, and so on.
+It includes the sale of goods via showrooms (where the exposed goods can be bought), via ephemeral points of sale (for example, pop-up stores) as well as in automated retail shops.
+Most retailers take title to the goods they sell, but some act as agents for a principal and sell either on consignment or on a commission basis.
+If the retailer does not assume ownership of the goods the retailer trades, the retailer is classified in group 47.9.
+If the retailer assumes ownership of the goods, even if the retailer is acting on behalf of a third party, the retailer is classified in groups 47.1 to 47.8.
+NACE does not make any distinction at group and class level between in-store and online retail sale.
+Most of the retail sale activities operate both in-store and online (as well other distribution channels) and it is difficult to differentiate between the two distribution/sales channels based on the primary sales method.
+The share of in-store and online sales can vary over time affecting the stability of the classification.
+The main classification criteria for retail sale in NACE is based on what is sold and not the sales channel.
+Retailing via mail order or the internet is classified according to the type of goods sold.
+The distinction between wholesale and retail sale is not based on the quantity of goods sold, as wholesale may be made on a unit basis, just as retail sales may be made on a bulk basis.
+Instead, the primary distinction between wholesale and retail sale is the type of customer.
+Wholesale usually involves business customers while retail usually involves final customers, such as households.
+If a trader sells to both business and final customers without distinction and it is practically impossible to distinguish the majority type of customers, then it is recommended to treat the seller as a retailer.
+Blending of beverages to be provided by the manufacturer or by a contractor is classified in manufacturing (section C).
+If carried out as a usual operation (or manipulation) associated with trade, it is considered as an ancillary activity and integrated in section G.
+This section also includes:
+- transit trade activities consisting of buying commodities, moving them from one customs territory to another.
+Transit trade represents a triangular transaction in which the transit trader carries out export and import transactions between two or more different countries outside their own economic territory.
+The transit trader owns the commodity during its transport (different to intermediaries that do not take ownership of the intermediated goods)
+- specialised and non-specialised intermediation service activities for retail sale, see 47.9
+- sale of food and beverages via vending machines or automated points of sale
+This section excludes:
+- trade of electricity, see 35.15
+- trade of gaseous fuels for energy supply through mains, see 35.23
+- the commerce of digital goods, streaming and downloading of content on digital platforms (e.g. e-books, audio), see section J
+- activities of resellers of prepaid calling cards and services, see 61.20
+- repair of motor vehicles and motorcycles, see division 95
+- cooperative associations; these are classified to their predominant activity

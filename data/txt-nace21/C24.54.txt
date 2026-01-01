@@ -1,0 +1,7 @@
+C24.54 Casting of other non-ferrous metals
+This class includes:
+- activities of foundries of other non-ferrous metals
+- manufacture of castings made of copper, zinc, lead or nickel alloys
+- manufacture of castings made of other non-ferrous metals alloys
+This class also includes:
+- casting of dental implements, etc., of other non-ferrous metals

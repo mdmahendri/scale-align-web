@@ -1,0 +1,20 @@
+C28.22 Manufacture of lifting and handling equipment
+This class includes:
+- manufacture of hand-operated or power-driven lifting, handling, loading or unloading machinery, e.g.:
+pulley tackle and hoists, winches, capstans and jacks
+derricks, cranes, mobile lifting frames, straddle carriers
+works trucks, whether or not fitted with lifting or handling equipment, whether or not self-propelled, of the type used in factories (including handcarts and wheelbarrows)
+mechanical manipulators and industrial robots specifically designed for lifting, handling, loading or unloading
+unmanned and robotic forklifts and pallet loaders/unloaders
+- manufacture of conveyors, teleferics, etc.
+- manufacture of lifts, escalators and moving walkways
+- manufacture of parts suitable for use solely or principally with lifting and handling equipment
+This class also includes:
+- manufacture of automatic lifting and handling equipment for warehouses
+This class excludes:
+- manufacture of machinery for vertical farming, see 28.30
+- manufacture of continuous-action elevators and conveyors for underground use, see 28.92
+- manufacture of mechanical shovels, excavators and shovel loaders, see 28.92
+- manufacture of industrial robots for multiple uses, see 28.99
+- manufacture of crane lorries, floating cranes and railway cranes, see 29.10, 30.11, 30.20
+- installation of lifts and elevators, see 43.24

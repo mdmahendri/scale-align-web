@@ -1,0 +1,16 @@
+B09.10 Support activities for petroleum and natural gas extraction
+This class includes:
+- oil and gas extraction service activities provided on a fee or contract basis:
+exploration services in connection with petroleum or gas extraction (e.g. traditional prospecting methods, making geological observations at prospective sites)
+directional drilling and redrilling; 'spudding in'; derrick erection in situ, repairing and dismantling; cementing oil and gas well casings; pumping of wells; plugging and abandoning wells, etc.
+liquefaction and regasification of natural gas for the purpose of transport, done at the mine site
+draining and pumping services on a fee or contract basis
+test drilling in connection with petroleum or gas extraction
+This class also includes:
+- firefighting services and fire-prevention services for oilfields and gas fields
+This class excludes:
+- service activities performed by operators of oilfields or gas fields, see 06.10, 06.20
+- specialised repair and maintenance of drilling and extraction machinery and equipment, see 33.12
+- specialised offshore installation, repair and maintenance of equipment that forms an integral part of floating platforms, see division 43
+- liquefaction and regasification of natural gas for the purpose of land or water transport, not done at the mine site, see 52.21 or 52.22
+- geophysical surveying services, on a contract or fee basis, see 71.12

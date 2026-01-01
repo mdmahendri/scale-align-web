@@ -1,0 +1,8 @@
+D35.23 Trade of gas through mains
+This class includes:
+- sale of gaseous fuels through mains on own account
+This class excludes:
+- sale of gaseous fuels through mains on the account of others, see 35.40
+- wholesale of bottled gaseous fuels, see 46.81
+- retail sale of gaseous fuel for motor vehicles and motorcycles, see 47.30
+- retail sale of household fuel oil and bottled gas, see 47.78

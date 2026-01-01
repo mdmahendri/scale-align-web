@@ -1,0 +1,9 @@
+C1076 Processing of coffee and tea
+This class includes:
+- decaffeinating and roasting of coffee
+- production of coffee products: ground coffee soluble coffee extracts and concentrates of coffee
+- manufacture of coffee substitutes
+- blending of tea and mat
+- manufacture of extracts and preparations based on tea or mat.
+This class also includes:
+- manufacture of tea and coffee filled in bags, pads or capsules

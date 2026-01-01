@@ -1,0 +1,6 @@
+Q85.33 Post-secondary non-tertiary education
+This class includes the provision of post-secondary education and training programmes (both general and vocational) which cannot be considered tertiary education; these are post-secondary non-tertiary education and training programmes.
+It may also include the provision of supplementary post-secondary education to prepare for tertiary education or for post-secondary non-tertiary vocational education.
+This class excludes:
+- technical and vocational higher education, see 85.40
+- non-formal education and training, see 85.5

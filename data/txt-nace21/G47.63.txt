@@ -1,0 +1,10 @@
+G47.63 Retail sale of sporting equipment
+This class includes:
+- retail sale of sports goods, including fishing gear, weapons and ammunition, camping goods, etc.
+- retail sale of boats
+- retail sale of bicycles, including electric bicycles, monowheels, hoverboards, kickscooters, etc.
+- retail sale of special footwear for sports (e.g. football shoes, ice skates, ski boots)
+- retail sale of special sports equipment clothes for skiing, martial arts, ballet, etc.
+- retail sale of parachutes, tents, sleeping bags, etc.
+This class excludes:
+- retail sale of non-specialised sports footwear (e.g. tennis shoes, basketball shoes, gym shoes, training shoes), see 47.72

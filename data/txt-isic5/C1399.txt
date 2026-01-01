@@ -1,0 +1,27 @@
+C1399 Manufacture of other textiles n.e.c.
+This class includes all activities related to the manufacture of textiles or textile products, not specified elsewhere in division 13 or 14, involving a large number of processes and a great variety of goods produced.
+This class includes:
+- manufacture of nonwovens, whether or not impregnated, coated, covered or laminated with plastics or rubber
+- manufacture of nonwovens in which plastics or rubber forms the bonding substance
+- manufacture of narrow woven fabrics, including fabrics consisting of warp without weft assembled by means of an adhesive
+- manufacture of labels, badges etc.
+- manufacture of ornamental trimmings: braids, tassels, pompons etc.
+- manufacture of felt
+- manufacture of tulles and other net fabrics, and of lace and embroidery, in the piece, in strips or in motifs
+- manufacture of fabrics impregnated, coated, covered or laminated with plastics
+- manufacture of metallized yarn or gimped yarn, rubber thread and cord covered with textile material, textile yarn or strip covered, impregnated, coated or sheathed with rubber or plastics
+- manufacture of tyre cord fabric of high-tenacity man-made yarn
+- manufacture of other treated or coated fabrics: tracing cloth, canvas prepared for use by painters, buckram and similar stiffened textile fabrics, fabrics coated with gum or amylaceous substances
+- manufacture of diverse textile articles: textile wicks, incandescent gas mantles and tubular gas mantle fabric, hosepiping, transmission or conveyor belts or belting (whether or not reinforced with metal or other material), bolting cloth, straining cloth
+- manufacture of automotive trimmings
+- manufacture of pressure sensitive cloth-tape
+- manufacture of artists' canvas boards and tracing cloth
+- manufacture of tarpaulins, tents, sails, parachutes, textiles for blinds and sun blinds, loose covers for cars, machines or furniture
+- manufacture of shoe-lace, of textiles
+- manufacture of net and window furnishing type fabrics of lace
+This class excludes:
+- manufacture of needle-loom felt floor coverings, see 1393
+- manufacture of textile wadding and articles of wadding: sanitary towels, tampons etc., see 1709
+- manufacture of transmission or conveyor belts of textile fabric, yarn or cord impregnated, coated, covered or laminated with rubber, where rubber is the chief constituent, see 2219
+- manufacture of plates or sheets of cellular rubber or plastic combined with textiles for reinforcing purposes only, see 2219, 2220
+- manufacture of cloth of woven metal wire, see 2599

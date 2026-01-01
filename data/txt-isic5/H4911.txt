@@ -1,0 +1,8 @@
+H4911 Passenger rail transport, interurban
+This class includes:
+- passenger transport by inter-urban railways
+- operation of sleeping cars or dining cars as an integrated operation of railway companies
+This class excludes:
+- passenger transport by urban and suburban transit systems, see 4921
+- passenger terminal activities, see 5221
+- operation of sleeping cars or dining cars when operated by separate units, see 5590, 5610

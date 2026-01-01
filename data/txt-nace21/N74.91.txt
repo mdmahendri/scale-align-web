@@ -1,0 +1,9 @@
+N74.91 Patent brokering and marketing service activities
+This class includes:
+- brokering and marketing activities for patents
+This class also includes:
+- management services for rights to industrial property (patents, licences, trademarks, franchises, etc.)
+- activities of collective rights management organisations
+- management of rights in intellectual property (e.g. copyrights and their revenues)
+This class excludes:
+- leasing of intellectual property and similar products, see 77.40

@@ -1,0 +1,5 @@
+C11.06 Manufacture of malt
+This class includes:
+- manufacture of malt from barley, wheat, or other grains
+This class excludes:
+- manufacture of malt extracts and syrups, see 10.89

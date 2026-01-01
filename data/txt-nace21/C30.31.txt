@@ -1,0 +1,33 @@
+C30.31 Manufacture of civilian air and spacecraft and related machinery
+This class includes:
+- manufacture of airplanes for the transport of goods or passengers, including for recreation and sports purposes
+- manufacture of helicopters
+- manufacture of gliders and hang-gliders
+- manufacture of dirigibles and hot-air balloons
+- manufacture of parts and accessories of the aircraft of this class:
+major assemblies (e.g. fuselages, wings, doors, control surfaces, landing gear, fuel tanks, nacelles)
+airscrews, helicopter rotors and propelled rotor blades
+civilian aircraft engines
+turbojets and turboprops, of a kind typically found on civilian aircraft
+parts suitable for use solely or principally with internal combustion piston engines for civilian aircraft
+- manufacture of ground flying trainers
+- manufacture of missiles for space and civilian purposes
+- manufacture of spacecraft and launch vehicles, satellites, planetary probes, orbital stations, shuttles
+- manufacture of civilian unmanned aircraft (drones)
+This class also includes:
+- overhaul and conversion of civilian aircraft or aircraft engines
+- manufacture of civilian aircraft seats
+This class excludes:
+- manufacture of parachutes, see 13.96
+- manufacture of missiles for military purposes, see 25.30
+- manufacture of telecommunication equipment for satellites, see 26.30
+- manufacture of aircraft instrumentation and aeronautical instruments, see 26.51
+- manufacture of air navigation systems, see 26.51
+- manufacture of lighting equipment for aircraft, see 27.40
+- manufacture of pistons, piston rings and carburettors not for motor vehicles or motorcycles, see 28.11
+- manufacture of aircraft launching gear, aircraft carrier catapults and related equipment, see 28.99
+- manufacture of ignition parts and other electrical parts for internal combustion engines, see 29.31
+- manufacture of military air and spacecraft, see 30.32
+- manufacture of drones for military purposes, see 30.32
+- manufacture of toy drones, see 32.40
+- repair and maintenance of civilian air and spacecraft, see 33.16

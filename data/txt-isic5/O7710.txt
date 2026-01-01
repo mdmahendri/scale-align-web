@@ -1,0 +1,10 @@
+O7710 Rental and leasing of motor vehicles
+This class includes:
+- renting and operational leasing of the following types of vehicles:
+passenger cars (without drivers)
+trucks, motor caravans, utility trailers and recreational vehicles
+This class also includes:
+- rental and operational leasing of an individual's own car without driver
+- rental and leasing of motorcycles
+This class excludes:
+- renting or leasing of vehicles or trucks with driver, see 4922, 4923

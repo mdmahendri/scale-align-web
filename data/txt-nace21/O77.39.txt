@@ -1,0 +1,29 @@
+O77.39 Rental and leasing of other machinery, equipment and tangible goods n.e.c.
+This class includes:
+- rental and operating leasing, without an operator, of other machinery and equipment generally used as capital goods by industries:
+engines and turbines
+machine tools
+mining and oilfield equipment
+professional radio, television and communication equipment
+motion picture production equipment
+measuring and controlling equipment
+other scientific, commercial and industrial machinery
+- rental and operating leasing of land transport equipment (other than motor vehicles) without a driver:
+caravans
+railway vehicles
+- tyre leasing
+- rental of equipment for events, fairs and exhibitions (e.g. for rigging power, light, sound and stage equipment)
+- rental of furniture for events, fairs and exhibitions
+- rental of medical/hospital equipment
+- rental and leasing of slot machines
+This class also includes:
+- rental of accommodation or office containers
+- rental of animals (e.g. herds, racehorses)
+- rental of other containers
+- rental of pallets
+This class excludes:
+- rental of motorcycles, see 77.11
+- rental of bicycles, see 77.21
+- rental of agricultural and forestry machinery and equipment, see 77.31
+- rental of construction and civil engineering machinery and equipment, see 77.32
+- rental of office machinery and equipment, including computers, see 77.33

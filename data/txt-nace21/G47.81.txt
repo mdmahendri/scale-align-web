@@ -1,0 +1,16 @@
+G47.81 Retail sale of motor vehicles
+This class includes:
+- retail sale of new and used motor vehicles, including electric vehicles:
+passenger motor vehicles
+camping vehicles (e.g. caravans, motorhomes)
+This class also includes:
+- retail sale of off-road motor vehicles
+- retail sale of trailers for motor vehicles
+This class excludes:
+- retail sale of bicycles and electric bicycles etc., see 47.63
+- retail sale of parts and accessories for motor vehicles, see 47.82
+- retail sale of motorcycles, motorcycle parts and accessories, see 47.83
+- activities of agents for the retail sale of motor vehicles, see 47.9
+- on-demand passenger transport service activities by vehicle with a driver, see 49.33
+- rental and leasing of motor vehicles without a driver, see 77.1
+- maintenance and repair of motor vehicles and motorcycles, see 95.3

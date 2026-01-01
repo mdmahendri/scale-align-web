@@ -1,0 +1,7 @@
+C10.73 Manufacture of farinaceous products
+This class includes:
+- manufacture of pastas (e.g. macaroni and noodles), whether or not cooked or stuffed
+- manufacture of couscous
+This class excludes:
+- manufacture of prepared meals and dishes based on pasta and/or couscous dishes, see 10.85
+- manufacture of soup containing pasta, see 10.89

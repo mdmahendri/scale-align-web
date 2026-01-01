@@ -1,0 +1,13 @@
+C20.30 Manufacture of paints, varnishes and similar coatings, printing ink and mastics
+This class includes:
+- manufacture of paints and varnishes, enamels or lacquers
+- manufacture of prepared pigments and dyes, opacifiers and colours
+- manufacture of vitrifiable enamels and glazes, engobes and similar preparations
+- manufacture of mastics
+- manufacture of caulking compounds and similar non-refractory filling or surfacing preparations
+- manufacture of organic composite solvents and thinners
+- manufacture of prepared paint or varnish removers
+- manufacture of printing ink
+This class excludes:
+- manufacture of dyes, tuffs and pigments, see 20.12
+- manufacture of writing and drawing ink, see 20.59

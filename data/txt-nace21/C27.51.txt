@@ -1,0 +1,36 @@
+C27.51 Manufacture of electric domestic appliances
+This class includes:
+- manufacture of domestic electric appliances:
+refrigerators
+freezers
+dishwashers
+washing and drying machines
+vacuum cleaners
+floor polishers
+waste disposal units
+grinders, blenders, juice squeezers
+tin openers
+electric shavers, electric toothbrushes and other electric personal care devices
+knife sharpeners
+ventilating or recycling hoods
+- manufacture of domestic electrothermic appliances:
+electric water heaters
+electric blankets
+electric hairdryers, combs, brushes, curlers
+electric smoothing irons
+space heaters and household-type fans, portable
+electric ovens
+microwave ovens
+cookers, hotplates
+toasters
+electric barbecues
+coffee or tea makers
+frying pans, roasters, hoods
+electric heating resistors, etc.
+table, floor, wall, window, ceiling or roof fans
+This class excludes:
+- manufacture of non-electric space heaters, see 27.52
+- manufacture of commercial and industrial refrigerators and freezers, room air conditioners, attic fans, permanently mounted space heaters, commercial ventilation and exhaust fans, commercial-type cooking equipment; commercial-type laundry, dry-cleaning and pressing equipment; commercial, industrial and institutional vacuum cleaners, see division 28
+- manufacture of permanently mounted central heating equipment, see 28.21
+- manufacture of household-type sewing machines, see 28.94
+- installation of central vacuum cleaning systems, see 43.24

@@ -1,0 +1,10 @@
+O79.12 Tour operator activities
+This class includes:
+- arranging, assembling and marketing packaged tours:
+pre-packaged tours, domestic (national) and international
+customised tour packages for groups, domestic (national) and international
+Package tours usually include passenger and baggage transport, accommodation, food and sightseeing services.
+Tour operators are engaged in the operation of tour packages that are sold by travel agencies, including arranging and assembling different services in the packaged tour.
+Tour operators might be employed or contracted by a travel agency, or they might operate as independent tour operators.
+This class excludes:
+- sale of packaged tours, see 79.11

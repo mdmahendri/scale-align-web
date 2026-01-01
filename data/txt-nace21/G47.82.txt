@@ -1,0 +1,7 @@
+G47.82 Retail sale of motor vehicle parts and accessories
+This class includes:
+- retail sale of new and used parts, equipment and accessories for motor vehicles
+This class excludes:
+- retail sale of automotive fuel, see 47.30
+- retail sale of motor vehicles, see 47.81
+- maintenance and repair of motor vehicles and motorcycles, see 95.3

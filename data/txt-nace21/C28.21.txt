@@ -1,0 +1,17 @@
+C28.21 Manufacture of ovens, furnaces and permanent household heating equipment
+This class includes:
+- manufacture of electrical and other industrial and laboratory furnaces and ovens, including incinerators
+- manufacture of furnace burners
+- manufacture of central heating boilers, solar water heaters and similar equipment
+- manufacture of household cooling and ventilation equipment
+This class also includes:
+- manufacture of mechanical stokers, grates, ash dischargers, etc.
+- manufacture of generally non-reversible heat pumps (only working in one direction), mainly used for space heating or for domestic hot water supply
+This class excludes:
+- manufacture of electric ovens for domestic use, see 27.51
+- manufacture of table, floor, wall, window, ceiling or roof fans, see 27.51
+- manufacture of dryers for agricultural products, see 28.93
+- manufacture of baking ovens, see 28.93
+- manufacture of dryers for wood, paper pulp, paper or paperboard, see 28.99
+- manufacture of medical, surgical or laboratory sterilisers, see 32.50
+- manufacture of dental laboratory furnaces, see 32.50

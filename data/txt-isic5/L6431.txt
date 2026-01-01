@@ -1,0 +1,5 @@
+L6431 Activities of money market funds
+This class includes activities of money market funds, i.e., collective investment schemes that raise funds by issuing shares or units to the public, of which the proceeds are invested primarily in short-term assets, i.e., assets with a remaining maturity of 1 year or less.
+Their units may be regarded as close substitutes for deposits.
+This class excludes:
+-Activities of non-money market investment funds, see 6432.

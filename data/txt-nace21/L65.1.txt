@@ -1,0 +1,9 @@
+L65.1 Insurance
+This group includes life insurance with or without a substantial savings element and non-life insurance.
+This group includes:
+- life insurance and life reinsurance with or without a substantial savings element and other non-life insurance
+- activities of insurance providers on own account
+- pooling and assuming insurance risks
+This group also includes captive insurance activities.
+This group excludes:
+- selling of insurance as a broker, see 66.22

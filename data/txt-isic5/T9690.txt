@@ -1,0 +1,23 @@
+T9690 Other personal service activities n.e.c.
+This class includes the provision of a range of domestic personal service activities like cooking, washing, cleaning, and ironing services, at the home of households.
+This class includes also:
+- astrological and spiritualists' activities
+- social activities such as escort services, dating and other speed networking activities, services of marriage bureau
+- pet care services e.g. boarding, grooming, sitting and training of pets; horse whispering activities
+- operation of animal shelters for abandoned animals
+- genealogical organizations
+- activities of shoe shiners, porters, valet car parkers etc.
+- concession operation of coin-operated personal service machines (weighing machines, machines for checking blood pressure, coin-operated lockers etc.)
+- operation of photo booths and photoautomats for printing photos from electronical records, e.g. from telephone, memory cards, flash drives
+- tattoo artist activities, using biological substances, such as henna, for temporary decoration
+- housesitting activities
+- activities of organizers for private events (except funeral), such as wedding planners, organizers of birthday parties, bachelor parties and bachelorette parties, anniversary celebrations
+This class excludes:
+- veterinary activities, see 7500
+- home cleaning activities, see 8121
+- yoga instruction, see 8551
+- provision of alternative therapeutic services, activities of healers, hypnotists, and practitioners in the field of shiatsu, Thai massage, watsu, tuina qigong, see 8699
+- home-care services for older persons, including live-in care services, see 8810
+- day-care services for children under three provided by a childminder either in their home or in childrens homes, after-school care services, see 8890
+- coin-operated gambling machines, see 9200
+- coin-operated washing machines, see 9610

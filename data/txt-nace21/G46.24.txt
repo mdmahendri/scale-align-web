@@ -1,0 +1,5 @@
+G46.24 Wholesale of hides, skins and leather
+This class includes:
+- wholesale of leather, raw and processed hides, and fur skins
+This class excludes:
+- activities of agents involved in wholesale auctions for fur skin, see 46.11

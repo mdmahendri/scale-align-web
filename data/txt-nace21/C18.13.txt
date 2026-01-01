@@ -1,0 +1,15 @@
+C18.13 Pre-press and pre-media services
+This class includes:
+- composing, typesetting and phototypesetting, pre-press data input into a form suitable for use in various printing processes and representation in other visual media, including scanning and optical character recognition, electronic make-up
+- preparation of data files for multimedia (printing on paper, CD-ROM, the internet) applications
+- plate-making services, including image setting and plate setting (for letterpress and offset printing processes)
+- cylinder preparation: engraving or etching of cylinders for gravure printing
+- plate processing: computer-to-plate (CTP), also photopolymer plates
+- preparation of plates and dies for relief stamping or printing
+- preparation of:
+artistic works of technical character (e.g. preparation of lithographic stones and wood blocks)
+presentation media
+sketches, layouts, dummies, etc.
+production of proofs
+This class excludes:
+- graphic designing of visual content for the communication of information not intended to be printed, see 74.1

@@ -1,0 +1,23 @@
+G4679 Wholesale of chemicals, waste and scrap and other products n.e.c.
+This class includes:
+- wholesale of industrial chemicals:
+* aniline, printing ink, essential oils, industrial gases, chemical glues, colouring matter, synthetic resin, methanol, paraffin, scents and flavourings, soda, industrial salt, acids and sulphurs, starch derivates etc.
+- wholesale of fertilizers and agrochemical products
+- wholesale of plastic materials in primary forms
+- wholesale of rubber
+- wholesale of textile fibres etc.
+- wholesale of paper , e.g. bulk, paper pulp
+- wholesale of precious stones
+- wholesale of metal and non-metal waste and scrap and materials for recycling, including collecting, sorting, separating, stripping of used goods such as cars in order to obtain reusable parts, packing and repacking, storage and delivery, but without a real transformation process.
+Additionally, the purchased and sold waste has a remaining value.
+This class includes also:
+- dismantling of automobiles, computers, televisions and other equipment to obtain and re-sell usable parts
+- wholesale of e-liquids for electronic cigarettes
+This class excludes:
+- collection of household and industrial waste, see group 381
+- treatment of waste, not for a further use in an industrial manufacturing process, but with the aim of disposal, see group 382
+- processing of waste and scrap and other articles into secondary raw material when a real transformation process is required (the resulting secondary raw material is fit for direct use in an industrial manufacturing process, but is not a final product), see 3830
+- dismantling of automobiles, computers, televisions and other equipment for materials recovery, see 3830
+- shredding of cars by means of a mechanical process, see 3830
+- ship-breaking, see 3830
+- retail sale of second-hand goods, see 4774

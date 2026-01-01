@@ -1,0 +1,10 @@
+J60.31 News agency activities
+This class includes:
+- news syndicate and news agency activities furnishing news, pictures and features to the media, publishers and broadcasters
+This class excludes:
+- retail sale of newspapers, see 47.62
+- publishing activities, see 58.1
+- broadcasting and audio or video streaming activities (having distribution rights), see 60.10, 60.20
+- provision of technical infrastructure related to audio or video streaming services, data processing services and related activities, see 63.10
+- activities of independent photojournalists, see 74.20
+- activities of independent journalists, see 90.11

@@ -1,0 +1,7 @@
+G4782 Retail sale of motor vehicle parts and accessories
+This class includes:
+- retail sale of new and used parts, equipment and accessories for motor vehicles
+This class excludes:
+- retail sale of automotive fuel, see 4730
+- retail sale of motor vehicles, see 4781
+- maintenance and repair of motor vehicles and motorcycles, see group 953

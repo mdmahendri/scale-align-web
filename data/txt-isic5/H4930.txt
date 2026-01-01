@@ -1,0 +1,10 @@
+H4930 Transport via pipeline
+This class includes:
+- transport of gases, liquids, water, slurry and other commodities via pipelines
+- pipeline transportation of natural gas from processing plants to local distribution systems
+This class also includes:
+- operation of pump stations for the transport via pipelines
+This class excludes:
+- distribution of gaseous fuels, steam or water to end users through local or regional network of mains, see 3520, 3530, 3600
+- distribution of water by trucks, see 3600
+- transport of liquids by trucks, see 4923

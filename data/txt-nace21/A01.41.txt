@@ -1,0 +1,7 @@
+A01.41 Raising of dairy cattle
+This class includes:
+- raising and breeding of dairy cattle and/or buffaloes
+- production of raw milk from cows or buffaloes
+- production of bovine semen of dairy breeds
+This class excludes:
+- processing of milk, see 10.51

@@ -1,0 +1,5 @@
+L64 Financial service activities, except insurance and pension funding
+This division includes the activities of obtaining and providing funds other than for the purpose of insurance or pension funding or compulsory social security.
+This division also includes activities of holding financial assets (such as the activities of holding companies and financing conduits and the activities of trusts, funds and similar financial entities), which are not activities according to the NACE principle in covering economic production.
+Units classified in groups 64.2 and 64.3 usually do not have any revenue from the sale of products, nor employ any staff (see paragraphs xxxx of the introductory guidelines); they are integrated in NACE to facilitate the classification of units in statistical business registers.
+This division excludes the activities of promotional institutions for economic development through long-term investments at local, regional and national level provided that they act as the governments arm for the execution of their public policy mandate, see 84.13.

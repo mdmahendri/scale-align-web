@@ -1,0 +1,12 @@
+S9200 Gambling and betting activities
+This class includes gambling and betting activities such as:
+- bookmaking and other betting operations
+- off-track betting
+- operation of casinos, including "floating casinos
+- sale of lottery tickets
+- operation (exploitation) of coin-operated gambling machines
+- quiz app subscription with prizes
+- sport betting
+- operation of card games as a betting activity
+This class excludes:
+- operation of card games clubs, e.g. bridge clubs, see 9312

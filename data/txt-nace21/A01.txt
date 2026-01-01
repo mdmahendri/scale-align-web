@@ -1,0 +1,9 @@
+A01 Crop and animal production, hunting and related service activities
+This division includes two basic activities, namely the production of crop products and the production of animal products.
+Mixed farming (group 01.5) breaks with the usual principles for identifying the main activity.
+It accepts that many agricultural units have a reasonably balanced production of crops and animals, and that it would be arbitrary to classify them in one category or the other.
+This division includes the soilless cultivation of crops, such as using hydroponic and aquaponic methods.
+This division also includes service activities incidental to agriculture, as well as hunting, trapping and related activities.
+Agricultural activities exclude any subsequent processing of the agricultural products (classified under divisions 10, 11 and 12), beyond that needed to prepare them for the primary markets.
+The preparation of products for the primary markets is included here.
+This division excludes field construction (for example, agricultural land terracing, drainage, preparing rice paddies) classified in section F and buyers and cooperative associations engaged in the marketing of farm products classified in section G. Also excluded are landscape service activities, which are classified in class 81.30.

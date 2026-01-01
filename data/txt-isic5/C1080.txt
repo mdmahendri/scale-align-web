@@ -1,0 +1,11 @@
+C1080 Manufacture of prepared animal feeds
+This class includes:
+- manufacture of prepared feeds for pets, including dogs, cats, birds, fish etc.
+- manufacture of prepared feeds for farm animals, including animal feed concentrates and feed supplements
+- preparation of unmixed (single) feeds for farm animals.
+This class also includes:
+- processing of waste products from the food industry into animal feeds.
+This class excludes:
+- production of fishmeal for animal feed, see 1020
+- production of oilseed cake, see 1040
+- activities resulting in by-products usable as animal feed without special treatment, e.g. oilseeds (see 1040), grain milling residues (see 1061) etc.

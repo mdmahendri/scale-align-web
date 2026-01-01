@@ -1,0 +1,3 @@
+J59.14 Motion picture projection activities
+This class includes:
+- activities of motion picture or audiovisual projection in cinemas, in open air or other projection venues

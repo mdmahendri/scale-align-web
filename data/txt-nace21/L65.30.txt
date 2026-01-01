@@ -1,0 +1,10 @@
+L65.30 Pension funding
+This class includes the provision of retirement income benefits exclusively for the sponsors employees or members and other insurance products regulated as employer-related funds.
+It includes pension plans with defined benefits as well as defined contributions.
+This class includes:
+- provision of employee benefit plans
+- provision of pension funds and plans
+- provision of retirement plans
+This class excludes:
+- management of pension funds, see 66.30
+- compulsory social security schemes, see 84.30

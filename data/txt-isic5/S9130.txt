@@ -1,0 +1,14 @@
+S9130 Conservation, restoration and other support activities for cultural heritage
+This class includes:
+- activities related to measures and actions for preventive conservation, curative conservation and restoration, including consulting, taking in account both tangible and intangible significance of cultural heritage and sustainability.
+On every kind of materials and surface, these activities covers in particular movable and immovable archaeological assets, leathers, archival documents, graphic and printed documents and wood panelling, objects of art, ceramic tiles, goldsmithing, easel painting, mural painting, photography, sculpture, textiles including embroidery, stained glasses, scientific and industrial objects.
+- activities related to the digitisation of cultural heritage (moveable or immovable), data collection, collection management, virtual replicas and other activities through digital means to ensure the preservation of cultural heritage
+This class excludes:
+- restoring of organs and other historical musical instruments, see 3319
+- renovation and restoration of historical sites and buildings, see section F
+- architectural activities relating to the rehabilitation or restoration of cultural heritage properties, see 7110
+- conservation science (research and development activities devoted to cultural heritage), see 72
+- archaeological excavations, see 722
+- services such as restoration of works of art and museum collection objects and preventive conservation of artworks conducted in-house by units classified in 912, see 912
+- restoring of furniture (except museum type restoration), see 9524
+- repair of musical instruments (except organs and historical musical instruments), see 9529

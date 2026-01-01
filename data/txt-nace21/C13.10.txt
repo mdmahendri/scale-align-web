@@ -1,0 +1,21 @@
+C13.10 Preparation and spinning of textile fibres
+This class includes preparatory operations on textile fibres and the spinning of textile fibres.
+This can be done from varying raw materials, whether new or recycled textile materials (for example, silk, cotton, wool, vegetable or man-made fibres and paper cellulose-based fibres, such as wood or straw).
+This class includes:
+- preparatory operations on textile fibres:
+reeling and washing of silk
+wool scouring, i.e. degreasing and carbonising of wool and dyeing of wool fleece
+carding and combing of all kinds of animal, vegetable and man-made fibres
+- spinning and manufacture of yarn or thread for weaving or sewing, for trade or for further processing
+scutching of flax
+texturising, twisting, folding, cabling and dipping of synthetic or artificial filament yarns
+- spinning of recycled fibres from secondary raw materials
+This class also includes:
+- manufacture of paper yarn
+This class excludes:
+- preparatory operations carried out in combination with agriculture, see division 01
+- retting of plants bearing vegetable textile fibres (jute, flax, coir, etc.), not associated with the growing of vegetable textile fibres, see 01.63
+- cotton ginning, see 01.63
+- manufacture of synthetic or artificial fibres and tows, manufacture of single yarns (including high-tenacity yarn and yarn for carpets) of synthetic or artificial fibres, see 20.60
+- manufacture of glass fibres, see 23.14
+- processing of textile waste into secondary raw materials, see 38.21

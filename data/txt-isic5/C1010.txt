@@ -1,0 +1,21 @@
+C1010 Processing and preserving of meat
+This class includes:
+- operation of slaughterhouses engaged in killing, dressing or packing meat: beef, pork, poultry, lamb, rabbit, mutton, camel, etc.
+- production of fresh, chilled or frozen meat, in carcasses
+- production of fresh, chilled or frozen meat, in cuts
+- production of fresh, chilled or frozen meat, in individual portions
+- production of dried, salted or smoked meat
+- production of meat products:
+* sausages, salami, puddings, "andouillettes", saveloys, bolognas, pts, rillettes, boiled ham.
+This class also includes:
+- slaughtering and processing of whales on land or on specialized vessels
+- production of hides and skins originating from slaughterhouses, including fellmongery
+- rendering of lard and other edible fats of animal origin
+- processing of animal offal
+- production of pulled wool
+- production of feathers and down.
+This class excludes:
+- manufacture of prepared frozen meat and poultry dishes, see 1075
+- manufacture of soup containing meat, see 1079
+- wholesale trade of meat, see 4630
+- packaging of meat, see 8292

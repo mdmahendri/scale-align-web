@@ -1,0 +1,11 @@
+P8413 Regulation of the activities of providing environmental services
+This class includes:
+- public administration of environmental services programmes
+- public administration of research and development policies and associated funds for environmental services
+This class also includes:
+- administration of potable water supply programmes
+- administration of waste collection and disposal operations
+- administration of environmental protection programmes
+This class excludes:
+- sewage, refuse disposal and remediation activities, see divisions 37, 38, 39
+- operation of nature reserves, see class 9142

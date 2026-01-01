@@ -1,0 +1,8 @@
+B0893 Extraction of salt
+This class includes:
+- extraction of table salt from underground including by dissolving and pumping
+- table salt production by evaporation of sea water or other saline waters
+- crushing, purification and refining of table salt by the producer
+This class excludes:
+- processing of salt into food-grade table salt, e.g. iodised salt, see 1079
+- potable water production by evaporation of saline water, see 3600

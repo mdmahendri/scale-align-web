@@ -1,0 +1,5 @@
+C17.11 Manufacture of pulp
+This class includes:
+- manufacture of bleached, semi-bleached or unbleached paper pulp by mechanical, chemical (dissolving or non-dissolving) or semi-chemical processes
+- manufacture of cotton linter pulp
+- removal of ink and manufacture of pulp from waste paper

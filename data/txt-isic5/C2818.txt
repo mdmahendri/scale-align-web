@@ -1,0 +1,20 @@
+C2818 Manufacture of power-driven hand tools
+This class includes:
+- manufacture of hand tools, with self-contained electric or non-electric motor, pneumatic or hydraulic drive, such as:
+circular or reciprocating saws
+chain saws
+drills and hammer drills
+hand held power sanders
+pneumatic nailers
+buffers
+routers
+grinders
+staplers
+pneumatic rivet guns
+planers
+shears and nibblers
+impact wrenches
+powder actuated nailers
+This class excludes:
+- manufacture of hand tools and interchangeable parts for pneumatic and power tools, see 2593
+- manufacture of electrical hand held soldering and welding machines and apparatus equipment, see 2790

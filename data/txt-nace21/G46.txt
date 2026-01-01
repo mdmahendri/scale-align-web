@@ -1,0 +1,15 @@
+G46 Wholesale trade
+This division includes wholesale of physical goods on own account or on a fee or contract basis (commission trade) related to domestic (national) wholesale as well as international wholesale (import/export), including on the internet.
+Wholesale on own account means owning the goods traded until the ownership is transferred to the buyer.
+In the case of transit trade, the goods are commissioned by a buyer, but the agent owns the goods while they are in transit.
+However, both cases are classified the same way (groups 46.2 to 46.9).
+This division includes wholesale on a fee or contract basis (group 46.1), specialised wholesale (groups 46.2 to 46.8) and non-specialised wholesale (group 46.9); class 46.39 is an exception as it includes non-specialised wholesale of food, beverages and tobacco.
+The rules for defining specialised and non-specialised wholesale activities are described in paragraphs xxxx of the introductory guidelines.
+This division also includes:
+- wholesale of motor vehicles and motorcycles, and related parts, equipment and accessories
+- transit trade activities
+This division excludes:
+- trade of electricity, see 35.15
+- trade of gaseous fuels for energy supply through mains, see 35.23
+- rental and leasing of goods, see division 77
+- packaging of solid goods and bottling of liquid or gaseous goods, including blending and filtering for third parties, see 82.92

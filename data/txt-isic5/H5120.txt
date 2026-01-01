@@ -1,0 +1,8 @@
+H5120 Freight air transport
+This class includes:
+- transport freight by air over regular routes and on regular schedules
+- non-scheduled transport of freight by air
+- launching of satellites and space vehicles
+- space transport
+This class also includes:
+- renting of air-transport equipment with operator for the purpose of freight transportation

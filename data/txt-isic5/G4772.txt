@@ -1,0 +1,5 @@
+G4772 Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles
+This class includes:
+- retail sale of pharmaceuticals
+- retail sale of medical and orthopaedic goods
+- retail sale of perfumery and cosmetic articles

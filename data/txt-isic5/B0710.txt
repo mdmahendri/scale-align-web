@@ -1,0 +1,7 @@
+B0710 Mining of iron ores
+This class includes:
+- mining of ores valued chiefly for iron content
+- beneficiation and agglomeration of iron ores .
+This class excludes:
+- extraction and preparation of pyrites and pyrrhotite (except roasting), see 0891
+- services of ore agglomeration and concentration on behalf of third parties, see 0990

@@ -1,0 +1,4 @@
+C24.33 Cold forming or folding
+This class includes:
+- manufacture of open sections by progressive cold forming on a roll mill or folding on a press of flat-rolled products of steel
+- manufacture of cold-formed or cold-folded, ribbed sheets and sandwich panels

@@ -1,0 +1,11 @@
+B0729 Mining of other non-ferrous metal ores
+This class includes:
+- mining and preparation of ores chiefly valued for non-ferrous metal content:
+aluminium (bauxite), copper, lead, lithium (spodumene), zinc, tin, manganese, chrome, nickel, cobalt, molybdenum,
+tantalum, vanadium etc.
+precious metals: gold, silver, platinum
+This class excludes:
+- mining and preparation of uranium and thorium ores, see 0721
+- extraction of salt from sea water, brine, and other saline waters, see 0891
+- production of aluminium oxide, see 2420
+- production of mattes of copper or of nickel, see 2420

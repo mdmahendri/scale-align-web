@@ -1,0 +1,17 @@
+E3700 Sewerage
+This class includes:
+- operation of wastewater treatment facilities, for the reuse of e.g. agricultural, industrial, road cleaning or collected rain water, or for artificial recharge or augmentation of groundwater bodies
+- collection and transportation of wastewater from users, e.g. households or industrial units
+- collection and transportation of rain water
+- treatment of wastewater
+- maintenance and cleaning of sewers and drains, including sewer rodding
+This class also includes:
+- freeze drying of sewage sludge by wastewater treatment plants
+- emptying and cleaning of cesspools and septic tanks, sinks and pits from sewage
+- servicing of chemical toilets
+This class excludes:
+- further treatment of sludge extracted from waste water, such as anaerobic digestion, aerobic treatment like composting, incineration with or without energy recovery, see 3830
+- decontamination of surface water and groundwater at the place of pollution, see 3900
+- construction or repair of sewer systems, see 4220
+- cleaning and deblocking of drainpipes in buildings, see 4322
+- rental and pumping of portable toilets, see 7730

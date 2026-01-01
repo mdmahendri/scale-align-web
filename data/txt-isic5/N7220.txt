@@ -1,0 +1,9 @@
+N7220 Research and experimental development on social sciences and humanities
+This class includes:
+- research and development on social sciences (e.g., economics and business administration; psychology and cognitive sciences; education; sociology; law; political sciences; media and communication; etc.)
+- research and development on humanities and arts (e.g., history and archeology; literature and languages; philosophy; etc.)
+- interdisciplinary research and development, predominantly on social sciences and humanities
+This class includes also:
+- research and development on socio-economic relations
+This class excludes:
+- market research, see 7320

@@ -1,0 +1,10 @@
+C2391 Manufacture of refractory products
+This class includes:
+manufacture of intermediate products from mined or quarried non-metallic minerals e.g. gravel, stone or clay
+- manufacture of refractory mortars, concretes etc.
+- manufacture of refractory ceramic goods e.g.
+heat-insulating ceramic goods of siliceous fossil meals
+refractory bricks, blocks and tiles etc.
+retorts, crucibles, muffles, nozzles, tubes, pipes etc.
+This class also includes:
+- manufacture of refractory articles containing magnesium oxide, calcium magnesium oxide or chromite

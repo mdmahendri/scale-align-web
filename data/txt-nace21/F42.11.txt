@@ -1,0 +1,12 @@
+F42.11 Construction of roads and motorways
+This class includes:
+- construction of motorways, streets, roads, other vehicular and pedestrian ways
+- surface work (e.g. paving of roads, motorways or bridges with asphalt, concrete, stone)
+- construction of airfield runways
+- construction of rough, unpaved mountain bike pathways or trails
+This class excludes:
+- installation of street lighting and electrical signals, see 43.21
+- road painting and other marking of streets, see 43.50
+- installation of crash barriers, traffic signs, etc., see 43.50
+- project management for construction, see 71.1
+- engineering activities, see 71.12

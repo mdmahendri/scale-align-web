@@ -1,0 +1,6 @@
+T95.25 Repair and maintenance of watches, clocks and jewellery
+This class includes:
+- repair of watches, clocks and their parts (e.g. watch cases and housings of any material)
+- repair of jewellery
+This class excludes:
+- repair of time clocks, time/date stamps, time locks and similar time-recording devices, see 33.13

@@ -1,0 +1,8 @@
+V9900 Activities of extraterritorial organizations and bodies
+This class includes:
+- activities of international organisations under international treaties between states such as the United Nations and the specialised agencies of the United Nations system, regional bodies etc., the International Monetary Fund, the World Bank, the World Customs Organisation, the Organisation for Economic Co-operation and Development, the Organisation of Petroleum Exporting Countries, the European Free Trade Association etc.
+- activities of institutions and bodies of the European Union
+This class also includes:
+- activities of general government agencies of other countries e.g. embassies, consulates, military bases, scientific bases, etc.
+This class excludes:
+- activities of non-governmental organisations, see 9499

@@ -1,0 +1,19 @@
+S9012 Visual arts creation activities
+This class includes the activities of creation and production of works of the visual arts
+This class includes:
+- activities of independent artists, e.g. sculptors, painters, cartoonists, calligraphers, engravers, etchers, etc.
+- digital forms of visual arts creation
+- creation of art featuring light installations
+This class excludes:
+- manufacture of stone statues, other than artistic originals, see 2396
+- motion picture and video production, see 5911, 5912
+- operation of cinemas, see 5914
+- activities of personal theatrical or artistic agents or agencies, see 7499
+- casting activities, see 7810
+- ticket reservation and sales activities for theatrical, sports and other amusement and entertainment, see 7990
+- photographic activities, see 7420
+- choreography activities, see 9013
+- services such as restoration of works of art and museum collection objects and preventive conservation of artworks conducted in-house by units classified in 912, see 912
+- restoration of works of art and museum collection objects and preventive conservation of artworks if not
+conducted by units classified in 912, see 913
+- creation and presentation of light and sound shows, see 9329

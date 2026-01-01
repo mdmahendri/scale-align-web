@@ -1,0 +1,14 @@
+H5229 Other support activities for transportation
+This class includes:
+- arranging or organizing of transport operations by rail, road, sea or air
+- logistics consulting activities, i.e. planning, designing and supporting operations of transportation, warehousing and distribution
+- issue and procurement of transport documents and waybills
+- goods-handling operations, e.g. temporary crating for the sole purpose of protecting the goods during transit, uncrating, sampling, weighing of goods
+This class excludes:
+- agents and brokers acting on behalf of a client in freight transportation, see 5231
+- agents and brokers acting on behalf of a client in passenger transportation, see 5232
+- courier activities, see 5320
+- provision of motor, marine, aviation and transport insurance, see 6512
+- activities of travel agencies, see 7911
+- activities of tour operators, see 7912
+- tourist assistance activities, see 7990

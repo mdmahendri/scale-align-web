@@ -1,0 +1,19 @@
+C1920 Manufacture of refined petroleum products; manufacture of fossil fuel products
+This class includes the manufacture of liquid or gaseous fuels or other products from crude petroleum, bituminous minerals or their fractionation products.
+Petroleum refining involves one or more of the following activities: fractionation; straight distillation of crude oil; and cracking.
+This class includes:
+- production of motor fuel: gasoline, kerosene etc.
+- production of fuel: light, medium and heavy fuel oil, refinery gases such as ethane, propane, butane etc.
+- manufacture of oil-based lubricating oils or greases, including from waste oil
+- manufacture of products for the petrochemical industry and for the manufacture of road coverings
+- manufacture of various refined petroleum products, white spirit, vaseline, paraffin wax, petroleum jelly etc.
+- manufacture of petroleum briquettes
+- blending of biofuels, i.e. blending of alcohols with petroleum (e.g. gasohol)
+- manufacture of products from petroleum waste materials, e.g waste lubricating petroleum oils
+This class also includes:
+- manufacture of peat briquettes
+- manufacture of hard-coal and lignite fuel briquettes
+This class excludes:
+- manufacture of solid fuels from biomass, see 1629
+- manufacture of liquid biofuels, see 2029
+- extraction and production of natural gas, see 0620

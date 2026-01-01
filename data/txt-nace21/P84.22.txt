@@ -1,0 +1,18 @@
+P84.22 Defence activities
+This class includes:
+- administration, supervision and operation of military defence affairs and land, sea, air and space defence forces, e.g.:
+combat forces of army, navy and air force
+engineering, transport, communication, intelligence, materiel, personnel and other non-combat forces and commands
+reserve and auxiliary defence forces
+military logistics (provision of equipment, structures, supplies, etc.)
+health activities for military personnel in the field
+- administration, operation and support of civil defence forces
+- support for the elaboration of contingency plans and the carrying out of exercises in which civilian institutions and populations are involved
+- administration of defence-related research and development policies and related funds
+This class excludes:
+- research and experimental development activities, see division 72
+- provision of military aid to foreign countries, see 84.21
+- activities of military tribunals, see 84.23
+- provision of supplies for domestic emergency use in case of peacetime disasters, see 84.24
+- educational activities of military schools, colleges and academies, see 85.40
+- activities of military hospitals, see 86.10

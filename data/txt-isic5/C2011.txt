@@ -1,0 +1,56 @@
+C2011 Manufacture of basic chemicals
+This class includes the manufacture of chemicals using basic processes, such as thermal cracking and distillation.
+The output of these processes are usually separate chemical elements or separate chemically defined compounds.
+This class includes:
+- manufacture of liquefied or compressed inorganic industrial or medical gases:
+* elemental gases
+* liquid or compressed air
+* refrigerant gases
+* mixed industrial gases
+* inert gases such as carbon dioxide
+* isolating gases
+- manufacture of dyes and pigments from any source in basic form or as concentrate
+- manufacture of chemical elements
+- manufacture of inorganic acids except nitric acid
+- manufacture of alkalis, lyes and other inorganic bases except ammonia
+- manufacture of other inorganic compounds
+- manufacture of basic organic chemicals:
+* acyclic hydrocarbons, saturated and unsaturated
+* cyclic hydrocarbons, saturated and unsaturated
+* acyclic and cyclic alcohols
+* mono- and polycarboxylic acids, including acetic acid
+* other oxygen-function compounds, including aldehydes, ketones, quinones and dual or poly oxygen-function compounds
+* synthetic glycerol
+* nitrogen-function organic compounds, including amines
+* fermentation of sugarcane, corn or similar to produce alcohol and esters
+* other organic compounds, including wood distillation products (e.g. charcoal) etc.
+- manufacture of distilled water
+- manufacture of synthetic aromatic products
+- roasting of iron pyrites
+- distillation of coal tar
+This class also includes:
+- manufacture of products of a kind used as fluorescent brightening agents or as luminophores
+- manufacture of methane, not for the provision as a gaseous fuel through a permanent supply network
+- manufacture of ethyl alcohol, other than for bioethanol fuel
+- enrichment of uranium and thorium ores and production of fuel elements for nuclear reactors
+- manufacture of lithium hydroxide
+This class excludes:
+- extraction of methane, ethane, butane or propane, see 0620
+- extraction of natural gas, consisting predominately of methane, see 0620
+- liquefaction and regasification of natural gas for purpose of transport, done at the mine site, see 0910
+- manufacture of fuel gases such as ethane, butane or propane in a petroleum refinery, see 1920
+- manufacture of nitrogenous fertilizers and nitrogen compounds, see 2012
+- manufacture of ammonia, see 2012
+- manufacture of ammonium chloride, see 2012
+- manufacture of nitrites and nitrates of potassium, see 2012
+- manufacture of ammonium carbonates, see 2012
+- manufacture of plastics in primary forms, see 2013
+- manufacture of synthetic rubber in primary forms, see 2013
+- manufacture of prepared dyes and pigments, see 2022
+- manufacture of crude glycerol, see 2023
+- manufacture of natural essential oils, see 2029
+- manufacture of aromatic distilled waters, see 2029
+- manufacture of liquid biofuels, e.g. bioethanol fuel, see 2029
+- manufacture of ethanol from biomass, see 2029
+- manufacture of salicylic and O-acetylsalicylic acids, see 2100
+- production of methane for the provision as a gaseous fuel through a permanent supply network, see 3520

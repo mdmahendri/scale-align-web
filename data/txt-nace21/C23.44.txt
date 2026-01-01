@@ -1,0 +1,8 @@
+C23.44 Manufacture of other technical ceramic products
+This class includes:
+- manufacture of permanent magnets and articles intended to become permanent magnets after magnetisation, of materials other than metal (e.g. agglomerated ferrite)
+- manufacture of ceramic wares for laboratory, chemical or other technical uses
+This class excludes:
+- manufacture of refractory ceramic goods, see 23.20
+- manufacture of ceramic building materials, see 23.3
+- manufacture of artificial stone (e.g. cultured marble), see 23.66

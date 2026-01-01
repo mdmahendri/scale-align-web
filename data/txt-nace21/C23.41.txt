@@ -1,0 +1,6 @@
+C23.41 Manufacture of ceramic household and ornamental articles
+This class includes:
+- manufacture of ceramic tableware, kitchenware, household articles, toilet articles, statuettes and other ornamental articles of ceramics (e.g. porcelain, china, common pottery, stoneware, earthenware or fine pottery)
+This class excludes:
+- manufacture of imitation jewellery, see 32.13
+- manufacture of ceramic toys, see 32.40

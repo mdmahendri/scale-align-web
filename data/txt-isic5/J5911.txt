@@ -1,0 +1,25 @@
+J5911 Motion picture, video and television programme production activities
+This class includes:
+- motion picture, video or audiovisual and television programme production activities
+- production of television commercials
+- production of animated audiovisual works
+- production of television or video news programmes
+- production of vlogs
+- production of video podcasts
+This class excludes:
+- film duplicating (except reproduction of motion picture film for theatrical distribution) as well as audio and video reproduction of audio and video recordings on CD, DVD or other physical media from master copies, see 1820
+- wholesale of recorded videos on CD, DVD, or other physical media, see 4649
+- retail sale of recorded videos on CD, DVD, or other physical media, see 4769
+- post-production activities, see 5912
+- reproduction of motion picture film for theatrical distribution, see 5912
+- sound recording and recording of audio books, see 5920
+- television broadcasting, see 6020
+- creating a complete television channel programme, see 6020
+- film processing excluding processing motion picture film, see 7420
+- processing motion picture film, see 5912
+- activities of personal theatrical or artistic agents or agencies, see 7499
+- rental of video tapes and DVDs to the general public, see 7729
+- real-time (i.e. simultaneous) closed captioning of live television performances, meetings, conferences, etc., see 8299
+- activities of independent actors (including influencers appearing in vlogs) and cartoonists, see 9020
+- activities of independent directors, see 9039
+- activities of independent stage designers and other support activities to performing arts, see 903

@@ -1,0 +1,19 @@
+I56.11 Restaurant activities
+This class includes the provision of predominantly food services to customers (for example, in traditional restaurants, self-service or takeaway restaurants), with or without seating, in permanent or temporary facilities.
+This class includes activities of:
+- restaurants
+- cafeterias
+- fast-food restaurants
+- take-out eating places
+This class also includes:
+- operation of restaurants on transport equipment and within transport facilities, if operated by separate units not part of the transport provider
+- operation of restaurants in a hotel, if operated by separate units not part of the hotel
+- operation of takeaway restaurants in a supermarket, if operated by separate units not part of the supermarket
+This class excludes:
+- retail sale of food through vending machines, see 47.2
+- operation of railway dining cars as an integrated operation of railway companies, see 49.11
+- mobile food service activities, see 56.12
+- event catering activities, see 56.21
+- concession operation of eating facilities, see 56.22
+- activities of food service contractors (e.g. for transport companies), see 56.22
+- activities of tea rooms, see 56.30

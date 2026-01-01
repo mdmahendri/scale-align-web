@@ -1,0 +1,9 @@
+C25 Manufacture of fabricated metal products, except machinery and equipment
+This division includes the manufacture of "pure" metal products (such as parts, containers and structures), usually with a static, immovable function, as opposed to the following divisions 26-30, which cover the manufacture of combinations or assemblies of such metal products (sometimes with other materials) into more complex units that, unless they are purely electrical, electronic or optical,
+work with moving parts.
+This division includes also the manufacture of products of composite materials in which metals are the predominant material
+The manufacture of weapons and ammunition is also included in this division.
+This division excludes:
+- specialised repair and maintenance activities of fabricated metal products, machinery and equipment, see 331
+- specialised installation of manufactured goods produced in this division in buildings, such as central
+heating boilers, see 4322

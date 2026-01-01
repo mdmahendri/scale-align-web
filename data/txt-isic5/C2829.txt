@@ -1,0 +1,29 @@
+C2829 Manufacture of other special-purpose machinery
+This class includes the manufacture of special-purpose machinery not elsewhere classified.
+This class includes:
+- manufacture of machinery for making paper pulp
+- manufacture of paper and paperboard making or finishing machinery
+- manufacture of dryers for wood, paper pulp, paper or paperboard
+- manufacture of machinery producing articles of paper or paperboard
+- manufacture of machinery for working soft rubber or plastics or for the manufacture of products of these materials:
+* extruders, moulders, pneumatic tyre making or retreading machines and other machines for making a specific rubber or plastic product
+- manufacture of printing and bookbinding machines and machines for activities supporting printing on a variety of materials
+- manufacture of machinery for producing tiles, bricks, shaped ceramic pastes, pipes, graphite electrodes, blackboard chalk, foundry moulds etc.
+- manufacture of semi-conductor manufacturing machinery
+- manufacture of additive manufacturing machinery
+- manufacture of industrial robots performing multiple tasks for special purposes
+- manufacture of diverse special-purpose machinery and equipment:
+* machines to assemble electric or electronic lamps, tubes (valves) or bulbs
+* machines for production or hot-working of glass or glassware, glass fibre or yarn
+* machinery or apparatus for isotopic separation
+- manufacture of tire alignment and balancing equipment; balancing equipment (except wheel balancing)
+- manufacture of central greasing systems
+- manufacture of aircraft launching gear, aircraft carrier catapults and related equipment
+- manufacture of automatic bowling alley equipment (e.g. pin-setters)
+- manufacture of roundabouts, swings, shooting galleries and other fairground amusements
+This class excludes:
+- manufacture of household appliances, see 2750
+- manufacture of photocopy machines etc., see 2817
+- manufacture of machinery or equipment to work hard rubber, hard plastics or cold glass, see 2822
+- manufacture of ingot moulds, see 2823
+- manufacture of textile printing machinery, see 2826

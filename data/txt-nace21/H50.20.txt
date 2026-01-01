@@ -1,0 +1,13 @@
+H50.20 Sea and coastal freight water transport
+This class includes:
+- transport of freight over sea and coastal waters
+- transport by towing or pushing of barges, oil rigs, etc.
+This class also includes:
+- rental of vessels with crew for sea and coastal freight water transport
+- ferry transport of unaccompanied vehicles
+This class excludes:
+- ferry transport of passengers with or without a vehicle, see 50.10
+- storage of freight, see 52.10
+- harbour operations and other auxiliary activities (e.g. docking, pilotage, lighterage, vessel salvage), see 52.22
+- cargo handling, see 52.24
+- rental of commercial ships or boats without crew, see 77.34

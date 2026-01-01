@@ -1,0 +1,10 @@
+P84.24 Public order and safety activities
+This class includes:
+- administration and operation of regular and auxiliary police forces supported by public authorities and of port, border, coastguards and other special police forces, including traffic law enforcement, foreigner registration, and the maintenance of arrest records
+- provision of supplies for domestic emergency use in case of peacetime disasters
+This class also includes:
+- activities of voluntary associations that ensure the protection of public safety
+This class excludes:
+- operation of police laboratories, see 71.20
+- use of security personnel for events, concerts, fairs and exhibitions, see 80.01
+- administration and operation of military armed forces, see 84.22

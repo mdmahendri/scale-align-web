@@ -1,0 +1,5 @@
+I56.21 Event catering activities
+This class includes the provision of food and supply, based on contractual agreements, at the location specified by the customer, for a specific event.
+This class excludes:
+- manufacture of perishable food items, see 10.89
+- retail sale of perishable food items, see 47.2

@@ -1,0 +1,5 @@
+Q8561 Intermediation service activities for courses and tutors
+This class includes the intermediation service activities for courses and tutors by bringing clients and service providers together for a fee or commission, without the intermediary providing the instruction or tutoring services intermediated.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (face-to-face including door-to-door, phone, mail, etc.).
+The fee or commission can be received from either the client or the provider of instruction or tutoring.
+Revenue for the intermediation activities can include other sources of income, such as revenues from sale of advertising space.

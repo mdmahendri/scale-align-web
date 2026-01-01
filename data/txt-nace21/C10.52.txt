@@ -1,0 +1,6 @@
+C10.52 Manufacture of ice cream and other edible ice
+This class includes:
+- manufacture of ice cream and other edible ice (e.g. sorbet)
+This class excludes:
+- production of ice from natural water for cooling purposes, see 35.30
+- activities of ice cream parlours, see 56.1

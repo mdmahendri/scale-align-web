@@ -1,0 +1,12 @@
+N7320 Market research and public opinion polling activities
+This class includes:
+- conducting market research studies on the awareness, evaluation and use of goods and services, on product development and pricing, on the use of media and on the recall and impact of advertising
+- conducting studies of opinion research on the quality of life and lifestyles, on social participation and political participation, on party preference and voting behavior
+This class also includes scientific conducting of market and opinion research with a
+- qualitative and quantitative methodological orientation;
+- reactive and non-reactive survey procedures;
+- collection of research data through questioning, observation, measurement and counting;
+- face-to-face, postal, telephone and online interviews to collect research data.
+This class excludes:
+- advertising, see group 7310
+- undertaking telephone interviews for market and opinion research surveys on a contract or fee basis, see 8220

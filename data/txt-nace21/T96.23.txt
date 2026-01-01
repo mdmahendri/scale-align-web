@@ -1,0 +1,9 @@
+T96.23 Day spa, sauna and steam bath activities
+This class includes:
+- activities of Turkish baths, sauna and steam baths, day spas, solariums, weight loss and slendering salons, etc.
+- activities of massage salons for non-medical massage
+This class excludes:
+- physical well-being services as part of accommodation activities, see division 55
+- activities of medical massage therapists, see 86.95
+- activities of practitioners in the field of shiatsu, Thai massage, Watsu, tui na, qigong, see 86.99
+- activities of health, fitness and body-building clubs and facilities, see 93.13

@@ -1,0 +1,10 @@
+C19.10 Manufacture of coke oven products
+This class includes:
+- operation of coke ovens
+- production of coke and semi-coke
+- production of pitch and pitch coke
+- production of coke oven gas
+- production of crude coal and lignite tars
+- agglomeration of coke
+This class excludes:
+- manufacture of coal fuel briquettes, see 19.20

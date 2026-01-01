@@ -1,0 +1,5 @@
+U98.10 Undifferentiated goods-producing activities of private households for own use
+This class includes the undifferentiated subsistence goods-producing activities of households, in other words, the activities of households that are engaged in a variety of activities that produce goods for their own subsistence.
+These activities include hunting and gathering, farming, and the production of shelter, clothing and other goods by the household for its own subsistence.
+If households are also engaged in the production of marketed goods, they are classified to the appropriate goods-producing industry of NACE.
+If they are principally engaged in a specific goods-producing subsistence activity, they are classified to the appropriate goods-producing industry of NACE.

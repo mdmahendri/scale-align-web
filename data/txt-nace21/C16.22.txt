@@ -1,0 +1,5 @@
+C16.22 Manufacture of assembled parquet floors
+This class includes:
+- manufacture of wooden parquet floor blocks, strips, etc., assembled into panels
+This class excludes:
+- manufacture of unassembled wooden flooring, see 16.11

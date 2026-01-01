@@ -1,0 +1,14 @@
+O7990 Other travel related activities
+This class includes:
+- visitor assistance services:
+provision of travel information to visitors
+activities of independent tourist guides
+- tourism promotion activities
+This class excludes:
+- the activities of travel agencies and tour operators, see 7911, 7912
+- organisation and management of events such as meetings, conventions and conferences including transport, accommodation, ticketing if managed by the organiser itself, see 8230
+- ticket reservation and sales activities for theatrical, sports and other amusement and entertainment events, see 8240
+- fee-based reservation activities for passenger transportation, see 5232
+- time-share exchange services, see 5540
+- fee-based reservation activities for food services, see 5640
+- fee-based reservation activities for accommodation, see 5540

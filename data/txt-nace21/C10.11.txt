@@ -1,0 +1,14 @@
+C10.11 Processing and preserving of meat, except of poultry meat
+This class includes:
+- operation of slaughterhouses engaged in killing, dressing or packing meat: beef, pork, lamb, rabbit, mutton, camel, etc.
+- production of fresh, chilled or frozen meat, in carcasses
+- production of fresh, chilled or frozen meat, in cuts
+This class also includes:
+- slaughtering and processing of whales on land or on specialised vessels
+- production of hides and skins originating from slaughterhouses (e.g. by fellmongery and salting)
+- rendering and refining of lard and other edible animal fats
+- processing of animal offal
+- production of pulled wool
+This class excludes:
+- rendering of edible poultry fats, see 10.12
+- production of dried, salted or smoked meat, and meat products, see 10.13

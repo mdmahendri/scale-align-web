@@ -1,0 +1,11 @@
+G4761 Retail sale of books, newspapers, stationery and office supplies
+This class includes:
+- retail sale of books of all kinds
+- retail sale of newspapers and stationery
+This class also includes:
+- retail sale of office and school supplies such as pens, pencils, paper etc.
+This class excludes:
+- retail sale of second-hand or antique books, see 4774
+- distributing e-books and audio books via streaming and downloading by book publishers, see 5811
+- distribution of newspapers via streaming or downloading by their publishers, see 5812
+- distribution of periodicals and journals via streaming or downloading by their publishers, see 5813

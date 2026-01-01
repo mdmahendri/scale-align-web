@@ -1,0 +1,10 @@
+I5540 Intermediation service activities for accommodation
+This class includes the intermediation of all types of accommodation by bringing clients and service providers together for a fee or commission.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (phone, post etc.).
+The fee or commission can be received from either the client or the provider of the accommodation.
+Revenue for the intermediation activities can include other sources of income, such as revenues from the sale of advertising space.
+This class includes also:
+- time-share exchange services
+- reservation services for accommodation
+This class excludes:
+- the activities of combined activities of accommodation, travel and food, i.e. travel agencies and tour operators, see 7911, 7912

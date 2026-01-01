@@ -1,0 +1,13 @@
+A0210 Silviculture and other forestry activities
+This class includes:
+- growing of standing timber: planting, replanting, transplanting, thinning and conserving of forests and timber tracts
+- growing of coppice, pulpwood and fire wood
+- operation of forest tree nurseries.
+These activities can be carried out in natural, semi-natural or planted forests.
+This class excludes:
+- growing of Christmas trees, see 0129
+- operation of tree nurseries, except for forest trees, see 0130
+- gathering of mushrooms and other wild growing non-wood forest products, see 0230
+- production of wood chips and particles not associated with forestry activities, see 1610
+- production of wood fire logs not associated with forestry activities, see 1629
+- activities relating to amenity tree care and arboriculture, see 8130

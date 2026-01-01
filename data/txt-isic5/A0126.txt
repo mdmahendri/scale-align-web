@@ -1,0 +1,8 @@
+A0126 Growing of oleaginous fruits
+This class includes:
+- growing of oleaginous fruits such as:
+coconuts
+olives
+oil palms
+This class excludes:
+- growing of soya beans, groundnuts and other oil seeds, see 0111

@@ -1,0 +1,5 @@
+G47.5 Retail sale of other household equipment
+This group includes the specialised retail sale of household equipment (for example, textiles, hardware, carpets, electrical appliances, furniture).
+This group excludes:
+- retail sale of audio and video equipment, see 47.40
+- retail sale of second-hand household equipment, see 47.79

@@ -1,0 +1,12 @@
+G4759 Retail sale of electrical household appliances, furniture, lighting equipment and other household articles
+This class includes:
+- retail sale of household furniture, including mattresses and box springs
+- retail sale of articles for lighting
+- retail sale of household utensils and cutlery, crockery, glassware, china and pottery
+- retail sale of wooden, cork and wickerwork goods
+- retail sale of household appliances
+- retail sale of musical instruments and scores
+- retail sale of security systems, such as locking devices, safes, and vaults, without installation or maintenance services
+- retail sale of household articles and equipment n.e.c.
+This class excludes:
+- retail sale of antiques, see 4774

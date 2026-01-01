@@ -1,0 +1,19 @@
+M68.20 Rental and operating of own or leased real estate
+This class includes:
+- rental and operating of self-owned or leased real estate:
+apartment buildings and dwellings
+non-residential buildings, including office buildings, industrial buildings, warehouses, hotels and other leisure buildings, exhibition halls, self-storage facilities, retail stores/shops, and shopping centres
+data centres
+land, including agricultural and forestry land
+- provision of homes and furnished or unfurnished flats or apartments for more permanent use, on an annual basis or longer
+- operation of residential mobile home sites for primary residences
+- development of building projects for own operation, i.e. for rental of space in these buildings
+This class also includes:
+- letting of roofs (e.g. for solar power installations)
+- rental of industrial plants and factories, including machinery and equipment
+- provision of space exclusively for animal boarding
+This class excludes:
+- operation of hotels, suite hotels, holiday homes, rooming houses, camping grounds, trailer parks and other non-residential or short-stay accommodation places (including student accommodation) provided for less than one year, see division 55
+- development of building projects for residential and non-residential buildings, for later sale, see 68.12
+- rental of machinery, see 77.3
+- residential care activities for older persons or persons with physical disabilities, including supervision and assistance in daily living, see 87.30

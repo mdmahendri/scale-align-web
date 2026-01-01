@@ -1,0 +1,27 @@
+P84.12 Regulation of health care, education, cultural services and other social services
+This class includes:
+- public administration of programmes aimed to increase personal well-being, e.g.:
+health
+education
+culture
+sport
+recreation
+environment
+housing
+social services
+- public administration of research and development policies and associated funds for these areas
+This class also includes:
+- public sponsoring of recreational and cultural activities
+- distribution of public grants to artists
+- administration of potable water supply programmes
+- administration of waste collection and disposal operations
+- administration of environmental protection programmes
+- administration of housing programmes
+This class excludes:
+- sewerage, refuse disposal and remediation activities, see divisions 37, 38, 39
+- compulsory social security activities, see 84.30
+- education activities, see section Q
+- human health-related activities, see division 86
+- museums and other cultural institutions, see division 91
+- activities of government-operated libraries and archives, see 91.1
+- sporting or other recreational activities, see division 93

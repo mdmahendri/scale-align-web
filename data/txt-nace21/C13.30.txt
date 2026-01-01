@@ -1,0 +1,14 @@
+C13.30 Finishing of textiles
+This class includes finishing of textiles and wearing apparel, in other words, bleaching, dyeing, dressing and similar activities.
+This class includes:
+- bleaching and dyeing of textile fibres, yarns, fabrics and textile articles, including wearing apparel
+- dressing, drying, steaming, shrinking, mending, sanforising, mercerising of textiles and textile articles, including wearing apparel
+This class also includes:
+- bleaching of jeans
+- pleating and similar work on textiles
+- waterproofing, coating, rubberising, or impregnating purchased garments
+- printing of textile fabrics as an intermediate process within the manufacture of textiles
+This class excludes:
+- printing, including silkscreen printing, on textiles and wearing apparel, not as an intermediate process within the manufacture of textiles, see 18.12
+- laser engraving on textiles, see 18.12
+- manufacture of textile fabric impregnated, coated, covered or laminated with rubber where rubber is the primary constituent, see 22.12

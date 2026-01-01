@@ -1,0 +1,14 @@
+G4653 Wholesale of agricultural machinery, equipment and supplies
+This class includes:
+- wholesale of agricultural and forestry machinery and equipment:
+ploughs, manure spreaders, seeders
+harvesters
+threshers
+milking machines
+poultry-keeping machines, bee-keeping machines
+tractors used in agriculture and forestry
+This class also includes:
+- Wholesale of garden and landscaping equipment, e.g. lawn mowers etc.
+This class excludes:
+- wholesale of fertilisers and agrochemical products see 4679
+- wholesale of livestock feed, see 4620

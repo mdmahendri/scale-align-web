@@ -1,0 +1,9 @@
+R86.21 General medical practice activities
+This class includes:
+- medical consultation and treatment in the field of general medicine carried out by general practitioners
+This class excludes:
+- inpatient hospital activities, see 86.10
+- medical specialists activities, see 86.22
+- nursing and midwifery activities, see 86.94
+- physiotherapy activities, see 86.95
+- traditional, complementary and alternative medicine activities, see 86.96

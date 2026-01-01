@@ -1,0 +1,10 @@
+S9122 Historical site and monument activities
+This class includes the operation and preservation of heritage places as a result of human intervention in its surroundings, from landscapes to gardens, from buildings to sites (built heritage as well natural heritage).
+This class includes:
+- operation and preservation of historical sites and buildings
+- operation and preservation of archaeological sites open to visitors
+This class excludes:
+- renovation and restoration of historical sites and buildings, see section F
+- architectural activities relating to the rehabilitation or restoration of cultural heritage properties, see 7110
+- archaeological excavations, see 7220
+- restoration of works of art and museum collection objects and preventive conservation of artworks if not conducted by units classified in 912, see 913

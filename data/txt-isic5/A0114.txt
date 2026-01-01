@@ -1,0 +1,5 @@
+A0114 Growing of sugar cane
+This class includes:
+- growing of sugar cane
+This class excludes:
+- growing of sugar beet, see 0113

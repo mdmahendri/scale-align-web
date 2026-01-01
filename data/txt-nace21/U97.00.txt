@@ -1,0 +1,6 @@
+U97.00 Activities of households as employers of domestic personnel
+This class includes households employment of domestic personnel (for example, cooks, cleaners, gardeners, chauffeurs, caretakers, babysitters, personal assistants).
+This allows the employed domestic personnel to state the activity of their employer in censuses or studies, even though the employer is an individual.
+The product produced by this activity is consumed by the employing household.
+This class excludes:
+- provision of personal and household services (e.g. cleaning, ironing, cooking, gardening, homecare services for dependents) by service providers (for-profit, not-for-profit, public organisations or self-employed), see the appropriate NACE class according to the service provided

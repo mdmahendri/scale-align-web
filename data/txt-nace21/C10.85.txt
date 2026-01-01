@@ -1,0 +1,17 @@
+C10.85 Manufacture of prepared meals and dishes
+This class includes the manufacture of ready-made (in other words, prepared, seasoned and cooked) meals and dishes.
+These dishes are processed and conserved (for example, in frozen or canned form) and are usually packaged and labelled for resale, in other words, this class excludes the preparation of meals for immediate consumption (for example, food prepared in restaurants or by caterers).
+To be considered a dish, these foods have to contain at least two distinct main ingredients (except seasonings, and so on).
+This class includes:
+- manufacture of meat or poultry dishes
+- manufacture of fish dishes, including fish and chips
+- manufacture of pasta and rice dishes
+- manufacture of vegetable dishes
+- manufacture of frozen or otherwise preserved pizza and croque-monsieur
+This class excludes:
+- manufacture of fresh foods or foods with less than two ingredients, see corresponding class in division 10
+- manufacture of perishable prepared foods of fruits and vegetables, see 10.39
+- manufacture of perishable prepared foods, see 10.89
+- wholesale of prepared meals and dishes, see 46.38
+- retail sale of prepared meals and dishes, see 47.11, 47.27
+- activities of event catering and contract catering services, see 56.2

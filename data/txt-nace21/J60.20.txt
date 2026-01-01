@@ -1,0 +1,15 @@
+J60.20 Television programming, broadcasting and video distribution activities
+This class includes the creation of a complete television channel programme, from purchased programme components (for example, movies, documentaries), self-produced programme components (for example, local news, live reports), or a combination thereof.
+This complete television programme can be either broadcast by the producing unit or produced for transmission by a third-party operator of transmission facilities (for example, cable companies, satellite television providers).
+The programming may be of a general or specialised nature (for example, narrowcast formats such as news, sport, education, youth-oriented programming), may be made freely available to users or may be available only on a subscription basis.
+This class also includes:
+- programming of video-on-demand channels
+- video streaming and download service activities not associated with its publishing
+- broadcasting of live performances and events
+- operation of video game streaming sites
+This class excludes:
+- video game publishers, streaming and download distribution service activities of video game publishers, see 58.21
+- production of television programme elements (movies, documentaries, talk shows, commercials, etc.), see 59.11
+- assembly of a package of channels and transmission of that package, by cable or satellite transmission network operators to viewers, see 61.10
+- provision of technical infrastructure related to video streaming services, data processing services and related activities, see 63.10
+- rental of recorded videos on physical media to the general public, see 77.22

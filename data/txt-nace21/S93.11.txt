@@ -1,0 +1,17 @@
+S93.11 Operation of sports facilities
+This class includes:
+- operation of facilities for outdoor or indoor sporting events (open, closed or covered, with or without spectator seating)
+- organisation and operation of outdoor or indoor sporting events for professionals or amateurs by organisations in their own facilities (not by sports clubs)
+This class also includes:
+- managing and providing the staff to operate these facilities
+- provision of equipment to operate these facilities
+- operation of sports areas, which may include the operation of cableways, ski lifts and chairlifts
+- management of outdoor sport-equipped areas
+- operation of grass-roots sporting facilities
+This class excludes:
+- transport by cableways, ski lifts and chairlifts, which may include the preparation of ski slopes, see 49.34
+- rental of recreation and sports equipment, see 77.21
+- organisation and operation of outdoor or indoor sporting events for professionals or amateurs by sports clubs, see 93.12
+- activities of fitness facilities, see 93.13
+- organisation and operation of outdoor or indoor sporting events for professionals or amateurs by organisations (not by sports clubs) without own facilities, see 93.19
+- park and beach activities, see 93.29

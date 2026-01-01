@@ -1,0 +1,9 @@
+C2680 Manufacture of magnetic and optical media
+This class includes the manufacture of magnetic and optical recording media.
+This class includes:
+manufacture of blank magnetic audio and video tapes
+manufacture of blank magnetic audio and video cassettes
+manufacture of blank diskettes
+manufacture of blank optical discs
+This class excludes:
+reproduction of recorded media (computer media, sound, video, etc.), see 1820

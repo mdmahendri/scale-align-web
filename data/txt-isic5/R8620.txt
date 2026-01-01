@@ -1,0 +1,14 @@
+R8620 Medical and dental practice activities
+This class includes:
+- medical consultation and treatment in the field of general and specialized medicine by general practitioners and medical specialists and surgeons
+- dental practice activities of a general or specialized nature, e.g. dentistry, endodontic and pediatric dentistry; oral pathology
+- orthodontic activities
+- family planning centres providing medical treatment, such as sterilization and termination of pregnancy, without accommodation
+These activities can be carried out in private practice, group practices and in hospital outpatient clinics, and in clinics such as those attached to firms, schools, homes for the aged, labour organizations and fraternal organizations, as well as in patients homes.
+This class also includes:
+- dental activities in operating rooms
+- private consultants services to inpatients
+This class excludes:
+- production of artificial teeth, denture and prosthetic appliances by dental laboratories, see 3250
+- inpatient hospital activities, see 8610
+- paramedical activities such as those of midwives, nurses and physiotherapists, see 8699

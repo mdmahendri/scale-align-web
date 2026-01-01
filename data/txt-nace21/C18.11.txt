@@ -1,0 +1,7 @@
+C18.11 Printing of newspapers
+This class also includes:
+- printing of other periodicals, appearing at least four times a week
+This class excludes:
+- photocopying activities, see 18.12
+- publishing of printed matter, see 58.1
+- operation of photocopying machines for photocopying as a self-service, see 82.10

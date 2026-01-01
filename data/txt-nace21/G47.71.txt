@@ -1,0 +1,13 @@
+G47.71 Retail sale of clothing
+This class includes:
+- retail sale of articles of clothing, including underwear
+- retail sale of fur articles
+- retail sale of clothing accessories, (e.g. gloves, ties, braces)
+This class also includes:
+- retail sale of work clothes, uniforms, disguises, carnival costumes, etc.
+This class excludes:
+- retail sale of textiles, see 47.51
+- retail sale of special sports equipment clothes for skiing, martial arts, ballet, etc., see 47.63
+- retail sale of protective gear for cyclists, see 47.63
+- retail sale of second-hand clothing, see 47.79
+- retail sale of protective gear for motorcyclists, see 47.83

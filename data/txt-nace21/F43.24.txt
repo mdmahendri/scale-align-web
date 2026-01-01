@@ -1,0 +1,17 @@
+F43.24 Other construction installation
+This class includes the installation, repair and maintenance of equipment other than electrical, plumbing, heating and air-conditioning systems or industrial machinery in buildings and civil engineering structures.
+This class includes:
+- installation in buildings or other construction projects of:
+elevators, escalators, including stairlifts
+automated and revolving doors
+lightning conductors
+vacuum cleaning systems
+blinds and awnings
+- installation of fences, railings and fire escape staircases
+- installation of signs, whether illuminated or not
+- installation and replacement of locks
+- installation of automatic systems on buildings (e.g. for opening windows and doors)
+This class also includes:
+- installation of equipment for the personal safety of builders (e.g. to secure lifelines)
+This class excludes:
+- installation of industrial machinery, see 33.20

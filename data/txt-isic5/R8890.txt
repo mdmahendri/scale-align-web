@@ -1,0 +1,15 @@
+R8890 Other social work activities without accommodation
+This class includes:
+- social, counselling, welfare, refugee, referral and similar services which are delivered to individuals and families in their homes or elsewhere and carried out by public or by private organizations, disaster relief organizations and national or local self-help organizations and by specialists providing counselling services:
+welfare and guidance activities for children and adolescents adoption activities, activities for the prevention of cruelty to children and others
+household budget counselling, marriage and family guidance, credit and debt counselling services
+community and neighbourhood activities
+activities for disaster victims, refugees, immigrants etc., including temporary or extended shelter for them
+vocational rehabilitation activities for unemployed persons provided that the education component is limited
+eligibility determination in connection with welfare aid, rent supplements or food stamps
+child day-care activities, including for handicapped children
+day facilities for the homeless and other socially weak groups
+fund-raising or other supporting activities aimed at social work
+This class excludes:
+- funding and administration of compulsory social security programmes, see 8430
+- activities similar to those described in this class, but including accommodation, see 8799

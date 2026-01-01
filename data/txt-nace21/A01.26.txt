@@ -1,0 +1,9 @@
+A01.26 Growing of oleaginous fruits
+This class includes:
+- growing of oleaginous fruits, e.g.:
+coconuts
+olives
+oil palms
+This class excludes:
+- growing of soya beans, groundnuts and other oil seeds, see 01.11
+- growing of nuts for oil (e.g. walnuts, almonds, hazelnuts, pine nuts or pistachios), see 01.25

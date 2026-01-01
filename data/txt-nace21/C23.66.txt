@@ -1,0 +1,9 @@
+C23.66 Manufacture of other articles of concrete, cement and plaster
+This class includes:
+- manufacture of other articles of concrete, plaster or of compositions based on plaster, cement or artificial stone (e.g. statuary, bas- and haut-reliefs, vases, flowerpots)
+This class also includes:
+- manufacture of ornamented boards or panels of plaster or of compositions based on plaster
+- other articles of calcium silicate
+- other articles of autoclaved aerated concrete
+This class excludes:
+- manufacture of precast concrete, cement or artificial stone articles for use in construction, see 23.61

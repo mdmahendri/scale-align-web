@@ -1,0 +1,7 @@
+S91.41 Botanical and zoological garden activities
+This class includes:
+- operation of botanical and zoological gardens, including childrens zoos
+- operation of aquariums
+This class excludes:
+- landscape and gardening activities, see 81.30
+- operation of sport fishing and hunting preserves, see 93.19

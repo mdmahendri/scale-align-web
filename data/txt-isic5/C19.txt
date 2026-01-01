@@ -1,0 +1,7 @@
+C19 Manufacture of coke and refined petroleum products
+This division includes the transformation of crude petroleum and coal into usable products.
+The dominant process is petroleum refining, which involves the separation of crude petroleum into component products through such techniques as cracking and distillation.
+This division includes the manufacture of gases such as ethane, propane and butane as products of petroleum refineries
+This division also includes the manufacture for own account of characteristic products (e.g. coke, butane, propane, petrol, kerosene, fuel oil) as well as processing services (e.g. custom refining).
+Not included is the manufacture of such gases in other units (see 2011), manufacture of industrial gases (see 2011), extraction of natural gas (methane, ethane, butane or propane, see 0620), and manufacture of gases, other than petroleum gases for the provision of gaseous fuels through a permanent supply network (e.g. coal gas, water gas, producer gas, gasworks gas) (see 3520).
+The manufacture of petrochemicals from refined petroleum and the manufacture of liquid biofuels are classified in division 20

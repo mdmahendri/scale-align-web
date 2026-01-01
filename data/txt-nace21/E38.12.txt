@@ -1,0 +1,18 @@
+E38.12 Collection of hazardous waste
+This class includes the collection of hazardous waste (for example, explosive, oxidising, flammable toxic, irritant, carcinogenic, corrosive, infectious and other substances) and preparations harmful for human health and the environment.
+The activities may also include identification, treatment, packaging and labelling of waste for the purposes of transport.
+This class includes:
+- collection of hazardous waste, e.g.:
+used oil from ships or garages
+paints and varnishes
+biohazardous waste
+hazardous waste of animal origin
+nuclear waste
+collection of expired pharmaceuticals
+used batteries
+This class also includes:
+- operation of waste transfer facilities for hazardous waste
+This class excludes:
+- collection of non-hazardous waste, see 38.11
+- operation of landfills for the disposal of hazardous waste and permanent storage of hazardous waste, see 38.32
+- remediation and clean-up of contaminated buildings, mine sites, soil or groundwater (e.g. asbestos removal), see 39.00

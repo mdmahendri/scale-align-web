@@ -1,0 +1,7 @@
+A0150 Mixed farming
+This class includes the combined production of crops and animals without a specialised production of crops or animals.
+The size of the overall farming operation is not a determining factor.
+If, for example, either production of crops or animals in a given unit is 66% or more of standard output, the combined activity should not be included here, but allocated to crop or animal farming.
+This class excludes:
+- mixed crop farming, see groups 011 and 012
+- mixed animal farming, see group 014

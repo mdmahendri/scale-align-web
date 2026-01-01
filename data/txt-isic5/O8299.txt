@@ -1,0 +1,32 @@
+O8299 Other business support service activities n.e.c.
+This class includes:
+- fundraising organisation services on a contract or fee basis
+- court reporting or stenotype recording services
+- public stenography services
+- real-time (i.e. simultaneous) closed captioning of meetings, conferences
+- bar coding services
+- bar code imprinting services
+- repossession services
+- parking meter coin collection services
+- activities of handling visa and work permit
+- restaurant voucher handling service activities
+- providing assistance in motor vehicle registration
+- relocation service activities
+- leisure activities gift package administration
+- voucher issuing and handling activities
+- donation-based crowd funding
+- trading and brokerage of crypto assets without a corresponding liability (not by a monetary authority)
+- company domiciliation services
+- reading of consumption of heat and hot water including cost allocation
+- activities of independent auctioneers
+- administration of loyalty programmes
+- selling of travel boxes: form of distribution of a service linked to travel, but a deferred service, which can be of any nature: hotels, restaurants, care, leisure activities, etc.)
+This class excludes:
+- providing film or tape captioning or subtitling services, see 5912
+- trading and brokerage of crypto assets with a corresponding liability, see 6612
+- activities of shared service centres (SSC) with two or more combined activities (set of administrative services) providing operational tasks for the whole enterprise or group, e.g. reception, financial planning, billing and record keeping, personnel and mail services for the same enterprise group, see 8210
+- provision of document transcription services, see 8210
+- activities of shared service centres (SSC) with strategic and managerial activities/centralised activities, see 7010
+- managing administrative practices and digital consultancy services, see 7020
+- intermediation service activities for business support service activities n.e.c., see 8240
+- fund-raising aimed at social work, see 8890

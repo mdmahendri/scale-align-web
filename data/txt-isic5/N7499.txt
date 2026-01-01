@@ -1,0 +1,43 @@
+N7499 All other professional, scientific and technical activities n.e.c.
+This class includes a great variety of service activities generally delivered to commercial clients.
+It includes those activities for which more advanced professional, scientific and technical skill levels are required, but does not include ongoing, routine business functions that are generally of short duration.
+This class includes:
+- business brokerage activities, i.e. arranging for the purchase and sale of small and medium-sized businesses, including professional practices, but not including real estate brokerage
+- appraisal activities other than for real estate and insurance (for antiques, jewellery, etc.)
+- bill auditing and freight rate information
+- weather forecasting activities
+- security consulting
+- consulting in the area of occupational safety at workplace
+- agronomy consulting services
+- environmental consulting activities
+- energy saving advice activities
+- other technical consulting
+- activities of consultants other than architecture, engineering and management consultants
+- activities of quantity surveyors
+- activities of construction economists
+This class includes also:
+- activities carried out by agents and agencies on behalf of individuals usually involving the obtaining of engagements in motion picture, theatrical production or other entertainment or sports attractions and the placement of books, plays, artworks, photographs etc., with publishers, producers etc.
+- economic services for construction projects, e.g. by construction economists
+- supervisory board activities
+This class excludes:
+- activities of commission agents, commodity brokers and other wholesalers trading on the account of others without owning the intermediated goods at any time, see 4610
+- intermediation service activities for retail sale, see 4790
+- activities of real estate brokers, see 6821
+- bookkeeping activities, see 6920
+- activities of management consultants, see 7020
+- activities of architecture and engineering consultants, see 7110
+- activities of quantity surveyors, see 7110
+- industrial and machinery design, see 7110, 7410
+- veterinary testing and control in relation to food production, see 7120
+- sales promotion service activities, see division 7330
+- display of advertisement and other advertising design, see 7310
+- creation of stands and other display structures and sites, see 7310
+- activities of convention and trade show organisers, see 8230
+- activities of independent auctioneers, see 8299
+- administration of loyalty programmes, see 8299
+- consumer credit and debt counselling, see 8890
+- environmental engineering activities, see 7110
+- patent brokerage activities, see 7491
+- management of rights to industrial property, e.g. patents, licenses, trademarks, franchises etc., see 7491
+- management of rights in intellectual property, e.g. copyrights, and their revenues, see 7491
+- consultation of medical doctors, see group 8620

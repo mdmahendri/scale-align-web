@@ -1,0 +1,24 @@
+K62.10 Computer programming activities
+This class includes:
+- designing the structure and content of, the writing, modifying (including updates and patches), testing and maintaining of software and applications, including:
+systems software
+video game software and applications / gaming applications
+video game middleware
+business and finance software applications
+machine learning applications
+artificial intelligence / machine vision applications
+cybersecurity applications
+distributed ledger applications
+databases and web pages
+- customising of software, i.e. modifying and configuring an existing application so that it is functional within the clients information system environment
+This class also includes:
+- development of applications
+This class excludes:
+- publishing of software or gaming on demand services, cloud-based software and gaming applications, see 58.2
+- development of software associated with publishing, see 58.2
+- translation or adaptation of non-customised software for a particular market on own account, see 58.29
+- operation of online gaming / video game sites, see 60.39
+- planning and designing computer systems that integrate computer hardware, software and communication technologies, even though providing software might be an integral part, see 62.20
+- data processing activities (e.g. by using blockchain / distributed ledger technology (DLT)), see 63.10
+- operation of gambling sites, see 92.00
+- repair and maintenance of computers and communication equipment, see 95.10

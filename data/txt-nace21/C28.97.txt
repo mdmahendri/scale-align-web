@@ -1,0 +1,3 @@
+C28.97 Manufacture of additive manufacturing machinery
+This class includes:
+- manufacture of machines for additive manufacturing by metal, plastics, rubber, plaster, cement, ceramic deposits, etc.

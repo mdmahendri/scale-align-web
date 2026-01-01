@@ -1,0 +1,11 @@
+C17.22 Manufacture of household and sanitary goods and of toilet requisites
+This class includes:
+- manufacture of household and personal hygiene paper and cellulose wadding products:
+cleansing tissues
+handkerchiefs, towels, serviettes
+toilet paper
+sanitary towels and tampons, napkins and napkin liners for babies
+cups, dishes and trays
+- manufacture of textile wadding and articles of wadding: sanitary towels, tampons, etc.
+This class excludes:
+- manufacture of cellulose wadding, see 17.12

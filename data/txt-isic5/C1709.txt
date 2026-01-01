@@ -1,0 +1,28 @@
+C1709 Manufacture of other articles of paper and paperboard
+This class includes:
+- manufacture of household and personal hygiene paper and cellulose wadding products:
+* cleansing tissues
+* handkerchiefs, towels, serviettes
+* toilet paper
+* sanitary towels and tampons, napkins and napkin liners for babies
+* cups, dishes and trays
+- manufacture of textile wadding and articles of wadding: sanitary towels, tampons etc.
+- manufacture of printing and writing paper ready for use
+- manufacture of computer printout paper ready for use
+- manufacture of self-copy paper ready for use
+- manufacture of duplicator stencils and carbon paper ready for use
+- manufacture of gummed or adhesive paper ready for use
+- manufacture of envelopes and letter-cards
+- manufacture of registers, accounting books, binders, albums and similar educational and commercial stationery
+- manufacture of boxes, pouches, wallets and writing compendiums containing an assortment of paper stationery
+- manufacture of wallpaper and similar wall coverings, including vinyl-coated and textile wallpaper
+- manufacture of labels
+- manufacture of filter paper and paperboard
+- manufacture of paper and paperboard bobbins, spools, cops etc.
+- manufacture of egg trays and other moulded pulp packaging products etc.
+- manufacture of paper novelties
+This class excludes:
+- manufacture of paper or paperboard in bulk, see 1701
+- printing on paper products, see 1811
+- manufacture of playing cards, see 3240
+- manufacture of games and toys of paper or paperboard, see 3240

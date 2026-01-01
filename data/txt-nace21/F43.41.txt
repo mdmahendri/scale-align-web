@@ -1,0 +1,14 @@
+F43.41 Roofing activities
+This class includes:
+- roof framing works
+- installation of roof trusses
+- external insulation of roofs
+- laying of roof coverings
+- installation of insulation in roofs
+- waterproofing of roofs
+- installation of drains, eaves gutters and rainwater pipes
+- installation of roof lights and roof access hatches
+- installation of snowguards on pitched roofs
+- installation of roof safety equipment
+This class excludes:
+- internal insulation of roofs, see 43.23

@@ -1,0 +1,17 @@
+M6810 Real estate activities with own or leased property
+This class includes:
+- renting and operating of self-owned or leased real estate, such as:
+* apartment buildings and dwellings
+* non-residential buildings, including office buildings, coworking space, exhibition halls, self-storage facilities, malls and shopping centers, data centers
+* land, including agricultural and forestry land
+- provision of homes and furnished or unfurnished flats or apartments for more permanent use, on an annual basis or longer
+- operation of residential mobile home sites for primary residences
+- development of building projects for own operation, i.e. for renting of space in these buildings
+- development of building projects for sale
+This class includes also:
+- letting of roofs, e.g. for solar power installations
+- renting of plant and factory buildings, with or without machinery and equipment
+This class excludes:
+- operation of hotels, suite hotels, holiday homes, rooming houses, campgrounds, trailer parks and other non-residential or short-stay accommodation places (including student accommodation) provided for less than one year, see division 55
+- rental of machinery, see 773
+- residential care activities for older persons or persons with physical disabilities, including supervision and assistance in daily living, see 8730

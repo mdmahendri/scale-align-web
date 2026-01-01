@@ -1,0 +1,14 @@
+C14.29 Manufacture of other wearing apparel and accessories n.e.c.
+This class includes:
+- manufacture of sportswear of broad woven fabrics (e.g. tracksuits, ski suits, other technical sportswear)
+- manufacture of hats and caps
+- manufacture of other clothing accessories (e.g. gloves, belts, shawls, ties, cravats, hairnets)
+This class also includes:
+- manufacture of footwear of textile material without applied soles, except knitted or crocheted
+This class excludes:
+- manufacture of knitted or crocheted footwear without applied soles, see 14.10
+- manufacture of knitted and crocheted swimwear, see 14.10
+- manufacture of swimwear, see 14.22
+- manufacture of fur clothing accessories, see 14.24
+- manufacture of plastic headgear excluding safety headgear, see 22.26
+- manufacture of safety headgear, see 32.99

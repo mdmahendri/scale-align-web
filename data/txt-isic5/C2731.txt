@@ -1,0 +1,7 @@
+C2731 Manufacture of fibre optic cables
+This class includes:
+- manufacture of fibre optic cable for data transmission or live transmission of images, whether or not fitted with connectors
+This class excludes:
+- manufacture of glass fibres or strand, see 2310
+- manufacture of connectors for optical fibres, optical fibre bundles and cables, see 2733
+- installation of fibre optic and other cables, see 4321

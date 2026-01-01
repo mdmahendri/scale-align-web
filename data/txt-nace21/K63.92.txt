@@ -1,0 +1,26 @@
+K63.92 Other information service activities
+This class includes:
+- other information service activities not elsewhere classified, e.g.:
+information search services on a contract or fee basis (e.g. by web scraping)
+news clipping services, press clipping services
+compiling of information or directories on a fee or contract basis
+This class excludes:
+- intermediation service activities for specialised construction services, see 43.60
+- intermediation service activities for retail sale, see 47.9
+- intermediation service activities for transport, see 52.3
+- intermediation service activities for postal and courier activities, see 53.30
+- intermediation service activities for accommodation, see 55.40
+- intermediation service activities for food and beverage service activities, see 56.40
+- publishing activities, see division 58
+- broadcasting activities, see division 60
+- news syndicate and news agency activities, see 60.31
+- intermediation service activities for telecommunication, see 61.20
+- intermediation service activities for real estate activities, see 68.31
+- intermediation service activities for the rental and leasing of tangible goods and non-financial intangible assets, see 77.5
+- activities of call centres, see 82.20
+- intermediation service activities for business support service activities n.e.c., see 82.40
+- intermediation service activities for courses and tutors, see 85.61
+- intermediation service activities for medical, dental and other human health services, see 86.97
+- intermediation service activities for residential care activities, see 87.91
+- intermediation service activities for the repair and maintenance of computers, personal and household goods, and motor vehicles and motorcycles, see 95.40
+- intermediation service activities for personal services, see 96.40

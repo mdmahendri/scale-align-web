@@ -1,0 +1,13 @@
+S9031 Operation of arts facilities and sites
+This class includes:
+- operation of arts facilities, e.g. concert, theatre halls and cultural centres
+- operation of arts facilities which support artistic creation in visual arts
+This class also includes:
+-operation of live music venues, music clubs and similar facilities in which artists perform
+This class excludes:
+- retail sale of paintings and sculptures (activities of commercial art galleries), see 4769
+- operation of cinemas, see 5914
+- ticket reservation and sales activities for theatrical, sports and other amusement and entertainment, see 7990
+- operation of arts facilities for own ensemble, see 9020
+- operation of museums of all kinds, see 9121
+- operation of dance floors and ballrooms where beverage serving is not the main activity, see 9329

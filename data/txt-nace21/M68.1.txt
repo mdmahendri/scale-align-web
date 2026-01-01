@@ -1,0 +1,6 @@
+M68.1 Real estate activities with own property and development of building projects
+This group includes the activities of buying, developing and selling of self-owned real estate.
+This group excludes:
+- general construction and specialised construction activities for buildings and civil engineering works, see section F
+- architectural and engineering activities and related technical consultancy, see 71.1
+- provision of architectural or engineering project management services for construction projects, see 71.1

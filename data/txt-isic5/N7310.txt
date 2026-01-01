@@ -1,0 +1,28 @@
+N7310 Advertising activities
+This class includes the creation of advertising campaigns and placement of such advertising in periodicals, newspapers, radio and television, on the Internet, or other media as well as the design of display structures and sites.
+These advertising activities are often provided via advertising agencies and media representatives.
+This class includes:
+- creation and realization of advertising campaigns:
+creating and placing advertising in newspapers and periodicals, on radio and television, over the Internet and in/or other media
+creating and placing of outdoor advertising, e.g. billboards, panels, bulletins and frames, window dressing, showroom design, car and bus carding etc.
+media representation, i.e. sale of time and space for various media soliciting advertising
+aerial advertising
+distribution or delivery of advertising material or samples
+provision of advertising space on billboards etc.
+creation of stands and other display structures and sites
+- conducting marketing campaigns and other advertising services aimed at attracting and retaining customers:
+promotion of products
+point-of-sale marketing
+direct mail advertising
+marketing consulting
+This class excludes:
+- publishing of advertising material, see 5819
+- production of commercial messages for radio, television and film, see 5911
+- public-relations activities, see 7020
+- market research, see 7320
+- graphic design activities, see 7410
+- advertising photography, see 7420
+- convention and trade show organizers, see 8230
+- mailing services, see 8210
+- advertising services used to fund predominant activity of the business which may be provided free of
+charge, see predominant activity

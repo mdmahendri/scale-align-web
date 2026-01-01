@@ -1,0 +1,20 @@
+C13.20 Weaving of textiles
+This class includes weaving of textiles.
+This can be done from varying raw materials, whether new fibres or recycled textile materials (for example, silk, cotton, wool, vegetable or man-made fibres or paper, recovered textile waste materials).
+This class includes:
+- manufacture of broad woven cotton-type, woollen-type, worsted-type or silk-type fabrics, including from mixtures or artificial or synthetic yarns (polypropylene, etc.)
+- manufacture of other broad woven fabrics, using flax, ramie, hemp, jute, bast fibres and special yarns
+- manufacture of broad woven fabrics, from secondary raw materials
+This class also includes:
+- manufacture of woven pile or chenille fabrics, terry towelling, gauze, etc.
+- manufacture of woven fabrics of aramid threads
+- manufacture of imitation fur by weaving
+This class excludes:
+- manufacture of knitted and crocheted fabrics, see 13.91
+- manufacture of textile floor coverings, see 13.93
+- manufacture of non-woven fabrics, see 13.95
+- manufacture of narrow fabrics, see 13.96
+- manufacture of tarpaulins, tents, camping goods of textile materials, windsurfing and boat sails, sunblinds, loose covers for cars, machines or furniture, parachutes, see 13.96
+- manufacture of fabrics of glass fibres, see 13.96
+- manufacture of felt, see 13.99
+- manufacture of carbon fibres and articles of carbon fibres, for non-electrical purposes, see 23.99

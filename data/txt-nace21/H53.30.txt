@@ -1,0 +1,12 @@
+H53.30 Intermediation service activities for postal and courier activities
+This class includes the intermediation of postal and courier activities, by bringing clients and service providers together for a fee or commission, without the intermediary providing the postal and courier services that are intermediated.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (including face-to-face, door-to-door, telephone, mail, and so on).
+The fee or commission can be received from either the client or the provider of the postal and courier service.
+Revenue for the intermediation activities can include other sources of income (for example, revenues from the sale of advertising space).
+This class includes:
+- any intermediation service undertaken by third parties to postal service providers and offered to business and domestic (household) clients
+- operation of online platforms to allow people to book a food delivery
+This class excludes:
+- food delivery services, see 53.20
+- operation of online platforms for home delivery of prepared meals, if the delivery is carried out by the same unit which prepares the meals, see 56.40
+- monetary intermediation services (e.g. payment of fees through the post office), see 64.19

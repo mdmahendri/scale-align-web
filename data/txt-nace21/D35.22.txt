@@ -1,0 +1,6 @@
+D35.22 Distribution of gaseous fuels through mains
+This class includes:
+- transport, distribution and supply of gaseous fuels of all kinds through a system of mains
+- rental and leasing of gas utility networks
+This class excludes:
+- transport, usually over long distances, of gas through pipelines, see 49.50

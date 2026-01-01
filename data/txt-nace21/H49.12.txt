@@ -1,0 +1,9 @@
+H49.12 Other passenger rail transport
+This class includes:
+- passenger transport by metro, subway, underground and elevated railway, metropolitan railway and tramway
+- passenger transport by funicular railway
+This class also includes:
+- passenger light rail transport for sightseeing
+This class excludes:
+- passenger terminal activities, see 52.21
+- operation of railway infrastructure and related activities (e.g. switching and shunting), see 52.21

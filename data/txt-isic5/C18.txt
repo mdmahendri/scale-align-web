@@ -1,0 +1,14 @@
+C18 Printing and reproduction of recorded media
+This division includes printing of products, such as newspapers, books, periodicals, business forms and greeting cards, printing on medium, and associated support activities, such as bookbinding, plate-making services, and data imaging.
+The support activities included here are an integral part of the printing industry, and a product (a printing plate, a bound book, or a computer disk or file) that is an integral part of the printing industry is almost always provided by these operations.
+The ownership of the input material is irrelevant to the classification of printing and reproduction of recorded media activities.
+Division 18 covers explicitly the processing activities.
+Processes used in printing include a variety of methods for transferring an image from a plate, screen or computer file to a medium, such as paper, plastics, metal, textile articles, or wood.
+The most prominent of these methods entails the transfer of the image from a plate or screen to the medium through lithographic, gravure, screen or flexographic printing.
+Often a computer file is used to directly ''drive'' the printing mechanism to create the image or electrostatic and other types of equipment (digital or non-impact printing).
+Though printing and publishing can be carried out by the same unit (a newspaper, for example), it is less and less the case that these distinct activities are carried out in the same physical location.
+This division also includes
+the reproduction of recorded media, e.g. compact discs, video recordings, software on discs or tapes, records
+This division excludes
+-publishing activities (see section J)
+-manufacture of products with a 3D printer which are classified according to the product and material used

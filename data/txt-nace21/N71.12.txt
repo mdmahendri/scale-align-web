@@ -1,0 +1,39 @@
+N71.12 Engineering activities and related technical consultancy
+This class includes:
+- engineering design (i.e. applying physical laws and principles of engineering in the design of machines, materials, instruments, structures, processes and systems) and consulting activities for:
+machinery, industrial processes and industrial plant
+projects involving civil engineering, hydraulic engineering, traffic engineering
+water management projects
+nature-based infrastructure
+- design of building information systems (e.g. related to heating systems, fire extinguisher requirements)
+- elaboration and supervision of projects in relation to electrical and electronic, engineering, mining engineering, chemical engineering, mechanical, industrial and systems engineering
+- elaboration and supervision of projects using air conditioning, refrigeration, sanitary and pollution control, water supply, wastewater treatment, structural engineering, offshore and onshore marine engineering, health and safety engineering, acoustical engineering, etc.
+- geophysical, geologic and seismic surveying
+- geodetic surveying activities:
+land and boundary surveying activities
+hydrologic surveying activities
+subsurface surveying activities
+- cartographic and spatial information activities
+- environmental engineering and related consulting activities
+- site engineering
+- noise abatement engineering
+- circular economy solutions engineering
+- design of computer plans for 3D printing
+This class also includes:
+- activities of bathymetry
+- activities of photogrammetric surveying (e.g. data collection with drones)
+- preparation and revision of maps
+- construction supervision
+- project management activities related to engineering
+This class excludes:
+- test drilling in connection with mining operations, see 09.10, 09.90
+- software publishing, see 58.2
+- development and programming of software, see 62.10
+- activities of computer consultants, see 62.20
+- development of building projects for residential and non-residential buildings, for later sale, see 68.12
+- technical testing, see 71.20
+- periodic testing of motor vehicles for road safety and roadworthiness, see 71.20
+- research and development activities related to engineering, see 72.10
+- activities related to other design services, see 74.1
+- aerial photography, see 74.20
+- activities of quantity surveyors, see 74.99

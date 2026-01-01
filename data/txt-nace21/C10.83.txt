@@ -1,0 +1,18 @@
+C10.83 Processing of tea and coffee
+This class includes:
+- decaffeinating and roasting of coffee
+- production of coffee products:
+ground coffee
+soluble coffee
+extracts and concentrates of coffee
+- manufacture of coffee substitutes
+- blending of tea and mat
+- manufacture of extracts and preparations based on tea or mat
+This class also includes:
+- manufacture of herb infusions (mint, vervain, chamomile, etc.)
+- manufacture of tea and coffee filled in bags, pads or capsules
+This class excludes:
+- drying, sorting, cleaning and cutting in the processing of medicinal herbs by third parties, see 01.63
+- manufacture of inulin, see 10.62
+- manufacture of spirits, beer, wine and soft drinks, see division 11
+- preparation of botanical products for pharmaceutical use, see 21.20

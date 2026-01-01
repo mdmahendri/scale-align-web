@@ -1,0 +1,14 @@
+G47.79 Retail sale of second-hand goods
+This class includes:
+- retail sale of second-hand books
+- retail sale of antiques
+- retail sale of second-hand clothes
+- retail sale of second-hand furniture
+- retail sale of second-hand household appliances
+- retail sale of other second-hand goods
+This class excludes:
+- retail sale of second-hand motor vehicles, motorcycles, and related parts and accessories, see 47.8
+- activities of retail auctioneering houses for both new and used third-party goods, including internet retail auctions, see 47.9
+- activities of intermediaries in the retail sale of second-hand goods, see 47.9
+- activities of space rental, including staff, for second-hand goods, see 47.91
+- activities of pawnshops, see 64.92

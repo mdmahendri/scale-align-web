@@ -1,0 +1,14 @@
+L64.19 Other monetary intermediation
+This class includes the receiving of deposits and/or close substitutes for deposits and extending of credit or other forms of lending funds.
+The granting of credit can take a variety of forms (for example, loans, mortgages, consumer credit cards, and so on).
+These activities are generally carried out by monetary institutions other than central banks, for example:
+- banks
+- savings banks
+- credit cooperatives and unions
+This class also includes:
+- activities of postal banks (e.g. for giro (current) and savings accounts)
+- credit granting by specialised deposit-taking institutions (e.g. for house purchases, agriculture)
+- money order activities
+This class excludes:
+- credit granting by specialised non-depository institutions (e.g. for house purchases), see 64.92
+- credit card transaction processing and settlement activities, see 66.19

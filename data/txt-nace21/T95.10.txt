@@ -1,0 +1,33 @@
+T95.10 Repair and maintenance of computers and communication equipment
+This class includes the repair and maintenance of electronic equipment (for example, computers and computing machinery, peripheral and communication equipment).
+This class includes the repair and maintenance of:
+- desktop computers
+- laptop computers
+- magnetic disc drives and flash drives
+- optical disc drives
+- renovation of discs
+- printers
+- monitors
+- keyboards
+- webcams
+- headsets, including in-ear wireless headsets
+- mice, joysticks and trackball accessories
+- internal and external computer modems
+- dedicated computer terminals
+- computer servers
+- scanners, including barcode scanners
+- smart card readers
+- virtual reality helmets/headsets
+- computer projectors
+- cordless telephones
+- smart telephones and tablets
+- telecommunication carrier equipment
+- communication transmission equipment (e.g. routers, bridges, modems)
+- two-way radios
+- commercial television and video cameras
+This class also includes:
+- repair and maintenance of computer terminals like automatic teller machines (ATMs) and point-of-sale (POS) terminals, not mechanically operated
+- repair and maintenance of handheld computers (personal digital assistants (PDAs))
+This class excludes:
+- refilling of ink and toner cartridges by retail sellers, see 47.40
+- repair and maintenance of consumer electronics, see 95.21

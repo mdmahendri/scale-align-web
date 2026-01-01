@@ -1,0 +1,18 @@
+C14.24 Manufacture of leather clothes and fur apparel
+This class includes:
+- manufacture of wearing apparel, including working clothes, made of leather or composition leather (e.g. coats, overcoats, jackets, trousers, aprons)
+- manufacture of articles made of fur skins:
+fur wearing apparel and clothing accessories
+assemblies of fur skins (e.g. dropped fur skins, plates, mats, strips)
+diverse articles of fur skins: rugs, unstuffed pouffes, industrial polishing cloths
+This class excludes:
+- production of raw fur skins, see 01.48, 01.70
+- production of raw hides and skins, see 10.11
+- manufacture of imitation furs (long-hair cloth obtained by weaving or knitting), see 13.20, 13.91
+- manufacture of synthetic leather outerwear, see 14.21
+- manufacture of outwear trimmed with fur, see 14.21
+- manufacture of working clothes not made of leather or composition of leather, see 14.23
+- manufacture of fur hats, see 14.29
+- dressing and dyeing of fur, see 15.11
+- manufacture of boots or shoes containing fur parts, see 15.20
+- manufacture of specially designed gloves of leather or composition leather for use in sport, see 32.30

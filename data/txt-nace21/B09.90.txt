@@ -1,0 +1,12 @@
+B09.90 Support activities for other mining and quarrying
+This class includes:
+- support services on a fee or contract basis, required for mining activities of divisions 05, 07, 08
+exploration services by using traditional prospecting methods (e.g. taking core samples and making geological observations at prospective sites)
+draining and pumping services on a fee or contract basis
+test drilling and test hole boring
+- securing mine shafts and tunnels
+- demolition and dismantling of underground mining facilities
+This class excludes:
+- operating mines or quarries on a contract or fee basis, see divisions 05, 07, 08
+- specialised repair and maintenance of mining machinery, see 33.12
+- geophysical surveying services, on a contract or fee basis, see 71.12

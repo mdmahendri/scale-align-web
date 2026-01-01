@@ -1,0 +1,14 @@
+H Transportation and storage
+This section includes transportation of passengers or freight, e.g by rail, pipeline, road, water or air, including transportation of passengers disregarding the reasons, whether for personal, professional or recreational reasons, scheduled or not.
+Rental of transport equipment with driver or operator as well as postal and courier activities are classified this section
+The section also includes associated activities, e.g. operational of terminal and parking facilities, cargo handling and storage.
+Transport activities classified in divisions 49, 50, 51, 53 often involve related activities, e.g. packaging, goods handling operations, temporary crating, sampling and weighing of goods, which solely support the transport activities.
+These supporting activities are only to be classified in division 52, if they are performed on behalf of others
+This section includes also:
+- intermediation services that link customers to transport service providers except for division 79: Travel agency, tour operator, and other travel related activities
+This section excludes:
+- major repair or alteration of transport equipment, except motor vehicles, see group 331
+- construction, maintenance and repair of roads, railways, harbours, airfields, see division 42
+- maintenance and repair of motor vehicles, see 9531
+- rental of transport equipment without driver or operator, see 771, 773
+- transportation activities as an integral part of recreational facilities, e.g. in theme parks, see group 932

@@ -1,0 +1,11 @@
+A0322 Freshwater aquaculture
+This class includes:
+- fish farming in freshwater including farming of freshwater ornamental fish
+- culture of freshwater crustaceans, bivalves, other molluscs and other aquatic animals
+- operation of fish hatcheries (freshwater)
+- farming of frogs.
+This class also includes:
+- Freshwater microalgae cultivation
+This class excludes:
+- aquaculture activities in salt water filled tanks and reservoirs, see 0321
+- operation of sport fishing preserves, see 9319

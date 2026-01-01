@@ -1,0 +1,24 @@
+J60.39 Other content distribution activities
+This class includes:
+- distribution services of content sharing sites (e.g. wiki sites, social network sites) which publish content produced and edited by users and are not under editorial responsibility and control
+- operation of online gaming / video game sites, independent of publishing the games
+- provision of e-books as streaming or downloading services, not associated with publishing
+- online provision of software, not associated with publishing
+- content distribution via blogs
+This class excludes:
+- intermediation service activities for retail sale, see 47.9
+- intermediation service activities for passenger transport, see 52.32
+- intermediation service activities for accommodation, see 55.40
+- publishing of e-books, see 58.11
+- publishing of video games and other software, see 58.2
+- audiovisual production activities, see 59.11
+- activities of music platforms, see 60.10
+- activities of video game streaming sites for viewing only, see 60.20
+- news agency activities, see 60.31
+- provision of audio or video data hosting for streaming or downloading services (i.e. particularly data storing and sending) without having acquired the rights to the audio or video content, see 63.10
+- provision of computing infrastructure and hosting services, see 63.10
+- activities of web search portals, see 63.91
+- activities of journalists and other writers whose content is published by a third party, see 90.11
+- activities of actors and other performing artists, see 90.20
+- activities of libraries and archives, see 91.1
+- activities of gambling sites, see 92.00

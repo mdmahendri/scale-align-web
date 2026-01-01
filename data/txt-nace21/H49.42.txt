@@ -1,0 +1,6 @@
+H49.42 Removal services
+This class includes:
+- removal (relocation) services to businesses and households by road transport
+This class also includes:
+- leasing of removal vehicles with a driver
+- storage of furniture as part of the removal service

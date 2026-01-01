@@ -1,0 +1,8 @@
+C26.12 Manufacture of loaded electronic boards
+This class includes:
+- manufacture of loaded printed circuit boards consisting of conductor elements, contacts and other passive elements
+- loading of passive elements (components) onto printed circuit boards
+- manufacture of interface cards (e.g. sound, video, controllers, network, modems) loaded with passive elements
+This class excludes:
+- printing of smart cards, see 18.12
+- manufacture of bare printed circuit boards, consisting only of conductor elements and contacts, see 26.11

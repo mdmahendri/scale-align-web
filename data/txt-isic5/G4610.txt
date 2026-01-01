@@ -1,0 +1,16 @@
+G4610 Wholesale on a fee or contract basis
+This class includes:
+intermediation service activities, i.e. of facilitation of transactions between sellers and buyers for the ordering of goods for a fee or commission without supplying or taking ownership of the goods and services intermediated Including:
+- activities of commission agents, commodity brokers and other wholesalers trading on the account of others without owning the intermediated goods at any time
+- activities of bringing sellers and buyers together
+- activities of undertaking commercial transactions on the account of a principal, including on the Internet.
+This class also includes:
+- activities of central purchasing units, if they are only intermediaries and do not own the goods
+- activities of wholesale auctioneering houses of third-party goods, including Internet wholesale auctions
+This class excludes:
+- wholesale on own account, see 462 to 469
+- activities of commission agents who assumes ownership of the goods, even if they are acting in the name of a third party, see 462 to 469
+- activities of opaque intermediaries (intermediaries that are acting in the name of a third party), see 462 to 469
+- intermediation service activities for retail trade, see 479
+- intermediation service activities for real estate activities, see 6821
+- websites providing searches for goods that link the customers to sellers

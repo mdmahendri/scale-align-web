@@ -1,0 +1,9 @@
+I5640 Intermediation service activities for food and beverage services activities
+This class includes the intermediation of food and beverage services by bringing clients and service providers together for a fee or commission without the intermediary providing the food and beverage services intermediated.
+These intermediation activities can be carried out on digital platforms or through non-digital channels (face-to-face, phone, post, etc.).
+The fee or commission can be received from either the client or the provider of the food and beverage services.
+Revenue for the intermediation activities can include other sources of income, such as revenues from advertising.
+This class also includes:
+- reservation services for restaurants
+This class excludes:
+-operation of on- line platforms to allow people to book a food delivery, see 5330

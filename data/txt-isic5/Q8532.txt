@@ -1,0 +1,18 @@
+Q8532 Vocational secondary education
+This class includes provision of education typically emphasising subject-matter specialisation and instruction in both theoretical background and practical skills generally associated with present or prospective employment.
+The aim of a programme can vary from preparation for a general field of employment to a very specific job.
+This class includes:
+- technical and vocational education below the level of tertiary education (as defined in 854)
+This class also includes programmes corresponding to the definition of formal education and training as for instance in the following fields:
+- tourist guide instruction
+- instruction for chefs, hoteliers and restaurateurs
+- cosmetology and barber schools
+- computer repair training
+- education activities of driving schools for occupational drivers e.g. of trucks, buses, coaches, schools for professional pilots including instructions for drone pilot or forklift driver
+This class excludes:
+- technical and vocational post-secondary non-tertiary education, see 8533
+- technical and vocational higher education, see 854
+- non-formal vocational education and training, see 855
+- performing art instruction for recreation, hobby and self-development purposes, see 8552
+- education activities of driving schools not intended for occupational drivers, see 8553
+- job training forming part of social work activities without accommodation, see 8810, 8890

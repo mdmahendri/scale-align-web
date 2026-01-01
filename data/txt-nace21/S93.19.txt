@@ -1,0 +1,27 @@
+S93.19 Sports activities n.e.c.
+This class includes:
+- activities of producers of sporting events, with or without facilities
+- activities of individual own account sportspersons and athletes, referees, judges, timekeepers, etc.
+- activities of individual own account participants of e-sports
+- activities of sports federations, sports leagues and sports governing bodies
+- activities related to promotion of sporting events
+- activities of racing stables, kennels and garages
+- operation of sport fishing and hunting preserves
+- activities of mountain guides
+- support activities for sport or recreational hunting and fishing
+- operation of vertical, aerodynamic wind tunnels
+- activities related to training animals for sports or entertainment
+- organisation and operation of outdoor or indoor sporting events for professionals or amateurs by organisations (not by sports clubs) without own facilities
+This class excludes:
+- broadcasting of live performances and events, see 60.20
+- rental of sports equipment, see 77.21
+- organisation of conferences, conventions and trade shows, see 82.30
+- sports instruction in camps or schools, see 85.51
+- activities of sports instructors, teachers, coaches, see 85.51
+- card game instruction, see 85.51
+- technical planning, supply, setting-up and operation of audiovisual equipment and special effects associated with the organisation of artistic events, see 90.39
+- provision of personnel and equipment as part of the organisation and operation of a sporting event (not by sports clubs) with own facilities, see 93.11
+- operation of e-sports clubs, see 93.12
+- organisation and operation of outdoor or indoor sporting events for professionals or amateurs by sports clubs, see 93.12
+- technical planning, supply, setting-up and operation of audiovisual equipment and special effects associated with the organisation of non-artistic events, see 93.29
+- park and beach activities, see 93.29

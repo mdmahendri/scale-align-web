@@ -1,0 +1,3 @@
+L66.1 Activities auxiliary to financial services, except insurance and pension funding
+This group includes the furnishing of physical or electronic marketplaces for the purpose of facilitating the buying and selling of stocks, stock options, bonds or commodity contracts, and trading of crypto-assets with liabilities.
+It also includes other miscellaneous services, including the provision of financial advisory services, asset management or the provision of equity and debt-based crowdfunding.

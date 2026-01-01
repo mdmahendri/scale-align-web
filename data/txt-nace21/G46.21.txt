@@ -1,0 +1,11 @@
+G46.21 Wholesale of grain, unmanufactured tobacco, seeds and animal feeds
+This class includes:
+- wholesale of grains and seeds for planting
+- wholesale of oleaginous fruits
+- wholesale of unmanufactured tobacco
+- wholesale of livestock feed and agricultural raw materials
+This class excludes:
+- wholesale of seeds of flowers and plants, see 46.22
+- wholesale of food for pets, see 46.38
+- wholesale of fertilisers and agrochemical products, see 46.85
+- wholesale of textile fibres, see 46.86

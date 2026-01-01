@@ -1,0 +1,8 @@
+L6491 Financial leasing activities
+This class includes the activities of financing the purchase of an asset on behalf of a customer.
+The financer (the lessor) is the legal owner of the asset and the costumer (the lessee) carries the risk for the duration of the lease, which usually covers the expected life of the asset.
+The lessee acquires all the benefits of its use.
+This class also includes
+- financial leasing of durable goods, like vehicles
+This class excludes:
+- operating leasing, according to type of goods leased, see division 77

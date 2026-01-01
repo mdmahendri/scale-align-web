@@ -1,0 +1,6 @@
+G47.21 Retail sale of fruit and vegetables
+This class includes:
+- retail sale of fresh fruits and vegetables, including cut fresh fruits and vegetables
+- retail sale of dried and preserved fruits and vegetables
+This class excludes:
+- retail sale of fruit and vegetable juices, see 47.25

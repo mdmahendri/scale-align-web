@@ -1,0 +1,5 @@
+C24.32 Cold rolling of narrow strip
+This class includes:
+- manufacture of coated or uncoated flat-rolled steel products in coils or in straight lengths of a width less than 600 mm by cold re-rolling of hot-rolled flat products or of steel rods
+This class excludes:
+- manufacture of coated or uncoated flat-rolled steel products in coils or in straight lengths of a width of 600 mm or more by cold re-rolling of hot-rolled flat products or of steel rods, see 24.10

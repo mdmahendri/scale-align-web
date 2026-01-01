@@ -1,0 +1,7 @@
+N74.13 Interior design activities
+This class includes:
+- activities of interior decorators
+- interior design services (e.g. the planning and designing of interior spaces to meet the aesthetic and functional needs of people focusing mainly on finishes, furniture and colour palettes)
+- drafting designs for interior decoration
+This class excludes:
+- architectural design activities, see 71.11

@@ -1,0 +1,10 @@
+P8421 Foreign affairs
+This class includes:
+- administration and operation of the ministry of foreign affairs and diplomatic and consular missions stationed abroad or at offices of international organisations
+- administration, operation and support for information and cultural services intended for distribution beyond national boundaries
+- aid to foreign countries, whether or not routed through international organisations
+- provision of military aid to foreign countries
+- management of foreign trade, international financial and foreign technical affairs
+This class excludes:
+- international disaster or conflict refugee services, see 8890
+- activities of extraterritorial organisations and bodies, see 9900

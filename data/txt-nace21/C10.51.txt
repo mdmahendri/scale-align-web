@@ -1,0 +1,25 @@
+C10.51 Manufacture of dairy products
+This class includes:
+- manufacture of fresh liquid milk, pasteurised, sterilised, homogenised and/or ultra-heat treated
+- manufacture of milk-based drinks
+- manufacture of cream from fresh liquid milk, pasteurised, sterilised, homogenised
+- manufacture of dried or concentrated milk, whether or not sweetened
+- manufacture of milk or cream in solid form
+- manufacture of butter
+- manufacture of yoghurt
+- manufacture of cheese and curd
+- refining and ageing cheese
+- manufacture of whey
+- manufacture of casein
+- manufacture of lactose-free dairy products
+This class also includes:
+- manufacture of milk kefir
+- manufacture of lactose and lactose syrup
+This class excludes:
+- production of raw milk of cattle, see 01.41
+- production of raw milk of sheep, goats, horses, asses, camels, etc., see 01.43, 01.44, 01.45
+- production of milk-based dietary drinks, see 10.86
+- production of dairy-based infant formulae, see 10.86
+- manufacture of cheese substitutes, see 10.89
+- manufacture of fruit kefir and water kefir, see 11.03
+- manufacture of non-dairy milk (e.g. plant-based milk), see 11.07

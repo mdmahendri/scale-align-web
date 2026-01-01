@@ -1,0 +1,26 @@
+C32.40 Manufacture of games and toys
+This class includes the manufacture of dolls, toys and games (including electronic games), scale models and childrens vehicles (except metal bicycles and tricycles).
+This class includes:
+- manufacture of dolls and doll garments, parts and accessories
+- manufacture of action figures
+- manufacture of toy animals
+- manufacture of wheeled toys designed to be ridden, including plastic bicycles and tricycles
+- manufacture of toy musical instruments
+- manufacture of playing cards
+- manufacture of games and toys of paper or paperboard
+- manufacture of board games and similar games
+- manufacture of electronic board games
+- manufacture of reduced-size (scale) models and similar recreational models, electrical trains, construction sets, etc.
+- manufacture of gaming and gambling machines
+- manufacture of billiards and special tables for casino games, etc.
+- manufacture of articles for funfair, table or parlour games
+- manufacture of puzzles and similar articles
+- manufacture of toy drones
+This class also includes:
+- manufacture of fabric toys
+This class excludes:
+- manufacture of video game consoles, see 26.40
+- manufacture of drones for civilian purposes, see 30.31
+- manufacture of bicycles, see 30.92
+- manufacture of articles for jokes and novelties, see 32.99
+- writing and publishing of software for video game consoles, see 58.21, 62.10

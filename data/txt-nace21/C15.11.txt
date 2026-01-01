@@ -1,0 +1,11 @@
+C15.11 Tanning, dressing, dyeing of leather and fur
+This class includes:
+- tanning, dyeing and dressing of hides, skins and pre-tanned leather
+- manufacture of chamois dressed, parchment dressed, patent or metallised leathers
+- manufacture of composition leather
+- scraping, shearing, plucking, currying, tanning, bleaching and dyeing of fur skins and hides with the hair on
+This class excludes:
+- production of hides and skins as part of ranching, see 01.4
+- production of raw hides and skins as part of slaughtering, see 10.11
+- manufacture of leather apparel, see 14.24
+- manufacture of imitation leather not based on natural leather, see 22.12, 22.26

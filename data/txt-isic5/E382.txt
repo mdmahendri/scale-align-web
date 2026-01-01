@@ -1,0 +1,6 @@
+E382 Waste treatment and disposal
+This group includes the disposal and treatment prior to disposal of various forms of waste by different means, such as waste treatment of organic waste with the aim of disposal; treatment and disposal of toxic live or dead animals and other contaminated waste; treatment and disposal of transition radioactive waste from hospitals, etc.; waste disposal without recovery dumping of refuse on land or in water; burial or ploughing-under of refuse; disposal of used goods such as refrigerators to eliminate harmful waste; disposal of waste by incineration or combustion.
+Included is also the generation of electricity resulting from waste incineration processes.
+This group excludes:
+- treatment and disposal of wastewater, see 3700
+- waste recovery, see 3830

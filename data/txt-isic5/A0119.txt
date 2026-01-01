@@ -1,0 +1,11 @@
+A0119 Growing of other non-perennial crops
+This class includes the growing of all other non-perennial crops, e.g:
+- growing of swedes, mangolds, roots, clover, alfalfa, sainfoin, maize, lupines, other grasses, .
+Kale for fodder and similar crops forage products
+- growing of beet seeds and seeds of forage plants
+- growing of flowers
+- production of cut flowers and flower buds
+- growing of flower seeds.
+This class excludes:
+- growing of non-perennial spices, aromatic, drug and pharmaceutical crops, see 0128
+- growing of sugar beet seeds, see 0113

@@ -1,0 +1,6 @@
+D351 Electric power generation, transmission and distribution activities
+This group includes the generation of electric power, transmission from generating facilities to distribution centres and distribution to end users.
+Trade and storage of electric power are also included.
+This group excludes:
+- separate production and distribution of steam and heat, see 353
+- activities of electric power brokers or agents (intermediaries) that arrange the sale of electricity via power distribution systems operated by others, see 354

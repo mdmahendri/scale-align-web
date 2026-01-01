@@ -1,0 +1,6 @@
+B05 Mining of coal and lignite
+This division includes the extraction of solid mineral fuels through underground or open-cast mining and includes operations (for example, grading, cleaning, compressing and other steps necessary for transport) leading to a marketable product.
+This division excludes:
+- coking, see 19.10
+- services incidental to coal or lignite mining, see 09.90
+- manufacture of briquettes, see 19.20

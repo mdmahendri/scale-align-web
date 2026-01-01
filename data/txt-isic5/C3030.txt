@@ -1,0 +1,30 @@
+C3030 Manufacture of air and spacecraft and related machinery
+This class includes the manufacture of civilian and military air and spacecraft and related machinery.
+It includes:
+- manufacture of airplanes for the transport of goods or passengers, for sport or other purposes
+- manufacture of helicopters
+- manufacture of gliders, hang-gliders
+- manufacture of dirigibles and hot air balloons
+- manufacture of parts and accessories of the aircraft of this class:
+* major assemblies such as fuselages, wings, doors, control surfaces, landing gear, fuel tanks, nacelles etc.
+* airscrews, helicopter rotors and propelled rotor blades
+* motors and engines of a kind typically found on aircraft
+* parts of turbojets and turboprops for aircraft
+- manufacture of ground flying trainers
+- manufacture of civilian unmanned aircrafts (drones), non-recreational
+- manufacture of military drones, Unmanned Aerial Vehicles (UAVs)
+- manufacture of spacecraft and launch vehicles, satellites, planetary probes, orbital stations, shuttles
+This class also includes:
+- overhaul and conversion of aircraft or aircraft engines
+- manufacture of aircraft seats
+This class excludes:
+- manufacture of parachutes, see 1392
+- manufacture of military ordinance and ammunition, see 2520
+- manufacture of telecommunication equipment for satellites, see 2630
+- manufacture of aircraft instrumentation and aeronautical instruments, see 2651
+- manufacture of air navigation systems, see 2651
+- manufacture of lighting equipment for aircraft, see 2740
+- manufacture of ignition parts and other electrical parts for internal combustion engines, see 2790
+- manufacture of pistons, piston rings and carburetors, see 2811
+- manufacture of aircraft launching gear, aircraft carrier catapults and related equipment, see 2829
+- manufacture of drones for recreational purposes, see 3240

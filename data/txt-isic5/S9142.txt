@@ -1,0 +1,10 @@
+S9142 Nature reserve activities
+This class includes:
+- operation of nature reserves, including wildlife preservation, safari parks, etc.
+- conservation and maintenance services of national parks, nature parks and reserves
+This class excludes:
+- protection or restoring activities of agricultural land see division 01
+- protection or restoring activities of forest land see division 02
+- protecting or restoring activities of landscape (e.g. for parks, gardens) see 8130
+- operation of sport fishing and hunting preserves, see 9319
+- operation of picnic grounds not associated with a nature reserve, see 9329

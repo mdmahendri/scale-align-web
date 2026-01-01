@@ -1,0 +1,16 @@
+F43.99 Other specialised construction activities n.e.c.
+This class includes:
+- construction activities specialising in one aspect common to different kinds of structures, requiring specialised skill or equipment, n.e.c.:
+reinforcement steel bending activities, at the construction site
+scaffolds and work platform erecting and dismantling
+- erection of construction site safety equipment
+- work with specialist access requirements necessitating climbing skills and the use of related equipment (e.g. working at height on tall structures)
+- rental of cranes and other building equipment which cannot be allocated to a specific construction type, with an operator
+- repairing of reinforced concrete structures (e.g. beams, columns)
+- erection of billboards or advertising columns
+- concreting works
+This class also includes:
+- renovation, renewal, reconstruction and retrofitting of historical and archaeological sites and buildings
+This class excludes:
+- rental of scaffolds and work platforms, without erection and dismantling, see 77.32
+- rental of construction machinery and equipment without an operator, see 77.32

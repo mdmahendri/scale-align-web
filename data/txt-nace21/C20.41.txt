@@ -1,0 +1,21 @@
+C20.41 Manufacture of soap and detergents, cleaning and polishing preparations
+This class includes:
+- manufacture of organic surface-active agents
+- manufacture of paper, wadding, felt, etc., coated or covered with soap or detergent
+- manufacture of crude glycerol
+- manufacture of soap, except cosmetic soap
+- manufacture of surface-active preparations:
+washing powders in solid or liquid form and detergents
+dish-washing preparations
+textile softeners
+- manufacture of cleaning and polishing products:
+preparations for perfuming or deodorising rooms
+artificial waxes and prepared waxes
+polishes and creams for leather
+polishes and creams for wood
+polishes for coachwork, glass and metal
+scouring pastes and powders, including paper, wadding, etc., coated or covered with these
+This class excludes:
+- manufacture of separate, chemically defined compounds, see 20.13, 20.14
+- manufacture of glycerol, synthesised from petroleum products, see 20.14
+- manufacture of cosmetic soap, see 20.42

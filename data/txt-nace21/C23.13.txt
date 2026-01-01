@@ -1,0 +1,10 @@
+C23.13 Manufacture of hollow glass
+This class includes:
+- manufacture of bottles and other containers of glass or crystal
+- manufacture of drinking glasses, glassware for table or kitchen purposes and other domestic glass or crystal articles
+This class also includes:
+- manufacture of glass inners for vacuum vessels
+- cutting or otherwise decorating drinking glasses
+This class excludes:
+- printing onto glass, see 18.12
+- manufacture of glass toys, see 32.40

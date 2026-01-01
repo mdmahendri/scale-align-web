@@ -1,0 +1,7 @@
+O77.12 Rental and leasing of trucks
+This class includes:
+- rental and operating leasing of the following types of vehicles:
+trucks, motorhomes, utility trailers and heavy motor vehicles (with a maximum permissible weight of more than 3,5 tons) without a driver
+This class excludes:
+- rental or leasing of heavy goods vehicles or trucks with a driver, see 49.41, 49.42
+- rental or leasing of land transport equipment (other than motor vehicles) without a driver (e.g. caravans), see 77.39

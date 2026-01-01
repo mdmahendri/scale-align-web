@@ -1,0 +1,5 @@
+G46.7 Wholesale of motor vehicles, motorcycles and related parts and accessories
+This group excludes:
+- activities of wholesalers who do not assume ownership of the goods they trade, see 46.1
+- maintenance and repair of motor vehicles, see 95.31
+- maintenance and repair of motorcycles, see 95.32

@@ -1,0 +1,11 @@
+F43.34 Painting and glazing
+This class includes:
+- interior and exterior painting of buildings
+- painting of civil engineering structures
+- installation of glass, mirrors, etc.
+This class also includes:
+- coating of metals on buildings and civil engineering structures
+This class excludes:
+- waterproofing of roofs, see 43.41
+- installation of windows, see 43.32
+- road painting and other marking of streets, see 43.50

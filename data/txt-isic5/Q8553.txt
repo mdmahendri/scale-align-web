@@ -1,0 +1,6 @@
+Q8553 Driving school activities
+This class includes the activities of automobile driving schools for personal (non-commercial) drivers.
+This class also includes:
+- education activities of flying, sailing, shipping schools not issuing commercial certificates and permits
+This class excludes:
+- education activities of driving schools for occupational drivers and for professional pilots, see 8532

@@ -1,0 +1,12 @@
+K6120 Telecommunication resellingactivitiesand intermediation serviceactivitiesfor telecommunication
+This class includes:
+- reselling of wired, wireless, and satellite telecommunications (i.e. purchasing and reselling network capacity), including activities of telecommunications brokers and resellers of pre-paid calling cards and services
+- intermediation services for wired, wireless, and satellite telecommunications activities, including:
+* agent activities for telecommunications carriers
+* selling mobile phone service plans on an agent basis
+* wireless phone service plan sales agent activities, selling on behalf of wireless telecommunications carriers
+* agent activities for mobile virtual network operators (MVNOs).
+- provision of Internet access over networks between the client and the Internet Service Provider not owned or controlled by the Internet Service Provider, such as dial-up Internet access etc.
+- provision of telephone and Internet access in facilities open to the public
+This class excludes:
+- provision of telecommunications services by operators of telecommunications infrastructure, see 6110

@@ -1,0 +1,17 @@
+C13.92 Manufacture of household textiles and made-up furnishing articles
+This class includes:
+- manufacture of made-up household textiles articles of any material, including of knitted or crocheted fabrics, e.g.:
+blankets, including travelling rugs
+bed, table, toilet or kitchen linen
+quilts, eiderdowns, cushions, pouffes, pillows, sleeping bags
+- manufacture of made-up furnishing articles:
+curtains, valances, bedspreads
+flags, banners, pennants
+dust-cloths, dishcloths and similar articles
+This class also includes:
+- manufacture of the textile part of electric blankets
+- manufacture of hand-woven tapestries
+This class excludes:
+- manufacture of textile articles for technical use, see 13.96
+- manufacture of blinds and sunblinds, see 13.96
+- manufacture of napkins and napkin liners for babies, period panties and similar articles of textile materials, see 17.22

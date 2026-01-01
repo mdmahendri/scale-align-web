@@ -1,0 +1,10 @@
+H5021 Inland passenger water transport
+This class includes:
+- transport of passenger via rivers, canals, lakes and other inland waterways, including inside harbours and ports
+- passenger water transport for sightseeing
+This class also includes:
+- renting of pleasure boats with crew for inland water transport
+- operation of excursion, cruise or sightseeing boats on inland waterways
+This class excludes:
+- restaurant and bar activities on board ships, when provided by separate units, see 5610, 5630
+- operation of floating casinos not transporting passengers, see 9200

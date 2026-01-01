@@ -1,0 +1,14 @@
+E3822 Treatment and disposal of hazardous waste
+This class includes the disposal and treatment prior to disposal of solid or non-solid hazardous waste, including waste that is explosive, oxidizing, flammable, toxic, irritant, carcinogenic, corrosive or infectious and other substances and preparations harmful for human health and environment.
+This class includes:
+- operation of facilities for treatment of hazardous waste
+- treatment and disposal of toxic live or dead animals and other contaminated waste
+- incineration of hazardous waste
+- disposal of used goods such as refrigerators to eliminate harmful waste
+- treatment, disposal and storage of radioactive nuclear waste including:
+- treatment and disposal of transition radioactive waste, i.e. decaying within the period of transport, from hospitals
+- encapsulation, preparation and other treatment of nuclear waste for storage
+This class excludes:
+- incineration of non-hazardous waste, see 3821
+- decontamination, clean up of land, water; and toxic material abatement, see 3900
+- reprocessing of nuclear fuels, see 2011

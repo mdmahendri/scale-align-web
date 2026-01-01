@@ -1,0 +1,13 @@
+G4773 Retail sale of other new goods n.e.c.
+This class includes:
+- retail sale of photographic, optical and precision equipment
+- activities of opticians
+- retail sale of watches, clocks and jewellery
+- retail sale of flowers, plants, seeds, fertilizers, pet animals and pet food
+- retail sale of souvenirs, craftwork and religious articles
+- activities of commercial art galleries
+- retail sale of household fuel oil, bottled gas, coal and fuel wood
+- retail sale of cleaning materials
+- retail sale of weapons and ammunition
+- retail sale of stamps and coins
+- retail sale of non-food products n.e.c.

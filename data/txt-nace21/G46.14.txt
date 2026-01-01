@@ -1,0 +1,12 @@
+G46.14 Activities of agents involved in the wholesale of machinery, industrial equipment, ships and aircraft
+This class includes activities of agents involved in the wholesale of:
+- machinery, including office machinery and computers, industrial equipment, ships and aircraft
+- telephone and communication equipment, including mobile telephones, modems, etc.
+This class also includes:
+- activities of agents involved in the wholesale of agricultural equipment, including tractors
+- activities of agents involved in the wholesale of yachts and recreational boats
+This class excludes:
+- activities of commission agents for motor vehicles and motorcycles, see 46.18
+- activities of wholesale auctioneering houses for third-party goods of motor vehicles, including internet wholesale auctions of motor vehicles, see 46.18
+- wholesale on own account, see 46.2 to 46.9
+- activities of commission agents who assume ownership of the goods, even if they are acting in the name of a third party, see 46.2 to 46.9

@@ -1,0 +1,3 @@
+A01.44 Raising of camels and camelids
+This class includes:
+- raising and breeding of camels (dromedary) and camelids

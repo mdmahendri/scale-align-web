@@ -1,0 +1,8 @@
+L6511 Life insurance
+This class includes:
+- Term life insurance
+- Permanent life insurance
+- underwriting annuities and life insurance policies, disability income insurance policies, accidental death, funeral and dismemberment insurance policies (with or without a substantial savings element)
+This class includes also:
+- supplementary insurance underwritten in addition to life insurance, in particular, insurance against personal injury including incapacity for employment, insurance against death resulting from an accident and insurance against disability resulting from an accident or sickness;
+- types of permanent health insurance not subject to cancellation

@@ -1,0 +1,15 @@
+C1105 Manufacture of soft drinks; production of mineral waters and other bottled waters
+This class includes manufacture of non-alcoholic beverages (except non-alcoholic beer and wine):
+- production of natural mineral waters and other bottled waters
+- manufacture of soft drinks: non-alcoholic flavoured and/or sweetened waters: lemonade, orangeade, cola, fruit drinks, tonic waters etc. manufacture of other non-alcoholic beverages, e.g. soya-based beverages.
+This class also includes:
+- manufacture of beverages produced with fruit nectars
+This class excludes:
+- production of fruit and vegetable juice, see 1030
+- manufacture of milk-based drinks, see 1050
+- manufacture of coffee, tea and mat products, see 1076
+- manufacture of alcohol-based drinks, see 1101 - 1103
+- manufacture of non-alcoholic wine, see 1102
+- manufacture of non-alcoholic beer, see 1103
+- manufacture of ice for food consumption , see 3530
+- merely bottling and labelling, see 4630 (if performed as part of wholesale) and 8292 (if performed on a fee or contract basis)

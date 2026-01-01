@@ -1,0 +1,33 @@
+G4649 Wholesale of other household goods
+This class includes:
+- wholesale of household appliances
+- wholesale of consumer electronics:
+radio and TV equipment
+CD and DVD players and recorders
+stereo equipment
+video game consoles
+- wholesale of cutlery
+- wholesale of china and glassware
+- wholesale of woodenware, wickerwork and corkware etc.
+- wholesale of pharmaceutical and medical goods
+- wholesale of perfumeries, cosmetics and soaps
+- wholesale of bicycles, e-bikes, monowheels, hoverboards, kick scooters, segways, including related parts and accessories
+- wholesale of stationery, books, magazines and newspapers
+- wholesale of photographic and optical goods (e.g. sunglasses, binoculars, magnifying glasses)
+- wholesale of recorded audio and video tapes, CDs, DVDs
+- wholesale of leather goods and travel accessories
+- wholesale of watches, clocks and jewellery
+- wholesale of musical instruments, games and toys, sports goods
+- -wholesale of recorded media
+- wholesale of baby equipment, such as baby carriages, pushchairs, baby walkers, baby
+carriers, baby car seats, etc.
+- wholesale of medals and sports cups
+This class includes also
+- wholesale of tents and sleeping bags
+- wholesale trade in promotional items
+- wholesale of saucepans and pans
+- wholesale of imitation jewellery
+This class excludes:
+- wholesale of blank audio and video tapes, CDs, DVDs, see 4652
+- wholesale of radio and TV broadcasting equipment, see 4652
+- wholesale of office furniture, see 4659

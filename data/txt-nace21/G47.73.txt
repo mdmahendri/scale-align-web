@@ -1,0 +1,7 @@
+G47.73 Retail sale of pharmaceutical products
+This class includes:
+- retail sale of pharmaceuticals
+- retail sale of veterinary medicines
+This class also includes:
+- retail sale of homeopathic products and medicines without prescription
+- retail sale of herbal medicinal products and herbal remedies

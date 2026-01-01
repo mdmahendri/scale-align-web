@@ -1,0 +1,8 @@
+D35.15 Trade of electricity
+This class includes:
+- sale of electricity on own account
+This class also includes:
+- operation of charging facilities for electric vehicles (e.g. electric cars, motorcycles, bicycles)
+- operation of charging facilities for electronic devices (e.g. mobile telephones, laptops)
+This class excludes:
+- sale of electricity on the account of others, see 35.40

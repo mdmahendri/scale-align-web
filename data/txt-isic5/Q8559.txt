@@ -1,0 +1,34 @@
+Q8559 Other education n.e.c.
+This class includes:
+- education that is not definable by level
+- academic tutoring
+- remedial courses
+- professional examination review courses
+- language instruction and conversational skills instruction
+- computer training
+- religious instruction
+- wellness courses,
+- sewing courses,
+- relaxation courses,
+- oenology courses,
+- family life courses, e.g. parent-child courses
+- training on plant protection products
+This class includes:
+- education that is not definable by level
+- academic tutoring
+- remedial courses
+- professional examination review courses
+- language instruction and conversational skills instruction
+- computer training
+- religious instruction
+- wellness courses,
+- sewing courses,
+- relaxation courses,
+- oenology courses,
+- family life courses, e.g. parent-child courses
+- training on plant protection products
+This class excludes:
+- formal adult literacy programmes, see 8520
+- general secondary education, see 8531
+- technical and vocational secondary education and training, see 8532
+- entertainment activities in retirement homes, see 9329

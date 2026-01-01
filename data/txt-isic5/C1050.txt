@@ -1,0 +1,26 @@
+C1050 Manufacture of dairy products
+This class includes:
+- manufacture of fresh liquid milk, pasteurized, sterilized, homogenized and/or ultra heat treated
+- manufacture of milk-based drinks
+- manufacture of cream from fresh liquid milk, pasteurized, sterilized, homogenized
+- manufacture of dried or concentrated milk whether or not sweetened
+- manufacture of milk or cream in solid form
+- manufacture of butter
+- manufacture of yoghurt
+- manufacture of cheese and curd
+- refining and aging of cheese
+- manufacture of whey
+- manufacture of casein or lactose
+- manufacture of ice cream.
+This class also includes:
+- manufacture of milk kefir
+- Manufacture of edible ice (such as sorbet) and frozen dessert ices
+This class excludes:
+- production of raw milk (cattle), see 0141
+- production of raw milk (camels, etc.), see 0143
+- production of raw milk (sheep, goats, horses, asses, etc.), see 0144
+- manufacture of non-dairy milk (e.g. plant based milk) and cheese substitutes, see 1079
+- production of milk-based dietary drinks, see 1079
+- production of dairy based infant formulae, see 1079
+- - manufacture of fruit kefir and water kefir, see 1102
+- activities of ice cream parlours, see 5610

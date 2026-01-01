@@ -1,0 +1,9 @@
+G46.81 Wholesale of solid, liquid and gaseous fuels and related products
+This class includes:
+- wholesale of fossil, low-carbon or carbon-free fuels, greases, lubricants, oils, e.g.:
+charcoal, coal, coke, fuelwood, pellets of wood or biomass, naphtha
+crude petroleum, crude oil, diesel fuel, gasoline, fuel oil, heating oil, kerosene, biofuels, recycled carbon fuels, synthetic fuels, in blending or pure
+liquefied petroleum gas (LPG), liquefied natural gas (LNG), butane and propane gas and their related bio and renewable forms, in blending or pure
+lubricating oils and greases, refined petroleum products
+This class excludes:
+- wholesale of hydrogen, see 46.85

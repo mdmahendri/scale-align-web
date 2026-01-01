@@ -1,0 +1,17 @@
+C25.51 Coating of metals
+This class includes:
+- galvanising, including general (batch) hot-dip galvanising
+- phosphate or chromate conversion coating
+- cladding, electroplating, anodising, etc., of metals
+- colouring of metals
+- non-metallic coating of metals, e.g.:
+powder or plastic coating, enamelling, lacquering
+This class excludes:
+- activities of farriers, see 01.62
+- printing onto metals, see 18.12
+- metal coating of plastics, see 22.25
+- cladding of base metals with a covering of silver, gold or platinum, see 24.41
+- heat treatment of metals, see 25.52
+- hardening of metals, see 25.52
+- painting of metals on buildings and civil engineering structures, see 43.34
+- while-you-wait engraving services, see 95.29

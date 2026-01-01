@@ -1,0 +1,32 @@
+C3230 Manufacture of sports goods
+This class includes the manufacture of sporting and athletic goods (except apparel and footwear).
+This class includes:
+- manufacture of articles and equipment for sports, outdoor and indoor games, of any material e.g.:
+hard, soft and inflatable balls
+rackets, bats and clubs
+skis, bindings and poles
+ski-boots, snowboard boots and cross-country ski footwear
+sailboards and surfboards
+requisites for sport fishing, including landing nets
+decoy birds and similar requisites for hunting or shooting
+articles and equipment for mountain climbing
+gloves , for use in sport, of leather or composition leather
+basins for swimming and padding pools
+ice skates, roller skates
+bows and crossbows
+gymnasium, fitness centre or athletic equipment
+This class excludes:
+- manufacture of boat sails, see 1399
+- manufacture of sports apparel, see 1410
+- manufacture of saddlery and harness, see 1512
+- manufacture of whips and riding crops, see 1512
+- manufacture of sports footwear, see 1520
+- manufacture of rubber wet suits and diving suits, see 2219
+- manufacture of sporting, hunting or target-shooting weapons and ammunition, see 2520
+- manufacture of metal weights as used for weightlifting, see 2599
+- manufacture of sports vehicles other than bobsleighs, toboggans and the like, see divisions 29 and 30
+- manufacture of boats for sports and recreation, see 3012
+- manufacture of billiard tables, see 3240
+- manufacture of ear and noise plugs (e.g. for swimming and noise protection), see 3290
+- manufacture of safety headgear, see 3290
+- repair of sporting goods, see 9529

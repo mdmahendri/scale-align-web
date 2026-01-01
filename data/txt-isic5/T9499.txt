@@ -1,0 +1,27 @@
+T9499 Activities of other membership organizations n.e.c.
+This class includes:
+- activities of organisations (not directly affiliated to a political party) furthering a public cause or issue by means of public education, political influence, fund-raising etc.:
+citizens initiative or protest movements
+environmental and ecological movements
+organisations supporting community and educational facilities n.e.c.
+organisations for the protection and betterment of special groups, e.g. ethnic and minority groups
+associations for patriotic purposes, including war veterans' associations
+- activities of associations intended to promote health, e.g. Samaritans
+- activities of associations for the protection of animals
+- consumer associations
+- automobile associations (other than sports)
+- associations for the purpose of social acquaintanceship such as rotary clubs, lodges etc.
+- associations of youth, e.g. scouts associations, young persons' associations, student associations, clubs and fraternities etc.
+- associations for the pursuit of a cultural or recreational activity or hobby (other than sports or games), e.g. poetry, literature and book clubs, historical clubs, gardening clubs, film and photo clubs, music and art clubs, craft and collectors' clubs, social clubs, carnival clubs etc.
+This class also includes:
+- grant giving activities by membership organisations or others
+- activities of non-governmental organisations, e.g. for the protection of citizens' interests and rights
+- activities of philanthropic intermediaries and voluntarism promotion
+- international cooperation and solidarity activities
+This class excludes:
+- charitable activities like fund-raising aimed at social work, see 8890
+- activities of professional artistic groups or organisations, see 90
+- activities of sports clubs, see 9312
+- activities of professional membership organisations, see 9412
+- activities of sport federations and associations, see 9319
+- activities of international organisations under international treaties between states, see 9900

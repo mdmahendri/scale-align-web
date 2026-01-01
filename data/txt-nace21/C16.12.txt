@@ -1,0 +1,13 @@
+C16.12 Processing and finishing of wood
+This class includes general activities for the processing and finishing of wood, which are typically carried out on a fee or contract basis:
+- activities mostly carried out on a fee or contract basis:
+boring, turning, milling, broaching, levelling, grinding, polishing, splicing, etc., of wood
+- drying of wood
+- impregnation or chemical treatment of wood
+- treatment of wood in the rough with paint, stains or other preservatives
+- other activities of processing and finishing of wood
+This class excludes:
+- manufacture of unassembled wooden flooring, see 16.11
+- coating, impregnation or chemical treatment of wooden products, see 16.27
+- disinfection and extermination services in buildings, etc., see 81.23
+- reupholstering, refinishing and repairing of furniture, see 95.24

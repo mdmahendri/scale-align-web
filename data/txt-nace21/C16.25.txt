@@ -1,0 +1,5 @@
+C16.25 Manufacture of doors and windows of wood
+This class includes:
+- manufacture of doors and their frames and thresholds of wood
+- manufacture of windows, shutters and French windows and their frames of wood
+- manufacture of multi-material doors and windows with the frame made of wood

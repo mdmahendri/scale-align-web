@@ -1,0 +1,20 @@
+F CONSTRUCTION
+This section includes general construction and specialised construction activities for buildings and civil engineering works.
+It includes new work, repair, additions and alterations, the erection of prefabricated buildings or structures on the site as well as construction of a temporary nature.
+General construction is the construction of entire buildings (for example, homes, offices, stores as well as utility buildings or farm buildings).
+It also includes the construction of civil engineering works (for example, motorways, streets, bridges, tunnels, railways, airfields, harbours and other water projects, irrigation systems, sewerage systems, industrial facilities, pipelines and electric lines, sports facilities).
+This work can be carried out on own account or on a fee or contract basis.
+Portions of the work and sometimes even the whole practical work can be subcontracted out.
+A main contractor that carries the overall responsibility for a construction project is classified here.
+Further included is the repair of buildings and engineering works.
+Maintenance, repair and installation of equipment that forms an integral part of buildings (for example, escalators or air-conditioning systems) is classified as construction in section F, if carried out at the construction site.
+This section includes the complete construction of buildings (division 41), the complete construction of civil engineering works (division 42), as well as specialised construction activities, if carried out only as a part of the construction process (division 43).
+
+The rental of construction equipment with an operator is classified with the specific construction activity carried out with this equipment.
+This section also includes:
+- renovation, renewal, reconstruction and retrofitting of historical and archaeological sites and buildings
+This section excludes:
+- manufacturing operations not performed at the construction site, see section C
+- manufacture and deliverance of structures and prefabricated building parts in wood or metal with minimal on-site construction work, see divisions 16, 25
+- archaeological excavations, see 72.20
+- conservation, restoration and other cultural heritage support activities, see 91.30

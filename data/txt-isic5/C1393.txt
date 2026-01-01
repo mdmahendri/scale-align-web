@@ -1,0 +1,11 @@
+C1393 Manufacture of carpets and rugs
+This class includes:
+- manufacture of textile floor coverings e.g.
+carpets, rugs and mats, tiles
+This class also includes:
+- manufacture of needle-loom felt floor coverings
+- manufacture of artificial grass (synthetic turf)
+This class excludes:
+- manufacture of mats and matting of plaiting materials, see 1629
+- manufacture of floor coverings of cork, see 1629
+- manufacture of resilient floor coverings, such as vinyl, linoleum, see 2220

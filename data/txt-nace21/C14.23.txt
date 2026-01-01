@@ -1,0 +1,6 @@
+C14.23 Manufacture of workwear
+This class also includes:
+- manufacture of uniforms and similar official clothing (e.g. judges gowns, church vestments)
+This class excludes:
+- manufacture of footwear, see 15.20
+- manufacture of fire-protective clothing, see 32.99

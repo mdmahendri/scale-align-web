@@ -1,0 +1,6 @@
+C24.51 Casting of iron
+This class includes activities of iron foundries.
+This class includes:
+- manufacture of castings made of grey iron castings
+- manufacture of castings made of ductile iron castings (including casting of spheroidal graphite iron castings and malleable iron castings)
+- manufacture of castings made of other special iron alloys castings

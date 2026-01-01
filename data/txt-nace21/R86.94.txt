@@ -1,0 +1,10 @@
+R86.94 Nursing and midwifery activities
+This class includes nursing and midwifery activities not performed by medical doctors, for example:
+- activities of independent nurses, who work in own consulting rooms or at patients homes
+- activities of maternity facilities, without permanent supervision of medical doctors
+This class also includes:
+- palliative nursing care activities for outpatients
+This class excludes:
+- maternity wards in hospitals, under the direct supervision of medical doctors, see 86.10
+- residential nursing care facilities, see 87.10
+- homecare services, see 88.10

@@ -1,0 +1,11 @@
+C10.91 Manufacture of prepared feeds for farm animals
+This class includes:
+- manufacture of prepared feed for farm animals, including concentrated animal feed and feed supplements
+- preparation of unmixed (single) feed for farm animals
+This class also includes:
+- processing of waste products from the food industry into animal feed
+This class excludes:
+- manufacture of meat products, see 10.13
+- manufacture of fishmeal for animal feed, see 10.20
+- manufacture of oilseed cake, see 10.41
+- activities resulting in by-products usable as animal feed without special treatment (e.g. oilseeds (see 10.41), grain milling residues (see 10.61), etc.)

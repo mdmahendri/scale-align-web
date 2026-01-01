@@ -1,0 +1,10 @@
+H53.20 Other postal and courier activities
+This class includes:
+- pickup, sorting, transport and delivery (domestic (national) or international) of letter post and (mail-type) parcels and packages by businesses operating outside the scope of a universal service obligation.
+One or more modes of transport may be involved and the activity may be carried out with either self-owned (private) transport or via public transport.
+This class also includes:
+- home delivery services, including food
+This class excludes:
+- transport of freight, see (according to mode of transport) 49.20, 49.41, 50.20, 50.40, 51.21, 51.22
+- delivery of furniture, can include unpacking or installation, see 49.41
+- home delivery of prepared meals, if performed by the same unit which prepares the meals, see division 56

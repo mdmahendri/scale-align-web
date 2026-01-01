@@ -1,0 +1,13 @@
+C25.21 Manufacture of central heating radiators, steam generators and boilers
+This class includes:
+- manufacture of radiators for central heating, non-electrically heated
+- manufacture of steam or other vapour generating boilers
+- manufacture of auxiliary plant for use with steam or other vapour generating boilers (e.g. economisers, super heaters, steam collectors and accumulators)
+- manufacture of condensers for steam or other vapour power units
+- manufacture of nuclear reactors, except isotope separators
+- manufacture of marine or power boilers
+This class excludes:
+- manufacture of electrical ovens and water heaters, see 27.51
+- manufacture of boiler turbine sets, see 28.11
+- manufacture of household heating equipment, see 28.21
+- manufacture of isotope separators, see 28.99

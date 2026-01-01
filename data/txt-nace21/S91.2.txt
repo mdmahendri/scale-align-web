@@ -1,0 +1,8 @@
+S91.2 Museum, collection, historical site and monument activities
+This group includes the operation, management, care, preservation, exhibition and assessment of cultural heritage: tangible, intangible and digital in a wide variety of types of collections (both private and public).
+It includes activities pertaining to cultural heritage places as a result of human intervention in its surroundings, from landscapes to gardens, from historical and archaeological sites to buildings.
+This group excludes:
+- renovation, renewal, reconstruction and retrofitting of historical and archaeological sites and buildings, see 43.99
+- retail sale of paintings and sculptures (activities of commercial art galleries), see 47.69
+- architectural activities to support the conservation and restoration of cultural heritage properties, see 71.11
+- activities related to conservation and restoration of cultural heritage, see 91.30

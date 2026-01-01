@@ -1,0 +1,15 @@
+H4922 Other passenger land transport
+This class includes:
+- other passenger road transport:
+- scheduled long-distance bus services
+- charters, excursions and other occasional coach services
+- taxi operation
+- airport shuttles
+- operation of funiculars, cable cars and ski lifts, if they are not part of urban or suburban transit systems or not in combination with the operation of ski hills
+This class also includes:
+- other renting of private cars with driver
+- operation of school buses and buses for transport of employees
+- passenger transport by man- or animal-drawn vehicles
+This class excludes:
+- ambulance transport, see 8699
+- operation of cableways, ski lifts and chairlifts as part of the operation of ski hills, see 9329

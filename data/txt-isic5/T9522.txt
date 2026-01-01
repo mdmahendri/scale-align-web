@@ -1,0 +1,9 @@
+T9522 Repair and maintenance of household appliances and home and garden equipment
+This class includes the repair and servicing household appliances and home and garden equipment:
+- repair and servicing of household appliances
+refrigerators, stoves, washing machines, clothes dryers, room air conditioners, etc.
+- repair and servicing of home and garden equipment
+lawnmowers, edgers, snow- and leaf- blowers, trimmers, etc.
+This class excludes:
+- repair of handheld power tools and commercial refrigeration, see 3312
+- repair of central air conditioning systems, see 4322

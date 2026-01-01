@@ -1,0 +1,5 @@
+C1103 Manufacture of beer
+This class includes:
+- manufacture of malt liquors, e.g. beer, ale, porter and stout.
+This class also includes:
+- manufacture of low alcohol or non-alcoholic beer

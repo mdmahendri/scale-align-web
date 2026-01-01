@@ -1,0 +1,27 @@
+C3011 Building of ships and floating structures
+This class includes the building of civilian and military ships (except vessels for sports or recreation), and the construction of floating structures.
+This class includes:
+- building of commercial vessels:
+* passenger vessels, ferry boats, cargo ships, tankers, tugs etc.
+- building of military ships and vessels
+- building of fishing vessels, factory ships and other vessels for processing or preserving fishery products
+- manufacture of submersible drones
+This class also includes:
+- building of hovercraft (except recreation-type hovercraft)
+- construction of drilling platforms, floating or submersible
+- construction of floating structures:
+* floating docks, pontoons, coffer-dams, floating landing stages, buoys, floating tanks, barges, lighters, floating cranes, non-recreational inflatable rafts etc.
+- manufacture of sections for ships and floating structures
+This class excludes:
+- manufacture of parts of vessels, other than major hull assemblies:
+* manufacture of sails, see 1392
+* manufacture of ships' propellers, see 2599
+* manufacture of iron or steel anchors, see 2599
+* manufacture of marine engines, see 2811
+- manufacture of navigational instruments, see 2651
+- manufacture of lighting equipment for ships, see 2740
+- manufacture of amphibious motor vehicles, see 2910
+- manufacture of inflatable boats or rafts for recreation, see 3012
+- specialized repair and maintenance of ships and floating structures, see 3315
+- ship-breaking, see 3830
+- interior installation of boats, see 4330

@@ -1,0 +1,26 @@
+F4330 Building completion and finishing
+This class includes:
+- application in buildings or other construction projects of interior and exterior plaster or stucco, including related lathing materials
+- installation of doors (except automated and revolving), windows, door and window frames, of wood or other materials
+- installation of fitted kitchens, staircases, shop fittings and the like
+- installation of furniture
+- interior completion such as ceilings, wooden wall coverings, movable partitions, etc.
+- laying, tiling, hanging or fitting in buildings or other construction projects of:
+* ceramic, concrete or cut stone wall or floor tiles, ceramic stove fitting
+* parquet and other wooden floor coverings
+* carpets and linoleum floor coverings, including of rubber or plastic
+* terrazzo, marble, granite or slate floor or wall coverings
+* wallpaper
+- interior and exterior painting of buildings
+- painting of civil engineering structures
+- installation of glass, mirrors, etc.
+- other building completion work n.e.c.
+This class also includes:
+- interior installation of shops, mobile homes, boats etc.
+This class excludes:
+- painting of roads, see 4210
+- installation of automated and revolving doors, see 4329
+- general interior cleaning of buildings and other structures, see 8121
+- specialized interior and exterior cleaning of buildings, see 8129
+- activities of interior decoration designers, see 7410
+- assembly of self-standing furniture, see 9524

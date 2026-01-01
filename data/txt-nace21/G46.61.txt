@@ -1,0 +1,14 @@
+G46.61 Wholesale of agricultural machinery, equipment and supplies
+This class includes:
+- wholesale of agricultural and forestry machinery and equipment:
+ploughs, manure spreaders, seeders
+harvesters
+threshers
+milking machines
+poultry-keeping machines, bee-keeping equipment
+agricultural and forestry tractors
+This class also includes:
+- wholesale of garden and landscaping equipment (e.g. lawn mowers)
+This class excludes:
+- wholesale of livestock feed, see 46.21
+- wholesale of fertilisers and agrochemical products, see 46.85

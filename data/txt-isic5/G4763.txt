@@ -1,0 +1,13 @@
+G4763 Retail sale of games and toys
+This class includes:
+- retail sale of games and toys, made of all materials
+- retail sale of party supplies, e.g. disguises, masks, party favours (cotillions, jokes, etc.) and magic items
+This class also includes
+- retail sale of toy drones
+This class excludes:
+- retail sale of video consoles and video games on a physical medium, see 4740
+- second-hand retail sale of games and toys, see 4774
+- distribution of video games via streaming and downloading by their publishers, see 5821
+- distribution of audio via streaming and downloading by their publishers, see 5920
+- edition/publishing of games, board games, see 5819
+- content distribution (sharing) platforms for video games, see 6039

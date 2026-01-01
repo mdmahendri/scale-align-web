@@ -1,0 +1,11 @@
+O77 Rental and leasing activities
+This division includes the rental and leasing of tangible and non-financial intangible assets and intermediation service activities thereof.
+For leasing activities, only the provision of operating leases is included in this division.
+The renter or lessor has the economic risk for the tangible goods and non-financial intangible assets provided, whereas the intermediator has no economic risk for the tangible goods and non-financial intangible assets that are intermediated.
+In this division, a wide array of tangible goods is concerned (for example, automobiles, computers, consumer goods, industrial machinery and equipment), provided to customers in return for a periodic rental or lease payment.
+This division excludes:
+- rental of equipment with an operator, see corresponding classes according to activities carried out with this equipment (e.g. construction (section F), transport (section H))
+- streaming of content (e.g. software, books, by content publishers), see division 58
+- audiobook streaming activities not associated with its publishing, see 60.10
+- financial leasing, see 64.91
+- rental of real estate, see section M
