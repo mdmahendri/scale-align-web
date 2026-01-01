@@ -1,16 +1,9 @@
 import alignmentsData from '$lib/data/alignments.json';
+import type { AlignmentData } from '$lib/types';
 
 export const prerender = true;
 
-interface Correspondence {
-    id: string;
-}
-
-interface AlignmentsData {
-    correspondences: Correspondence[];
-}
-
-const data = alignmentsData as AlignmentsData;
+const data = alignmentsData as AlignmentData;
 
 export function entries() {
     // Generate all possible ID combinations from alignments data

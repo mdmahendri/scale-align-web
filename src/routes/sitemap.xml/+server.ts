@@ -1,15 +1,9 @@
 import alignmentsData from '$lib/data/alignments.json';
+import type { AlignmentData } from '$lib/types';
 
-interface Correspondence {
-    id: string;
-}
-
-interface AlignmentsData {
-    correspondences: Correspondence[];
-}
-
-const data = alignmentsData as AlignmentsData;
+const data = alignmentsData as AlignmentData;
 const BASE_URL = 'https://scale-align.pages.dev';
+const LAST_MOD = '2026-01-02';
 
 export const prerender = true;
 
@@ -28,6 +22,7 @@ export async function GET() {
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${pages.map(page => `  <url>
     <loc>${BASE_URL}${page}</loc>
+    <lastmod>${LAST_MOD}</lastmod>
   </url>`).join('\n')}
 </urlset>`;
 
