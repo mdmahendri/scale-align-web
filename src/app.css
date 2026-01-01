@@ -1,0 +1,149 @@
+/* SCALE Align Web - Refined Design System */
+/* Content-focused, minimal, with light/dark mode */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  /* Light Mode (default) */
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8fafc;
+  --bg-tertiary: #f1f5f9;
+
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #94a3b8;
+
+  --border-subtle: #e2e8f0;
+  --border-medium: #cbd5e1;
+
+  /* Accent Colors (neutral comparison, not insert/delete) */
+  --accent-source: #0891b2;
+  /* Darker cyan for readability */
+  --accent-source-bg: rgba(8, 145, 178, 0.08);
+  --accent-target: #d97706;
+  /* Darker amber for readability */
+  --accent-target-bg: rgba(217, 119, 6, 0.08);
+  --accent-primary: #0d9488;
+  /* Teal */
+
+
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+
+  --radius-sm: 6px;
+  --radius-md: 8px;
+
+  --transition: 200ms ease;
+}
+
+/* Dark Mode */
+[data-theme="dark"] {
+  --bg-primary: #0f172a;
+  --bg-secondary: #1e293b;
+  --bg-tertiary: #334155;
+
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+
+  --border-subtle: #334155;
+  --border-medium: #475569;
+
+  --accent-source: #22d3ee;
+  --accent-source-bg: rgba(34, 211, 238, 0.12);
+  --accent-target: #fbbf24;
+  --accent-target-bg: rgba(251, 191, 36, 0.12);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  transition: background var(--transition), color var(--transition);
+}
+
+/* Minimal Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-medium);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* Typography */
+.mono {
+  font-family: 'JetBrains Mono', 'Consolas', monospace;
+}
+
+
+
+/* Diff Highlighting - Subtle, readable */
+.diff-source {
+  background: var(--accent-source-bg);
+  color: var(--accent-source);
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+.diff-target {
+  background: var(--accent-target-bg);
+  color: var(--accent-target);
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-weight: 500;
+}
+
+/* Focus */
+:focus-visible {
+  outline: 2px solid var(--accent-primary);
+  outline-offset: 2px;
+}
+
+/* Button reset */
+button {
+  font-family: inherit;
+  font-size: inherit;
+  border: none;
+  background: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+/* Input reset */
+input {
+  font-family: inherit;
+  font-size: inherit;
+  border: none;
+  outline: none;
+  background: none;
+  color: inherit;
+}

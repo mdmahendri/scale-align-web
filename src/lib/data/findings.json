@@ -1,0 +1,14 @@
+{
+  "findings": [
+    {
+      "id": "1",
+      "correspondence": "S9020 ↔ S90.20",
+      "description": "NACE21 specifies that influencer vlogs must be 'published by a third party', while ISIC5 has no such restriction."
+    },
+    {
+      "id": "2",
+      "correspondence": "A0111 ↔ A01.11",
+      "description": "NACE21 explicitly mentions pseudocereals explanation 'fruits or seeds used as cereals' while ISIC5 has different phrasing."
+    }
+  ]
+}

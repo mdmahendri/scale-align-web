@@ -1,0 +1,1103 @@
+{
+  "metadata": {
+    "source": {
+      "name": "ISIC5",
+      "folder": "txt-isic5"
+    },
+    "target": {
+      "name": "NACE21",
+      "folder": "txt-nace21"
+    },
+    "generatedAt": "2026-01-01T18:54:02.446Z"
+  },
+  "correspondences": [
+    {
+      "id": "A0111_A01.11",
+      "source": {
+        "code": "A0111"
+      },
+      "target": {
+        "code": "A01.11"
+      },
+      "sourceText": [
+        "A0111 Growing of cereals (except rice), leguminous crops and oil seeds",
+        "This class includes all forms of growing of cereals, leguminous crops and oil seeds in open fields, for obtaining crops or for seed production.",
+        "The growing of these crops is often combined within agricultural units.",
+        "This class includes:",
+        "- growing of cereals such as:",
+        "wheat",
+        "grain maize",
+        "sorghum",
+        "barley",
+        "rye",
+        "oats",
+        "millets",
+        "Pseudocereals, fruits or seeds - used as cereals, such as",
+        "quinoa",
+        "amaranth",
+        "chia",
+        "- growing of leguminous crops such as:",
+        "beans",
+        "broad beans",
+        "chick peas",
+        "cow peas",
+        "lentils",
+        "lupines",
+        "peas",
+        "pigeon peas",
+        "- growing of oil seeds such as:",
+        "soya beans",
+        "groundnuts",
+        "castor bean",
+        "linseed",
+        "mustard seed",
+        "niger seed",
+        "rapeseed",
+        "safflower seed",
+        "sesame seed",
+        "sunflower seed",
+        "This class excludes:",
+        "- growing of rice, see 0112",
+        "- growing of sweet corn, see 0113",
+        "- growing of maize, lupines, kale for fodder, see 0119",
+        "- growing of oleaginous fruits, see 0126"
+      ],
+      "targetText": [
+        "A01.11 Growing of cereals, other than rice, leguminous crops and oil seeds",
+        "This class includes all forms of growing of cereals, leguminous crops and oil seeds.",
+        "Further included is the growing of these plants for the purpose of seed production.",
+        "The growing of these crops is often combined within agricultural units.",
+        "This class includes:",
+        "- growing of cereals, e.g.:",
+        "wheat",
+        "grain maize",
+        "sorghum",
+        "barley",
+        "rye",
+        "oats",
+        "millet",
+        "pseudocereals, in other words, fruits or seeds used as cereals, e.g.:",
+        "quinoa",
+        "amaranth",
+        "chia",
+        "- growing of leguminous crops, e.g.:",
+        "beans",
+        "broad beans",
+        "chickpeas",
+        "cowpeas",
+        "lentils",
+        "lupines",
+        "peas",
+        "pigeon peas",
+        "- growing of oil seeds, e.g.:",
+        "soya beans",
+        "groundnuts",
+        "castor beans",
+        "linseed",
+        "mustard seed",
+        "niger seed",
+        "rapeseed",
+        "safflower seed",
+        "sesame seed",
+        "sunflower seed",
+        "This class excludes:",
+        "- growing of rice, see 01.12",
+        "- growing of sweetcorn, see 01.13",
+        "- growing of maize, lupines or kale for fodder, see 01.19",
+        "- growing of oleaginous fruits, see 01.26"
+      ],
+      "alignments": [
+        {
+          "srcLines": [
+            0
+          ],
+          "tgtLines": [
+            0
+          ],
+          "score": 0.9561976790428162,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [],
+          "tgtLines": [
+            1
+          ],
+          "score": 0,
+          "type": "unmatched"
+        },
+        {
+          "srcLines": [
+            1
+          ],
+          "tgtLines": [],
+          "score": 0,
+          "type": "unmatched"
+        },
+        {
+          "srcLines": [],
+          "tgtLines": [
+            2
+          ],
+          "score": 0,
+          "type": "unmatched"
+        },
+        {
+          "srcLines": [
+            2
+          ],
+          "tgtLines": [
+            3
+          ],
+          "score": 0.92694091796875,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            3,
+            36
+          ],
+          "tgtLines": [
+            4,
+            37
+          ],
+          "score": 0.9450985193252563,
+          "type": "N:M"
+        },
+        {
+          "srcLines": [
+            4
+          ],
+          "tgtLines": [
+            5
+          ],
+          "score": 0.9615359306335449,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            5
+          ],
+          "tgtLines": [
+            6
+          ],
+          "score": 0.9468516111373901,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            6
+          ],
+          "tgtLines": [
+            7
+          ],
+          "score": 0.9621353149414062,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            7
+          ],
+          "tgtLines": [
+            8
+          ],
+          "score": 0.9628773331642151,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            8
+          ],
+          "tgtLines": [
+            9
+          ],
+          "score": 0.9562678337097168,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            9
+          ],
+          "tgtLines": [
+            10
+          ],
+          "score": 0.9658223986625671,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            10
+          ],
+          "tgtLines": [
+            11
+          ],
+          "score": 0.9561446905136108,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            11
+          ],
+          "tgtLines": [
+            12
+          ],
+          "score": 0.9595537781715393,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            12
+          ],
+          "tgtLines": [
+            13
+          ],
+          "score": 0.9407709836959839,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            13
+          ],
+          "tgtLines": [
+            14
+          ],
+          "score": 0.9621247053146362,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            14
+          ],
+          "tgtLines": [
+            15
+          ],
+          "score": 0.9653702974319458,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            15
+          ],
+          "tgtLines": [
+            16
+          ],
+          "score": 0.9458117485046387,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            16
+          ],
+          "tgtLines": [
+            17
+          ],
+          "score": 0.9698773622512817,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            17
+          ],
+          "tgtLines": [
+            18
+          ],
+          "score": 0.9584270119667053,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            18
+          ],
+          "tgtLines": [
+            19
+          ],
+          "score": 0.9641441702842712,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            19,
+            20,
+            23,
+            24
+          ],
+          "tgtLines": [
+            20,
+            21,
+            24,
+            25
+          ],
+          "score": 0.9674608707427979,
+          "type": "N:M"
+        },
+        {
+          "srcLines": [
+            21
+          ],
+          "tgtLines": [
+            22
+          ],
+          "score": 0.9601679444313049,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            22
+          ],
+          "tgtLines": [
+            23
+          ],
+          "score": 0.968412458896637,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            25
+          ],
+          "tgtLines": [
+            26
+          ],
+          "score": 0.963282585144043,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            26
+          ],
+          "tgtLines": [
+            27
+          ],
+          "score": 0.9579918384552002,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            27
+          ],
+          "tgtLines": [
+            28
+          ],
+          "score": 0.9667708277702332,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            28
+          ],
+          "tgtLines": [
+            29
+          ],
+          "score": 0.9585422277450562,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            29
+          ],
+          "tgtLines": [
+            30
+          ],
+          "score": 0.960473358631134,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            30
+          ],
+          "tgtLines": [
+            31
+          ],
+          "score": 0.9602157473564148,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            31
+          ],
+          "tgtLines": [
+            32
+          ],
+          "score": 0.959190845489502,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            32
+          ],
+          "tgtLines": [
+            33
+          ],
+          "score": 0.976360559463501,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            33
+          ],
+          "tgtLines": [
+            34
+          ],
+          "score": 0.9633291959762573,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            34
+          ],
+          "tgtLines": [
+            35
+          ],
+          "score": 0.9605848789215088,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            35
+          ],
+          "tgtLines": [
+            36
+          ],
+          "score": 0.9632294178009033,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            37
+          ],
+          "tgtLines": [
+            38
+          ],
+          "score": 0.9534320831298828,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            38
+          ],
+          "tgtLines": [
+            39
+          ],
+          "score": 0.9500677585601807,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            39
+          ],
+          "tgtLines": [
+            40
+          ],
+          "score": 0.9417740702629089,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            40
+          ],
+          "tgtLines": [
+            41
+          ],
+          "score": 0.957404375076294,
+          "type": "1:1"
+        }
+      ],
+      "stats": {
+        "totalAlignments": 39,
+        "alignedCount": 36,
+        "avgScore": 0.958,
+        "types": {
+          "1:1": 34,
+          "1:N": 0,
+          "N:1": 0,
+          "N:M": 2,
+          "unmatched": 3
+        }
+      }
+    },
+    {
+      "id": "C101_C10.1",
+      "source": {
+        "code": "C101"
+      },
+      "target": {
+        "code": "C10.1"
+      },
+      "sourceText": [
+        "C101 Processing and preserving of meat",
+        "See class 1010"
+      ],
+      "targetText": [
+        "C10.1 Processing and preserving of meat and production of meat products"
+      ],
+      "alignments": [
+        {
+          "srcLines": [
+            0
+          ],
+          "tgtLines": [
+            0
+          ],
+          "score": 0.954924464225769,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            1
+          ],
+          "tgtLines": [],
+          "score": 0,
+          "type": "unmatched"
+        }
+      ],
+      "stats": {
+        "totalAlignments": 2,
+        "alignedCount": 1,
+        "avgScore": 0.955,
+        "types": {
+          "1:1": 1,
+          "1:N": 0,
+          "N:1": 0,
+          "N:M": 0,
+          "unmatched": 1
+        }
+      }
+    },
+    {
+      "id": "I56_I56",
+      "source": {
+        "code": "I56"
+      },
+      "target": {
+        "code": "I56"
+      },
+      "sourceText": [
+        "I56 Food and beverage service activities",
+        "This division includes food and beverage serving activities providing meals or drinks fit for immediate consumption, whether in traditional restaurants, self-service or take-away restaurants, whether permanent or temporary, with or without seating.",
+        "Decisive is the fact that meals fit for immediate consumption are offered, not the kind of facility providing them.",
+        "Excluded is the production of meals not fit for immediate consumption or not planned to be consumed immediately or of prepared food which is not considered to be a meal (see divisions 10: Manufacture of food products and 11: Manufacture of beverages).",
+        "Also excluded is the sale of not self-manufactured food that is not considered to be a meal or of meals that are not fit for immediate consumption (see section G: Wholesale and retail trade).",
+        "",
+        "Coffee dispenser and vending machines selling food and drinks prepared by the machine itself are classified in division 47"
+      ],
+      "targetText": [
+        "I56 Food and beverage service activities",
+        "This division includes food and beverage serving activities providing meals or drinks fit for immediate consumption, whether in traditional restaurants, self-service or takeaway restaurants, whether permanent or temporary, with or without seating.",
+        "The fact that meals fit for immediate consumption are offered is decisive, not the kind of facility providing them.",
+        "This division excludes:",
+        "- the production of meals not fit for immediate consumption or not planned to be consumed immediately, or of prepared food which is not considered to be a meal, see divisions 10 and 11",
+        "- the sale of not self-manufactured food that is not considered to be a meal, or of meals that are not fit for immediate consumption, see section G",
+        "- coffee dispenser and vending machines selling food and drinks prepared by the machine itself, see division 47"
+      ],
+      "alignments": [
+        {
+          "srcLines": [
+            0
+          ],
+          "tgtLines": [
+            0
+          ],
+          "score": 0.9605785012245178,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            1
+          ],
+          "tgtLines": [
+            1
+          ],
+          "score": 0.9368807077407837,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            2
+          ],
+          "tgtLines": [
+            2
+          ],
+          "score": 0.926804780960083,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [],
+          "tgtLines": [
+            3
+          ],
+          "score": 0,
+          "type": "unmatched"
+        },
+        {
+          "srcLines": [
+            3
+          ],
+          "tgtLines": [
+            4
+          ],
+          "score": 0.9126695394515991,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            4
+          ],
+          "tgtLines": [
+            5
+          ],
+          "score": 0.9126781225204468,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            5
+          ],
+          "tgtLines": [
+            6
+          ],
+          "score": 0.951342761516571,
+          "type": "1:1"
+        }
+      ],
+      "stats": {
+        "totalAlignments": 7,
+        "alignedCount": 6,
+        "avgScore": 0.933,
+        "types": {
+          "1:1": 6,
+          "1:N": 0,
+          "N:1": 0,
+          "N:M": 0,
+          "unmatched": 1
+        }
+      }
+    },
+    {
+      "id": "L649_L64.9",
+      "source": {
+        "code": "L649"
+      },
+      "target": {
+        "code": "L64.9"
+      },
+      "sourceText": [
+        "L649 Other financial service activities, except insurance and pension funding activities",
+        "This group includes financial service activities except insurance and pension funding activities, other than those conducted by monetary institutions, holding companies and financing conduits, and trusts, funds and similar entities.",
+        "This group excludes:",
+        "- Insurance and pension funding activities, see division 65"
+      ],
+      "targetText": [
+        "L64.9 Other financial service activities, except insurance and pension funding",
+        "This group includes financial service activities (except insurance and pension funding activities), other than those conducted by monetary institutions, holding companies and financing conduits, trusts, funds and similar entities.",
+        "This group excludes:",
+        "- insurance and pension funding activities, see division 65"
+      ],
+      "alignments": [
+        {
+          "srcLines": [
+            0
+          ],
+          "tgtLines": [
+            0
+          ],
+          "score": 0.9530248641967773,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            1
+          ],
+          "tgtLines": [
+            1
+          ],
+          "score": 0.9334156513214111,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            2
+          ],
+          "tgtLines": [
+            2
+          ],
+          "score": 0.943477988243103,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            3
+          ],
+          "tgtLines": [
+            3
+          ],
+          "score": 0.94459068775177,
+          "type": "1:1"
+        }
+      ],
+      "stats": {
+        "totalAlignments": 4,
+        "alignedCount": 4,
+        "avgScore": 0.944,
+        "types": {
+          "1:1": 4,
+          "1:N": 0,
+          "N:1": 0,
+          "N:M": 0,
+          "unmatched": 0
+        }
+      }
+    },
+    {
+      "id": "Q85_Q85",
+      "source": {
+        "code": "Q85"
+      },
+      "target": {
+        "code": "Q85"
+      },
+      "sourceText": [
+        "Q85 Education",
+        "See section Q"
+      ],
+      "targetText": [
+        "Q85 Education"
+      ],
+      "alignments": [
+        {
+          "srcLines": [
+            0
+          ],
+          "tgtLines": [
+            0
+          ],
+          "score": 0.9710801839828491,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            1
+          ],
+          "tgtLines": [],
+          "score": 0,
+          "type": "unmatched"
+        }
+      ],
+      "stats": {
+        "totalAlignments": 2,
+        "alignedCount": 1,
+        "avgScore": 0.971,
+        "types": {
+          "1:1": 1,
+          "1:N": 0,
+          "N:1": 0,
+          "N:M": 0,
+          "unmatched": 1
+        }
+      }
+    },
+    {
+      "id": "S9020_S90.20",
+      "source": {
+        "code": "S9020"
+      },
+      "target": {
+        "code": "S90.20"
+      },
+      "sourceText": [
+        "S9020 Activities of performing arts",
+        "This class includes activities in the performing arts and related activities.",
+        "It includes:",
+        "- live stage productions (theatrical presentations, concerts, opera, dance and others):",
+        "activities of performing groups, circuses or companies, orchestras or bands",
+        "activities of performing artists, e.g. actors (including stand-up comedians), dancers, musicians (including activities of independent organists), conductors",
+        "This class also includes:",
+        "- activities of photo models",
+        "- activities of influencers appearing in vlogs",
+        "- activities of independent musicians and actors appearing in video and audiovisual content of all kinds",
+        "- operation of arts facilities for own ensemble",
+        "This class excludes:",
+        "- activities of personal theatrical or artistic agents or agencies, see 7499",
+        "- casting activities, see 7810",
+        "- activities of bloggers not self-publishing their own created content, see 9011",
+        "- publishing texts and photos and other contents without video by influencers or bloggers, see 5819",
+        "- production of video and audio visual content, see 5911"
+      ],
+      "targetText": [
+        "S90.20 Activities of performing arts",
+        "This class includes activities in the performing arts and related activities.",
+        "It includes:",
+        "- live stage productions (theatrical presentations, concerts, operas, dances and others):",
+        "activities of performing groups, circuses or companies, orchestras or bands",
+        "activities of performing artists (e.g. actors (including stand-up comedians), dancers, musicians (including activities of independent musicians), conductors)",
+        "This class also includes:",
+        "- activities of photo models",
+        "- activities of independent musicians and actors appearing in video and audiovisual content of all kinds",
+        "- operation of performing arts facilities for own ensemble",
+        "- activities of influencers appearing in vlogs published by a third party",
+        "This class excludes:",
+        "- publishing texts and photographs and other contents without video by influencers or bloggers, see 58.19",
+        "- production of video and audiovisual content, including vlogs, see 59.11",
+        "- activities of personal theatrical or artistic agents or agencies, see 74.99",
+        "- casting activities, see 78.10",
+        "- activities of bloggers not self-publishing their own created content, see 90.11"
+      ],
+      "alignments": [
+        {
+          "srcLines": [
+            0
+          ],
+          "tgtLines": [
+            0
+          ],
+          "score": 0.9698105454444885,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            1
+          ],
+          "tgtLines": [
+            1
+          ],
+          "score": 0.9217941164970398,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            2
+          ],
+          "tgtLines": [
+            2
+          ],
+          "score": 0.9129303097724915,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            3
+          ],
+          "tgtLines": [
+            3
+          ],
+          "score": 0.9481530785560608,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            4
+          ],
+          "tgtLines": [
+            4
+          ],
+          "score": 0.9403018355369568,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            5
+          ],
+          "tgtLines": [
+            5
+          ],
+          "score": 0.9387128353118896,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            6
+          ],
+          "tgtLines": [
+            6
+          ],
+          "score": 0.9269495010375977,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            7
+          ],
+          "tgtLines": [
+            7
+          ],
+          "score": 0.9569651484489441,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            8
+          ],
+          "tgtLines": [
+            10
+          ],
+          "score": 0.93708336353302,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            9
+          ],
+          "tgtLines": [
+            8
+          ],
+          "score": 0.9550837278366089,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            10
+          ],
+          "tgtLines": [
+            9
+          ],
+          "score": 0.9454306960105896,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            11
+          ],
+          "tgtLines": [
+            11
+          ],
+          "score": 0.945098340511322,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            12
+          ],
+          "tgtLines": [
+            14
+          ],
+          "score": 0.9560190439224243,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            13
+          ],
+          "tgtLines": [
+            15
+          ],
+          "score": 0.9521580338478088,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            14
+          ],
+          "tgtLines": [
+            16
+          ],
+          "score": 0.9522107243537903,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            15
+          ],
+          "tgtLines": [
+            12
+          ],
+          "score": 0.95339035987854,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            16
+          ],
+          "tgtLines": [
+            13
+          ],
+          "score": 0.9483994245529175,
+          "type": "1:1"
+        }
+      ],
+      "stats": {
+        "totalAlignments": 17,
+        "alignedCount": 17,
+        "avgScore": 0.945,
+        "types": {
+          "1:1": 17,
+          "1:N": 0,
+          "N:1": 0,
+          "N:M": 0,
+          "unmatched": 0
+        }
+      }
+    },
+    {
+      "id": "T94_T94",
+      "source": {
+        "code": "T94"
+      },
+      "target": {
+        "code": "T94"
+      },
+      "sourceText": [
+        "T94 Activities of membership organizations",
+        "This division includes activities of organisations representing interests of special groups or promoting ideas to the general public.",
+        "These organisations usually have a constituency of members, but their activities may involve and benefit non-members as well.",
+        "The primary breakdown of this division is determined by the purpose that these organisations serve, namely interests of employers, self-employed individuals and professional groups(group 941), interests of employees (group 942) or promotion of religious, political, cultural, educational or recreational ideas and activities (group 949)."
+      ],
+      "targetText": [
+        "T94 Activities of membership organisations",
+        "This division includes activities of organisations representing interests of special groups or promoting ideas to the general public.",
+        "These organisations usually have a constituency of members, but their activities may involve and benefit non-members as well.",
+        "The primary breakdown of this division is determined by the purpose that these organisations serve, namely interests of employers, self-employed individuals and professional groups (group 94.1), interests of employees (group 94.2) or the promotion of religious, political, cultural, educational or recreational ideas and activities (group 94.9)."
+      ],
+      "alignments": [
+        {
+          "srcLines": [
+            0
+          ],
+          "tgtLines": [
+            0
+          ],
+          "score": 0.968460202217102,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            1
+          ],
+          "tgtLines": [
+            1
+          ],
+          "score": 0.9285023808479309,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            2
+          ],
+          "tgtLines": [
+            2
+          ],
+          "score": 0.9309239983558655,
+          "type": "1:1"
+        },
+        {
+          "srcLines": [
+            3
+          ],
+          "tgtLines": [
+            3
+          ],
+          "score": 0.9304348826408386,
+          "type": "1:1"
+        }
+      ],
+      "stats": {
+        "totalAlignments": 4,
+        "alignedCount": 4,
+        "avgScore": 0.94,
+        "types": {
+          "1:1": 4,
+          "1:N": 0,
+          "N:1": 0,
+          "N:M": 0,
+          "unmatched": 0
+        }
+      }
+    }
+  ]
+}

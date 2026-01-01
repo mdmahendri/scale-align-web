@@ -1,0 +1,41 @@
+A0111 Growing of cereals (except rice), leguminous crops and oil seeds
+This class includes all forms of growing of cereals, leguminous crops and oil seeds in open fields, for obtaining crops or for seed production.
+The growing of these crops is often combined within agricultural units.
+This class includes:
+- growing of cereals such as:
+wheat
+grain maize
+sorghum
+barley
+rye
+oats
+millets
+Pseudocereals, fruits or seeds - used as cereals, such as
+quinoa
+amaranth
+chia
+- growing of leguminous crops such as:
+beans
+broad beans
+chick peas
+cow peas
+lentils
+lupines
+peas
+pigeon peas
+- growing of oil seeds such as:
+soya beans
+groundnuts
+castor bean
+linseed
+mustard seed
+niger seed
+rapeseed
+safflower seed
+sesame seed
+sunflower seed
+This class excludes:
+- growing of rice, see 0112
+- growing of sweet corn, see 0113
+- growing of maize, lupines, kale for fodder, see 0119
+- growing of oleaginous fruits, see 0126

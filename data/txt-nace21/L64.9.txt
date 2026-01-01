@@ -1,0 +1,4 @@
+L64.9 Other financial service activities, except insurance and pension funding
+This group includes financial service activities (except insurance and pension funding activities), other than those conducted by monetary institutions, holding companies and financing conduits, trusts, funds and similar entities.
+This group excludes:
+- insurance and pension funding activities, see division 65

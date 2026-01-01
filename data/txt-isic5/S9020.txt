@@ -1,0 +1,17 @@
+S9020 Activities of performing arts
+This class includes activities in the performing arts and related activities.
+It includes:
+- live stage productions (theatrical presentations, concerts, opera, dance and others):
+activities of performing groups, circuses or companies, orchestras or bands
+activities of performing artists, e.g. actors (including stand-up comedians), dancers, musicians (including activities of independent organists), conductors
+This class also includes:
+- activities of photo models
+- activities of influencers appearing in vlogs
+- activities of independent musicians and actors appearing in video and audiovisual content of all kinds
+- operation of arts facilities for own ensemble
+This class excludes:
+- activities of personal theatrical or artistic agents or agencies, see 7499
+- casting activities, see 7810
+- activities of bloggers not self-publishing their own created content, see 9011
+- publishing texts and photos and other contents without video by influencers or bloggers, see 5819
+- production of video and audio visual content, see 5911
