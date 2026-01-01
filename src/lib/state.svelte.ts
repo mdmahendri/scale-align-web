@@ -1,9 +1,9 @@
 import alignmentData from './data/alignments.json';
 import type { AlignmentData } from './types';
 
-// Natural sort comparator
-function naturalCompare(a: string, b: string): number {
-    return a.localeCompare(b, undefined, { numeric: true, sensitivity: 'base' });
+// Hierarchical sort comparator (lexicographical)
+function hierarchicalCompare(a: string, b: string): number {
+    return a.localeCompare(b);
 }
 
 class AppState {
@@ -25,9 +25,9 @@ class AppState {
 
         return [...items].sort((a, b) => {
             if (this.sortBy === 'source') {
-                return naturalCompare(a.source.code, b.source.code);
+                return hierarchicalCompare(a.source.code, b.source.code);
             } else {
-                return naturalCompare(a.target.code, b.target.code);
+                return hierarchicalCompare(a.target.code, b.target.code);
             }
         });
     });
