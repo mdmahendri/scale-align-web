@@ -41,6 +41,14 @@
   <main class="main-area">
     {@render children()}
   </main>
+  
+  <footer class="footer">
+    <span>Built by Mahendri Dwicahyo</span>
+    <span class="footer-divider">·</span>
+    <a href="https://github.com/mdmahendri/scale-align" target="_blank" rel="noopener">GitHub (Package)</a>
+    <span class="footer-divider">·</span>
+    <a href="https://github.com/mdmahendri/scale-align-web" target="_blank" rel="noopener">GitHub (Web)</a>
+  </footer>
 </div>
 
 <style>
@@ -122,5 +130,32 @@
   .main-area {
     flex: 1;
     overflow: hidden;
+  }
+  
+  .footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-sm) var(--spacing-lg);
+    font-size: 12px;
+    color: var(--text-muted);
+    background: var(--bg-secondary);
+    border-top: 1px solid var(--border-subtle);
+    flex-shrink: 0;
+  }
+  
+  .footer a {
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: color var(--transition);
+  }
+  
+  .footer a:hover {
+    color: var(--accent-source);
+  }
+  
+  .footer-divider {
+    opacity: 0.5;
   }
 </style>

@@ -45,6 +45,15 @@
 
 </script>
 
+<svelte:head>
+  <title>Compare ISIC {$page.params.id?.split('_')[0]} ↔ NACE {$page.params.id?.split('_')[1]} | SCALE Align</title>
+  <meta name="description" content="View the correspondence between ISIC Rev.5 code {$page.params.id?.split('_')[0]} and NACE Rev.2.1 code {$page.params.id?.split('_')[1]}. Explore semantic alignment and mapping details." />
+  <meta property="og:title" content="Compare ISIC {$page.params.id?.split('_')[0]} ↔ NACE {$page.params.id?.split('_')[1]}" />
+  <meta property="og:description" content="View the correspondence between ISIC Rev.5 and NACE Rev.2.1 classification codes." />
+  <meta property="og:url" content="https://scale-align.pages.dev/compare/{$page.params.id}/" />
+  <link rel="canonical" href="https://scale-align.pages.dev/compare/{$page.params.id}/" />
+</svelte:head>
+
 <svelte:window onkeydown={handleKeydown} />
 
 <div class="compare-layout">

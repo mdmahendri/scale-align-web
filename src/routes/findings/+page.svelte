@@ -28,6 +28,15 @@
   }
 </script>
 
+<svelte:head>
+  <title>ISIC-NACE Alignment Findings | SCALE Align</title>
+  <meta name="description" content="Review detected differences and enrichment opportunities in ISIC Rev.5 to NACE Rev.2.1 correspondence mappings." />
+  <meta property="og:title" content="ISIC-NACE Alignment Findings" />
+  <meta property="og:description" content="Review detected differences and enrichment opportunities in ISIC Rev.5 to NACE Rev.2.1 correspondence mappings." />
+  <meta property="og:url" content="https://scale-align.pages.dev/findings/" />
+  <link rel="canonical" href="https://scale-align.pages.dev/findings/" />
+</svelte:head>
+
 <div class="findings-page">
   <header class="page-header">
     <h1>Findings</h1>
